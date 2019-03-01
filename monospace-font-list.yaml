@@ -1,27 +1,41 @@
   - name: 1403 Vintage Mono
+    notes: |
+
         https://1403.slantedhall.com/
 
   - name: 3270
+    notes: |
+
         https://github.com/rbanffy/3270font
         apt-get install fonts-3270
         Popular programming font.
 
   - name: 64-SRC
+    notes: |
+
         https://www.myfonts.com/fonts/ilott-type/64-src/
 
   - name: Agave
+    notes: |
+
         https://github.com/agarick/agave
 
   - name: Ahamono Monospaced
+    notes: |
+
         https://www.behance.net/gallery/19532783/AhamonoMonospaced
         http://www.myfonts.com/fonts/hanken-designco/ahamono/
         via https://desket.co/blogs/news/50-free-fonts-for-minimalist-design
 
   - name: Amiri Typewriter
+    notes: |
+
         arabic
         https://github.com/alif-type/amiri-typewriter
 
   - name: Andalé Mono a/k/a Andale Mono
+    notes: |
+
         https://www.microsoft.com/typography/fonts/family.aspx?FID=11
         https://en.wikipedia.org/wiki/Andal%C3%A9_Mono
         Has a non-monospace sibling called Andalé Sans.
@@ -32,12 +46,18 @@
         Also sold by Monotype.
 
   - name: Angelus III
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Anka/Coder
+    notes: |
+
         https://github.com/fitojb/anka-coder-fonts
 
   - name: Anonymous Pro
+    notes: |
+
         https://www.marksimonson.com/fonts/view/anonymous-pro
         http://www.fontsquirrel.com/fonts/Anonymous-Pro
         http://www.google.com/fonts/specimen/Anonymous+Pro
@@ -47,112 +67,180 @@
         f/k/a Anonymous: http://www.fontsquirrel.com/fonts/Anonymous
 
   - name: Aperçu Mono a/k/a Apercu Mono $
+    notes: |
+
         https://www.colophon-foundry.org/typefaces/apercu/
 
   - name: APL2741
+    notes: |
+
 
   - name: APL385 Unicode
+    notes: |
+
         This is Adrian Smith's Unicode APL font, a de facto industry standard.
         http://www.dyalog.com/apl-font-keyboard.htm
         Also available in a proportional version called APL333.
         I like this font because it's quirky.
 
   - name: APLX Upright
+    notes: |
+
         Distributed with end-of-lifed APLX.
         https://www.dyalog.com/aplx.htm
         http://www.microapl.co.uk/download/aplx_unicode.ttf
 
   - name: Arial Monospaced
+    notes: |
+
         https://www.myfonts.com/fonts/mti/arial-monospaced-mt/
 
   - name: Ascender Sans Mono
+    notes: |
+
         https://www.myfonts.com/fonts/ascender/ascender-sans-mono/
 
   - name: ASM
+    notes: |
+
         https://www.myfonts.com/fonts/textaxis/asm/
 
   - name: AUdimat Mono
+    notes: |
+
         https://www.smeltery.net/fonts/audimat-mono
         https://www.fontsquirrel.com/fonts/audimat-mono
 
   - name: Aurulent Sans Mono
+    notes: |
+
         by Stephen G. Hartke
         https://www.fontsquirrel.com/fonts/aurulent-sans-mono
         https://www.dafont.com/aurulent-sans-mono.font
 
   - name: Autocode $35
+    notes: |
+
         https://www.myfonts.com/fonts/aviation/autocode/
 
   - name: Average Mono
+    notes: |
+
         see Courier
 
   - name: B612 Mono
+    notes: |
+
         http://b612-font.com/
 
   - name: Base Monospace Narrow
+    notes: |
+
   - name: Base Monospace Wide
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Bedstead
+    notes: |
+
 
   - name: Bino Mono
+    notes: |
+
 
   - name: Bitstream Pica 10 Pitch
+    notes: |
+
         http://www.myfonts.com/fonts/bitstream/pica-10-pitch/
 
   - name: Bitstream Vera Sans Mono
+    notes: |
+
         https://www.gnome.org/fonts/
         see also: DejaVu
 
   - name: Borg Sans Mono
+    notes: |
+
 
   - name: BPMono
+    notes: |
+
         https://www.fontsquirrel.com/fonts/BPmono
 
   - name: Bront
+    notes: |
+
         Programming-oriented forks of DejaVu Sans Mono and Ubuntu Mono
         https://github.com/chrismwendt/bront
 
   - name: BSU Kermit
+    notes: |
+
         ( via http://www.lowing.org/fonts/ )
 
   - name: Camingo Code
+    notes: |
+
         http://www.janfromm.de/typefaces/camingomono/camingocode/
         https://www.myfonts.com/fonts/jan-fromm/camingo-code/
 
   - name: Centima Mono
+    notes: |
+
         http://www.tipografiaramis.com/centima-mono.html
 
   - name: Century Schoolbook Monospace
+    notes: |
+
         ( via http://www.lowing.org/fonts/ )
         https://github.com/zhenruyan/codefont/tree/master/lib/centschbook-mono
 
   - name: CMU Typewriter
+    notes: |
+
         https://fontlibrary.org/en/font/cmu-typewriter
         An implementation of Computer Modern Typewriter
 
   - name: Code New Roman
+    notes: |
+
         https://sourceforge.net/projects/codenewroman/
         derived from Ubuntu Mono.
 
   - name: Coding Font Tobi
+    notes: |
+
         see: Proggy
 
   - name: Colon Mono by TipografiaRamis
+    notes: |
+
 
   - name: Concursico Mono BTN
+    notes: |
+
         https://www.myfonts.com/fonts/btn/concursico-mono-btn/
 
   - name: ConsolaMono
+    notes: |
+
         https://fontlibrary.org/en/font/consolamono
 
   - name: Consolas
+    notes: |
+
         https://www.microsoft.com/typography/fonts/family.aspx?FID=300
 
   - name: Cosmic Sans Neue Mono
+    notes: |
+
         see Fantasque Sans Mono
 
   - name: Courier
+    notes: |
+
         Courier was commissioned by IBM to become a standard
         typewriter industry font.  As such, IBM deliberately did not
         seek intellectual property protection for it; it is royalty
@@ -217,536 +305,884 @@
                 https://git.ghostscript.com/?p=urw-core35-fonts.git;a=summary
 
   - name: Cousine
+    notes: |
+
         http://openfontlibrary.org/en/font/cousine
         http://www.fontsquirrel.com/fonts/cousine
         http://www.google.com/fonts/specimen/Cousine
 
   - name: CP Mono
+    notes: |
+
 
   - name: CP1250 Terminal Fonts
+    notes: |
+
         ( via http://www.lowing.org/fonts/ )
 
   - name: Creep
+    notes: |
+
         https://github.com/romeovs/creep
 
   - name: Crisp
+    notes: |
+
         see: Proggy
 
   - name: Crystal
+    notes: |
+
         ( via http://www.lowing.org/fonts/ )
 
   - name: Cubiculum by Johan Winge
+    notes: |
+
 
   - name: Cutive Mono
+    notes: |
+
         https://fonts.google.com/specimen/Cutive+Mono
 
   - name: D2 Coding
+    notes: |
+
         KOREAN
         https://github.com/naver/d2codingfont
 
   - name: DaddyTimeMono
+    notes: |
+
 
   - name: DEC Terminal Modern
+    notes: |
+
         http://www.vtxemu.com/download.html
 
   - name: DEC VT330
+    notes: |
+
         available on HP systems and/or VMS
 
   - name: Decima Mono
+    notes: |
+
         http://www.tipografiaramis.com/decima-mono.html
         font used on fivethirtyeight.com
   - name: Decima Mono Pro
+    notes: |
+
         http://www.tipografiaramis.com/decima-mono-pro.html
   - name: Decima Mono Round
+    notes: |
+
         http://www.tipografiaramis.com/decima-mono-round.html
 
   - name: DejaVu Sans Mono
+    notes: |
+
         http://dejavu-fonts.org/wiki/Main_Page
         https://en.wikipedia.org/wiki/DejaVu_fonts
         a fork of Bitstream Vera Sans Mono
 
   - name: DF Staple Mono
+    notes: |
+
         #cute
 
   - name: Dina
+    notes: |
+
         https://www.donationcoder.com/Software/Jibz/Dina/
 
   - name: Doire
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
         https://www.myfonts.com/fonts/everson/doire/
         #unreadable
 
   - name: DPCustomMono2
+    notes: |
+
         ( via http://www.lowing.org/fonts/ )
 
   - name: Droid Sans Mono
+    notes: |
+
         http://damieng.com/blog/2007/11/14/droid-sans-mono-great-coding-font
         https://fonts.google.com/specimen/Droid+Sans+Mono
 
   - name: EB Jessica by Erik Bertell
+    notes: |
+
 
   - name: Edlo
+    notes: |
+
         https://github.com/ehamiter/Edlo
         based on Aurulent Sans
 
   - name: EF Techno Script
+    notes: |
+
 
   - name: Effects Eighty
+    notes: |
+
         https://fontlibrary.org/en/font/effects-eighty
         A dot-matrix printer homage font.
 
   - name: Efont
+    notes: |
+
         ( via http://www.lowing.org/fonts/ )
 
   - name: Envy Code R
+    notes: |
+
         http://damieng.com/blog/2007/08/19/envy-code-r-preview-6-released-with-visual-studio-italics
 
   - name: Erica Type
+    notes: |
+
         http://www.peter-wiegel.de/ErikaType.html
 
   - name: Espresso Mono
+    notes: |
+
         another fork of DejaVu Sans Mono
 
   - name: Everson Mono
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Excalibur Monospace
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Fabrikat Mono
+    notes: |
+
 
   - name: Fantasque Sans Mono
+    notes: |
+
         https://fontlibrary.org/en/font/fantasque-sans-mono
         https://github.com/belluzj/fantasque-sans
         If you like Comic Sans...
 
   - name: Feggolite Mono
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Felt Pen
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: FF Elementa $69/weight
+    notes: |
+
         http://new.myfonts.com/fonts/fontfont/ff-elementa/
         https://www.myfonts.com/fonts/fontfont/elementa-pro/
 
   - name: FF Fago Monospaced
+    notes: |
+
 
   - name: FF Magda Clean Mono
+    notes: |
+
 
   - name: FF Nexus Typewriter
+    notes: |
+
 
   - name: Fifteen
+    notes: |
+
         https://fontlibrary.org/en/font/fifteen
 
   - name: Fira Code
+    notes: |
+
         https://github.com/tonsky/FiraCode
   - name: Fira Mono
+    notes: |
+
         https://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface
         http://www.fontsquirrel.com/fonts/fira-mono
         http://www.google.com/fonts/specimen/Fira+Mono
 
   - name: Misc Fixed 6x13
+    notes: |
+
         http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/
         https://github.com/staberas/project-singularity/blob/master/%20project-singularity/Project%20Singularity%20GL/data/Misc-Fixed.ttf
 
   - name: Misc Fixed 6x13, 7x14, 9x15, 10x20
+    notes: |
+
         https://monkey.org/~marius/beautiful-fixed-width-fonts-for-osx.html
 
   - name: Fixedsys
+    notes: |
+
         http://www.moviecorner.de/en/font-fixedsys-ttf/description.html
         https://en.wikipedia.org/wiki/Fixedsys
   - name: Fixedsys Excelsior
+    notes: |
+
         http://www.fixedsysexcelsior.com/
   - name: Fixedsys Excelsior with Ligatures
+    notes: |
+
         https://github.com/kika/fixedsys
 
   - name: FreeMono / GNU FreeFont / Free UCS Outline Fonts
+    notes: |
+
         see Courier
 
   - name: Galexica Mono (novelty)
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
         http://www.identifont.com/show?9A6
 
   - name: Generic Mono
+    notes: |
+
         http://programmingfonts.org/post/107484861287/generic-mono-a-generic-monospaced-font
         http://luc.devroye.org/fonts-75172.html
 
   - name: Glass TTY VT220
+    notes: |
+
         http://svo.2.staticpublic.s3-website-us-east-1.amazonaws.com/glasstty/
         http://sensi.org/~svo/glasstty/
 
   - name: Glovis
+    notes: |
+
         https://www.myfonts.com/fonts/nonpareille/glovis/
 
   - name: GNU Freefont
+    notes: |
+
         see Courier; FreeMono; GNU FreeFont
 
   - name: GNUTypewriter
+    notes: |
+
         #distressed
         https://fontlibrary.org/en/font/gnutypewriter
 
   - name: Gohu
+    notes: |
+
         #bitmap
         http://font.gohu.org/
         TTF: https://github.com/zhenruyan/codefont/tree/master/lib/gohu/koemaeda
 
   - name: Go Mono
+    notes: |
+
         https://blog.golang.org/go-fonts
 
   - name: Greenwood Pro
+    notes: |
+
         https://www.myfonts.com/fonts/protimient/greenwood/
 
   - name: GNU Unifont
+    notes: |
+
         http://unifoundry.com/unifont.html
 
   - name: GT Pressura Mono
+    notes: |
+
 
   - name: GwdTE 437
+    notes: |
+
         ( via http://www.lowing.org/fonts/ )
 
   - name: Hack
+    notes: |
+
         https://github.com/chrissimpkins/Hack
         a fork of DejaVu Sans Mono
 
   - name: Hasklig
+    notes: |
+
         a fork of Source Code Pro with ligatures
 
   - name: Heimat Mono by Atlas Font Foundry
+    notes: |
+
 
   - name: Helvetica Monospaced
+    notes: |
+
         https://www.myfonts.com/fonts/linotype/helvetica-monospaced/
 
   - name: Hermit
+    notes: |
+
         https://pcaro.es/p/hermit/
 
   - name: Hyperfont
+    notes: |
+
         ( via http://www.lowing.org/fonts/ )
         https://en.wikipedia.org/wiki/HyperFont
 
   - name: IBM Plex Mono
+    notes: |
+
         https://ibm.github.io/type/#Intro
 
   - name: Inconsolata
+    notes: |
+
         http://levien.com/type/myfonts/inconsolata.html
   - name: Inconsolata-LGC (adds cyrillics, bold, and italic)
+    notes: |
+
         https://github.com/DeLaGuardo/Inconsolata-LGC
   - name: Inconsolata-dz
+    notes: |
+
   - name: Inconsolata-g
+    notes: |
+
         http://leonardo-m.livejournal.com/77079.html
 
   - name: Ingrid Mono by Jörg Schmitt
+    notes: |
+
 
   - name: Input Mono
+    notes: |
+
         http://input.fontbureau.com/
 
   - name: Iosevka
+    notes: |
+
   - name: Iosevka Slab
+    notes: |
+
         https://be5invis.github.io/Iosevka/
         https://github.com/be5invis/Iosevka
 
   - name: Italian Typewriter
+    notes: |
+
         #classic
         https://www.myfonts.com/fonts/flanker/italian-typewriter/
 
   - name: ITC Souvenir Monospaced
+    notes: |
+
         https://www.myfonts.com/fonts/linotype/itc-souvenir-monospaced/
         https://www.myfonts.com/fonts/itc/souvenir-monospaced/
 
   - name: JetJane Mono
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: jxyahei
+    notes: |
+
 
   - name: Karben 105 Mono by Talbot Type
+    notes: |
+
   - name: Karben 205 Mono by Talbot Type
+    notes: |
+
 
   - name: Kawkab Mono (Arabic)
+    notes: |
+
 
   - name: Klartext Mono
+    notes: |
+
         http://www.fontswithlove.com/fwl/klartext-mono-fontfamily
         https://www.fontsquirrel.com/fonts/klartext-mono
 
   - name: Larabiefont
+    notes: |
+
         http://typodermicfonts.com/larabiefont/
         http://www.larabiefonts.com/
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Latin Modern Mono
+    notes: |
+
         http://www.gust.org.pl/gust/projects/e-foundry/latin-modern
         https://www.fontsquirrel.com/fonts/latin-modern-mono
         It's Computer Modern Mono.
 
   - name: League Mono
+    notes: |
+
 
   - name: Lekton
+    notes: |
+
         http://www.fontsquirrel.com/fonts/lekton
         http://www.google.com/fonts/specimen/Lekton
 
   - name: Less Perfect DOS VGA
+    notes: |
+
         http://laemeur.sdf.org/fonts/
 
   - name: Letter Gothic
+    notes: |
+
         #classic
 
   - name: LH Mono Slab
+    notes: |
+
 
   - name: Liberation Mono
+    notes: |
+
         https://fedorahosted.org/liberation-fonts/
         https://www.fontsquirrel.com/fonts/liberation-mono
 
   - name: Linefeed $16
+    notes: |
+
         http://www.myfonts.com/fonts/typodermic/linefeed/
 
   - name: Lineto Excellent $$$
+    notes: |
+
 
   - name: Linux Console Fonts for Windows
+    notes: |
+
         http://web.archive.org/web/20110830193159/http://www.ank.com.ar/fonts/
 
   - name: Linux Libertine Mono
+    notes: |
+
         http://www.linuxlibertine.org/
         https://fontlibrary.org/en/font/linux-libertine
 
   - name: LispM
+    notes: |
+
         https://github.com/unjordy/LispM-Font
 
   - name: LTC Remington Typewriter $25/wt or $40/pro wt
+    notes: |
+
         #classic
         http://new.myfonts.com/fonts/lanston/ltc-remington-typewriter/
 
   - name: Lucida Console
+    notes: |
+
 
   - name: Lucida Typewriter
+    notes: |
+
 
   - name: Lucida Sans Typewriter
+    notes: |
+
 
   - name: Luculent
+    notes: |
+
         http://eastfarthing.com/luculent/
 
   - name: Luxi Mono
+    notes: |
+
 
   - name: M+ 1m
+    notes: |
+
         https://www.fontsquirrel.com/fonts/list/foundry/m-fonts
   - name: M+ 1mn
+    notes: |
+
 
   - name: M+ 2m
+    notes: |
+
         http://www.fontspace.com/m-fonts/m-2m
 
   - name: Maison Mono
+    notes: |
+
 
   - name: Marista
+    notes: |
+
         https://www.myfonts.com/fonts/zephyris/marista/
         inspired by classic cursive faces
         one weight is free
 
   - name: Menlo
+    notes: |
+
         a fork of DejaVu Sans Mono
 
   - name: Mensch
+    notes: |
+
         http://robey.lag.net/2010/06/21/mensch-font.html
 
   - name: Meslo
+    notes: |
+
         https://github.com/andreberg/Meslo-Font
         based on Menlo, which is based on DejaVu Sans Mono
 
   - name: Metrickal
+    notes: |
+
         https://github.com/robey/metrickal-typeface
 
   - name: Mingray Mono by Rekord
+    notes: |
+
 
   - name: Mitigate
+    notes: |
+
         https://www.myfonts.com/fonts/typodermic/mitigate/
 
   - name: Monaco
+    notes: |
+
         ftp://ftp.apple.com/developer/Tool_Chest/Core_Mac_OS_Tools/MPW_etc./Miscellaneous/MPW_Font.sit.hqx
         via http://en.wikipedia.org/wiki/Monaco_(typeface)
 
   - name: Mono Condensed by ParaType
+    notes: |
+
         https://www.myfonts.com/fonts/paratype/mono-condensed/
 
   - name: Mono Spatial
+    notes: |
+
         https://www.dafont.com/mono-spatial.font
 
   - name: Monocto
+    notes: |
+
         https://www.myfonts.com/fonts/lafonts/monocto/
 
   - name: Monoela
+    notes: |
+
 
   - name: Monofur
+    notes: |
+
         https://github.com/powerline/fonts/tree/master/Monofur
 
   - name: Monoid
+    notes: |
+
         https://larsenwork.com/monoid/
 
   - name: Mononoki
+    notes: |
+
         http://madmalik.github.io/mononoki/
         https://github.com/madmalik/mononoki
 
   - name: Monospace
+    notes: |
+
         https://en.wikipedia.org/wiki/Monospace_(typeface)
         http://www.fontspace.com/george-williams/monospace
 
   - name: Monospace 821 $
+    notes: |
+
         https://www.myfonts.com/fonts/bitstream/monospace-821/
         https://www.linotype.com/1085320/monospace-821-family.html
         https://www.fonts.com/font/bitstream/monospace-821
 
   - name: MonosapceTypewriter
+    notes: |
+
         https://www.fontsquirrel.com/fonts/MonospaceTypewriter
 
   - name: Monostep by YOKKMOKK
+    notes: |
+
 
   - name: Monotype Typewriter
+    notes: |
+
         #classic
         Regular, Elite, and Gothic
         https://www.fonts.com/font/monotype/typewriter
 
   - name: Monte Carlo
+    notes: |
+
         http://www.bok.net/MonteCarlo/
 
   - name: More Perfect DOS VGA
+    notes: |
+
         http://laemeur.sdf.org/fonts/
 
   - name: MS Mincho
+    notes: |
+
         ( via http://www.lowing.org/fonts/ )
 
   - name: MVB Fantabular
+    notes: |
+
   - name: MVB Fantabular Sans
+    notes: |
+
 
   - name: Nanum Gothic Coding (Korean)
+    notes: |
+
         original: http://dev.naver.com/projects/nanumfont/
         https://www.freekoreanfont.com/nanum-gothic-coding-free-download/
 
   - name: Native by Fort Foundry
+    notes: |
+
 
   - name: Nerd Fonts
+    notes: |
+
         https://github.com/ryanoasis/nerd-fonts
 
   - name: Nitti $
+    notes: |
+
         https://www.boldmonday.com/typeface/nitti/
 
   - name: Normafixed
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: NotCourierSans
+    notes: |
+
         https://www.fontsquirrel.com/fonts/notcouriersans
         http://openfontlibrary.org/en/font/notcouriersans
 
   - name: Noto Mono
+    notes: |
+
         apparently based on Droid Sans Mono
         https://www.google.com/get/noto/
 
   - name: Nova Mono
+    notes: |
+
         https://fonts.google.com/specimen/Nova+Mono
 
   - name: NuSans Mono
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: OCR-A
+    notes: |
+
         #classic
         https://en.wikipedia.org/wiki/OCR-A
         https://typekit.com/fonts/ocr-a
         Free version: https://osdn.net/projects/tsukurimashou/releases/56948
 
   - name: OCR-B
+    notes: |
+
         #classic
         https://typekit.com/fonts/ocr-b
         https://en.wikipedia.org/wiki/OCR-B
         Free version: https://osdn.net/projects/tsukurimashou/releases/56948
 
   - name: OCRJ by Test Pilot Collective
+    notes: |
+
 
   - name: Odisseia
+    notes: |
+
         https://www.myfonts.com/fonts/niramekko/odisseia/
 
   - name: Office Code Pro
+    notes: |
+
         https://github.com/nathco/Office-Code-Pro
 
   - name: Oloron Program
+    notes: |
+
         http://www.fontmenu.com/site/_program.html
         Kind of ugly.
         Punctuation characters are bold.
 
   - name: Onuava
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: OpenDyslexic
+    notes: |
+
 
   - name: Operator Mono $
+    notes: |
+
         http://www.typography.com/fonts/operator/overview/
 
   - name: Opti
+    notes: |
+
         see: Proggy
 
   - name: Orator
+    notes: |
+
         #classic
 
   - name: Osaka Regular-Mono
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
         (comes with macOS)
 
   - name: Overpass Mono
+    notes: |
+
         http://overpassfont.org
         https://github.com/RedHatBrand/Overpass
 
   - name: Oxygen Mono
+    notes: |
+
         http://www.fontsquirrel.com/fonts/oxygen-mono
         http://www.google.com/fonts/specimen/Oxygen+Mono
 
   - name: Panic Sans
+    notes: |
+
         https://github.com/chrissimpkins/codeface/tree/master/fonts/panic-sans
 
   - name: PCMyungjo
+    notes: |
+
 
   - name: Perfect DOS VGA 437
+    notes: |
+
         https://www.dafont.com/perfect-dos-vga-437.font
 
   - name: PF Din Mono
+    notes: |
+
         https://www.myfonts.com/fonts/parachute/pf-din-mono/
 
   - name: Bitstream Pica 10 Pitch
+    notes: |
+
         http://www.myfonts.com/fonts/bitstream/pica-10-pitch/
         ssh: https://github.com/mxstbr/alex-bennett/blob/gh-pages/assets/fonts/pica-10-pitch-bt.ttf
 
   - name: Pitch $$$
+    notes: |
+
         https://klim.co.nz/retail-fonts/pitch/
 
   - name: Pixel Carnage
+    notes: |
+
         https://proggyfonts.net/pixel-carnage/
         https://www.dafont.com/pixelcarnage.d870
         (dot matrix)
 
   - name: PixSymbols Courex
+    notes: |
+
         http://www.myfonts.com/fonts/pixymbols/courex/
 
   - name: Platelet
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Plex Mono
+    notes: |
+
         see IBM Plex Mono
 
   - name: Pointfree
+    notes: |
+
         http://www.dafont.com/pointfree.font
         If you like Comic Sans...
 
   - name: Powerline Fonts
+    notes: |
+
         https://github.com/powerline/fonts
 
   - name: PR Number 3
+    notes: |
+
   - name: Print Char 21
+    notes: |
+
         http://www.kreativekorp.com/software/fonts/apple2.shtml
 
   - name: Pragmata
+    notes: |
+
         http://www.fsd.it/fonts/pragma.htm
   - name: PragmataPro
+    notes: |
+
   - name: Essential PragmataPro
+    notes: |
+
         https://www.myfonts.com/fonts/fsd/pragmata-pro/
 
   - name: Pragmatica typeface, 1989 by Vladimir Yefimov
+    notes: |
+
 
   - name: Press Start 2P
+    notes: |
+
 
   - name: Prestige (Elite)
+    notes: |
+
         #classic
         https://en.wikipedia.org/wiki/Prestige_Elite
         http://www.myfonts.com/fonts/urw/prestige-elite/
@@ -756,6 +1192,8 @@
         ssh: https://github.com/transtone/transconfig/tree/master/fonts/en
 
   - name: Print Out
+    notes: |
+
         Shipped with the Linotron 202
         based on Excelsior
         Reconstructed in a reconstruction of the Bell Labs Vacation memo
@@ -763,69 +1201,117 @@
         http://www.cs.princeton.edu/~bwk/202/
 
   - name: Profont
+    notes: |
+
         http://tobiasjung.name/profont/
 
   - name: Proggy
+    notes: |
+
   - name: Proggy Clean
+    notes: |
+
   - name: Proggy Square
+    notes: |
+
   - name: Proggy Small
+    notes: |
+
   - name: Proggy Tiny
+    notes: |
+
         http://www.proggyfonts.net/
 
   - name: Proggy Vector
+    notes: |
+
 
   - name: PT Mono
+    notes: |
+
         http://paratype.com/public/
         http://www.fontsquirrel.com/fonts/pt-mono
         http://www.google.com/fonts/specimen/PT+Mono
 
   - name: PX Plus family
+    notes: |
+
         http://int10h.org/oldschool-pc-fonts/
 
   - name: QuickType Mono
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Quinze
+    notes: |
+
         see: Fifteen
 
   - name: Raize
+    notes: |
+
         ( via http://www.lowing.org/fonts/ )
         http://www.raize.com/devtools/tools/rzfont.asp
 
   - name: Range Mono
+    notes: |
+
         https://www.myfonts.com/fonts/griffin-moore/range-mono/
 
   - name: Rational TW
+    notes: |
+
 
   - name: Resolution
+    notes: |
+
         https://www.myfonts.com/fonts/emil-kozole/resolution/
 
   - name: RF Rostin
+    notes: |
+
         https://www.myfonts.com/fonts/russian-fonts/rf-rostin/
 
   - name: Roboto Mono
+    notes: |
+
         https://fonts.google.com/specimen/Roboto+Mono
 
   - name: Rubik Mono One
+    notes: |
+
         https://fonts.google.com/specimen/Rubik+Mono+One
 
   - name: SaxMono ("Tile")
+    notes: |
+
         https://www.fontsquirrel.com/fonts/saxMono
 
   - name: Sauna Mono Pro
+    notes: |
+
         #neato
         https://www.myfonts.com/fonts/underware/sauna-mono-pro/
 
   - name: Screenwriter's Typewriter Fonts Pro
+    notes: |
+
         http://www.vintagetype.com/screenwriters/
 
   - name: Script 12 Pitch
+    notes: |
+
         (that classic cursive typewriter font)
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: SF Mono
+    notes: |
+
         Monospaced version of San Francisco, Apple's corporate system font.
   - name: San Francisco
+    notes: |
+
         https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface)
 
         https://developer.apple.com/fonts/
@@ -838,92 +1324,148 @@
         the original Macintosh.
 
   - name: SGI Screen
+    notes: |
+
         https://bitbucket.org/tarkasteve/sgi-screen-ttf/src
         git clone git@bitbucket.org:tarkasteve/sgi-screen-ttf.git
         https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
 
   - name: Share Tech Mono
+    notes: |
+
         https://fonts.google.com/specimen/Share+Tech+Mono
 
   - name: Sheldon
+    notes: |
+
         ( via http://www.lowing.org/fonts/ )
 
   - name: SK Modernist Mono
+    notes: |
+
         http://seankanedesign.com/work/sk-modernist
 
   - name: Skurier by GRIN3 (Nowak)
+    notes: |
+
         #cute
 
   - name: Skyhook Mono
+    notes: |
+
         https://www.fontsquirrel.com/fonts/skyhook-mono
 
   - name: Small Type Writing
+    notes: |
+
         https://www.dafont.com/smalltypewriting-medium.font
         (a narrow Courier-like)
 
   - name: Smith Premier NF $10/clean $10/schmutzy
+    notes: |
+
         http://www.myfonts.com/fonts/nicksfonts/smith-premier-nf/
 
   - name: Source Code Pro
+    notes: |
+
         https://github.com/adobe-fonts/source-code-pro
 
   - name: Space Mono
+    notes: |
+
         https://fonts.google.com/specimen/Space+Mono
 
   - name: Speedy
+    notes: |
+
         see: Proggy
 
   - name: Squareshooter Mono
+    notes: |
+
         ( via http://www.lowing.org/fonts/ )
 
   - name: String Literal 437
+    notes: |
+
 
   - name: Sudo
+    notes: |
+
         https://github.com/jenskutilek/sudo-font
         https://www.kutilek.de/sudo-font/
 
   - name: SV Basic Manual
+    notes: |
+
         https://www.dafont.com/sv-basic-manual.font
         Slightly distressed line printer styled font
 
   - name: Tabular by Indian Type Foundry
+    notes: |
+
 
   - name: Tamsyn
+    notes: |
+
         http://www.fial.com/~scott/tamsyn-font/
         https://sunaku.github.io/tamsyn-1.7b-font-review.html
 
   - name: Tamzen
+    notes: |
+
         https://github.com/sunaku/tamzen-font
         based on Tamsyn
 
   - name: Teamhair
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Telegrama
+    notes: |
+
   - name: Telegrama Raw
+    notes: |
+
         https://www.fontsquirrel.com/fonts/Telegrama
         (dot-matrix homage)
 
   - name: Telegramo by Volcano Type
+    notes: |
+
 
   - name: Terminal/VGA Font
+    notes: |
+
         ( via http://www.lowing.org/fonts/ )
 
   - name: Terminus
+    notes: |
+
         http://terminus-font.sourceforge.net/
         https://files.ax86.net/terminus-ttf/
 
   - name: Tewi
+    notes: |
+
         https://github.com/lucy/tewi-font
         #bitmap
 
   - name: TeX Gyre Cursor
+    notes: |
+
         see Courier
 
   - name: TheSansTypewriter; TheSansMono; and more
+    notes: |
+
         http://www.lucasfonts.com/
 
   - name: "TI92PlusPC"
+    notes: |
+
         A
                 http://ufonts.com/fonts/ti92pluspc.html
                 https://github.com/sterpe/ti92plus
@@ -931,53 +1473,91 @@
                 https://web.archive.org/web/20040214132157/http://www.tamuk.edu/math/scott/stars/tutorial.htm
 
   - name: Tired of Courier
+    notes: |
+
         http://new.myfonts.com/fonts/ingrimayne/tiredofcourier/
 
   - name: Topaz-8
+    notes: |
+
         ( via http://www.lowing.org/fonts/ )
 
   - name: Triplicate
+    notes: |
+
         http://practicaltypography.com/triplicate.html
 
   - name: Triskweline
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Tye Paloon
+    notes: |
+
 
   - name: Typewalk Mono 1915 by Typocalypse
+    notes: |
+
 
   - name: Ubuntu Mono
+    notes: |
+
 
   - name: Unotype
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: URW Nimbus Mono
+    notes: |
+
         see Courier
 
   - name: Verily Serif Mono
+    notes: |
+
         https://www.fontsquirrel.com/fonts/verily-serif-mono
 
   - name: Vidilex
+    notes: |
+
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Vivala Code by Johannes Hoffmann
+    notes: |
+
 
   - name: VLNL TP Kurier Callig Regular
+    notes: |
+
         https://www.myfonts.com/fonts/vetteletters/vlnl-tp-kurier/callig-regular/
 
   - name: VT323
+    notes: |
+
         https://fedoraproject.org/wiki/VT323_Fonts
         https://fonts.google.com/specimen/VT323
 
   - name: VTScreenplay Remington, Oliver, etc.
+    notes: |
+
         see: Screenwriter's Typewriter Fonts Pro
 
   - name: Whois Mono
+    notes: |
+
         https://github.com/raphaelbastide/Whois-mono
 
   - name: Wire Type Mono
+    notes: |
+
 
   - name: Wudoo by Vishnu Sathyan
+    notes: |
+
 
   - name: Zolan Mono #novelty
+    notes: |
+
         http://www.myfonts.com/fonts/btn/zolan-mono-btn/
