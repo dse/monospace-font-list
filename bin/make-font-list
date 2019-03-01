@@ -1,0 +1,17 @@
+#!/usr/bin/env perl
+use warnings;
+use strict;
+
+use YAML;
+
+my $doc = YAML::Load(join('', <>));
+foreach my $font (@{$doc->{fonts}}) {
+    printf("## %s\n\n", $font->{name});
+    my $notes = $font->{notes};
+    if (defined $notes && $notes =~ m{\S}) {
+        $notes =~ s{\s+\z}{};   # chop off trailing space
+        $notes =~ s{^}{    }gm; # indent 4 spaces
+        print $notes;
+        print "\n\n";
+    }
+}
