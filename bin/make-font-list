@@ -2,16 +2,56 @@
 use warnings;
 use strict;
 
+use Sort::Naturally qw(nsort);
 use YAML;
 
 my $doc = YAML::Load(join('', <>));
 foreach my $font (@{$doc->{fonts}}) {
-    printf("## %s\n\n", $font->{name});
-    my $notes = $font->{notes};
-    if (defined $notes && $notes =~ m{\S}) {
-        $notes =~ s{\s+\z}{};   # chop off trailing space
-        $notes =~ s{^}{    }gm; # indent 4 spaces
-        print $notes;
-        print "\n\n";
+    my $name = delete $font->{name};
+    printf("## %s\n\n", $name);
+    print toMarkdown($font);
+}
+
+sub toMarkdown {
+    my ($o) = @_;
+    return unless defined $o;
+    if (ref $o eq 'ARRAY') {
+        my $result = '';
+        foreach my $value (@$o) {
+            my $r = toMarkdown($value);
+            $r =~ s{^}{    }gms;
+            substr($r, 0, 1) = '-';
+            $r =~ s{\s+\z}{}s;
+            $result .= $r . "\n\n";
+        }
+        return $result;
+    } elsif (ref $o eq 'HASH') {
+        my $result = '';
+        my @keys = nsort keys %$o;
+        foreach my $key (@keys) {
+            my $value = $o->{$key};
+            next unless defined $value && $value =~ m{\S};
+            my $r;
+            if ($key eq 'notes') {
+                $r = $value;
+                $r =~ s{^}{        }gms;
+                $r = "-   $key:\n\n" . $r;
+            } else {
+                if (!ref $value && $value !~ m{\R}) {
+                    $r = "-   $key: $value";
+                } else {
+                    $r = toMarkdown($value);
+                    $r =~ s{^}{    }gms;
+                    $r = "-   $key:\n\n" . $r;
+                }
+            }
+            $r =~ s{\s+\z}{}s;
+            $result .= $r . "\n\n";
+        }
+        return $result;
+    } else {
+        $o =~ s{\s*\z}{};
+        $o .= "\n\n";
+        return $o;
     }
 }

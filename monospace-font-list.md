@@ -1,120 +1,162 @@
 ## 1403 Vintage Mono
 
-    https://1403.slantedhall.com/
+-   url: https://1403.slantedhall.com/
 
 ## 3270
 
-    https://github.com/rbanffy/3270font
-    apt-get install fonts-3270
-    Popular programming font.
+-   debian package: fonts-3270
+
+-   tags: popular
+
+-   url: https://github.com/rbanffy/3270font
 
 ## 64-SRC
 
-    https://www.myfonts.com/fonts/ilott-type/64-src/
+-   myfonts url: https://www.myfonts.com/fonts/ilott-type/64-src/
 
 ## Agave
 
-    https://github.com/agarick/agave
+-   url: https://github.com/agarick/agave
 
 ## Ahamono Monospaced
 
-    https://www.behance.net/gallery/19532783/AhamonoMonospaced
-    http://www.myfonts.com/fonts/hanken-designco/ahamono/
-    via https://desket.co/blogs/news/50-free-fonts-for-minimalist-design
+-   myfonts url: http://www.myfonts.com/fonts/hanken-designco/ahamono/
+
+-   url: https://www.behance.net/gallery/19532783/AhamonoMonospaced
+
+-   via url: https://desket.co/blogs/news/50-free-fonts-for-minimalist-design
 
 ## Amiri Typewriter
 
-    arabic
-    https://github.com/alif-type/amiri-typewriter
+-   language/script: Arabic
 
-## Andalé Mono a/k/a Andale Mono
+-   url: https://github.com/alif-type/amiri-typewriter
 
-    https://www.microsoft.com/typography/fonts/family.aspx?FID=11
-    https://en.wikipedia.org/wiki/Andal%C3%A9_Mono
-    Has a non-monospace sibling called Andalé Sans.
-    Originally distributed with Internet Explorer 4.0 as Monotype.com; renamed Andale Mono for IE 5 and 6.
-    Included in Core fonts for the Web.
-    Bundled with macOS.
-    Sold by the Ascender Corporation with bold and italic variants supporting WGL: https://www.myfonts.com/fonts/mti/andale-mono/
-    Also sold by Monotype.
+## Andalé Mono
+
+-   also known as: Andale Mono
+
+-   myfonts url: https://www.myfonts.com/fonts/mti/andale-mono/
+
+-   notes:
+
+        Has a non-monospace sibling called Andalé Sans.
+        Originally distributed with Internet Explorer 4.0 as Monotype.com; renamed Andale Mono for IE 5 and 6.
+        Included in Core fonts for the Web.
+        Bundled with macOS.
+        Sold by the Ascender Corporation with bold and italic variants supporting WGL
+        Also sold by Monotype.
+
+-   url: https://www.microsoft.com/typography/fonts/family.aspx?FID=11
+
+-   wikipedia url: https://en.wikipedia.org/wiki/Andal%C3%A9_Mono
 
 ## Angelus III
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## Anka/Coder
 
-    https://github.com/fitojb/anka-coder-fonts
+-   url: https://github.com/fitojb/anka-coder-fonts
 
 ## Anonymous Pro
 
-    https://www.marksimonson.com/fonts/view/anonymous-pro
-    http://www.fontsquirrel.com/fonts/Anonymous-Pro
-    http://www.google.com/fonts/specimen/Anonymous+Pro
-    Alternate version Anonymous Pro Minus does not contain embedded bitmaps at smaller sizes.
-    OFL.
-    Popular programming font.
-    f/k/a Anonymous: http://www.fontsquirrel.com/fonts/Anonymous
+-   fontsquirrel url: http://www.fontsquirrel.com/fonts/Anonymous-Pro
 
-## Aperçu Mono a/k/a Apercu Mono $
+-   formerly known as: Anonymous
 
-    https://www.colophon-foundry.org/typefaces/apercu/
+-   former url: http://www.fontsquirrel.com/fonts/Anonymous
+
+-   google fonts url: http://www.google.com/fonts/specimen/Anonymous+Pro
+
+-   notes:
+
+        Alternate version Anonymous Pro Minus does not contain embedded bitmaps at smaller sizes.
+
+-   tags:
+
+    -   popular
+    
+    -   ofl
+
+-   url: https://www.marksimonson.com/fonts/view/anonymous-pro
+
+## Aperçu Mono
+
+-   also known as: Apercu Mono
+
+-   url: https://www.colophon-foundry.org/typefaces/apercu/
 
 ## APL2741
 
 ## APL385 Unicode
 
-    This is Adrian Smith's Unicode APL font, a de facto industry standard.
-    http://www.dyalog.com/apl-font-keyboard.htm
-    Also available in a proportional version called APL333.
-    I like this font because it's quirky.
+-   notes:
+
+        This is Adrian Smith's Unicode APL font, a de facto industry standard.
+        Also available in a proportional version called APL333.
+
+-   tags:
+
+    -   quirky
+
+-   url: http://www.dyalog.com/apl-font-keyboard.htm
 
 ## APLX Upright
 
-    Distributed with end-of-lifed APLX.
-    https://www.dyalog.com/aplx.htm
-    http://www.microapl.co.uk/download/aplx_unicode.ttf
+-   download url: http://www.microapl.co.uk/download/aplx_unicode.ttf
+
+-   notes:
+
+        Distributed with end-of-lifed APLX.
+
+-   url: https://www.dyalog.com/aplx.htm
 
 ## Arial Monospaced
 
-    https://www.myfonts.com/fonts/mti/arial-monospaced-mt/
+-   myfonts url: https://www.myfonts.com/fonts/mti/arial-monospaced-mt/
 
 ## Ascender Sans Mono
 
-    https://www.myfonts.com/fonts/ascender/ascender-sans-mono/
+-   myfonts url: https://www.myfonts.com/fonts/ascender/ascender-sans-mono/
 
 ## ASM
 
-    https://www.myfonts.com/fonts/textaxis/asm/
+-   myfonts url: https://www.myfonts.com/fonts/textaxis/asm/
 
 ## AUdimat Mono
 
-    https://www.smeltery.net/fonts/audimat-mono
-    https://www.fontsquirrel.com/fonts/audimat-mono
+-   fontsquirrel url: https://www.fontsquirrel.com/fonts/audimat-mono
+
+-   url: https://www.smeltery.net/fonts/audimat-mono
 
 ## Aurulent Sans Mono
 
-    by Stephen G. Hartke
-    https://www.fontsquirrel.com/fonts/aurulent-sans-mono
-    https://www.dafont.com/aurulent-sans-mono.font
+-   author: Stephen G. Hartke
 
-## Autocode $35
+-   dafont url: https://www.dafont.com/aurulent-sans-mono.font
 
-    https://www.myfonts.com/fonts/aviation/autocode/
+-   fontsquirrel url: https://www.fontsquirrel.com/fonts/aurulent-sans-mono
+
+## Autocode
+
+-   myfonts url: https://www.myfonts.com/fonts/aviation/autocode/
+
+-   price: $35
 
 ## Average Mono
 
-    see Courier
+-   clone of: Courier
 
 ## B612 Mono
 
-    http://b612-font.com/
+-   url: http://b612-font.com/
 
 ## Base Monospace Narrow
 
 ## Base Monospace Wide
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## Bedstead
 
@@ -122,284 +164,334 @@
 
 ## Bitstream Pica 10 Pitch
 
-    http://www.myfonts.com/fonts/bitstream/pica-10-pitch/
+-   myfonts url: http://www.myfonts.com/fonts/bitstream/pica-10-pitch/
 
 ## Bitstream Vera Sans Mono
 
-    https://www.gnome.org/fonts/
-    see also: DejaVu
+-   forked as: DejaVu Sans Mono
+
+-   url: https://www.gnome.org/fonts/
 
 ## Borg Sans Mono
 
 ## BPMono
 
-    https://www.fontsquirrel.com/fonts/BPmono
+-   fontsquirrel url: https://www.fontsquirrel.com/fonts/BPmono
 
 ## Bront
 
-    Programming-oriented forks of DejaVu Sans Mono and Ubuntu Mono
-    https://github.com/chrismwendt/bront
+-   notes:
+
+        Programming-oriented forks of DejaVu Sans Mono and Ubuntu Mono
+
+-   url: https://github.com/chrismwendt/bront
 
 ## BSU Kermit
 
-    ( via http://www.lowing.org/fonts/ )
+-   via url: http://www.lowing.org/fonts/
 
 ## Camingo Code
 
-    http://www.janfromm.de/typefaces/camingomono/camingocode/
-    https://www.myfonts.com/fonts/jan-fromm/camingo-code/
+-   myfonts url: https://www.myfonts.com/fonts/jan-fromm/camingo-code/
+
+-   url: http://www.janfromm.de/typefaces/camingomono/camingocode/
 
 ## Centima Mono
 
-    http://www.tipografiaramis.com/centima-mono.html
+-   url: http://www.tipografiaramis.com/centima-mono.html
 
 ## Century Schoolbook Monospace
 
-    ( via http://www.lowing.org/fonts/ )
-    https://github.com/zhenruyan/codefont/tree/master/lib/centschbook-mono
+-   url: https://github.com/zhenruyan/codefont/tree/master/lib/centschbook-mono
+
+-   via url: http://www.lowing.org/fonts/
 
 ## CMU Typewriter
 
-    https://fontlibrary.org/en/font/cmu-typewriter
-    An implementation of Computer Modern Typewriter
+-   implements: Computer Modern Typewriter
+
+-   url: https://fontlibrary.org/en/font/cmu-typewriter
 
 ## Code New Roman
 
-    https://sourceforge.net/projects/codenewroman/
-    derived from Ubuntu Mono.
+-   fork of: Ubuntu Mono
+
+-   url: https://sourceforge.net/projects/codenewroman/
 
 ## Coding Font Tobi
 
-    see: Proggy
+-   see also: Proggy
 
-## Colon Mono by TipografiaRamis
+## Colon Mono
+
+-   author: TipografiaRamis
 
 ## Concursico Mono BTN
 
-    https://www.myfonts.com/fonts/btn/concursico-mono-btn/
+-   myfonts url: https://www.myfonts.com/fonts/btn/concursico-mono-btn/
 
 ## ConsolaMono
 
-    https://fontlibrary.org/en/font/consolamono
+-   url: https://fontlibrary.org/en/font/consolamono
 
 ## Consolas
 
-    https://www.microsoft.com/typography/fonts/family.aspx?FID=300
+-   url: https://www.microsoft.com/typography/fonts/family.aspx?FID=300
 
 ## Cosmic Sans Neue Mono
 
-    see Fantasque Sans Mono
+-   see also: Fantasque Sans Mono
 
 ## Courier
 
-    Courier was commissioned by IBM to become a standard
-    typewriter industry font.  As such, IBM deliberately did not
-    seek intellectual property protection for it; it is royalty
-    free.
-    
-    Adobe Courier bitmap fonts for X11
-    
-    Microsoft Courier bitmap fonts for Windows
-    
-    by Linotype
-            square terminal version
-    
-    by Monotype
-            square terminal version
-    
-    by Adobe
-            square terminal version
-    
-    Courier SB
-            rounded terminals
-    
-    Courier 10 Pitch BT
-            a thicker rounded-terminal verison of Courier
-    
-    Courier Code
-            by Bitstream
-            http://openfontlibrary.org/en/font/courier-code
-    
-    Courier Final Draft
-    
-    Courier New
-            a rounded-terminal version
-    
-    Courier Prime
-    Courier Prime Code
-    Courier Prime Sans
-            http://quoteunquoteapps.com/courierprime/
-    
-    Courier Standard
-            distributed with Adobe Reader 6
-    
-    Average Mono
-            An "average" of Courier clones.
-            https://fontlibrary.org/en/font/average-mono
-    
-    Dark Courier
-            ftp://ftp.hp.com/pub/printers/software/lj611en.exe
-    
-    FreeMono / GNU FreeFont / Free UCS Outline Fonts
-            Courier clone basically
-            https://www.gnu.org/software/freefont/
-    
-    TeX Gyre Cursor
-            http://www.gust.org.pl/projects/e-foundry/tex-gyre/cursor/index_html
-            http://www.fontsquirrel.com/fonts/TeX-Gyre-Cursor
-            another Courier clone
-            Based on URW Nimbus Mono L
-    
-    URW Nimbus Mono
-            another Courier clone
-            https://en.wikipedia.org/wiki/Nimbus_Mono_L
-            https://git.ghostscript.com/?p=urw-core35-fonts.git;a=summary
+-   notes:
+
+        Courier was commissioned by IBM to become a standard
+        typewriter industry font.  As such, IBM deliberately did not
+        seek intellectual property protection for it; it is royalty
+        free.
+        
+        Adobe Courier bitmap fonts for X11
+        
+        Microsoft Courier bitmap fonts for Windows
+        
+        by Linotype
+                square terminal version
+        
+        by Monotype
+                square terminal version
+        
+        by Adobe
+                square terminal version
+        
+        Courier SB
+                rounded terminals
+        
+        Courier 10 Pitch BT
+                a thicker rounded-terminal verison of Courier
+        
+        Courier Code
+                by Bitstream
+                http://openfontlibrary.org/en/font/courier-code
+        
+        Courier Final Draft
+        
+        Courier New
+                a rounded-terminal version
+        
+        Courier Prime
+        Courier Prime Code
+        Courier Prime Sans
+                http://quoteunquoteapps.com/courierprime/
+        
+        Courier Standard
+                distributed with Adobe Reader 6
+        
+        Average Mono
+                An "average" of Courier clones.
+                https://fontlibrary.org/en/font/average-mono
+        
+        Dark Courier
+                ftp://ftp.hp.com/pub/printers/software/lj611en.exe
+        
+        FreeMono / GNU FreeFont / Free UCS Outline Fonts
+                Courier clone basically
+                https://www.gnu.org/software/freefont/
+        
+        TeX Gyre Cursor
+                http://www.gust.org.pl/projects/e-foundry/tex-gyre/cursor/index_html
+                http://www.fontsquirrel.com/fonts/TeX-Gyre-Cursor
+                another Courier clone
+                Based on URW Nimbus Mono L
+        
+        URW Nimbus Mono
+                another Courier clone
+                https://en.wikipedia.org/wiki/Nimbus_Mono_L
+                https://git.ghostscript.com/?p=urw-core35-fonts.git;a=summary
 
 ## Cousine
 
-    http://openfontlibrary.org/en/font/cousine
-    http://www.fontsquirrel.com/fonts/cousine
-    http://www.google.com/fonts/specimen/Cousine
+-   fontsquirrel url: http://www.fontsquirrel.com/fonts/cousine
+
+-   google fonts url: http://www.google.com/fonts/specimen/Cousine
+
+-   url: http://openfontlibrary.org/en/font/cousine
 
 ## CP Mono
 
 ## CP1250 Terminal Fonts
 
-    ( via http://www.lowing.org/fonts/ )
+-   via url: http://www.lowing.org/fonts/
 
 ## Creep
 
-    https://github.com/romeovs/creep
+-   url: https://github.com/romeovs/creep
 
 ## Crisp
 
-    see: Proggy
+-   see also: Proggy
 
 ## Crystal
 
-    ( via http://www.lowing.org/fonts/ )
+-   via url: http://www.lowing.org/fonts/
 
-## Cubiculum by Johan Winge
+## Cubiculum
+
+-   author: Johan Winge
 
 ## Cutive Mono
 
-    https://fonts.google.com/specimen/Cutive+Mono
+-   google fonts url: https://fonts.google.com/specimen/Cutive+Mono
 
 ## D2 Coding
 
-    KOREAN
-    https://github.com/naver/d2codingfont
+-   language/script: Korean
+
+-   url: https://github.com/naver/d2codingfont
 
 ## DaddyTimeMono
 
 ## DEC Terminal Modern
 
-    http://www.vtxemu.com/download.html
+-   url: http://www.vtxemu.com/download.html
 
 ## DEC VT330
 
-    available on HP systems and/or VMS
+-   notes:
+
+        available on HP systems and/or VMS
 
 ## Decima Mono
 
-    http://www.tipografiaramis.com/decima-mono.html
-    font used on fivethirtyeight.com
+-   notes:
+
+        font used on fivethirtyeight.com
+
+-   url: http://www.tipografiaramis.com/decima-mono.html
 
 ## Decima Mono Pro
 
-    http://www.tipografiaramis.com/decima-mono-pro.html
+-   url: http://www.tipografiaramis.com/decima-mono-pro.html
 
 ## Decima Mono Round
 
-    http://www.tipografiaramis.com/decima-mono-round.html
+-   url: http://www.tipografiaramis.com/decima-mono-round.html
 
 ## DejaVu Sans Mono
 
-    http://dejavu-fonts.org/wiki/Main_Page
-    https://en.wikipedia.org/wiki/DejaVu_fonts
-    a fork of Bitstream Vera Sans Mono
+-   fork of: Bitstream Vera Sans Mono
+
+-   notes:
+
+        forked in turn by numerous fonts
+
+-   url: http://dejavu-fonts.org/wiki/Main_Page
+
+-   wikipedia url: https://en.wikipedia.org/wiki/DejaVu_fonts
 
 ## DF Staple Mono
 
-    #cute
+-   tags:
+
+    -   cute
 
 ## Dina
 
-    https://www.donationcoder.com/Software/Jibz/Dina/
+-   url: https://www.donationcoder.com/Software/Jibz/Dina/
 
 ## Doire
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
-    https://www.myfonts.com/fonts/everson/doire/
-    #unreadable
+-   tags:
+
+    -   unreadable
+
+-   url: https://www.myfonts.com/fonts/everson/doire/
+
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## DPCustomMono2
 
-    ( via http://www.lowing.org/fonts/ )
+-   via url: http://www.lowing.org/fonts/
 
 ## Droid Sans Mono
 
-    http://damieng.com/blog/2007/11/14/droid-sans-mono-great-coding-font
-    https://fonts.google.com/specimen/Droid+Sans+Mono
+-   google fonts url: https://fonts.google.com/specimen/Droid+Sans+Mono
 
-## EB Jessica by Erik Bertell
+-   see also: Noto Mono
+
+-   url: http://damieng.com/blog/2007/11/14/droid-sans-mono-great-coding-font
+
+## EB Jessica
+
+-   author: Erik Bertell
 
 ## Edlo
 
-    https://github.com/ehamiter/Edlo
-    based on Aurulent Sans
+-   based on: Aurulent Sans
+
+-   url: https://github.com/ehamiter/Edlo
 
 ## EF Techno Script
 
 ## Effects Eighty
 
-    https://fontlibrary.org/en/font/effects-eighty
-    A dot-matrix printer homage font.
+-   tags:
+
+    -   dot matrix
+
+-   url: https://fontlibrary.org/en/font/effects-eighty
 
 ## Efont
 
-    ( via http://www.lowing.org/fonts/ )
+-   via url: http://www.lowing.org/fonts/
 
 ## Envy Code R
 
-    http://damieng.com/blog/2007/08/19/envy-code-r-preview-6-released-with-visual-studio-italics
+-   url: http://damieng.com/blog/2007/08/19/envy-code-r-preview-6-released-with-visual-studio-italics
 
 ## Erica Type
 
-    http://www.peter-wiegel.de/ErikaType.html
+-   url: http://www.peter-wiegel.de/ErikaType.html
 
 ## Espresso Mono
 
-    another fork of DejaVu Sans Mono
+-   fork of: DejaVu Sans Mono
 
 ## Everson Mono
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## Excalibur Monospace
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## Fabrikat Mono
 
 ## Fantasque Sans Mono
 
-    https://fontlibrary.org/en/font/fantasque-sans-mono
-    https://github.com/belluzj/fantasque-sans
-    If you like Comic Sans...
+-   github url: https://github.com/belluzj/fantasque-sans
+
+-   tags:
+
+    -   if you like Comic Sans
+
+-   url: https://fontlibrary.org/en/font/fantasque-sans-mono
 
 ## Feggolite Mono
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## Felt Pen
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## FF Elementa $69/weight
 
-    http://new.myfonts.com/fonts/fontfont/ff-elementa/
-    https://www.myfonts.com/fonts/fontfont/elementa-pro/
+-   myfonts urls:
+
+    -   http://new.myfonts.com/fonts/fontfont/ff-elementa/
+    
+    -   https://www.myfonts.com/fonts/fontfont/elementa-pro/
 
 ## FF Fago Monospaced
 
@@ -409,235 +501,301 @@
 
 ## Fifteen
 
-    https://fontlibrary.org/en/font/fifteen
+-   url: https://fontlibrary.org/en/font/fifteen
 
 ## Fira Code
 
-    https://github.com/tonsky/FiraCode
+-   url: https://github.com/tonsky/FiraCode
 
 ## Fira Mono
 
-    https://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface
-    http://www.fontsquirrel.com/fonts/fira-mono
-    http://www.google.com/fonts/specimen/Fira+Mono
+-   fontsquirrel url: http://www.fontsquirrel.com/fonts/fira-mono
+
+-   google fonts url: http://www.google.com/fonts/specimen/Fira+Mono
+
+-   url: https://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface
 
 ## Misc Fixed 6x13
 
-    http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/
-    https://github.com/staberas/project-singularity/blob/master/%20project-singularity/Project%20Singularity%20GL/data/Misc-Fixed.ttf
+-   github url: https://github.com/staberas/project-singularity/blob/master/%20project-singularity/Project%20Singularity%20GL/data/Misc-Fixed.ttf
+
+-   url: http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/
 
 ## Misc Fixed 6x13, 7x14, 9x15, 10x20
 
-    https://monkey.org/~marius/beautiful-fixed-width-fonts-for-osx.html
+-   url: https://monkey.org/~marius/beautiful-fixed-width-fonts-for-osx.html
 
 ## Fixedsys
 
-    http://www.moviecorner.de/en/font-fixedsys-ttf/description.html
-    https://en.wikipedia.org/wiki/Fixedsys
+-   url: http://www.moviecorner.de/en/font-fixedsys-ttf/description.html
+
+-   wikipedia url: https://en.wikipedia.org/wiki/Fixedsys
 
 ## Fixedsys Excelsior
 
-    http://www.fixedsysexcelsior.com/
+-   url: http://www.fixedsysexcelsior.com/
 
 ## Fixedsys Excelsior with Ligatures
 
-    https://github.com/kika/fixedsys
+-   url: https://github.com/kika/fixedsys
 
 ## FreeMono / GNU FreeFont / Free UCS Outline Fonts
 
-    see Courier
+-   see also: Courier
 
 ## Galexica Mono (novelty)
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
-    http://www.identifont.com/show?9A6
+-   tags:
+
+    -   novelty
+
+-   url: http://www.identifont.com/show?9A6
+
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## Generic Mono
 
-    http://programmingfonts.org/post/107484861287/generic-mono-a-generic-monospaced-font
-    http://luc.devroye.org/fonts-75172.html
+-   urls:
+
+    -   http://programmingfonts.org/post/107484861287/generic-mono-a-generic-monospaced-font
+    
+    -   http://luc.devroye.org/fonts-75172.html
 
 ## Glass TTY VT220
 
-    http://svo.2.staticpublic.s3-website-us-east-1.amazonaws.com/glasstty/
-    http://sensi.org/~svo/glasstty/
+-   urls:
+
+    -   http://svo.2.staticpublic.s3-website-us-east-1.amazonaws.com/glasstty/
+    
+    -   http://sensi.org/~svo/glasstty/
 
 ## Glovis
 
-    https://www.myfonts.com/fonts/nonpareille/glovis/
+-   myfonts url: https://www.myfonts.com/fonts/nonpareille/glovis/
 
 ## GNU Freefont
 
-    see Courier; FreeMono; GNU FreeFont
+-   see also: Courier; FreeMono; GNU FreeFont
 
 ## GNUTypewriter
 
-    #distressed
-    https://fontlibrary.org/en/font/gnutypewriter
+-   tags:
+
+    -   distressed
+
+-   url: https://fontlibrary.org/en/font/gnutypewriter
 
 ## Gohu
 
-    #bitmap
-    http://font.gohu.org/
-    TTF: https://github.com/zhenruyan/codefont/tree/master/lib/gohu/koemaeda
+-   tags:
+
+    -   bitmap
+
+-   ttf url: https://github.com/zhenruyan/codefont/tree/master/lib/gohu/koemaeda
+
+-   url: http://font.gohu.org/
 
 ## Go Mono
 
-    https://blog.golang.org/go-fonts
+-   url: https://blog.golang.org/go-fonts
 
 ## Greenwood Pro
 
-    https://www.myfonts.com/fonts/protimient/greenwood/
+-   myfonts url: https://www.myfonts.com/fonts/protimient/greenwood/
 
 ## GNU Unifont
 
-    http://unifoundry.com/unifont.html
+-   url: http://unifoundry.com/unifont.html
 
 ## GT Pressura Mono
 
 ## GwdTE 437
 
-    ( via http://www.lowing.org/fonts/ )
+-   via url: http://www.lowing.org/fonts/
 
 ## Hack
 
-    https://github.com/chrissimpkins/Hack
-    a fork of DejaVu Sans Mono
+-   fork of: DejaVu Sans Mono
+
+-   url: https://github.com/chrissimpkins/Hack
 
 ## Hasklig
 
-    a fork of Source Code Pro with ligatures
+-   fork of: Source Code Pro, with ligatures
 
-## Heimat Mono by Atlas Font Foundry
+## Heimat Mono
+
+-   author: Atlas Font Foundry
 
 ## Helvetica Monospaced
 
-    https://www.myfonts.com/fonts/linotype/helvetica-monospaced/
+-   myfonts url: https://www.myfonts.com/fonts/linotype/helvetica-monospaced/
 
 ## Hermit
 
-    https://pcaro.es/p/hermit/
+-   url: https://pcaro.es/p/hermit/
 
 ## Hyperfont
 
-    ( via http://www.lowing.org/fonts/ )
-    https://en.wikipedia.org/wiki/HyperFont
+-   via url: http://www.lowing.org/fonts/
+
+-   wikipedia url: https://en.wikipedia.org/wiki/HyperFont
 
 ## IBM Plex Mono
 
-    https://ibm.github.io/type/#Intro
+-   url: https://ibm.github.io/type/#Intro
 
 ## Inconsolata
 
-    http://levien.com/type/myfonts/inconsolata.html
+-   url: http://levien.com/type/myfonts/inconsolata.html
 
 ## Inconsolata-LGC (adds cyrillics, bold, and italic)
 
-    https://github.com/DeLaGuardo/Inconsolata-LGC
+-   url: https://github.com/DeLaGuardo/Inconsolata-LGC
 
 ## Inconsolata-dz
 
 ## Inconsolata-g
 
-    http://leonardo-m.livejournal.com/77079.html
+-   url: http://leonardo-m.livejournal.com/77079.html
 
-## Ingrid Mono by Jörg Schmitt
+## Ingrid Mono
+
+-   author: Jörg Schmitt
 
 ## Input Mono
 
-    http://input.fontbureau.com/
+-   url: http://input.fontbureau.com/
 
 ## Iosevka
 
+-   github url: https://github.com/be5invis/Iosevka
+
+-   url: https://be5invis.github.io/Iosevka/
+
 ## Iosevka Slab
 
-    https://be5invis.github.io/Iosevka/
-    https://github.com/be5invis/Iosevka
+-   github url: https://github.com/be5invis/Iosevka
+
+-   url: https://be5invis.github.io/Iosevka/
 
 ## Italian Typewriter
 
-    #classic
-    https://www.myfonts.com/fonts/flanker/italian-typewriter/
+-   myfonts url: https://www.myfonts.com/fonts/flanker/italian-typewriter/
+
+-   tags:
+
+    -   classic
 
 ## ITC Souvenir Monospaced
 
-    https://www.myfonts.com/fonts/linotype/itc-souvenir-monospaced/
-    https://www.myfonts.com/fonts/itc/souvenir-monospaced/
+-   myfonts urls:
+
+    -   https://www.myfonts.com/fonts/linotype/itc-souvenir-monospaced/
+    
+    -   https://www.myfonts.com/fonts/itc/souvenir-monospaced/
 
 ## JetJane Mono
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## jxyahei
 
-## Karben 105 Mono by Talbot Type
+## Karben 105 Mono
 
-## Karben 205 Mono by Talbot Type
+-   author: Talbot Type
+
+## Karben 205 Mono
+
+-   author: Talbot Type
 
 ## Kawkab Mono (Arabic)
 
 ## Klartext Mono
 
-    http://www.fontswithlove.com/fwl/klartext-mono-fontfamily
-    https://www.fontsquirrel.com/fonts/klartext-mono
+-   fontsquirrel url: https://www.fontsquirrel.com/fonts/klartext-mono
+
+-   url: http://www.fontswithlove.com/fwl/klartext-mono-fontfamily
 
 ## Larabiefont
 
-    http://typodermicfonts.com/larabiefont/
-    http://www.larabiefonts.com/
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   urls:
+
+    -   http://typodermicfonts.com/larabiefont/
+    
+    -   http://www.larabiefonts.com/
+
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## Latin Modern Mono
 
-    http://www.gust.org.pl/gust/projects/e-foundry/latin-modern
-    https://www.fontsquirrel.com/fonts/latin-modern-mono
-    It's Computer Modern Mono.
+-   fontsquirrel url: https://www.fontsquirrel.com/fonts/latin-modern-mono
+
+-   implements: Computer Modern Typewriter Text
+
+-   url: http://www.gust.org.pl/gust/projects/e-foundry/latin-modern
 
 ## League Mono
 
 ## Lekton
 
-    http://www.fontsquirrel.com/fonts/lekton
-    http://www.google.com/fonts/specimen/Lekton
+-   fontsquirrel url: http://www.fontsquirrel.com/fonts/lekton
+
+-   google fonts url: http://www.google.com/fonts/specimen/Lekton
 
 ## Less Perfect DOS VGA
 
-    http://laemeur.sdf.org/fonts/
+-   url: http://laemeur.sdf.org/fonts/
 
 ## Letter Gothic
 
-    #classic
+-   tags:
+
+    -   classic
 
 ## LH Mono Slab
 
 ## Liberation Mono
 
-    https://fedorahosted.org/liberation-fonts/
-    https://www.fontsquirrel.com/fonts/liberation-mono
+-   fontsquirrel url: https://www.fontsquirrel.com/fonts/liberation-mono
 
-## Linefeed $16
+-   url: https://fedorahosted.org/liberation-fonts/
 
-    http://www.myfonts.com/fonts/typodermic/linefeed/
+## Linefeed
 
-## Lineto Excellent $$$
+-   myfonts url: http://www.myfonts.com/fonts/typodermic/linefeed/
+
+-   price: $16
+
+## Lineto Excellent
+
+-   price: $
 
 ## Linux Console Fonts for Windows
 
-    http://web.archive.org/web/20110830193159/http://www.ank.com.ar/fonts/
+-   url: http://web.archive.org/web/20110830193159/http://www.ank.com.ar/fonts/
 
 ## Linux Libertine Mono
 
-    http://www.linuxlibertine.org/
-    https://fontlibrary.org/en/font/linux-libertine
+-   urls:
+
+    -   http://www.linuxlibertine.org/
+    
+    -   https://fontlibrary.org/en/font/linux-libertine
 
 ## LispM
 
-    https://github.com/unjordy/LispM-Font
+-   url: https://github.com/unjordy/LispM-Font
 
-## LTC Remington Typewriter $25/wt or $40/pro wt
+## LTC Remington Typewriter
 
-    #classic
-    http://new.myfonts.com/fonts/lanston/ltc-remington-typewriter/
+-   myfonts url: http://new.myfonts.com/fonts/lanston/ltc-remington-typewriter/
+
+-   price: $25/wt or $40/pro wt
+
+-   tags:
+
+    -   classic
 
 ## Lucida Console
 
@@ -647,117 +805,138 @@
 
 ## Luculent
 
-    http://eastfarthing.com/luculent/
+-   url: http://eastfarthing.com/luculent/
 
 ## Luxi Mono
 
 ## M+ 1m
 
-    https://www.fontsquirrel.com/fonts/list/foundry/m-fonts
+-   fontsquirrel url: https://www.fontsquirrel.com/fonts/list/foundry/m-fonts
 
 ## M+ 1mn
 
 ## M+ 2m
 
-    http://www.fontspace.com/m-fonts/m-2m
+-   fontspace url: http://www.fontspace.com/m-fonts/m-2m
 
 ## Maison Mono
 
 ## Marista
 
-    https://www.myfonts.com/fonts/zephyris/marista/
-    inspired by classic cursive faces
-    one weight is free
+-   notes:
+
+        inspired by classic cursive faces
+        one weight is free
+
+-   url: https://www.myfonts.com/fonts/zephyris/marista/
 
 ## Menlo
 
-    a fork of DejaVu Sans Mono
+-   fork of: DejaVu Sans Mono
 
 ## Mensch
 
-    http://robey.lag.net/2010/06/21/mensch-font.html
+-   url: http://robey.lag.net/2010/06/21/mensch-font.html
 
 ## Meslo
 
-    https://github.com/andreberg/Meslo-Font
-    based on Menlo, which is based on DejaVu Sans Mono
+-   fork of: Menlo, which is based on DejaVu Sans Mono
+
+-   url: https://github.com/andreberg/Meslo-Font
 
 ## Metrickal
 
-    https://github.com/robey/metrickal-typeface
+-   url: https://github.com/robey/metrickal-typeface
 
-## Mingray Mono by Rekord
+## Mingray Mono
+
+-   author: Rekord
 
 ## Mitigate
 
-    https://www.myfonts.com/fonts/typodermic/mitigate/
+-   myfonts url: https://www.myfonts.com/fonts/typodermic/mitigate/
 
 ## Monaco
 
-    ftp://ftp.apple.com/developer/Tool_Chest/Core_Mac_OS_Tools/MPW_etc./Miscellaneous/MPW_Font.sit.hqx
-    via http://en.wikipedia.org/wiki/Monaco_(typeface)
+-   url: ftp://ftp.apple.com/developer/Tool_Chest/Core_Mac_OS_Tools/MPW_etc./Miscellaneous/MPW_Font.sit.hqx
 
-## Mono Condensed by ParaType
+-   wikipedia url: http://en.wikipedia.org/wiki/Monaco_(typeface)
 
-    https://www.myfonts.com/fonts/paratype/mono-condensed/
+## Mono Condensed
+
+-   author: ParaType
+
+-   myfonts url: https://www.myfonts.com/fonts/paratype/mono-condensed/
 
 ## Mono Spatial
 
-    https://www.dafont.com/mono-spatial.font
+-   dafont url: https://www.dafont.com/mono-spatial.font
 
 ## Monocto
 
-    https://www.myfonts.com/fonts/lafonts/monocto/
+-   myfonts url: https://www.myfonts.com/fonts/lafonts/monocto/
 
 ## Monoela
 
 ## Monofur
 
-    https://github.com/powerline/fonts/tree/master/Monofur
+-   dafont url: https://www.dafont.com/monofur.font
 
 ## Monoid
 
-    https://larsenwork.com/monoid/
+-   url: https://larsenwork.com/monoid/
 
 ## Mononoki
 
-    http://madmalik.github.io/mononoki/
-    https://github.com/madmalik/mononoki
+-   github url: https://github.com/madmalik/mononoki
+
+-   url: http://madmalik.github.io/mononoki/
 
 ## Monospace
 
-    https://en.wikipedia.org/wiki/Monospace_(typeface)
-    http://www.fontspace.com/george-williams/monospace
+-   url: http://www.fontspace.com/george-williams/monospace
+
+-   wikipedia url: https://en.wikipedia.org/wiki/Monospace_(typeface)
 
 ## Monospace 821 $
 
-    https://www.myfonts.com/fonts/bitstream/monospace-821/
-    https://www.linotype.com/1085320/monospace-821-family.html
-    https://www.fonts.com/font/bitstream/monospace-821
+-   fonts.com url: https://www.fonts.com/font/bitstream/monospace-821
+
+-   linotype url: https://www.linotype.com/1085320/monospace-821-family.html
+
+-   myfonts url: https://www.myfonts.com/fonts/bitstream/monospace-821/
 
 ## MonosapceTypewriter
 
-    https://www.fontsquirrel.com/fonts/MonospaceTypewriter
+-   fontsquirrel url: https://www.fontsquirrel.com/fonts/MonospaceTypewriter
 
-## Monostep by YOKKMOKK
+## Monostep
+
+-   author: YOKKMOKK
 
 ## Monotype Typewriter
 
-    #classic
-    Regular, Elite, and Gothic
-    https://www.fonts.com/font/monotype/typewriter
+-   fonts.com url: https://www.fonts.com/font/monotype/typewriter
+
+-   notes:
+
+        Regular, Elite, and Gothic
+
+-   tags:
+
+    -   classic
 
 ## Monte Carlo
 
-    http://www.bok.net/MonteCarlo/
+-   url: http://www.bok.net/MonteCarlo/
 
 ## More Perfect DOS VGA
 
-    http://laemeur.sdf.org/fonts/
+-   url: http://laemeur.sdf.org/fonts/
 
 ## MS Mincho
 
-    ( via http://www.lowing.org/fonts/ )
+-   via url: http://www.lowing.org/fonts/
 
 ## MVB Fantabular
 
@@ -765,470 +944,600 @@
 
 ## Nanum Gothic Coding (Korean)
 
-    original: http://dev.naver.com/projects/nanumfont/
-    https://www.freekoreanfont.com/nanum-gothic-coding-free-download/
+-   original url: http://dev.naver.com/projects/nanumfont/
 
-## Native by Fort Foundry
+-   url: https://www.freekoreanfont.com/nanum-gothic-coding-free-download/
 
-## Nerd Fonts
+## Native
 
-    https://github.com/ryanoasis/nerd-fonts
+-   author: Fort Foundry
 
-## Nitti $
+## Nitti
 
-    https://www.boldmonday.com/typeface/nitti/
+-   price: $
+
+-   url: https://www.boldmonday.com/typeface/nitti/
 
 ## Normafixed
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## NotCourierSans
 
-    https://www.fontsquirrel.com/fonts/notcouriersans
-    http://openfontlibrary.org/en/font/notcouriersans
+-   fontsquirrel url: https://www.fontsquirrel.com/fonts/notcouriersans
+
+-   url: http://openfontlibrary.org/en/font/notcouriersans
 
 ## Noto Mono
 
-    apparently based on Droid Sans Mono
-    https://www.google.com/get/noto/
+-   based on: Droid Sans Mono
+
+-   url: https://www.google.com/get/noto/
 
 ## Nova Mono
 
-    https://fonts.google.com/specimen/Nova+Mono
+-   google fonts url: https://fonts.google.com/specimen/Nova+Mono
 
 ## NuSans Mono
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## OCR-A
 
-    #classic
-    https://en.wikipedia.org/wiki/OCR-A
-    https://typekit.com/fonts/ocr-a
-    Free version: https://osdn.net/projects/tsukurimashou/releases/56948
+-   Free version url: https://osdn.net/projects/tsukurimashou/releases/56948
+
+-   tags:
+
+    -   classic
+
+-   typekit url: https://typekit.com/fonts/ocr-a
+
+-   wikipedia url: https://en.wikipedia.org/wiki/OCR-A
 
 ## OCR-B
 
-    #classic
-    https://typekit.com/fonts/ocr-b
-    https://en.wikipedia.org/wiki/OCR-B
-    Free version: https://osdn.net/projects/tsukurimashou/releases/56948
+-   free version url: https://osdn.net/projects/tsukurimashou/releases/56948
 
-## OCRJ by Test Pilot Collective
+-   tags:
+
+    -   classic
+
+-   typekit url: https://typekit.com/fonts/ocr-b
+
+-   wikipedia url: https://en.wikipedia.org/wiki/OCR-B
+
+## OCRJ
+
+-   author: Test Pilot Collective
 
 ## Odisseia
 
-    https://www.myfonts.com/fonts/niramekko/odisseia/
+-   myfonts url: https://www.myfonts.com/fonts/niramekko/odisseia/
 
 ## Office Code Pro
 
-    https://github.com/nathco/Office-Code-Pro
+-   url: https://github.com/nathco/Office-Code-Pro
 
 ## Oloron Program
 
-    http://www.fontmenu.com/site/_program.html
-    Kind of ugly.
-    Punctuation characters are bold.
+-   notes:
+
+        Punctuation characters are bold.
+
+-   tags:
+
+    -   ugly
+
+-   url: http://www.fontmenu.com/site/_program.html
 
 ## Onuava
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## OpenDyslexic
 
 ## Operator Mono $
 
-    http://www.typography.com/fonts/operator/overview/
+-   url: http://www.typography.com/fonts/operator/overview/
 
 ## Opti
 
-    see: Proggy
+-   see also: Proggy
 
 ## Orator
 
-    #classic
+-   tags:
+
+    -   classic
 
 ## Osaka Regular-Mono
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
-    (comes with macOS)
+-   notes:
+
+        (comes with macOS)
+
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## Overpass Mono
 
-    http://overpassfont.org
-    https://github.com/RedHatBrand/Overpass
+-   github url: https://github.com/RedHatBrand/Overpass
+
+-   url: http://overpassfont.org
 
 ## Oxygen Mono
 
-    http://www.fontsquirrel.com/fonts/oxygen-mono
-    http://www.google.com/fonts/specimen/Oxygen+Mono
+-   fontsquirrel url: http://www.fontsquirrel.com/fonts/oxygen-mono
+
+-   google fonts url: http://www.google.com/fonts/specimen/Oxygen+Mono
 
 ## Panic Sans
 
-    https://github.com/chrissimpkins/codeface/tree/master/fonts/panic-sans
+-   github url: https://github.com/chrissimpkins/codeface/tree/master/fonts/panic-sans
 
 ## PCMyungjo
 
 ## Perfect DOS VGA 437
 
-    https://www.dafont.com/perfect-dos-vga-437.font
+-   dafont url: https://www.dafont.com/perfect-dos-vga-437.font
 
 ## PF Din Mono
 
-    https://www.myfonts.com/fonts/parachute/pf-din-mono/
+-   myfonts url: https://www.myfonts.com/fonts/parachute/pf-din-mono/
 
 ## Bitstream Pica 10 Pitch
 
-    http://www.myfonts.com/fonts/bitstream/pica-10-pitch/
-    ssh: https://github.com/mxstbr/alex-bennett/blob/gh-pages/assets/fonts/pica-10-pitch-bt.ttf
+-   myfonts url: http://www.myfonts.com/fonts/bitstream/pica-10-pitch/
 
-## Pitch $$$
+## Pitch
 
-    https://klim.co.nz/retail-fonts/pitch/
+-   price: $
+
+-   url: https://klim.co.nz/retail-fonts/pitch/
 
 ## Pixel Carnage
 
-    https://proggyfonts.net/pixel-carnage/
-    https://www.dafont.com/pixelcarnage.d870
-    (dot matrix)
+-   dafont url: https://www.dafont.com/pixelcarnage.d870
+
+-   tags:
+
+    -   dot matrix
+
+-   url: https://proggyfonts.net/pixel-carnage/
 
 ## PixSymbols Courex
 
-    http://www.myfonts.com/fonts/pixymbols/courex/
+-   myfonts url: http://www.myfonts.com/fonts/pixymbols/courex/
 
 ## Platelet
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## Plex Mono
 
-    see IBM Plex Mono
+-   see also: IBM Plex Mono
 
 ## Pointfree
 
-    http://www.dafont.com/pointfree.font
-    If you like Comic Sans...
+-   tags:
+
+    -   if you like Comic Sans
+
+-   url: http://www.dafont.com/pointfree.font
 
 ## Powerline Fonts
 
-    https://github.com/powerline/fonts
+-   url: https://github.com/powerline/fonts
 
 ## PR Number 3
 
+-   url: http://www.kreativekorp.com/software/fonts/apple2.shtml
+
 ## Print Char 21
 
-    http://www.kreativekorp.com/software/fonts/apple2.shtml
+-   url: http://www.kreativekorp.com/software/fonts/apple2.shtml
 
-## Pragmata
+## Pragmata and Pragmata Pro
 
-    http://www.fsd.it/fonts/pragma.htm
-
-## PragmataPro
+-   url: http://www.fsd.it/fonts/pragma.htm
 
 ## Essential PragmataPro
 
-    https://www.myfonts.com/fonts/fsd/pragmata-pro/
+-   myfonts url: https://www.myfonts.com/fonts/fsd/pragmata-pro/
 
-## Pragmatica typeface, 1989 by Vladimir Yefimov
+## Pragmatica typeface, 1989
+
+-   author: Vladimir Yefimov
 
 ## Press Start 2P
 
 ## Prestige (Elite)
 
-    #classic
-    https://en.wikipedia.org/wiki/Prestige_Elite
-    http://www.myfonts.com/fonts/urw/prestige-elite/
-            Prestige Elite from URW++ $19.95/wt 4wts
-    http://www.myfonts.com/fonts/adobe/prestige-elite/
-            Prestige Elite from Adobe $29/wt 4wts
-    ssh: https://github.com/transtone/transconfig/tree/master/fonts/en
+-   myfonts urls:
+
+    -   http://www.myfonts.com/fonts/urw/prestige-elite/
+    
+    -   http://www.myfonts.com/fonts/adobe/prestige-elite/
+
+-   price: $
+
+-   tags:
+
+    -   classic
+
+-   wikipedia url: https://en.wikipedia.org/wiki/Prestige_Elite
 
 ## Print Out
 
-    Shipped with the Linotron 202
-    based on Excelsior
-    Reconstructed in a reconstruction of the Bell Labs Vacation memo
-    http://www.cs.princeton.edu/~bwk/202/summer.reconstructed.pdf
-    http://www.cs.princeton.edu/~bwk/202/
+-   notes:
+
+        Shipped with the Linotron 202
+        based on Excelsior
+        Reconstructed in a reconstruction of the Bell Labs Vacation memo
+
+-   urls:
+
+    -   http://www.cs.princeton.edu/~bwk/202/summer.reconstructed.pdf
+    
+    -   http://www.cs.princeton.edu/~bwk/202/
 
 ## Profont
 
-    http://tobiasjung.name/profont/
+-   url: http://tobiasjung.name/profont/
 
 ## Proggy
 
+-   url: http://www.proggyfonts.net/
+
 ## Proggy Clean
+
+-   url: http://www.proggyfonts.net/
 
 ## Proggy Square
 
+-   url: http://www.proggyfonts.net/
+
 ## Proggy Small
+
+-   url: http://www.proggyfonts.net/
 
 ## Proggy Tiny
 
-    http://www.proggyfonts.net/
+-   url: http://www.proggyfonts.net/
 
 ## Proggy Vector
 
+-   url: http://www.proggyfonts.net/
+
 ## PT Mono
 
-    http://paratype.com/public/
-    http://www.fontsquirrel.com/fonts/pt-mono
-    http://www.google.com/fonts/specimen/PT+Mono
+-   fontsquirrel url: http://www.fontsquirrel.com/fonts/pt-mono
+
+-   google fonts url: http://www.google.com/fonts/specimen/PT+Mono
+
+-   url: http://paratype.com/public/
 
 ## PX Plus family
 
-    http://int10h.org/oldschool-pc-fonts/
+-   url: http://int10h.org/oldschool-pc-fonts/
 
 ## QuickType Mono
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## Quinze
 
-    see: Fifteen
+-   see also: Fifteen
 
 ## Raize
 
-    ( via http://www.lowing.org/fonts/ )
-    http://www.raize.com/devtools/tools/rzfont.asp
+-   url: http://www.raize.com/devtools/tools/rzfont.asp
+
+-   via url: http://www.lowing.org/fonts/
 
 ## Range Mono
 
-    https://www.myfonts.com/fonts/griffin-moore/range-mono/
+-   myfonts url: https://www.myfonts.com/fonts/griffin-moore/range-mono/
 
 ## Rational TW
 
 ## Resolution
 
-    https://www.myfonts.com/fonts/emil-kozole/resolution/
+-   myfonts url: https://www.myfonts.com/fonts/emil-kozole/resolution/
 
 ## RF Rostin
 
-    https://www.myfonts.com/fonts/russian-fonts/rf-rostin/
+-   myfonts url: https://www.myfonts.com/fonts/russian-fonts/rf-rostin/
 
 ## Roboto Mono
 
-    https://fonts.google.com/specimen/Roboto+Mono
+-   google fonts url: https://fonts.google.com/specimen/Roboto+Mono
 
 ## Rubik Mono One
 
-    https://fonts.google.com/specimen/Rubik+Mono+One
+-   google fonts url: https://fonts.google.com/specimen/Rubik+Mono+One
 
 ## SaxMono (\"Tile\")
 
-    https://www.fontsquirrel.com/fonts/saxMono
+-   fontsquirrel url: https://www.fontsquirrel.com/fonts/saxMono
 
 ## Sauna Mono Pro
 
-    #neato
-    https://www.myfonts.com/fonts/underware/sauna-mono-pro/
+-   myfonts url: https://www.myfonts.com/fonts/underware/sauna-mono-pro/
+
+-   tags:
+
+    -   neato
 
 ## Screenwriter's Typewriter Fonts Pro
 
-    http://www.vintagetype.com/screenwriters/
+-   tags:
+
+    -   classic
+
+-   url: http://www.vintagetype.com/screenwriters/
 
 ## Script 12 Pitch
 
-    (that classic cursive typewriter font)
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   notes:
+
+        (that classic cursive typewriter font)
+
+-   tags:
+
+    -   classic
+
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## SF Mono
 
-    Monospaced version of San Francisco, Apple's corporate system font.
+-   notes:
 
-## San Francisco
+        Monospaced version of San Francisco, Apple's corporate system
+        font.
+        
+        Licensed only for creating UI mockups.
+        
+        Comes with Terminal.app and Xcode.app for use with them.
+        
+        San Francisco is not to be confused with the decorative
+        "ransom note" bitmap typeface known as "San Francisco" that
+        was distributed with the original Macintosh.
 
-    https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface)
-    
-    https://developer.apple.com/fonts/
-    Licensed only for creating UI mockups.
-    
-    Comes with Terminal.app and Xcode.app for use with them.
-    
-    Not to be confused with the decorative "ransom note" bitmap
-    typeface known as "San Francisco" that was distributed with
-    the original Macintosh.
+-   url: https://developer.apple.com/fonts/
+
+-   wikipedia url: https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface)
 
 ## SGI Screen
 
-    https://bitbucket.org/tarkasteve/sgi-screen-ttf/src
-    git clone git@bitbucket.org:tarkasteve/sgi-screen-ttf.git
-    https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
+-   github url: https://bitbucket.org/tarkasteve/sgi-screen-ttf/src
+
+-   macos conversion url: https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
 
 ## Share Tech Mono
 
-    https://fonts.google.com/specimen/Share+Tech+Mono
+-   google fonts url: https://fonts.google.com/specimen/Share+Tech+Mono
 
 ## Sheldon
 
-    ( via http://www.lowing.org/fonts/ )
+-   via url: http://www.lowing.org/fonts/
 
 ## SK Modernist Mono
 
-    http://seankanedesign.com/work/sk-modernist
+-   url: http://seankanedesign.com/work/sk-modernist
 
-## Skurier by GRIN3 (Nowak)
+## Skurier
 
-    #cute
+-   author: GRIN3 (Nowak)
+
+-   tags:
+
+    -   cute
 
 ## Skyhook Mono
 
-    https://www.fontsquirrel.com/fonts/skyhook-mono
+-   fontsquirrel url: https://www.fontsquirrel.com/fonts/skyhook-mono
 
 ## Small Type Writing
 
-    https://www.dafont.com/smalltypewriting-medium.font
-    (a narrow Courier-like)
+-   dafont url: https://www.dafont.com/smalltypewriting-medium.font
 
-## Smith Premier NF $10/clean $10/schmutzy
+-   notes:
 
-    http://www.myfonts.com/fonts/nicksfonts/smith-premier-nf/
+        (a narrow Courier-like)
+
+-   see also: Courier
+
+## Smith Premier NF
+
+-   myfonts url: http://www.myfonts.com/fonts/nicksfonts/smith-premier-nf/
+
+-   price: $10/clean $10/schmutzy
 
 ## Source Code Pro
 
-    https://github.com/adobe-fonts/source-code-pro
+-   url: https://github.com/adobe-fonts/source-code-pro
 
 ## Space Mono
 
-    https://fonts.google.com/specimen/Space+Mono
+-   google fonts url: https://fonts.google.com/specimen/Space+Mono
 
 ## Speedy
 
-    see: Proggy
+-   see also: Proggy
 
 ## Squareshooter Mono
 
-    ( via http://www.lowing.org/fonts/ )
+-   via url: http://www.lowing.org/fonts/
 
 ## String Literal 437
 
 ## Sudo
 
-    https://github.com/jenskutilek/sudo-font
-    https://www.kutilek.de/sudo-font/
+-   github url: https://github.com/jenskutilek/sudo-font
+
+-   url: https://www.kutilek.de/sudo-font/
 
 ## SV Basic Manual
 
-    https://www.dafont.com/sv-basic-manual.font
-    Slightly distressed line printer styled font
+-   tags:
 
-## Tabular by Indian Type Foundry
+    -   mildly distressed
+    
+    -   line printer
+
+-   url: https://www.dafont.com/sv-basic-manual.font
+
+## Tabular
+
+-   author: Indian Type Foundry
 
 ## Tamsyn
 
-    http://www.fial.com/~scott/tamsyn-font/
-    https://sunaku.github.io/tamsyn-1.7b-font-review.html
+-   urls:
+
+    -   http://www.fial.com/~scott/tamsyn-font/
+    
+    -   https://sunaku.github.io/tamsyn-1.7b-font-review.html
 
 ## Tamzen
 
-    https://github.com/sunaku/tamzen-font
-    based on Tamsyn
+-   based on: tamsyn
+
+-   url: https://github.com/sunaku/tamzen-font
 
 ## Teamhair
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## Telegrama
 
 ## Telegrama Raw
 
-    https://www.fontsquirrel.com/fonts/Telegrama
-    (dot-matrix homage)
+-   fontsquirrel url: https://www.fontsquirrel.com/fonts/Telegrama
 
-## Telegramo by Volcano Type
+-   tags:
+
+    -   dot matrix
+
+## Telegramo
+
+-   author: Volcano Type
 
 ## Terminal/VGA Font
 
-    ( via http://www.lowing.org/fonts/ )
+-   via url: http://www.lowing.org/fonts/
 
 ## Terminus
 
-    http://terminus-font.sourceforge.net/
-    https://files.ax86.net/terminus-ttf/
+-   ttf conversion url: https://files.ax86.net/terminus-ttf/
+
+-   url: http://terminus-font.sourceforge.net/
 
 ## Tewi
 
-    https://github.com/lucy/tewi-font
-    #bitmap
+-   tags:
+
+    -   bitmap
+
+-   url: https://github.com/lucy/tewi-font
 
 ## TeX Gyre Cursor
 
-    see Courier
+-   see also: Courier
 
-## TheSansTypewriter; TheSansMono; and more
+## TheSansTypewriter; TheSansMono; etc.
 
-    http://www.lucasfonts.com/
+-   url: http://www.lucasfonts.com/
 
 ## TI92PlusPC
 
-    A
-            http://ufonts.com/fonts/ti92pluspc.html
-            https://github.com/sterpe/ti92plus
-    B
-            https://web.archive.org/web/20040214132157/http://www.tamuk.edu/math/scott/stars/tutorial.htm
+-   urls:
+
+    -   http://ufonts.com/fonts/ti92pluspc.html
+    
+    -   https://github.com/sterpe/ti92plus
+    
+    -   https://web.archive.org/web/20040214132157/http://www.tamuk.edu/math/scott/stars/tutorial.htm
 
 ## Tired of Courier
 
-    http://new.myfonts.com/fonts/ingrimayne/tiredofcourier/
+-   myfonts url: http://new.myfonts.com/fonts/ingrimayne/tiredofcourier/
 
 ## Topaz-8
 
-    ( via http://www.lowing.org/fonts/ )
+-   via url: http://www.lowing.org/fonts/
 
 ## Triplicate
 
-    http://practicaltypography.com/triplicate.html
+-   see also: Prestige
+
+-   url: http://practicaltypography.com/triplicate.html
 
 ## Triskweline
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## Tye Paloon
 
-## Typewalk Mono 1915 by Typocalypse
+## Typewalk Mono 1915
+
+-   author: Typocalypse
 
 ## Ubuntu Mono
 
 ## Unotype
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## URW Nimbus Mono
 
-    see Courier
+-   see also: Courier
 
 ## Verily Serif Mono
 
-    https://www.fontsquirrel.com/fonts/verily-serif-mono
+-   fontsquirrel url: https://www.fontsquirrel.com/fonts/verily-serif-mono
 
 ## Vidilex
 
-    ( via http://www.cfcl.com/vlb/h/fontmono.html )
+-   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
-## Vivala Code by Johannes Hoffmann
+## Vivala Code
+
+-   author: Johannes Hoffmann
 
 ## VLNL TP Kurier Callig Regular
 
-    https://www.myfonts.com/fonts/vetteletters/vlnl-tp-kurier/callig-regular/
+-   myfonts url: https://www.myfonts.com/fonts/vetteletters/vlnl-tp-kurier/callig-regular/
 
 ## VT323
 
-    https://fedoraproject.org/wiki/VT323_Fonts
-    https://fonts.google.com/specimen/VT323
+-   google fonts url: https://fonts.google.com/specimen/VT323
+
+-   url: https://fedoraproject.org/wiki/VT323_Fonts
 
 ## VTScreenplay Remington, Oliver, etc.
 
-    see: Screenwriter's Typewriter Fonts Pro
+-   see also: Screenwriter's Typewriter Fonts Pro
+
+-   tags:
+
+    -   classic
 
 ## Whois Mono
 
-    https://github.com/raphaelbastide/Whois-mono
+-   url: https://github.com/raphaelbastide/Whois-mono
 
 ## Wire Type Mono
 
-## Wudoo by Vishnu Sathyan
+## Wudoo
 
-## Zolan Mono #novelty
+-   author: Vishnu Sathyan
 
-    http://www.myfonts.com/fonts/btn/zolan-mono-btn/
+## Zolan Mono
+
+-   myfonts url: http://www.myfonts.com/fonts/btn/zolan-mono-btn/
+
+-   tags:
+
+    -   novelty
 
