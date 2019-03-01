@@ -61,7 +61,6 @@
         https://www.colophon-foundry.org/typefaces/apercu/
 
   - name: APL2741
-    notes: |
 
   - name: APL385 Unicode
     notes: |
@@ -112,17 +111,14 @@
         http://b612-font.com/
 
   - name: Base Monospace Narrow
-    notes: |
 
   - name: Base Monospace Wide
     notes: |
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Bedstead
-    notes: |
 
   - name: Bino Mono
-    notes: |
 
   - name: Bitstream Pica 10 Pitch
     notes: |
@@ -134,7 +130,6 @@
         see also: DejaVu
 
   - name: Borg Sans Mono
-    notes: |
 
   - name: BPMono
     notes: |
@@ -178,7 +173,6 @@
         see: Proggy
 
   - name: Colon Mono by TipografiaRamis
-    notes: |
 
   - name: Concursico Mono BTN
     notes: |
@@ -268,7 +262,6 @@
         http://www.google.com/fonts/specimen/Cousine
 
   - name: CP Mono
-    notes: |
 
   - name: CP1250 Terminal Fonts
     notes: |
@@ -287,7 +280,6 @@
         ( via http://www.lowing.org/fonts/ )
 
   - name: Cubiculum by Johan Winge
-    notes: |
 
   - name: Cutive Mono
     notes: |
@@ -299,7 +291,6 @@
         https://github.com/naver/d2codingfont
 
   - name: DaddyTimeMono
-    notes: |
 
   - name: DEC Terminal Modern
     notes: |
@@ -350,7 +341,6 @@
         https://fonts.google.com/specimen/Droid+Sans+Mono
 
   - name: EB Jessica by Erik Bertell
-    notes: |
 
   - name: Edlo
     notes: |
@@ -358,7 +348,6 @@
         based on Aurulent Sans
 
   - name: EF Techno Script
-    notes: |
 
   - name: Effects Eighty
     notes: |
@@ -390,7 +379,6 @@
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Fabrikat Mono
-    notes: |
 
   - name: Fantasque Sans Mono
     notes: |
@@ -412,13 +400,10 @@
         https://www.myfonts.com/fonts/fontfont/elementa-pro/
 
   - name: FF Fago Monospaced
-    notes: |
 
   - name: FF Magda Clean Mono
-    notes: |
 
   - name: FF Nexus Typewriter
-    notes: |
 
   - name: Fifteen
     notes: |
@@ -504,7 +489,6 @@
         http://unifoundry.com/unifont.html
 
   - name: GT Pressura Mono
-    notes: |
 
   - name: GwdTE 437
     notes: |
@@ -520,7 +504,6 @@
         a fork of Source Code Pro with ligatures
 
   - name: Heimat Mono by Atlas Font Foundry
-    notes: |
 
   - name: Helvetica Monospaced
     notes: |
@@ -546,21 +529,18 @@
     notes: |
         https://github.com/DeLaGuardo/Inconsolata-LGC
   - name: Inconsolata-dz
-    notes: |
 
   - name: Inconsolata-g
     notes: |
         http://leonardo-m.livejournal.com/77079.html
 
   - name: Ingrid Mono by Jörg Schmitt
-    notes: |
 
   - name: Input Mono
     notes: |
         http://input.fontbureau.com/
 
   - name: Iosevka
-    notes: |
 
   - name: Iosevka Slab
     notes: |
@@ -582,16 +562,12 @@
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: jxyahei
-    notes: |
 
   - name: Karben 105 Mono by Talbot Type
-    notes: |
 
   - name: Karben 205 Mono by Talbot Type
-    notes: |
 
   - name: Kawkab Mono (Arabic)
-    notes: |
 
   - name: Klartext Mono
     notes: |
@@ -611,7 +587,6 @@
         It's Computer Modern Mono.
 
   - name: League Mono
-    notes: |
 
   - name: Lekton
     notes: |
@@ -627,7 +602,6 @@
         #classic
 
   - name: LH Mono Slab
-    notes: |
 
   - name: Liberation Mono
     notes: |
@@ -639,7 +613,6 @@
         http://www.myfonts.com/fonts/typodermic/linefeed/
 
   - name: Lineto Excellent $$$
-    notes: |
 
   - name: Linux Console Fonts for Windows
     notes: |
@@ -660,33 +633,27 @@
         http://new.myfonts.com/fonts/lanston/ltc-remington-typewriter/
 
   - name: Lucida Console
-    notes: |
 
   - name: Lucida Typewriter
-    notes: |
 
   - name: Lucida Sans Typewriter
-    notes: |
 
   - name: Luculent
     notes: |
         http://eastfarthing.com/luculent/
 
   - name: Luxi Mono
-    notes: |
 
   - name: M+ 1m
     notes: |
         https://www.fontsquirrel.com/fonts/list/foundry/m-fonts
   - name: M+ 1mn
-    notes: |
 
   - name: M+ 2m
     notes: |
         http://www.fontspace.com/m-fonts/m-2m
 
   - name: Maison Mono
-    notes: |
 
   - name: Marista
     notes: |
@@ -712,7 +679,6 @@
         https://github.com/robey/metrickal-typeface
 
   - name: Mingray Mono by Rekord
-    notes: |
 
   - name: Mitigate
     notes: |
@@ -736,7 +702,6 @@
         https://www.myfonts.com/fonts/lafonts/monocto/
 
   - name: Monoela
-    notes: |
 
   - name: Monofur
     notes: |
@@ -767,7 +732,6 @@
         https://www.fontsquirrel.com/fonts/MonospaceTypewriter
 
   - name: Monostep by YOKKMOKK
-    notes: |
 
   - name: Monotype Typewriter
     notes: |
@@ -788,10 +752,8 @@
         ( via http://www.lowing.org/fonts/ )
 
   - name: MVB Fantabular
-    notes: |
 
   - name: MVB Fantabular Sans
-    notes: |
 
   - name: Nanum Gothic Coding (Korean)
     notes: |
@@ -799,7 +761,6 @@
         https://www.freekoreanfont.com/nanum-gothic-coding-free-download/
 
   - name: Native by Fort Foundry
-    notes: |
 
   - name: Nerd Fonts
     notes: |
@@ -846,7 +807,6 @@
         Free version: https://osdn.net/projects/tsukurimashou/releases/56948
 
   - name: OCRJ by Test Pilot Collective
-    notes: |
 
   - name: Odisseia
     notes: |
@@ -867,7 +827,6 @@
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: OpenDyslexic
-    notes: |
 
   - name: Operator Mono $
     notes: |
@@ -901,7 +860,6 @@
         https://github.com/chrissimpkins/codeface/tree/master/fonts/panic-sans
 
   - name: PCMyungjo
-    notes: |
 
   - name: Perfect DOS VGA 437
     notes: |
@@ -948,7 +906,6 @@
         https://github.com/powerline/fonts
 
   - name: PR Number 3
-    notes: |
 
   - name: Print Char 21
     notes: |
@@ -958,17 +915,14 @@
     notes: |
         http://www.fsd.it/fonts/pragma.htm
   - name: PragmataPro
-    notes: |
 
   - name: Essential PragmataPro
     notes: |
         https://www.myfonts.com/fonts/fsd/pragmata-pro/
 
   - name: Pragmatica typeface, 1989 by Vladimir Yefimov
-    notes: |
 
   - name: Press Start 2P
-    notes: |
 
   - name: Prestige (Elite)
     notes: |
@@ -993,23 +947,18 @@
         http://tobiasjung.name/profont/
 
   - name: Proggy
-    notes: |
 
   - name: Proggy Clean
-    notes: |
 
   - name: Proggy Square
-    notes: |
 
   - name: Proggy Small
-    notes: |
 
   - name: Proggy Tiny
     notes: |
         http://www.proggyfonts.net/
 
   - name: Proggy Vector
-    notes: |
 
   - name: PT Mono
     notes: |
@@ -1039,7 +988,6 @@
         https://www.myfonts.com/fonts/griffin-moore/range-mono/
 
   - name: Rational TW
-    notes: |
 
   - name: Resolution
     notes: |
@@ -1143,7 +1091,6 @@
         ( via http://www.lowing.org/fonts/ )
 
   - name: String Literal 437
-    notes: |
 
   - name: Sudo
     notes: |
@@ -1156,7 +1103,6 @@
         Slightly distressed line printer styled font
 
   - name: Tabular by Indian Type Foundry
-    notes: |
 
   - name: Tamsyn
     notes: |
@@ -1173,7 +1119,6 @@
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Telegrama
-    notes: |
 
   - name: Telegrama Raw
     notes: |
@@ -1181,7 +1126,6 @@
         (dot-matrix homage)
 
   - name: Telegramo by Volcano Type
-    notes: |
 
   - name: Terminal/VGA Font
     notes: |
@@ -1230,13 +1174,10 @@
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Tye Paloon
-    notes: |
 
   - name: Typewalk Mono 1915 by Typocalypse
-    notes: |
 
   - name: Ubuntu Mono
-    notes: |
 
   - name: Unotype
     notes: |
@@ -1255,7 +1196,6 @@
         ( via http://www.cfcl.com/vlb/h/fontmono.html )
 
   - name: Vivala Code by Johannes Hoffmann
-    notes: |
 
   - name: VLNL TP Kurier Callig Regular
     notes: |
@@ -1275,10 +1215,8 @@
         https://github.com/raphaelbastide/Whois-mono
 
   - name: Wire Type Mono
-    notes: |
 
   - name: Wudoo by Vishnu Sathyan
-    notes: |
 
   - name: Zolan Mono #novelty
     notes: |
