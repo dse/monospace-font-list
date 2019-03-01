@@ -8,7 +8,12 @@ use YAML;
 my $doc = YAML::Load(join('', <>));
 foreach my $font (@{$doc->{fonts}}) {
     my $name = delete $font->{name};
-    printf("## %s\n\n", $name);
+    my $url = delete $font->{url};
+    if (defined $url) {
+        printf("## [%s](%s)\n\n", $name, $url);
+    } else {
+        printf("## %s\n\n", $name);
+    }
     print toMarkdown($font);
 }
 
