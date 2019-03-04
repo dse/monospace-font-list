@@ -83,3 +83,5 @@ Not much love except in r/fonts though.
 -   [Olympia Typewriter Typeface Catalog](http://machinesoflovinggrace.com/manuals/OlympiaTypefaces.pdf)
 
 -   [100 Typewriter Typefaces Compared](http://xoverit.blogspot.com/2014/03/100-typewriter-typefaces-compared.html)
+
+-   Lots of entries in the [Typewriter Database](https://typewriterdatabase.com/) include specimens.
