@@ -80,6 +80,10 @@ Not much love except in r/fonts though.
 
 ## Old Typewriter Typefaces
 
+I'm listing this as a separate section, as there are many minor
+variations among vintage typewriter typefaces that have not been yet
+computerized.
+
 -   [Olympia Typewriter Typeface Catalog](http://machinesoflovinggrace.com/manuals/OlympiaTypefaces.pdf)
 
 -   [100 Typewriter Typefaces Compared](http://xoverit.blogspot.com/2014/03/100-typewriter-typefaces-compared.html)
