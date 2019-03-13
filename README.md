@@ -40,6 +40,9 @@ If there are important characters, such as spaces or punctuation, that
 are *not* the same width as other characters, I am likely to not
 include it, or to include it in this list with a caveat.
 
+Also I may or may not list all the grungy/rough/distressed fonts I can
+find.
+
 ---
 
 ---
@@ -89,3 +92,8 @@ computerized.
 -   [100 Typewriter Typefaces Compared](http://xoverit.blogspot.com/2014/03/100-typewriter-typefaces-compared.html)
 
 -   Lots of entries in the [Typewriter Database](https://typewriterdatabase.com/) include specimens.
+
+-   [pp. 519–532](https://archive.org/details/1923AmericanTypeFoundersSpecimenBookCatalogue/page/n539) of the [1923 American Type Founders Specimen Book & Catalogue](https://archive.org/details/1923AmericanTypeFoundersSpecimenBookCatalogue)
+    ([higher resolution](https://archive.org/stream/1923AmericanTypeFoundersSpecimenBookCatalogue-Hi-resolution/1923ATFSpecimenBook_pt2#page/n217/mode/2up))
+
+-   [pp. 582–584](https://archive.org/details/specimensoftypeb00amer/page/582) of the [ATF's 1897 Handy Specimen Book](https://archive.org/details/specimensoftypeb00amer)
