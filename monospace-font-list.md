@@ -184,7 +184,7 @@
 
 -   see also: Proggy
 
-## Colon Mono
+## [Colón Mono](http://www.youworkforthem.com/font/T4920/colon-mono)
 
 -   author: TipografiaRamis
 
@@ -365,7 +365,7 @@
 
 -   based on: Aurulent Sans
 
-## EF Techno Script
+## [EF Techno Script](https://www.myfonts.com/fonts/ef/techno-script-ef/)
 
 ## [Effects Eighty](https://fontlibrary.org/en/font/effects-eighty)
 
@@ -424,6 +424,12 @@
 ## FF Magda Clean Mono
 
 ## FF Nexus Typewriter
+
+## FF Trixie
+
+-   notes:
+
+        One of the oldest and most popular "grunge" typewriter typefaces.
 
 ## [Fifteen](https://fontlibrary.org/en/font/fifteen)
 
@@ -554,6 +560,8 @@
 -   author: Jörg Schmitt
 
 ## [Input Mono](http://input.fontbureau.com/)
+
+## [Intimo Two](https://www.myfonts.com/fonts/fw-alias/intimo/two/)
 
 ## [Iosevka](https://be5invis.github.io/Iosevka/)
 
@@ -1256,6 +1264,15 @@
 ## Triskweline
 
 -   via url: http://www.cfcl.com/vlb/h/fontmono.html
+
+## Triumph Durabel
+
+-   notes:
+
+        According to [1], this is the font that the popular "grungy"
+        typewriter font FF Trixie is based on.
+        
+        [1] https://www.creativebloq.com/typography/best-typewriter-fonts-10135084
 
 ## Tye Paloon
 
