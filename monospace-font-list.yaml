@@ -156,8 +156,9 @@ fonts:
   - name: Coding Font Tobi
     see also: Proggy
 
-  - name: Colon Mono
+  - name: Colón Mono
     author: TipografiaRamis
+    url: http://www.youworkforthem.com/font/T4920/colon-mono
 
   - name: Concursico Mono BTN
     myfonts url: https://www.myfonts.com/fonts/btn/concursico-mono-btn/
@@ -321,6 +322,7 @@ fonts:
     based on: Aurulent Sans
 
   - name: EF Techno Script
+    url: https://www.myfonts.com/fonts/ef/techno-script-ef/
 
   - name: Effects Eighty
     url: https://fontlibrary.org/en/font/effects-eighty
@@ -369,6 +371,10 @@ fonts:
   - name: FF Magda Clean Mono
 
   - name: FF Nexus Typewriter
+
+  - name: FF Trixie
+    notes: |
+      One of the oldest and most popular "grunge" typewriter typefaces.
 
   - name: Fifteen
     url: https://fontlibrary.org/en/font/fifteen
@@ -490,6 +496,9 @@ fonts:
 
   - name: Input Mono
     url: http://input.fontbureau.com/
+
+  - name: Intimo Two
+    url: https://www.myfonts.com/fonts/fw-alias/intimo/two/
 
   - name: Iosevka
     url: https://be5invis.github.io/Iosevka/
@@ -1059,6 +1068,13 @@ fonts:
 
   - name: Triskweline
     via url: http://www.cfcl.com/vlb/h/fontmono.html
+
+  - name: Triumph Durabel
+    notes: |
+      According to [1], this is the font that the popular "grungy"
+      typewriter font FF Trixie is based on.
+
+      [1] https://www.creativebloq.com/typography/best-typewriter-fonts-10135084
 
   - name: Tye Paloon
 
