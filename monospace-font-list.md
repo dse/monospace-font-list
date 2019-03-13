@@ -75,7 +75,7 @@
 
 -   notes:
 
-        This is Adrian Smith's Unicode APL font, a de facto industry standard.
+        This is Adrian Smith''s Unicode APL font, a de facto industry standard.
         Also available in a proportional version called APL333.
 
 -   tags:
@@ -133,6 +133,8 @@
 -   via url: http://www.cfcl.com/vlb/h/fontmono.html
 
 ## Bedstead
+
+## [BigBlue Terminal](https://int10h.org/blog/2015/12/bigblue-terminal-oldschool-fixed-width-font/)
 
 ## Bino Mono
 
@@ -446,6 +448,8 @@
 ## [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/)
 
 ## [Fixedsys Excelsior with Ligatures](https://github.com/kika/fixedsys)
+
+## [Flexi IBM VGA](https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/)
 
 ## FreeMono / GNU FreeFont / Free UCS Outline Fonts
 
@@ -864,6 +868,8 @@
 
     -   ugly
 
+## [Olympiad](https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/)
+
 ## Onuava
 
 -   via url: http://www.cfcl.com/vlb/h/fontmono.html
@@ -1016,7 +1022,7 @@
 
 -   google fonts url: http://www.google.com/fonts/specimen/PT+Mono
 
-## [PX Plus family](http://int10h.org/oldschool-pc-fonts/)
+## [The Ultimate Oldschool PC Font Pack (PX Plus family)](http://int10h.org/oldschool-pc-fonts/)
 
 ## QuickType Mono
 
@@ -1086,7 +1092,7 @@
 
 -   notes:
 
-        Monospaced version of San Francisco, Apple's corporate system
+        Monospaced version of San Francisco, Apple''s corporate system
         font.
         
         Licensed only for creating UI mockups.
