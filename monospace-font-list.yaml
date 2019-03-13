@@ -65,7 +65,7 @@ fonts:
     tags:
       - quirky
     notes: |
-        This is Adrian Smith's Unicode APL font, a de facto industry standard.
+        This is Adrian Smith''s Unicode APL font, a de facto industry standard.
         Also available in a proportional version called APL333.
 
   - name: APLX Upright
@@ -907,7 +907,7 @@ fonts:
     tags:
       - neato
 
-  - name: Screenwriter's Typewriter Fonts Pro
+  - name: "Screenwriter's Typewriter Fonts Pro"
     url: http://www.vintagetype.com/screenwriters/
     tags:
       - classic
@@ -923,7 +923,7 @@ fonts:
     url: https://developer.apple.com/fonts/
     wikipedia url: https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface)
     notes: |
-        Monospaced version of San Francisco, Apple's corporate system
+        Monospaced version of San Francisco, Apple''s corporate system
         font.
 
         Licensed only for creating UI mockups.
@@ -1081,7 +1081,7 @@ fonts:
     google fonts url: https://fonts.google.com/specimen/VT323
 
   - name: VTScreenplay Remington, Oliver, etc.
-    see also: Screenwriter's Typewriter Fonts Pro
+    see also: "Screenwriter's Typewriter Fonts Pro"
     tags:
       - classic
 
