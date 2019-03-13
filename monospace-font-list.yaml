@@ -109,6 +109,9 @@ fonts:
 
   - name: Bedstead
 
+  - name: BigBlue Terminal
+    url: https://int10h.org/blog/2015/12/bigblue-terminal-oldschool-fixed-width-font/
+
   - name: Bino Mono
 
   - name: Bitstream Pica 10 Pitch
@@ -394,6 +397,9 @@ fonts:
 
   - name: Fixedsys Excelsior with Ligatures
     url: https://github.com/kika/fixedsys
+
+  - name: Flexi IBM VGA
+    url: https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/
 
   - name: FreeMono / GNU FreeFont / Free UCS Outline Fonts
     see also: Courier
@@ -739,6 +745,9 @@ fonts:
     notes: |
         Punctuation characters are bold.
 
+  - name: Olympiad
+    url: https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/
+
   - name: Onuava
     via url: http://www.cfcl.com/vlb/h/fontmono.html
 
@@ -869,7 +878,7 @@ fonts:
     fontsquirrel url: http://www.fontsquirrel.com/fonts/pt-mono
     google fonts url: http://www.google.com/fonts/specimen/PT+Mono
 
-  - name: PX Plus family
+  - name: The Ultimate Oldschool PC Font Pack (PX Plus family)
     url: http://int10h.org/oldschool-pc-fonts/
 
   - name: QuickType Mono
