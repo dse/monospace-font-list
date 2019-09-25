@@ -464,6 +464,10 @@ fonts:
   - name: Hasklig
     fork of: Source Code Pro, with ligatures
 
+  - name: Haskplex
+    based on: Hasklig and IBM Plex Mono.  It's just Hasklig regular and IBM Plex Mono italic.
+    github url: https://github.com/huytd/haskplex-font
+
   - name: Heimat Mono
     author: Atlas Font Foundry
 
