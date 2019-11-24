@@ -4,11 +4,51 @@ use strict;
 
 use Sort::Naturally qw(nsort);
 use YAML;
+use URI;
 
 my $doc = YAML::Load(join('', <>));
 foreach my $font (@{$doc->{fonts}}) {
     my $name = delete $font->{name};
-    my $url = delete $font->{url};
+    my $urls = delete $font->{url};
+
+    if (!$urls) {
+        $urls = [];
+    } elsif (ref $urls ne 'ARRAY') {
+        $urls = [$urls];
+    }
+    foreach my $urlh (@$urls) {
+        if (ref $urlh ne 'HASH') {
+            $urlh = { url => $urlh };
+        }
+    }
+    my $index = 0;
+    foreach my $urlh (@$urls) {
+        $urlh->{index} = ($index += 1);
+        my $type = $urlh->{type};
+        if (defined $type && $type eq 'official') {
+            $urlh->{priority} = 2;
+        } elsif (defined $type && $type eq 'via') {
+            $urlh->{priority} = -1;
+        } else {
+            my $uri = URI->new($urlh->{url});
+            my $host = $uri->host;
+            $urlh->{priority} = 0.9 if $host =~ m{(^|\.)github\.com$};
+            $urlh->{priority} = 0.8 if $host =~ m{(^|\.)openfontlibrary\.org$};
+            $urlh->{priority} = 0.8 if $host =~ m{(^|\.)fontlibrary\.org$};
+            $urlh->{priority} = 0.7 if $host =~ m{(^|\.)typekit\.com$};
+            $urlh->{priority} = 0.7 if $host =~ m{(^|\.)linotype\.com$};
+            $urlh->{priority} = 0.7 if $host =~ m{(^|\.)myfonts\.com$};
+            $urlh->{priority} = 0.7 if $host =~ m{(^|\.)fonts\.google\.com$};
+            $urlh->{priority} = 0.5 if $host =~ m{(^|\.)fontsquirrel\.com$};
+            $urlh->{priority} = 0.5 if $host =~ m{(^|\.)dafont\.com$};
+            $urlh->{priority} = 0.1 if $host =~ m{(^|\.)wikipedia\.org$};
+        }
+        $urlh->{priority} //= 1;
+    }
+
+    @$urls = sort { $b->{priority} <=> $a->{priority} || $a->{index} <=> $b->{index} } @$urls;
+    my $url = scalar @$urls ? $urls->[0]->{url} : undef;
+
     if (defined $url) {
         printf("## [%s](%s)\n\n", $name, $url);
     } else {
