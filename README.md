@@ -55,6 +55,15 @@ See [monospace-font-list.md](monospace-font-list.md).
 
 ---
 
+## Other Lists of Fonts
+
+These lists, for the most part, do not attempt to be comprehensive,
+as this one does.
+
+-   https://github.com/chrissimpkins/codeface
+
+-   http://luc.devroye.org/mono.html
+
 ## Font Patches
 
 ### Nerd Fonts
