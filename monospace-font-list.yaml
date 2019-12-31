@@ -1257,10 +1257,10 @@ fonts:
       - programmer/coder oriented font
 
   - name: Haskplex
-    based on: Hasklig and IBM Plex Mono.  It's just Hasklig regular and IBM Plex Mono italic.
+    based on: Hasklig and IBM Plex Mono.  It is just Hasklig regular and IBM Plex Mono italic.
     urls:
       - https://github.com/huytd/haskplex-font
-    designer:
+    designer: IBM
     tags:
       - paid, free, or open source (FIXME)
       - programmer/coder oriented font
