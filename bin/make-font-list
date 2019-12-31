@@ -6,10 +6,12 @@ use Sort::Naturally qw(nsort);
 use YAML;
 use URI;
 
+my @urlless;
+
 my $doc = YAML::Load(join('', <>));
 foreach my $font (@{$doc->{fonts}}) {
     my $name = delete $font->{name};
-    my $urls = delete $font->{url};
+    my $urls = delete $font->{urls};
 
     if (!$urls) {
         $urls = [];
@@ -24,24 +26,28 @@ foreach my $font (@{$doc->{fonts}}) {
     my $index = 0;
     foreach my $urlh (@$urls) {
         $urlh->{index} = ($index += 1);
+        my $url = $urlh->{url};
         my $type = $urlh->{type};
         if (defined $type && $type eq 'official') {
             $urlh->{priority} = 2;
         } elsif (defined $type && $type eq 'via') {
             $urlh->{priority} = -1;
-        } else {
-            my $uri = URI->new($urlh->{url});
+        } elsif (defined $url) {
+            my $uri = URI->new($url);
             my $host = $uri->host;
-            $urlh->{priority} = 0.9 if $host =~ m{(^|\.)github\.com$};
-            $urlh->{priority} = 0.8 if $host =~ m{(^|\.)openfontlibrary\.org$};
-            $urlh->{priority} = 0.8 if $host =~ m{(^|\.)fontlibrary\.org$};
-            $urlh->{priority} = 0.7 if $host =~ m{(^|\.)typekit\.com$};
-            $urlh->{priority} = 0.7 if $host =~ m{(^|\.)linotype\.com$};
-            $urlh->{priority} = 0.7 if $host =~ m{(^|\.)myfonts\.com$};
-            $urlh->{priority} = 0.7 if $host =~ m{(^|\.)fonts\.google\.com$};
-            $urlh->{priority} = 0.5 if $host =~ m{(^|\.)fontsquirrel\.com$};
-            $urlh->{priority} = 0.5 if $host =~ m{(^|\.)dafont\.com$};
-            $urlh->{priority} = 0.1 if $host =~ m{(^|\.)wikipedia\.org$};
+            if ($host =~ m{(^|\.)github\.com$})             { $urlh->{priority} =  0.9; }
+            elsif ($host =~ m{(^|\.)openfontlibrary\.org$}) { $urlh->{priority} =  0.8; }
+            elsif ($host =~ m{(^|\.)fontlibrary\.org$})     { $urlh->{priority} =  0.8; }
+            elsif ($host =~ m{(^|\.)typekit\.com$})         { $urlh->{priority} =  0.7; }
+            elsif ($host =~ m{(^|\.)linotype\.com$})        { $urlh->{priority} =  0.7; }
+            elsif ($host =~ m{(^|\.)myfonts\.com$})         { $urlh->{priority} =  0.7; }
+            elsif ($host =~ m{(^|\.)fonts\.adobe\.com$})    { $urlh->{priority} =  0.7; }
+            elsif ($host =~ m{(^|\.)fonts\.google\.com$})   { $urlh->{priority} =  0.7; }
+            elsif ($host =~ m{(^|\.)google\.com$})          { $urlh->{priority} =  0.6; }
+            elsif ($host =~ m{(^|\.)fontsquirrel\.com$})    { $urlh->{priority} =  0.5; }
+            elsif ($host =~ m{(^|\.)dafont\.com$})          { $urlh->{priority} =  0.5; }
+            elsif ($host =~ m{(^|\.)wikipedia\.org$})       { $urlh->{priority} =  0.1; }
+            elsif (defined $type && $type eq 'original')    { $urlh->{priority} = -0.5; }
         }
         $urlh->{priority} //= 1;
     }
@@ -49,12 +55,29 @@ foreach my $font (@{$doc->{fonts}}) {
     @$urls = sort { $b->{priority} <=> $a->{priority} || $a->{index} <=> $b->{index} } @$urls;
     my $url = scalar @$urls ? $urls->[0]->{url} : undef;
 
+    if (scalar @$urls) {
+        shift @$urls;
+    } else {
+        push(@urlless, $name);
+    }
+    if (scalar @$urls) {
+        $font->{urls} = $urls;
+    }
+
     if (defined $url) {
         printf("## [%s](%s)\n\n", $name, $url);
     } else {
         printf("## %s\n\n", $name);
     }
     print toMarkdown($font);
+}
+
+if (scalar @urlless) {
+    print "## Fonts not having URLs yet\n\n";
+    foreach my $name (@urlless) {
+        print "-   $name\n";
+    }
+    print "\n";
 }
 
 sub toMarkdown {
@@ -75,6 +98,19 @@ sub toMarkdown {
         my @keys = nsort keys %$o;
         foreach my $key (@keys) {
             my $value = $o->{$key};
+            if ($key eq 'urls') {
+                my $r = "-   urls:\n";
+                foreach my $urlh (@$value) {
+                    $r .= "    -   ";
+                    $r .= "via " if defined $urlh && defined $urlh->{type} && $urlh->{type} eq 'via';
+                    $r .= '<' . $urlh->{url} . '>';
+                    $r .= ' [' . $urlh->{priority} . ']' if defined $urlh->{priority};
+                    $r .= ' [' . $urlh->{type} . ']' if defined $urlh->{type};
+                    $r .= "\n";
+                }
+                $result .= $r . "\n";
+                next;
+            }
             next unless defined $value && $value =~ m{\S};
             my $r;
             if ($key eq 'notes') {
