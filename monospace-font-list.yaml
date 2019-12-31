@@ -221,6 +221,9 @@ fonts:
 
   - name: Coding Font Tobi
     see also: Proggy
+    urls:
+      - https://github.com/chrissimpkins/codeface/tree/master/fonts/coding-font-tobi
+      - https://proggyfonts.net/coding-font-tobi/
 
   - name: Colón Mono
     author: TipografiaRamis
@@ -250,7 +253,7 @@ fonts:
       - https://www.microsoft.com/typography/fonts/family.aspx?FID=300
 
   - name: Cosmic Sans Neue Mono
-    see also: Fantasque Sans Mono
+    now known as: Fantasque Sans Mono
 
   - name: Courier
     notes: |
@@ -304,7 +307,9 @@ fonts:
       - https://github.com/romeovs/creep
 
   - name: Crisp
-    see also: Proggy
+    not to be confused with: https://www.ffonts.net/Crisp.font
+    urls:
+      - https://proggyfonts.net/crisp/
 
   - name: Crystal
     urls:
@@ -335,6 +340,7 @@ fonts:
   - name: DEC VT330
     notes: |
         available on HP systems and/or VMS
+        https://www.itec.suny.edu/scsys/vms/ovmsdoc073/v73/6470/6470pro_004.html
 
   - name: Decima Mono
     urls:
@@ -361,6 +367,8 @@ fonts:
   - name: DF Staple Mono
     tags:
       - cute
+    urls:
+      - https://www.myfonts.com/fonts/dutchfonts/df-staple-mono/
 
   - name: Dina
     urls:
@@ -720,6 +728,8 @@ fonts:
       - https://fonts.adobe.com/fonts/letter-gothic
 
   - name: LH Mono Slab
+    urls:
+      - https://coliss.com/articles/freebies/freebies-font-by-lufthamn-studio.html
 
   - name: Liberation Mono
     urls:
@@ -764,7 +774,6 @@ fonts:
 
   - name: Lucida Typewriter
     urls:
-      - 
       - https://en.wikipedia.org/wiki/Lucida
       - https://lucidafonts.com/
 
@@ -785,18 +794,29 @@ fonts:
       - http://eastfarthing.com/luculent/
 
   - name: Luxi Mono
+    urls:
+      - https://www.fontsquirrel.com/fonts/luxi-mono
+      - https://en.wikipedia.org/wiki/Luxi_fonts
 
   - name: M+ 1m
     urls:
-      - https://www.fontsquirrel.com/fonts/list/foundry/m-fonts
+      - https://mplus-fonts.osdn.jp/about-en.html
 
   - name: M+ 1mn
+    urls:
+      - https://mplus-fonts.osdn.jp/about-en.html
 
   - name: M+ 2m
     urls:
-      - http://www.fontspace.com/m-fonts/m-2m
+      - https://mplus-fonts.osdn.jp/about-en.html
 
   - name: Maison Mono
+    urls:
+      - https://www.milieugrotesque.com/specimen/maison/
+
+  - name: Maison Neue Mono
+    urls:
+      - https://www.milieugrotesque.com/specimen/maison-neue/
 
   - name: Marista
     urls:
@@ -807,6 +827,8 @@ fonts:
 
   - name: Menlo
     fork of: DejaVu Sans Mono
+    urls:
+      - https://en.wikipedia.org/wiki/Menlo_(typeface)
 
   - name: Mensch
     urls:
@@ -823,6 +845,8 @@ fonts:
 
   - name: Mingray Mono
     author: Rekord
+    urls:
+      - https://www.myfonts.com/fonts/rekord/mingray-mono/
 
   - name: Mitigate
     urls:
@@ -839,6 +863,8 @@ fonts:
       - https://www.myfonts.com/fonts/paratype/mono-condensed/
 
   - name: Mono LH
+    urls:
+      - https://www.ffonts.net/Mono-LH.font
 
   - name: Mono Spatial
     urls:
@@ -849,6 +875,8 @@ fonts:
       - https://www.myfonts.com/fonts/lafonts/monocto/
 
   - name: Monoela
+    urls:
+      - https://www.myfonts.com/fonts/interfont/monoela/
 
   - name: Monofur
     urls:
@@ -888,6 +916,8 @@ fonts:
 
   - name: Monostep
     author: YOKKMOKK
+    urls:
+      - https://www.myfonts.com/fonts/yokkmokk/monostep/
 
   - name: Monotype Typewriter
     urls:
@@ -910,8 +940,12 @@ fonts:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
 
   - name: MVB Fantabular
+    urls:
+      - https://www.myfonts.com/fonts/mvbfonts/mvb-fantabular/
 
   - name: MVB Fantabular Sans
+    urls:
+      - https://www.myfonts.com/fonts/mvbfonts/mvb-fantabular-sans/
 
   - name: Nanum Gothic Coding (Korean)
     urls:
@@ -920,6 +954,8 @@ fonts:
 
   - name: Native
     author: Fort Foundry
+    urls:
+      - https://fortfoundry.com/pages/native
 
   - name: Nitti
     urls:
@@ -966,6 +1002,8 @@ fonts:
 
   - name: OCRJ
     author: Test Pilot Collective
+    urls:
+      - https://www.myfonts.com/fonts/testpilot/ocrj/
 
   - name: Odisseia
     urls:
@@ -992,6 +1030,9 @@ fonts:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
 
   - name: OpenDyslexic
+    urls:
+      - https://opendyslexic.org/
+      - https://en.wikipedia.org/wiki/OpenDyslexic
 
   - name: Operator Mono $
     urls:
@@ -999,10 +1040,14 @@ fonts:
 
   - name: Opti
     see also: Proggy
+    urls:
+      - https://proggyfonts.net/proggy-opti/
 
   - name: Orator
     tags:
       - classic
+    urls:
+      - https://www.myfonts.com/fonts/adobe/orator/
 
   - name: Osaka Regular-Mono
     urls:
@@ -1025,6 +1070,8 @@ fonts:
       - https://github.com/chrissimpkins/codeface/tree/master/fonts/panic-sans
 
   - name: PCMyungjo
+    notes: |
+      (comes with MacOS)
 
   - name: Perfect DOS VGA 437
     urls:
@@ -1059,7 +1106,7 @@ fonts:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
 
   - name: Plex Mono
-    see also: IBM Plex Mono
+    now known as: IBM Plex Mono
 
   - name: Pointfree
     urls:
@@ -1087,10 +1134,10 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/fsd/pragmata-pro/
 
-  - name: Pragmatica typeface, 1989
-    author: Vladimir Yefimov
-
   - name: Press Start 2P
+    urls:
+      - https://fonts.google.com/specimen/Press+Start+2P
+      - https://fontlibrary.org/en/font/press-start-2p
 
   - name: Prestige (Elite)
     tags:
@@ -1154,6 +1201,8 @@ fonts:
 
   - name: Quinze
     see also: Fifteen
+    urls:
+      - https://fontlibrary.org/en/font/quinze
 
   - name: Raize
     urls:
@@ -1165,6 +1214,8 @@ fonts:
       - https://www.myfonts.com/fonts/griffin-moore/range-mono/
 
   - name: Rational TW
+    urls:
+      - https://www.myfonts.com/fonts/rene-bieder/rational-tw/
 
   - name: Relative Mono
     urls:
@@ -1211,6 +1262,10 @@ fonts:
         (that classic cursive typewriter font)
 
   - name: Segoe UI Mono
+    urls:
+      - https://docs.microsoft.com/en-us/typography/font-list/segoe-ui
+      - https://en.wikipedia.org/wiki/Segoe
+      - https://www.myfonts.com/fonts/ascender/segoe-ui-mono/
 
   - name: SF Mono
     urls:
@@ -1249,6 +1304,8 @@ fonts:
     author: GRIN3 (Nowak)
     tags:
       - cute
+    urls:
+      - https://www.myfonts.com/fonts/nowak/skurier/
 
   - name: Skyhook Mono
     urls:
@@ -1276,12 +1333,17 @@ fonts:
 
   - name: Speedy
     see also: Proggy
+    urls:
+      - https://proggyfonts.net/speedy/
 
   - name: Squareshooter Mono
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
 
   - name: String Literal 437
+    urls:
+      - http://fontsgeek.com/fonts/String-Literal-437-Medium
+      - https://www.ffonts.net/String-Literal-437-Medium.font.download
 
   - name: Sudo
     urls:
@@ -1297,6 +1359,8 @@ fonts:
 
   - name: Tabular
     author: Indian Type Foundry
+    urls:
+      - https://www.myfonts.com/fonts/indian-type-foundry/tabular/
 
   - name: Tamsyn
     urls:
@@ -1313,6 +1377,8 @@ fonts:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
 
   - name: Telegrama
+    urls:
+      - https://www.fontsquirrel.com/fonts/telegrama
 
   - name: Telegrama Raw
     urls:
@@ -1322,6 +1388,8 @@ fonts:
 
   - name: Telegramo
     author: Volcano Type
+    urls:
+      - https://www.myfonts.com/fonts/volcano/telegramo/
 
   - name: Terminal/VGA Font
     urls:
@@ -1340,6 +1408,8 @@ fonts:
 
   - name: TeX Gyre Cursor
     see also: Courier
+    urls:
+      - https://www.fontsquirrel.com/fonts/tex-gyre-cursor
 
   - name: TheSansTypewriter; TheSansMono; etc.
     urls:
@@ -1370,17 +1440,23 @@ fonts:
 
   - name: Triumph Durabel
     notes: |
-      According to [1], this is the font that the popular "grungy"
+      According to [1], this is the font that the popular grungy
       typewriter font FF Trixie is based on.
 
       [1] https://www.creativebloq.com/typography/best-typewriter-fonts-10135084
 
   - name: Tye Paloon
+    urls:
+      - https://www.fontspace.com/font-monkey/tye-paloon
 
   - name: Typewalk Mono 1915
     author: Typocalypse
+    urls:
+      - https://www.myfonts.com/fonts/typocalypse/typewalk-mono-1915/
 
   - name: Ubuntu Mono
+    urls:
+      - https://design.ubuntu.com/font/
 
   - name: Unotype
     urls:
@@ -1388,6 +1464,8 @@ fonts:
 
   - name: URW Nimbus Mono
     see also: Courier
+    urls:
+      - https://www.fontsquirrel.com/fonts/nimbus-mono
 
   - name: Verily Serif Mono
     urls:
@@ -1399,6 +1477,8 @@ fonts:
 
   - name: Vivala Code
     author: Johannes Hoffmann
+    urls:
+      - https://www.myfonts.com/fonts/johannes-hoffmann/vivala-code/
 
   - name: VLNL TP Kurier Callig Regular
     urls:
@@ -1419,9 +1499,13 @@ fonts:
       - https://github.com/raphaelbastide/Whois-mono
 
   - name: Wire Type Mono
+    urls:
+      - https://www.myfonts.com/fonts/thomas-kaeding/wire-type-mono/
 
   - name: Wudoo
     author: Vishnu Sathyan
+    urls:
+      - https://www.myfonts.com/fonts/vishnu-sathyan/wudoo/
 
   - name: Zolan Mono
     urls:

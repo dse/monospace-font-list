@@ -200,9 +200,12 @@
 
 -   fork of: Ubuntu Mono
 
-## Coding Font Tobi
+## [Coding Font Tobi](https://proggyfonts.net/coding-font-tobi/)
 
 -   see also: Proggy
+
+-   urls:
+    -   <https://github.com/chrissimpkins/codeface/tree/master/fonts/coding-font-tobi> [0.9]
 
 ## [Colón Mono](http://www.youworkforthem.com/font/T4920/colon-mono)
 
@@ -226,7 +229,7 @@
 
 ## Cosmic Sans Neue Mono
 
--   see also: Fantasque Sans Mono
+-   now known as: Fantasque Sans Mono
 
 ## Courier
 
@@ -275,9 +278,9 @@
 
 ## [Creep](https://github.com/romeovs/creep)
 
-## Crisp
+## [Crisp](https://proggyfonts.net/crisp/)
 
--   see also: Proggy
+-   not to be confused with: https://www.ffonts.net/Crisp.font
 
 ## [Crystal](http://www.lowing.org/fonts/)
 
@@ -300,6 +303,7 @@
 -   notes:
 
         available on HP systems and/or VMS
+        https://www.itec.suny.edu/scsys/vms/ovmsdoc073/v73/6470/6470pro_004.html
 
 ## [Decima Mono](http://www.tipografiaramis.com/decima-mono.html)
 
@@ -322,7 +326,7 @@
 -   urls:
     -   <https://en.wikipedia.org/wiki/DejaVu_fonts> [0.1]
 
-## DF Staple Mono
+## [DF Staple Mono](https://www.myfonts.com/fonts/dutchfonts/df-staple-mono/)
 
 -   tags:
 
@@ -618,7 +622,7 @@
 
     -   classic
 
-## LH Mono Slab
+## [LH Mono Slab](https://coliss.com/articles/freebies/freebies-font-by-lufthamn-studio.html)
 
 ## [Liberation Mono](https://fedorahosted.org/liberation-fonts/)
 
@@ -656,10 +660,9 @@
     -   <https://lucidafonts.com/> [1]
     -   <https://en.wikipedia.org/wiki/Lucida> [0.1]
 
-## Lucida Typewriter
+## [Lucida Typewriter](https://lucidafonts.com/)
 
 -   urls:
-    -   <https://lucidafonts.com/> [1]
     -   <https://en.wikipedia.org/wiki/Lucida> [0.1]
 
 ## [Lucida Typewriter EF](https://lucidafonts.com/)
@@ -676,15 +679,20 @@
 
 ## [Luculent](http://eastfarthing.com/luculent/)
 
-## Luxi Mono
+## [Luxi Mono](https://www.fontsquirrel.com/fonts/luxi-mono)
 
-## [M+ 1m](https://www.fontsquirrel.com/fonts/list/foundry/m-fonts)
+-   urls:
+    -   <https://en.wikipedia.org/wiki/Luxi_fonts> [0.1]
 
-## M+ 1mn
+## [M+ 1m](https://mplus-fonts.osdn.jp/about-en.html)
 
-## [M+ 2m](http://www.fontspace.com/m-fonts/m-2m)
+## [M+ 1mn](https://mplus-fonts.osdn.jp/about-en.html)
 
-## Maison Mono
+## [M+ 2m](https://mplus-fonts.osdn.jp/about-en.html)
+
+## [Maison Mono](https://www.milieugrotesque.com/specimen/maison/)
+
+## [Maison Neue Mono](https://www.milieugrotesque.com/specimen/maison-neue/)
 
 ## [Marista](https://www.myfonts.com/fonts/zephyris/marista/)
 
@@ -693,7 +701,7 @@
         inspired by classic cursive faces
         one weight is free
 
-## Menlo
+## [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface))
 
 -   fork of: DejaVu Sans Mono
 
@@ -705,7 +713,7 @@
 
 ## [Metrickal](https://github.com/robey/metrickal-typeface)
 
-## Mingray Mono
+## [Mingray Mono](https://www.myfonts.com/fonts/rekord/mingray-mono/)
 
 -   author: Rekord
 
@@ -720,13 +728,13 @@
 
 -   author: ParaType
 
-## Mono LH
+## [Mono LH](https://www.ffonts.net/Mono-LH.font)
 
 ## [Mono Spatial](https://www.dafont.com/mono-spatial.font)
 
 ## [Monocto](https://www.myfonts.com/fonts/lafonts/monocto/)
 
-## Monoela
+## [Monoela](https://www.myfonts.com/fonts/interfont/monoela/)
 
 ## [Monofur](https://www.dafont.com/monofur.font)
 
@@ -754,7 +762,7 @@
 
 ## [Monosten](https://www.colophon-foundry.org/typefaces/monosten/)
 
-## Monostep
+## [Monostep](https://www.myfonts.com/fonts/yokkmokk/monostep/)
 
 -   author: YOKKMOKK
 
@@ -774,16 +782,16 @@
 
 ## [MS Mincho](http://www.lowing.org/fonts/)
 
-## MVB Fantabular
+## [MVB Fantabular](https://www.myfonts.com/fonts/mvbfonts/mvb-fantabular/)
 
-## MVB Fantabular Sans
+## [MVB Fantabular Sans](https://www.myfonts.com/fonts/mvbfonts/mvb-fantabular-sans/)
 
 ## [Nanum Gothic Coding (Korean)](https://www.freekoreanfont.com/nanum-gothic-coding-free-download/)
 
 -   urls:
     -   <http://dev.naver.com/projects/nanumfont/> [-0.5] [original]
 
-## Native
+## [Native](https://fortfoundry.com/pages/native)
 
 -   author: Fort Foundry
 
@@ -826,7 +834,7 @@
     -   <https://typekit.com/fonts/ocr-b> [0.7]
     -   <https://en.wikipedia.org/wiki/OCR-B> [0.1]
 
-## OCRJ
+## [OCRJ](https://www.myfonts.com/fonts/testpilot/ocrj/)
 
 -   author: Test Pilot Collective
 
@@ -848,15 +856,18 @@
 
 ## [Onuava](http://www.cfcl.com/vlb/h/fontmono.html)
 
-## OpenDyslexic
+## [OpenDyslexic](https://opendyslexic.org/)
+
+-   urls:
+    -   <https://en.wikipedia.org/wiki/OpenDyslexic> [0.1]
 
 ## [Operator Mono $](http://www.typography.com/fonts/operator/overview/)
 
-## Opti
+## [Opti](https://proggyfonts.net/proggy-opti/)
 
 -   see also: Proggy
 
-## Orator
+## [Orator](https://www.myfonts.com/fonts/adobe/orator/)
 
 -   tags:
 
@@ -881,6 +892,10 @@
 ## [Panic Sans](https://github.com/chrissimpkins/codeface/tree/master/fonts/panic-sans)
 
 ## PCMyungjo
+
+-   notes:
+
+        (comes with MacOS)
 
 ## [Perfect DOS VGA 437](https://www.dafont.com/perfect-dos-vga-437.font)
 
@@ -907,7 +922,7 @@
 
 ## Plex Mono
 
--   see also: IBM Plex Mono
+-   now known as: IBM Plex Mono
 
 ## [Pointfree](http://www.dafont.com/pointfree.font)
 
@@ -925,11 +940,10 @@
 
 ## [Essential PragmataPro](https://www.myfonts.com/fonts/fsd/pragmata-pro/)
 
-## Pragmatica typeface, 1989
+## [Press Start 2P](https://fontlibrary.org/en/font/press-start-2p)
 
--   author: Vladimir Yefimov
-
-## Press Start 2P
+-   urls:
+    -   <https://fonts.google.com/specimen/Press+Start+2P> [0.7]
 
 ## [Prestige (Elite)](http://www.myfonts.com/fonts/urw/prestige-elite/)
 
@@ -978,7 +992,7 @@
 
 ## [QuickType Mono](http://www.cfcl.com/vlb/h/fontmono.html)
 
-## Quinze
+## [Quinze](https://fontlibrary.org/en/font/quinze)
 
 -   see also: Fifteen
 
@@ -989,7 +1003,7 @@
 
 ## [Range Mono](https://www.myfonts.com/fonts/griffin-moore/range-mono/)
 
-## Rational TW
+## [Rational TW](https://www.myfonts.com/fonts/rene-bieder/rational-tw/)
 
 ## [Relative Mono](https://www.colophon-foundry.org/typefaces/relative/)
 
@@ -1025,7 +1039,11 @@
 
     -   classic
 
-## Segoe UI Mono
+## [Segoe UI Mono](https://docs.microsoft.com/en-us/typography/font-list/segoe-ui)
+
+-   urls:
+    -   <https://www.myfonts.com/fonts/ascender/segoe-ui-mono/> [0.7]
+    -   <https://en.wikipedia.org/wiki/Segoe> [0.1]
 
 ## [SF Mono](https://developer.apple.com/fonts/)
 
@@ -1056,7 +1074,7 @@
 
 ## [SK Modernist Mono](http://seankanedesign.com/work/sk-modernist)
 
-## Skurier
+## [Skurier](https://www.myfonts.com/fonts/nowak/skurier/)
 
 -   author: GRIN3 (Nowak)
 
@@ -1082,13 +1100,16 @@
 
 ## [Space Mono](https://fonts.google.com/specimen/Space+Mono)
 
-## Speedy
+## [Speedy](https://proggyfonts.net/speedy/)
 
 -   see also: Proggy
 
 ## [Squareshooter Mono](http://www.lowing.org/fonts/)
 
-## String Literal 437
+## [String Literal 437](http://fontsgeek.com/fonts/String-Literal-437-Medium)
+
+-   urls:
+    -   <https://www.ffonts.net/String-Literal-437-Medium.font.download> [1]
 
 ## [Sudo](https://www.kutilek.de/sudo-font/)
 
@@ -1103,7 +1124,7 @@
     
     -   line printer
 
-## Tabular
+## [Tabular](https://www.myfonts.com/fonts/indian-type-foundry/tabular/)
 
 -   author: Indian Type Foundry
 
@@ -1118,7 +1139,7 @@
 
 ## [Teamhair](http://www.cfcl.com/vlb/h/fontmono.html)
 
-## Telegrama
+## [Telegrama](https://www.fontsquirrel.com/fonts/telegrama)
 
 ## [Telegrama Raw](https://www.fontsquirrel.com/fonts/Telegrama)
 
@@ -1126,7 +1147,7 @@
 
     -   dot matrix
 
-## Telegramo
+## [Telegramo](https://www.myfonts.com/fonts/volcano/telegramo/)
 
 -   author: Volcano Type
 
@@ -1143,7 +1164,7 @@
 
     -   bitmap
 
-## TeX Gyre Cursor
+## [TeX Gyre Cursor](https://www.fontsquirrel.com/fonts/tex-gyre-cursor)
 
 -   see also: Courier
 
@@ -1169,22 +1190,22 @@
 
 -   notes:
 
-        According to [1], this is the font that the popular "grungy"
+        According to [1], this is the font that the popular grungy
         typewriter font FF Trixie is based on.
         
         [1] https://www.creativebloq.com/typography/best-typewriter-fonts-10135084
 
-## Tye Paloon
+## [Tye Paloon](https://www.fontspace.com/font-monkey/tye-paloon)
 
-## Typewalk Mono 1915
+## [Typewalk Mono 1915](https://www.myfonts.com/fonts/typocalypse/typewalk-mono-1915/)
 
 -   author: Typocalypse
 
-## Ubuntu Mono
+## [Ubuntu Mono](https://design.ubuntu.com/font/)
 
 ## [Unotype](http://www.cfcl.com/vlb/h/fontmono.html)
 
-## URW Nimbus Mono
+## [URW Nimbus Mono](https://www.fontsquirrel.com/fonts/nimbus-mono)
 
 -   see also: Courier
 
@@ -1192,7 +1213,7 @@
 
 ## [Vidilex](http://www.cfcl.com/vlb/h/fontmono.html)
 
-## Vivala Code
+## [Vivala Code](https://www.myfonts.com/fonts/johannes-hoffmann/vivala-code/)
 
 -   author: Johannes Hoffmann
 
@@ -1213,9 +1234,9 @@
 
 ## [Whois Mono](https://github.com/raphaelbastide/Whois-mono)
 
-## Wire Type Mono
+## [Wire Type Mono](https://www.myfonts.com/fonts/thomas-kaeding/wire-type-mono/)
 
-## Wudoo
+## [Wudoo](https://www.myfonts.com/fonts/vishnu-sathyan/wudoo/)
 
 -   author: Vishnu Sathyan
 
@@ -1227,50 +1248,10 @@
 
 ## Fonts not having URLs yet
 
--   Coding Font Tobi
--   Cosmic Sans Neue Mono
 -   Courier
--   Crisp
 -   DEC VT330
--   DF Staple Mono
 -   FreeMono
--   LH Mono Slab
--   Luxi Mono
--   M+ 1mn
--   Maison Mono
--   Menlo
--   Mingray Mono
--   Mono LH
--   Monoela
--   Monostep
--   MVB Fantabular
--   MVB Fantabular Sans
--   Native
--   OCRJ
--   OpenDyslexic
--   Opti
--   Orator
 -   PCMyungjo
--   Plex Mono
--   Pragmatica typeface, 1989
--   Press Start 2P
--   Quinze
--   Rational TW
--   Segoe UI Mono
--   Skurier
--   Speedy
--   String Literal 437
--   Tabular
--   Telegrama
--   Telegramo
--   TeX Gyre Cursor
 -   Triumph Durabel
--   Tye Paloon
--   Typewalk Mono 1915
--   Ubuntu Mono
--   URW Nimbus Mono
--   Vivala Code
 -   VTScreenplay Remington, Oliver, etc.
--   Wire Type Mono
--   Wudoo
 
