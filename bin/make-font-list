@@ -39,6 +39,7 @@ foreach my $font (@{$doc->{fonts}}) {
             elsif ($host =~ m{(^|\.)openfontlibrary\.org$}) { $urlh->{priority} =  0.8; }
             elsif ($host =~ m{(^|\.)fontlibrary\.org$})     { $urlh->{priority} =  0.8; }
             elsif ($host =~ m{(^|\.)typekit\.com$})         { $urlh->{priority} =  0.7; }
+            elsif ($host =~ m{(^|\.)ffonts\.com$})          { $urlh->{priority} =  0.7; }
             elsif ($host =~ m{(^|\.)linotype\.com$})        { $urlh->{priority} =  0.7; }
             elsif ($host =~ m{(^|\.)myfonts\.com$})         { $urlh->{priority} =  0.7; }
             elsif ($host =~ m{(^|\.)fonts\.adobe\.com$})    { $urlh->{priority} =  0.7; }
@@ -57,6 +58,8 @@ foreach my $font (@{$doc->{fonts}}) {
 
     if (scalar @$urls) {
         shift @$urls;
+    } elsif ($font->{'now known as'}) {
+        # do nothing
     } else {
         push(@urlless, $name);
     }
