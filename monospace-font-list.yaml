@@ -9,6 +9,9 @@ todo:
   - tag all classic typewriter fonts with 'classic typewriter font'.
     Exceptions are: Courier, Prestige
   - tag all fonts with ligatures with 'ligatures'
+  - standard tag for software with which fonts are bundled
+  - look through font lists
+  - tag all dot matrix fonts with 'dot matrix'
 fonts:
   - name: 1403 Vintage Mono
     urls:
@@ -27,6 +30,7 @@ fonts:
       - ibm 3270
       - terminal
       - open source
+      - popular programming font
     designer:
       name: Ricardo Bánffy
 
@@ -451,6 +455,7 @@ fonts:
     foundry: Microsoft
     tags:
       - paid
+      - popular programming font
 
   - name: Cosmic Sans Neue Mono
     now known as: Fantasque Sans Mono
@@ -476,27 +481,37 @@ fonts:
       - Monotype's square terminal version
       - Adobe's square terminal version
 
+      Since its release in 1956, Courier has become favored for
+      screenplays and business correspondence, and a version of
+      Courier is bundled with virtually all modern computer operating
+      systems.
+
   - name: Courier 10 Pitch BT
     foundry: Bitstream
     tags:
-      - paid, free, or open source (FIXME)
+      - free
       - implementation of Courier
     notes: |
       thicker; rounded terminals
-
-  - name: Courier Final Draft
-    software: from Final Draft
     urls:
-      - https://store.finaldraft.com/final-draft-11.html
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
-      - implementation of Courier
+      - http://www.rolandstroud.com/Fonts-1.html
 
   - name: Courier Code
     foundry: Bitstream
     urls:
       - http://openfontlibrary.org/en/font/courier-code
+
+  - name: Courier Final Draft
+    software: from Final Draft
+    urls:
+      - https://store.finaldraft.com/final-draft-11.html
+      - https://web.archive.org/web/20180704043252/http://kb.finaldraft.com/article/1001/5328/Download-the-updated-Courier-Final-Draft-font
+      - https://finaldraft.box.com/shared/static/714ubyxzjd937ntsxqdmvij7clvgzfer.dmg
+      - https://finaldraft.app.box.com/s/8c5nx8bkyxpfxl9jsv41bsqif9rt5b58
+    designer:
+    tags:
+      - free
+      - implementation of Courier
 
   - name: Courier MM Screenwriter
     software: from Movie Magic Screenwriter
@@ -508,9 +523,9 @@ fonts:
   - name: Courier New
     urls:
       - https://docs.microsoft.com/en-us/typography/font-list/courier-new
-    designer:
+    foundry: Monotype
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
       - implementation of Courier
 
   - name: Courier Prime
@@ -518,7 +533,7 @@ fonts:
       - https://quoteunquoteapps.com/courierprime/
     designer:
     tags:
-      - paid, free, or open source (FIXME)
+      - open source
       - implementation of Courier
 
   - name: Courier Prime Code
@@ -526,32 +541,34 @@ fonts:
       - https://quoteunquoteapps.com/courierprime/
     designer:
     tags:
-      - paid, free, or open source (FIXME)
-      - implementation of Courier
+      - open source
+      - implementation of Courier, sort of
 
   - name: Courier Prime Sans
     urls:
       - https://quoteunquoteapps.com/courierprime/
     designer:
     tags:
-      - paid, free, or open source (FIXME)
-      - implementation of Courier
+      - open source
+      - implementation of Courier, sort of
 
   - name: Courier SB
     notes: |
       rounded terminals
-    foundry: FIXME
-    designer: FIXME
+    foundry: Scangraphic
+    urls:
+      - https://www.myfonts.com/fonts/efscangraphic/courier-sb/
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
 
   - name: Courier Screenplay
     software: from FadeIn
     urls:
       - https://www.fadeinpro.com/page.pl?content=download
+      - http://www.rolandstroud.com/Fonts-1.html
     designer:
     tags:
-      - paid, free, or open source (FIXME)
+      - free
       - implementation of Courier
 
   - name: Courier Standard
@@ -566,16 +583,23 @@ fonts:
       - http://openfontlibrary.org/en/font/cousine
       - http://www.fontsquirrel.com/fonts/cousine
       - http://www.google.com/fonts/specimen/Cousine
-    designer:
+      - https://github.com/googlefonts/noto-fonts
+    designer: Steve Matteson
     tags:
-      - paid, free, or open source (FIXME)
+      - open source
+    notes: |
+      Cousine is part of the collection of fonts known as the Chrome
+      OS core fonts, or Croscore fonts.
+
+      Cousine is also included in Google's noto-fonts repository on
+      GitHub.
 
   - name: CP Mono
     urls:
       - https://github.com/chrissimpkins/codeface/tree/master/fonts/cp-mono
-    designer:
+    designer: Chris Simpkins
     tags:
-      - paid, free, or open source (FIXME)
+      - open source
 
   - name: CP1250 Terminal Fonts
     urls:
@@ -587,17 +611,17 @@ fonts:
   - name: Creep
     urls:
       - https://github.com/romeovs/creep
-    designer:
+    designer: Romeo Van Snick
     tags:
-      - paid, free, or open source (FIXME)
+      - open source
 
   - name: Crisp
     not to be confused with: https://www.ffonts.net/Crisp.font
     urls:
       - https://proggyfonts.net/crisp/
-    designer:
+    designer: Chris Pine
     tags:
-      - paid, free, or open source (FIXME)
+      - free
 
   - name: Crystal
     urls:
@@ -607,38 +631,39 @@ fonts:
       - paid, free, or open source (FIXME)
 
   - name: Cubiculum
-    x-designer:
-      name: Johan Winge
+    designer: Johan Winge
     urls:
       - https://www.myfonts.com/fonts/johan-winge/cubiculum/
-    designer:
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
 
   - name: Cutive Mono
     urls:
       - https://fonts.google.com/specimen/Cutive+Mono
-    designer:
+      - http://sansoxygen.com/
+      - https://github.com/vernnobile/CutiveFont
+    designer: Vernon Adams
     tags:
-      - paid, free, or open source (FIXME)
+      - free
 
   - name: D2 Coding
     urls:
       - https://github.com/naver/d2codingfont
     language/script: Korean
-    designer:
+    designer: Naver Corp.
     tags:
-      - paid, free, or open source (FIXME)
+      - open source
 
   - name: DaddyTimeMono
     urls:
       - https://github.com/BourgeoisBear/DaddyTimeMono
-    designer:
+    designer: Jason Stewart
     tags:
-      - paid, free, or open source (FIXME)
+      - open source
 
   - name: Dark Courier
     urls:
+      - http://www.rolandstroud.com/Fonts-1.html
       - ftp://ftp.hp.com/pub/printers/software/lj611en.exe
     designer:
     tags:
@@ -647,14 +672,18 @@ fonts:
 
   - name: DEC Terminal Modern
     urls:
-      - http://www.vtxemu.com/download.html
-    designer:
+      - https://www.dafont.com/dec-terminal-modern.font
+      - https://github.com/codewar65
+      - https://goblin.strangled.net/
+    designer: Dan Mecklenburg, Jr.
     tags:
       - paid, free, or open source (FIXME)
+    old urls:
+      - http://www.vtxemu.com/download.html
 
   - name: DEC VT330
     notes: |
-        available on HP systems and/or VMS
+        A collection of .pcf fonts available on HP systems and/or VMS
         https://www.itec.suny.edu/scsys/vms/ovmsdoc073/v73/6470/6470pro_004.html
     designer:
     tags:
@@ -663,6 +692,8 @@ fonts:
   - name: Decima Mono
     urls:
       - http://www.tipografiaramis.com/decima-mono.html
+      - http://www.tipografiaramis.com/decima-mono-pro.html
+      - http://www.tipografiaramis.com/decima-mono-round.html
     foundry: TipografiaRamis
     designer: Ramiz Guseynov
     notes: |
@@ -672,46 +703,36 @@ fonts:
     see also:
       - Centima Mono
 
-  - name: Decima Mono Pro
-    urls:
-      - http://www.tipografiaramis.com/decima-mono-pro.html
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
-
-  - name: Decima Mono Round
-    urls:
-      - http://www.tipografiaramis.com/decima-mono-round.html
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
-
   - name: DejaVu Sans Mono
     urls:
       - http://dejavu-fonts.org/wiki/Main_Page
+      - https://dejavu-fonts.github.io/
       - https://en.wikipedia.org/wiki/DejaVu_fonts
     fork of: Bitstream Vera Sans Mono
     notes: |
-        forked in turn by numerous fonts
-    designer:
+      DejaVu Sans Mono is the granddaddy of all Bitstream Vera Sans
+      Mono forks, adding a wider range of characters atop Bitstream's
+      original.
     tags:
-      - paid, free, or open source (FIXME)
+      - open source
+      - popular programming font
 
   - name: DF Staple Mono
-    x-tags:
-      - cute
     urls:
       - https://www.myfonts.com/fonts/dutchfonts/df-staple-mono/
-    designer:
+    designer: Ko Sliggers
+    foundry: Dutchfonts
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
+      - cute
 
   - name: Dina
     urls:
       - https://www.donationcoder.com/Software/Jibz/Dina/
-    designer:
+      - http://www.dcmembers.com/jibsen/download/61/
+    designer: Jørgen Ibsen
     tags:
-      - paid, free, or open source (FIXME)
+      - free
 
   - name: Dispatch Mono
     urls:
@@ -726,11 +747,12 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/everson/doire/
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    x-tags:
-      - unreadable
-    designer:
+    designer: Michael Everson
+    foundry: Evertype
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
+      - unreadable
+      - novelty
 
   - name: DPCustomMono2
     urls:
@@ -738,6 +760,8 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+    notes: |
+      DPCustomMono2 is used for proofreading.
 
   - name: Droid Sans Mono
     urls:
@@ -745,43 +769,45 @@ fonts:
       - https://fonts.google.com/specimen/Droid+Sans+Mono
       - https://en.wikipedia.org/wiki/Droid_fonts
     see also: Noto Mono
-    designer:
+    designer: Steve Matteson
+    foundry: Ascender
     tags:
-      - paid, free, or open source (FIXME)
+      - open source
 
   - name: EB Jessica
-    x-designer:
-      name: Erik Bertell
+    designer: Erik Bertell
     keywords: novelty
     urls:
       - https://www.myfonts.com/fonts/erik-bertell/eb-jessica/
-    designer:
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
 
   - name: Edlo
     urls:
       - https://github.com/ehamiter/Edlo
-    based on: Aurulent Sans
-    designer:
+    designer: Eric Hamiter
     tags:
-      - paid, free, or open source (FIXME)
+      - open source
+    notes: |
+      fork of Aurulent Sans, with programmer-friendly fixes to
+      distinguish certain characters.
 
   - name: EF Techno Script
     urls:
       - https://www.myfonts.com/fonts/ef/techno-script-ef/
-    designer:
+    foundry: Elsner+Flake
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
+      - classic typewriter font
 
   - name: Effects Eighty
     urls:
       - https://fontlibrary.org/en/font/effects-eighty
     x-tags:
       - dot matrix
-    designer:
+    designer: Peter Hull
     tags:
-      - paid, free, or open source (FIXME)
+      - open source
 
   - name: Efont
     urls:
@@ -792,32 +818,38 @@ fonts:
 
   - name: Envy Code R
     urls:
-      - http://damieng.com/blog/2007/08/19/envy-code-r-preview-6-released-with-visual-studio-italics
-    designer:
+      - { type: 'old', url: 'http://damieng.com/blog/2007/08/19/envy-code-r-preview-6-released-with-visual-studio-italics' }
+      - https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released
+    designer: Damien Guard
     tags:
-      - paid, free, or open source (FIXME)
+      - free to use only
 
   - name: Erica Type
     urls:
       - http://www.peter-wiegel.de/ErikaType.html
-    designer:
+      - https://www.dafont.com/erika-type.font
+    designer: Peter Wiegel
     tags:
-      - paid, free, or open source (FIXME)
+      - free
+      - classic typewriter font
 
   - name: Espresso Mono
-    fork of: DejaVu Sans Mono
     urls:
       - http://theoveranalyzed.net/2015/8/31/espressoapp-and-hack-a-typeface-designed-for-source-code
+      - https://github.com/jmazzi/dotfiles/blob/master/.fonts/EspressoMonoRegular.ttf
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - fork of Bitstream Vera Sans Mono
+    see also: Hack
 
   - name: Everson Mono
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    designer:
+      - https://www.evertype.com/emono/
+    foundry: Evertype
     tags:
-      - paid, free, or open source (FIXME)
+      - free
 
   - name: Excalibur Monospace
     urls:
@@ -830,19 +862,19 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/hvdfonts/fabrikat-mono/
       - https://www.hvdfonts.com/fonts/fabrikat-mono
-    designer:
+    designer: Hannes von Döhren; Christoph Koeberlin
+    foundry: HVD Fonts
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
 
   - name: Fantasque Sans Mono
     urls:
       - https://fontlibrary.org/en/font/fantasque-sans-mono
       - https://github.com/belluzj/fantasque-sans
-    x-tags:
-      - if you like Comic Sans
-    designer:
+    designer: Jany Belluz
     tags:
-      - paid, free, or open source (FIXME)
+      - open source
+      - if you like Comic Sans
 
   - name: Feggolite Mono
     urls:
@@ -858,58 +890,65 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
 
-  - name: FF Elementa $69/weight
+  - name: FF Elementa
     urls:
-      - https://new.myfonts.com/fonts/fontfont/ff-elementa/
       - https://www.myfonts.com/fonts/fontfont/elementa-pro/
-    designer:
+    foundry: FontFont
+    designer: Mindaugas Strockis
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
 
   - name: FF Fago Monospaced
     urls:
       - https://www.myfonts.com/fonts/fontfont/fago-monospace/
-      - https://www.fontshop.com/families/ff-fago-monospaced
-    designer:
+    designer: Ole Schäfer
+    foundry: FontFont
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
 
   - name: FF Magda Clean Mono
     urls:
-      - https://www.fontshop.com/families/ff-magda-clean-mono
-    designer:
+      - https://www.myfonts.com/fonts/fontfont/ff-magda-clean-mono/
+    designer: Cornel Windlin
+    foundry: FontFont
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
 
   - name: FF Nexus Typewriter
     urls:
-      - https://www.fontshop.com/families/ff-nexus-typewriter
-    designer:
+      - https://www.myfonts.com/fonts/fontfont/nexus-typewriter/
+    designer: Martin Majoor
+    foundry: FontFont
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
 
   - name: FF Trixie
     urls:
-      - https://www.fontshop.com/families/ff-trixie
+      - https://www.myfonts.com/fonts/fontfont/ff-trixie/
     notes: |
-      One of the oldest and most popular "grunge" typewriter typefaces.
-    designer:
+      The grand-daddy of all grunge/distressed typewriter faces.
+    designer: Erik van Blokland
+    foundry: FontFont
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
 
   - name: Fifteen
     urls:
       - https://fontlibrary.org/en/font/fifteen
-    designer:
+    designer: Zeimusu
     tags:
-      - paid, free, or open source (FIXME)
+      - open source
+      - dot matrix
+    see also: Quinze
 
   - name: Fira Code
     urls:
       - https://github.com/tonsky/FiraCode
     designer:
     tags:
-      - paid, free, or open source (FIXME)
+      - open source
+      - ligatures
+      - popular programming font
 
   - name: Fira Mono
     urls:
@@ -919,6 +958,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - popular programming font
 
   - name: Misc Fixed 6x13
     urls:
@@ -927,6 +967,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - popular programming font
 
   - name: Misc Fixed 6x13, 7x14, 9x15, 10x20
     urls:
@@ -934,6 +975,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - popular programming font
 
   - name: Fixedsys
     urls:
@@ -1866,9 +1908,10 @@ fonts:
     urls:
       - http://www.fontsquirrel.com/fonts/oxygen-mono
       - http://www.google.com/fonts/specimen/Oxygen+Mono
-    designer:
+      - https://github.com/vernnobile/oxygenFont
+    designer: Vernon Adams
     tags:
-      - paid, free, or open source (FIXME)
+      - free
 
   - name: Panic Sans
     urls:
@@ -2330,7 +2373,8 @@ fonts:
     price: $10/clean $10/schmutzy
     designer:
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
+      - classic typewriter font
 
   - name: Source Code Pro
     urls:
@@ -2338,6 +2382,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - popular programming font
 
   - name: Space Mono
     urls:
@@ -2345,6 +2390,8 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - novelty
+      - ugly as sin
 
   - name: Speedy
     see also: Proggy
@@ -2544,9 +2591,6 @@ fonts:
     notes: |
       In response to a few rather obvious examples of poor typewriter
       font realism in recent movies, Fredrick Brennan created TT2020.
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
       Styled after early 20th-century typewriter faces, TT2020
       includes a clean variant as well as a variety of distressed
@@ -2554,21 +2598,12 @@ fonts:
       variants of each character, from which one is pseudo-randomly
       chosen when rendered, adding a degree of realism not likely
       hithertofore seen in typewriter fonts.
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
       Another example of a typeface that pseudo-randomly chooses from
       a number of variants of each character is Neue, the corporate
       font used by The New School <https://www.newschool.edu/>.
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
       TT2020 includes upright and italic variants.
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Tye Paloon
     urls:
@@ -2663,6 +2698,14 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+
+  - name: WikisourceMono
+    fork of: DPCustomMono2
+    designer:
+    urls:
+      - https://github.com/wikisource/WikisourceMono
+    license:
+      - free
 
   - name: Wire Type Mono
     urls:
