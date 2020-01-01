@@ -1814,7 +1814,7 @@ fonts:
       - paid, free, or open source (FIXME)
       - classic monospace font
     standards:
-      ISO 1073-2:1976 (E)
+      - ISO 1073-2:1976 (E)
 
   - name: OCRJ
     x-designer:
@@ -2282,26 +2282,16 @@ fonts:
     notes: |
         Monospaced version of San Francisco, Apple''s corporate system
         font.
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
-
-        Licensed only for creating UI mockups.
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
         Comes with Terminal.app and Xcode.app for use with them.
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
         San Francisco is not to be confused with the decorative
         "ransom note" bitmap typeface known as "San Francisco" that
         was distributed with the original Macintosh.
-    designer:
+
+      - Licensed only for creating UI mockups.
     tags:
-      - paid, free, or open source (FIXME)
+      - limited license
 
   - name: SGI Screen
     urls:
