@@ -461,6 +461,8 @@ fonts:
   - name: Courier
     urls: https://en.wikipedia.org/wiki/Courier_(typeface)
     designer: Howard "Bud" Kettler
+    tags:
+      - royalty free
     notes: |
       Courier was commissioned by IBM to become a standard typewriter
       font for the typewriter industry.  As such, IBM deliberately did
