@@ -64,6 +64,18 @@ as this one does.
 
 -   http://luc.devroye.org/mono.html
 
+-   http://consowah.blogspot.com/2007/06/monospacefixed-width-programmers-fonts.html
+
+-   http://www.lowing.org/fonts/
+
+-   http://www.cfcl.com/vlb/h/fontmono.html
+
+## Collections of Fonts
+
+-   http://int10h.org/oldschool-pc-fonts/fontlist/
+
+-   https://github.com/chrissimpkins/codeface
+
 ## Font Patches
 
 ### Nerd Fonts
