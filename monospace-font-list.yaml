@@ -46,10 +46,8 @@ fonts:
   - name: 64-SRC
     urls:
       - https://www.myfonts.com/fonts/ilott-type/64-src/
-    foundry:
-      name: ILOTT TYPE
-      urls:
-        - http://luc.devroye.org/fonts-87939.html
+      - http://luc.devroye.org/fonts-87939.html
+    foundry: ILOTT TYPE
     tags:
       - ibm
       - selectric
@@ -84,10 +82,7 @@ fonts:
     urls:
       - https://github.com/alif-type/amiri-typewriter
     language/script: Arabic
-    foundry:
-      name: Alif Type
-      urls:
-        - https://github.com/alif-type
+    foundry: Alif Type
     tags:
       - open source
 
@@ -126,10 +121,7 @@ fonts:
     urls:
       - https://github.com/fitojb/anka-coder-fonts
       - https://fontlibrary.org/en/font/anka-coder
-    designer:
-      name: Adolfo Jayme-Barrientos
-      urls:
-        - https://github.com/fitojb
+    designer: Adolfo Jayme-Barrientos
     tags:
       - open source
 
@@ -145,8 +137,7 @@ fonts:
     x-tags:
       - popular
       - ofl
-    designer:
-      name: Mark Simonson
+    designer: Mark Simonson
     tags:
       - open source
 
@@ -2229,6 +2220,9 @@ fonts:
   - name: Screenwriter\'s Typewriter Fonts Pro
     urls:
       - http://www.vintagetype.com/screenwriters/
+      - http://luc.devroye.org/fonts-27181.html
+      - http://web.archive.org/web/20160207162012/http://vintagetype.com/Vintage_Type.html
+      - http://web.archive.org/web/20150909202226/http://www.vintagetype.com/Vintage_Type_-_Pro_Typewriter_Fonts.html
     tags:
       - paid
       - classic traditional typewriter font
@@ -2246,11 +2240,6 @@ fonts:
         - VTScreenplay Oliver
         - VTScreenplay Smith
         - VTScreenplay Underwood
-      Listed:
-        - http://luc.devroye.org/fonts-27181.html
-      Archived:
-        - http://web.archive.org/web/20160207162012/http://vintagetype.com/Vintage_Type.html
-        - http://web.archive.org/web/20150909202226/http://www.vintagetype.com/Vintage_Type_-_Pro_Typewriter_Fonts.html
 
       [1] https://www.literatureandlatte.com/forum/viewtopic.php?t=41122&start=45
 
@@ -2289,7 +2278,7 @@ fonts:
         "ransom note" bitmap typeface known as "San Francisco" that
         was distributed with the original Macintosh.
 
-      - Licensed only for creating UI mockups.
+        - Licensed only for creating UI mockups.
     tags:
       - limited license
 
