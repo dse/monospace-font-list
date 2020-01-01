@@ -1,22 +1,30 @@
 ---
 todo:
   - include https://app.programmingfonts.org/ links for all fonts it demos.
-  - tag all monospace variants of proportional fonts with 'monospace variant of proportional font'.
-    Examples are Arial Monospaced and ITC Souvenir Monospace.
-  - tag all implementations of courier with 'courier implementation'.
-  - tag all forks of bitstream vera sans mono with 'fork of bitstream vera sans mono'.
-  - tag all popular and semi-popular programming fonts with 'popular programming font'.
-  - tag all classic typewriter fonts with 'classic typewriter font'.
-    Exceptions are: Courier, Prestige
-  - tag all fonts with ligatures with 'ligatures'
+  - tags to use:
+      - monospace variant of a proportional font (e.g., Arial Monospaced; ITC Souvenir Monospaced; Monospace 821)
+      - implementation of Courier
+      - implementation of Courier, kind of
+      - fork of Bitstream Vera Sans Mono
+      - fork of DejaVu Sans Mono
+      - programmer/coder oriented font
+      - classic traditional typewriter font (e.g., Smith, Underwood, Royal, Olivetti, etc.)
+      - classic typewriter font (e.g., Prestige, Courier, Letter Gothic, Orator, etc.)
+      - classic monospace font (e.g., OCR-A, OCR-B, etc., never used on typewriters)
+      - classic line printer font
+      - ligatures (e.g., Hasklig)
+      - dot matrix
+      - vectorized dot matrix (e.g., Hermit)
+      - terminal font
+      - vectorized terminal font (e.g., 3270; Hermit)
   - standard tag for software with which fonts are bundled
   - look through font lists
-  - tag all dot matrix fonts with 'dot matrix'
 fonts:
   - name: 1403 Vintage Mono
     urls:
       - https://1403.slantedhall.com/
     tags:
+      - classic line printer font
       - ibm line printer
       - paid
     designer:
@@ -30,7 +38,8 @@ fonts:
       - ibm 3270
       - terminal
       - open source
-      - popular programming font
+      - programmer/coder oriented font
+      - vectorized terminal font
     designer:
       name: Ricardo Bánffy
 
@@ -45,6 +54,7 @@ fonts:
       - ibm
       - selectric
       - paid
+      - classic typewriter font
     similar to: orator
 
   - name: Agave
@@ -232,7 +242,6 @@ fonts:
   - name: Autocode
     urls:
       - https://www.myfonts.com/fonts/aviation/autocode/
-    price: $35
     foundry: AVP
     tags:
       - paid
@@ -305,7 +314,7 @@ fonts:
     foundry: Bitstream
     tags:
       - paid
-      - classic typewriter font
+      - classic traditional typewriter font
 
   - name: Bitstream Vera Sans Mono
     urls:
@@ -455,7 +464,7 @@ fonts:
     foundry: Microsoft
     tags:
       - paid
-      - popular programming font
+      - programmer/coder oriented font
 
   - name: Cosmic Sans Neue Mono
     now known as: Fantasque Sans Mono
@@ -715,7 +724,7 @@ fonts:
       original.
     tags:
       - open source
-      - popular programming font
+      - programmer/coder oriented font
 
   - name: DF Staple Mono
     urls:
@@ -798,7 +807,7 @@ fonts:
     foundry: Elsner+Flake
     tags:
       - paid
-      - classic typewriter font
+      - classic traditional typewriter font
 
   - name: Effects Eighty
     urls:
@@ -831,7 +840,7 @@ fonts:
     designer: Peter Wiegel
     tags:
       - free
-      - classic typewriter font
+      - classic traditional typewriter font
 
   - name: Espresso Mono
     urls:
@@ -948,7 +957,7 @@ fonts:
     tags:
       - open source
       - ligatures
-      - popular programming font
+      - programmer/coder oriented font
 
   - name: Fira Mono
     urls:
@@ -958,7 +967,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
-      - popular programming font
+      - programmer/coder oriented font
 
   - name: Misc Fixed 6x13
     urls:
@@ -967,7 +976,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
-      - popular programming font
+      - programmer/coder oriented font
 
   - name: Misc Fixed 6x13, 7x14, 9x15, 10x20
     urls:
@@ -975,7 +984,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
-      - popular programming font
+      - programmer/coder oriented font
 
   - name: Fixedsys
     urls:
@@ -1351,13 +1360,12 @@ fonts:
       - paid, free, or open source (FIXME)
 
   - name: Letter Gothic
-    x-tags:
-      - classic
     urls:
       - https://fonts.adobe.com/fonts/letter-gothic
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - classic typewriter font
 
   - name: LH Mono Slab
     urls:
@@ -1377,18 +1385,16 @@ fonts:
   - name: Linefeed
     urls:
       - http://www.myfonts.com/fonts/typodermic/linefeed/
-    price: $16
     designer:
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
 
   - name: Lineto Excellent
-    price: $
     urls:
       - https://lineto.com/typefaces/excellent
     designer:
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
 
   - name: Linux Console Fonts for Windows
     urls:
@@ -1415,12 +1421,10 @@ fonts:
   - name: LTC Remington Typewriter
     urls:
       - http://new.myfonts.com/fonts/lanston/ltc-remington-typewriter/
-    price: $25/wt or $40/pro wt
-    x-tags:
-      - classic
     designer:
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
+      - classic traditional typewriter font
 
   - name: Lucida Console
     urls:
@@ -1645,14 +1649,14 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
 
-  - name: Monospace 821 $
+  - name: Monospace 821
     urls:
       - https://www.myfonts.com/fonts/bitstream/monospace-821/
       - https://www.linotype.com/1085320/monospace-821-family.html
       - https://www.fonts.com/font/bitstream/monospace-821
     designer:
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
 
   - name: MonosapceTypewriter
     urls:
@@ -1743,10 +1747,9 @@ fonts:
   - name: Nitti
     urls:
       - https://www.boldmonday.com/typeface/nitti/
-    price: $
     designer:
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
 
   - name: Normafixed
     urls:
@@ -1790,22 +1793,28 @@ fonts:
       - https://en.wikipedia.org/wiki/OCR-A
       - https://typekit.com/fonts/ocr-a
       - { type: 'free version', url: 'https://osdn.net/projects/tsukurimashou/releases/56948' }
-    x-tags:
-      - classic
-    designer:
+    foundry: American Type Founders
     tags:
       - paid, free, or open source (FIXME)
+      - classic monospace font
+    standardized:
+      - ANSI X3.17-1981
+      - ISO 1073-1:1976
+      - DIN 66008
+    notes: |
+      Many free implementations are available; see the Wikipedia article.
 
   - name: OCR-B
     urls:
       - https://typekit.com/fonts/ocr-b
       - https://en.wikipedia.org/wiki/OCR-B
       - { type: 'free version', url: 'https://osdn.net/projects/tsukurimashou/releases/56948' }
-    x-tags:
-      - classic
-    designer:
+    designer: Adrian Frutiger
     tags:
       - paid, free, or open source (FIXME)
+      - classic monospace font
+    standards:
+      ISO 1073-2:1976 (E)
 
   - name: OCRJ
     x-designer:
@@ -1863,12 +1872,12 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
 
-  - name: Operator Mono $
+  - name: Operator Mono
     urls:
       - http://www.typography.com/fonts/operator/overview/
     designer:
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
 
   - name: Opti
     see also: Proggy
@@ -1879,13 +1888,12 @@ fonts:
       - paid, free, or open source (FIXME)
 
   - name: Orator
-    x-tags:
-      - classic
     urls:
       - https://www.myfonts.com/fonts/adobe/orator/
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - classic typewriter font
 
   - name: Osaka Regular-Mono
     urls:
@@ -1947,14 +1955,15 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - classic typewriter font
 
   - name: Pitch
     urls:
       - https://klim.co.nz/retail-fonts/pitch/
-    price: $
     designer:
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
+      - classic typewriter font
 
   - name: Pixel Carnage
     urls:
@@ -2001,6 +2010,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - programmer/coder oriented font
 
   - name: PR Number 3
     urls:
@@ -2022,6 +2032,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - programmer/coder oriented font
 
   - name: Essential PragmataPro
     urls:
@@ -2029,6 +2040,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - programmer/coder oriented font
 
   - name: Press Start 2P
     urls:
@@ -2039,16 +2051,14 @@ fonts:
       - paid, free, or open source (FIXME)
 
   - name: Prestige (Elite)
-    x-tags:
-      - classic
     urls:
       - https://en.wikipedia.org/wiki/Prestige_Elite
       - http://www.myfonts.com/fonts/urw/prestige-elite/
       - http://www.myfonts.com/fonts/adobe/prestige-elite/
-    price: $
-    designer:
+    designer: Clayton Smith
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
+      - classic typewriter font
 
   - name: Print Out
     urls:
@@ -2205,6 +2215,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - classic typewriter font
 
   - name: Sauna Mono Pro
     urls:
@@ -2218,49 +2229,30 @@ fonts:
   - name: Screenwriter\'s Typewriter Fonts Pro
     urls:
       - http://www.vintagetype.com/screenwriters/
-    x-tags:
-      - classic
+    tags:
+      - paid
+      - classic traditional typewriter font
     notes: |
       Vintage Type Foundary was Mark Alan Thomas, an artist from Santa Barbara, CA.
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
       Its web site was http://www.vintagetype.com/ but that's domain parked now.
       Mark's web site was http://www.markalanthomas.com/ but that's domain parked too.
       His Flickr is at https://www.flickr.com/people/markalanthomas/
       He had a squarespace at http://maralatho.squarespace.com/
       Email address was/is vintype@gmail.com vintagetype@mac.com
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
       List of Fonts:
         - VTScreenplay Remington
         - VTScreenplay Oliver
         - VTScreenplay Smith
         - VTScreenplay Underwood
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
-
-      [1] https://www.literatureandlatte.com/forum/viewtopic.php?t=41122&start=45
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
-
       Listed:
         - http://luc.devroye.org/fonts-27181.html
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
-
       Archived:
         - http://web.archive.org/web/20160207162012/http://vintagetype.com/Vintage_Type.html
         - http://web.archive.org/web/20150909202226/http://www.vintagetype.com/Vintage_Type_-_Pro_Typewriter_Fonts.html
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
+
+      [1] https://www.literatureandlatte.com/forum/viewtopic.php?t=41122&start=45
 
   - name: Script 12 Pitch
     urls:
@@ -2272,6 +2264,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - classic traditional typewriter font
 
   - name: Segoe UI Mono
     urls:
@@ -2370,11 +2363,10 @@ fonts:
   - name: Smith Premier NF
     urls:
       - http://www.myfonts.com/fonts/nicksfonts/smith-premier-nf/
-    price: $10/clean $10/schmutzy
     designer:
     tags:
       - paid
-      - classic typewriter font
+      - classic traditional typewriter font
 
   - name: Source Code Pro
     urls:
@@ -2382,7 +2374,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
-      - popular programming font
+      - programmer/coder oriented font
 
   - name: Space Mono
     urls:
@@ -2564,6 +2556,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - classic typewriter font
 
   - name: Triskweline
     urls:
@@ -2576,9 +2569,6 @@ fonts:
     notes: |
       According to [1], this is the font that the popular grungy
       typewriter font FF Trixie is based on.
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
       [1] https://www.creativebloq.com/typography/best-typewriter-fonts-10135084
     designer:
@@ -2680,14 +2670,6 @@ fonts:
     urls:
       - https://fedoraproject.org/wiki/VT323_Fonts
       - https://fonts.google.com/specimen/VT323
-    designer:
-    tags:
-      - paid, free, or open source (FIXME)
-
-  - name: VTScreenplay Remington, Oliver, etc.
-    see also: "Screenwriter's Typewriter Fonts Pro"
-    x-tags:
-      - classic
     designer:
     tags:
       - paid, free, or open source (FIXME)
