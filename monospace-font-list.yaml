@@ -78,6 +78,13 @@ fonts:
     tags:
       - paid
 
+  - name: Akkurat Mono
+    foundry: Lineto
+    urls:
+      - https://lineto.com/typefaces/akkurat-mono/
+    tags:
+      - paid
+
   - name: Amiri Typewriter
     urls:
       - https://github.com/alif-type/amiri-typewriter
@@ -212,7 +219,7 @@ fonts:
     tags:
       - paid
 
-  - name: AUdimat Mono
+  - name: Audimat Mono
     urls:
       - https://www.smeltery.net/en/fonts/dead
       - https://www.fontsquirrel.com/fonts/audimat-mono
@@ -234,6 +241,13 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/aviation/autocode/
     foundry: AVP
+    tags:
+      - paid
+
+  - name: Autoscape
+    foundry: Lineto
+    urls:
+      - https://lineto.com/typefaces/autoscape
     tags:
       - paid
 
@@ -337,6 +351,13 @@ fonts:
     tags:
       - free
 
+  - name: Bradford Mono
+    foundry: Lineto
+    urls:
+      - https://lineto.com/typefaces/bradford-mono
+    tags:
+      - paid
+
   - name: Bront
     urls:
       - https://github.com/chrismwendt/bront
@@ -378,6 +399,13 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+
+  - name: Circular Mono
+    foundry: Lineto
+    urls:
+      - https://lineto.com/typefaces/circular-mono
+    tags:
+      - paid
 
   - name: CMU Typewriter
     urls:
@@ -551,6 +579,13 @@ fonts:
     tags:
       - open source
       - implementation of Courier, sort of
+
+  - name: Courier Sans Mono
+    foundry: Lineto
+    urls:
+      - https://lineto.com/typefaces/courier-sans-mono
+    tags:
+      - paid
 
   - name: Courier SB
     notes: |
@@ -858,6 +893,13 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
 
+  - name: Excellent
+    urls:
+      - https://lineto.com/typefaces/excellent
+    foundry: Lineto
+    tags:
+      - paid
+
   - name: Fabrikat Mono
     urls:
       - https://www.myfonts.com/fonts/hvdfonts/fabrikat-mono/
@@ -1090,12 +1132,17 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
 
+  - name: GT America Mono
+    urls:
+      - https://www.grillitype.com/typeface/gt-america
+    tags:
+      - paid
+
   - name: GT Pressura Mono
     urls:
       - https://www.grillitype.com/typeface/gt-pressura
-    designer:
     tags:
-      - paid, free, or open source (FIXME)
+      - paid
 
   - name: GwdTE 437
     urls:
@@ -1358,6 +1405,13 @@ fonts:
       - paid, free, or open source (FIXME)
       - classic typewriter font
 
+  - name: Lettera Mono
+    foundry: Lineto
+    urls:
+      - https://lineto.com/typefaces/lettera-mono
+    tags:
+      - paid
+
   - name: LH Mono Slab
     urls:
       - https://coliss.com/articles/freebies/freebies-font-by-lufthamn-studio.html
@@ -1376,13 +1430,6 @@ fonts:
   - name: Linefeed
     urls:
       - http://www.myfonts.com/fonts/typodermic/linefeed/
-    designer:
-    tags:
-      - paid
-
-  - name: Lineto Excellent
-    urls:
-      - https://lineto.com/typefaces/excellent
     designer:
     tags:
       - paid
@@ -1566,6 +1613,13 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
 
+  - name: Mono
+    foundry: Lineto
+    urls:
+      - https://lineto.com/typefaces/mono
+    tags:
+      - paid
+
   - name: Mono Condensed
     x-designer:
       name: ParaType
@@ -1734,6 +1788,17 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+
+  - name: URW Nimbus Mono L
+    urls:
+      - https://www.fontsquirrel.com/fonts/nimbus-mono
+      - https://en.wikipedia.org/wiki/Nimbus_Mono_L
+      - https://git.ghostscript.com/?p=urw-core35-fonts.git;a=summary
+    foundry: URW++
+    designer:
+    tags:
+      - paid, free, or open source (FIXME)
+      - implementation of Courier
 
   - name: Nitti
     urls:
@@ -2172,6 +2237,13 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
 
+  - name: Replica Mono
+    foundry: Lineto
+    urls:
+      - https://lineto.com/typefaces/replica-mono
+    tags:
+      - paid
+
   - name: Resolution
     urls:
       - https://www.myfonts.com/fonts/emil-kozole/resolution/
@@ -2304,6 +2376,13 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
 
+  - name: Simple
+    foundry: Lineto
+    urls:
+      - https://lineto.com/typefaces/simple
+    tags:
+      - paid
+
   - name: SK Modernist Mono
     urls:
       - http://seankanedesign.com/work/sk-modernist
@@ -2394,6 +2473,13 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+
+  - name: Superstudio
+    foundry: Lineto
+    urls:
+      - https://lineto.com/typefaces/superstudio
+    tags:
+      - paid
 
   - name: SV Basic Manual
     urls:
@@ -2498,6 +2584,13 @@ fonts:
     notes: |
       based on URW Nimbus Mono L
 
+  - name: Thermo
+    foundry: Lineto
+    urls:
+      - https://lineto.com/typefaces/thermo
+    tags:
+      - paid
+
   - name: TheSansTypewriter; TheSansMono; etc.
     urls:
       - http://www.lucasfonts.com/
@@ -2597,6 +2690,13 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
 
+  - name: Unica77 Mono
+    foundry: Lineto
+    urls:
+      - https://lineto.com/typefaces/unica77-mono
+    tags:
+      - paid
+
   - name: Unotype
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
@@ -2604,16 +2704,12 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
 
-  - name: URW Nimbus Mono L
+  - name: Valentine
+    foundry: Lineto
     urls:
-      - https://www.fontsquirrel.com/fonts/nimbus-mono
-      - https://en.wikipedia.org/wiki/Nimbus_Mono_L
-      - https://git.ghostscript.com/?p=urw-core35-fonts.git;a=summary
-    foundry: URW++
-    designer:
+      - https://lineto.com/typefaces/valentine
     tags:
-      - paid, free, or open source (FIXME)
-      - implementation of Courier
+      - paid
 
   - name: Verily Serif Mono
     urls:
