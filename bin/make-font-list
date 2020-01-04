@@ -34,7 +34,15 @@ foreach my $font (@{$doc->{fonts}}) {
             $urlh->{priority} = -1;
         } elsif (defined $url) {
             my $uri = URI->new($url);
-            my $host = $uri->host;
+            my $host;
+            eval {
+                $host = $uri->host;
+            };
+            if ($@) {
+                my $error = $@;
+                warn $name;
+                die $error;
+            }
             if ($host =~ m{(^|\.)github\.com$})             { $urlh->{priority} =  0.9; }
             elsif ($host =~ m{(^|\.)openfontlibrary\.org$}) { $urlh->{priority} =  0.8; }
             elsif ($host =~ m{(^|\.)fontlibrary\.org$})     { $urlh->{priority} =  0.8; }
