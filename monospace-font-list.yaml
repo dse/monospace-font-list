@@ -562,6 +562,7 @@ fonts:
     foundry: Bitstream
     urls:
       - http://openfontlibrary.org/en/font/courier-code
+    tags:
       - programmer/coder oriented font
 
   - name: Courier Final Draft
@@ -861,6 +862,8 @@ fonts:
     tags:
       - open source
 
+  - name: Droid Sans Mono Slashed
+
   - name: EB Jessica
     designer: Erik Bertell
     keywords: novelty
@@ -992,6 +995,7 @@ fonts:
     tags:
       - open source
       - if you like Comic Sans
+      - ligatures
 
   - name: Feggolite Mono
     urls:
@@ -2043,6 +2047,9 @@ fonts:
       - paid, free, or open source (FIXME)
       - programmer/coder oriented font?
 
+  - name: OpenGenera/LispM
+
+
   - name: Operator Mono
     urls:
       - http://www.typography.com/fonts/operator/overview/
@@ -2949,4 +2956,3 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
-

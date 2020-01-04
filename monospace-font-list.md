@@ -60,6 +60,8 @@
 -   tags:
 
     -   open source
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <https://github.com/agarick/agave> [0.9]
@@ -156,6 +158,8 @@
 -   tags:
 
     -   open source
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <https://fontlibrary.org/en/font/anka-coder> [0.8]
@@ -173,6 +177,8 @@
 -   tags:
 
     -   open source
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <http://www.google.com/fonts/specimen/Anonymous+Pro> [0.6]
@@ -184,6 +190,18 @@
     -   popular
     
     -   ofl
+
+## [Another Man's Treasure](http://www.kreativekorp.com/software/fonts/trs80.shtml)
+
+-   designer: Rebecca Bettencourt
+
+-   notes:
+
+        TRS-80 fonts
+
+-   tags:
+
+    -   free
 
 ## [Aperçu Mono](https://www.colophon-foundry.org/typefaces/apercu/)
 
@@ -204,6 +222,8 @@
 -   tags:
 
     -   public domain
+    
+    -   programmer/coder oriented font
 
 ## [APL385 Unicode](http://apl385.com/fonts/)
 
@@ -219,6 +239,8 @@
 -   tags:
 
     -   public domain
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <http://www.dyalog.com/apl-font-keyboard.htm> [1] [old]
@@ -263,6 +285,8 @@
 -   tags:
 
     -   paid
+    
+    -   monospace variant of a proportional font
 
 ## [Ascender Sans Mono](https://www.myfonts.com/fonts/ascender/ascender-sans-mono/)
 
@@ -302,6 +326,8 @@
 -   tags:
 
     -   free?
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <https://www.dafont.com/aurulent-sans-mono.font> [0.5]
@@ -416,11 +442,15 @@
 -   notes:
 
         Bitstream Vera Sans Mono is the basis of numerous open source
-        fonts, the first and most popular of which is DejaVu Sans Mono.
+        fonts, the first and most popular of which is Deja Vu Sans Mono.
 
 -   tags:
 
     -   open source
+    
+    -   monospace variant of a proportional font
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/> [1]
@@ -441,6 +471,8 @@
     -   fork of Droid Sans Mono
     
     -   ligatures
+    
+    -   programmer/coder oriented font
 
 ## [BPMono](https://www.fontsquirrel.com/fonts/BPmono)
 
@@ -449,6 +481,8 @@
 -   tags:
 
     -   free
+    
+    -   programmer/coder oriented font
 
 ## [Bradford Mono](https://lineto.com/typefaces/bradford-mono)
 
@@ -464,11 +498,13 @@
 
 -   notes:
 
-        Programming-oriented forks of DejaVu Sans Mono and Ubuntu Mono
+        Programming-oriented forks of Deja Vu Sans Mono and Ubuntu Mono
 
 -   tags:
 
     -   open source
+    
+    -   programmer/coder oriented font
 
 ## [BSU Kermit](http://www.lowing.org/fonts/)
 
@@ -483,9 +519,21 @@
 -   tags:
 
     -   free
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <https://www.myfonts.com/fonts/jan-fromm/camingo-code/> [0.7]
+
+## [Cascadia Code](https://github.com/microsoft/cascadia-code)
+
+-   tags:
+
+    -   ligatures
+    
+    -   open source
+    
+    -   programmer/coder oriented font
 
 ## [Centima Mono](http://www.tipografiaramis.com/centima-mono.html)
 
@@ -506,6 +554,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   monospace variant of a proportional font
 
 -   urls:
     -   via <http://www.lowing.org/fonts/> [-1] [via]
@@ -546,6 +596,8 @@
     -   open source
     
     -   fork of Ubuntu Mono
+    
+    -   programmer/coder oriented font
 
 ## [Coding Font Tobi](https://proggyfonts.net/coding-font-tobi/)
 
@@ -554,6 +606,8 @@
 -   tags:
 
     -   free
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <https://github.com/chrissimpkins/codeface/tree/master/fonts/coding-font-tobi> [0.9]
@@ -602,6 +656,8 @@
 -   tags:
 
     -   open source
+    
+    -   programmer/coder oriented font
 
 ## [Consolas](https://www.microsoft.com/typography/fonts/family.aspx?FID=300)
 
@@ -625,6 +681,8 @@
 -   tags:
 
     -   open source
+    
+    -   programmer/coder oriented font
 
 ## [Courier](https://en.wikipedia.org/wiki/Courier_(typeface))
 
@@ -670,6 +728,10 @@
 ## [Courier Code](http://openfontlibrary.org/en/font/courier-code)
 
 -   foundry: Bitstream
+
+-   tags:
+
+    -   programmer/coder oriented font
 
 ## [Courier Final Draft](https://store.finaldraft.com/final-draft-11.html)
 
@@ -721,6 +783,8 @@
     -   open source
     
     -   implementation of Courier, sort of
+    
+    -   programmer/coder oriented font
 
 ## [Courier Prime Sans](https://quoteunquoteapps.com/courierprime/)
 
@@ -788,6 +852,8 @@
 -   tags:
 
     -   open source
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <http://openfontlibrary.org/en/font/cousine> [0.8]
@@ -801,6 +867,8 @@
 -   tags:
 
     -   open source
+    
+    -   programmer/coder oriented font
 
 ## [CP1250 Terminal Fonts](http://www.lowing.org/fonts/)
 
@@ -861,6 +929,8 @@
 -   tags:
 
     -   open source
+    
+    -   programmer/coder oriented font
 
 ## [DaddyTimeMono](https://github.com/BourgeoisBear/DaddyTimeMono)
 
@@ -869,6 +939,8 @@
 -   tags:
 
     -   open source
+    
+    -   programmer/coder oriented font
 
 ## [Dark Courier](http://www.rolandstroud.com/Fonts-1.html)
 
@@ -930,13 +1002,29 @@
     -   <http://www.tipografiaramis.com/decima-mono-pro.html> [1]
     -   <http://www.tipografiaramis.com/decima-mono-round.html> [1]
 
-## [DejaVu Sans Mono](http://dejavu-fonts.org/wiki/Main_Page)
+## [Deja Vu Sans Code](https://github.com/SSNikolaevich/DejaVuSansCode)
+
+-   notes:
+
+        Adds programming ligatures.
+
+-   tags:
+
+    -   open source
+    
+    -   fork of Bitstream Vera / Deja Vu Sans Mono
+    
+    -   ligatures
+    
+    -   programmer/coder oriented font
+
+## [Deja Vu Sans Mono](http://dejavu-fonts.org/wiki/Main_Page)
 
 -   fork of: Bitstream Vera Sans Mono
 
 -   notes:
 
-        DejaVu Sans Mono is the granddaddy of all Bitstream Vera Sans
+        Deja Vu Sans Mono is the granddaddy of all Bitstream Vera Sans
         Mono forks, adding a wider range of characters atop Bitstream's
         original.
 
@@ -945,10 +1033,12 @@
     -   open source
     
     -   programmer/coder oriented font
+    
+    -   monospace variant of a proportional font
 
 -   urls:
     -   <https://dejavu-fonts.github.io/> [1]
-    -   <https://en.wikipedia.org/wiki/DejaVu_fonts> [0.1]
+    -   <https://en.wikipedia.org/wiki/Deja Vu_fonts> [0.1]
 
 ## [DF Staple Mono](https://www.myfonts.com/fonts/dutchfonts/df-staple-mono/)
 
@@ -1028,6 +1118,8 @@
     -   <https://fonts.google.com/specimen/Droid+Sans+Mono> [0.7]
     -   <https://en.wikipedia.org/wiki/Droid_fonts> [0.1]
 
+## Droid Sans Mono Slashed
+
 ## [EB Jessica](https://www.myfonts.com/fonts/erik-bertell/eb-jessica/)
 
 -   designer: Erik Bertell
@@ -1086,6 +1178,8 @@
 -   tags:
 
     -   free to use only
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released> [1]
@@ -1112,6 +1206,8 @@
     -   paid, free, or open source (FIXME)
     
     -   fork of Bitstream Vera Sans Mono
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <https://github.com/jmazzi/dotfiles/blob/master/.fonts/EspressoMonoRegular.ttf> [0.9]
@@ -1154,6 +1250,30 @@
 -   urls:
     -   <https://www.myfonts.com/fonts/hvdfonts/fabrikat-mono/> [0.7]
 
+## [Fairfax](http://www.kreativekorp.com/software/fonts/fairfax.shtml)
+
+-   designer: Rebecca Bettencourt
+
+-   tags:
+
+    -   free
+
+## [Fairfax HD](http://www.kreativekorp.com/software/fonts/fairfaxhd.shtml)
+
+-   designer: Rebecca Bettencourt
+
+-   tags:
+
+    -   free
+
+## [Fairfax Serif](http://www.kreativekorp.com/software/fonts/fairfax.shtml)
+
+-   designer: Rebecca Bettencourt
+
+-   tags:
+
+    -   free
+
 ## [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
 
 -   designer: Jany Belluz
@@ -1163,6 +1283,8 @@
     -   open source
     
     -   if you like Comic Sans
+    
+    -   ligatures
 
 -   urls:
     -   <https://fontlibrary.org/en/font/fantasque-sans-mono> [0.8]
@@ -1244,8 +1366,14 @@
     -   open source
     
     -   dot matrix
+    
+    -   programmer/coder oriented font
 
 ## [Fira Code](https://github.com/tonsky/FiraCode)
+
+-   notes:
+
+        adds ligatures to Fira Mono
 
 -   tags:
 
@@ -1259,7 +1387,7 @@
 
 -   tags:
 
-    -   paid, free, or open source (FIXME)
+    -   open source
     
     -   programmer/coder oriented font
 
@@ -1306,6 +1434,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   ligatures
 
 ## [Flexi IBM VGA](https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/)
 
@@ -1392,6 +1522,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Greenwood Pro](https://www.myfonts.com/fonts/protimient/greenwood/)
 
@@ -1404,6 +1536,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <https://en.wikipedia.org/wiki/GNU_Unifont> [0.1]
@@ -1428,11 +1562,15 @@
 
 ## [Hack](https://github.com/chrissimpkins/Hack)
 
--   fork of: DejaVu Sans Mono
+-   fork of: Deja Vu Sans Mono
 
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   fork of Bitstream Vera / Deja Vu Sans Mono
+    
+    -   programmer/coder oriented font
 
 ## [Hasklig](https://github.com/i-tu/Hasklig)
 
@@ -1441,6 +1579,10 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   ligatures
+    
+    -   programmer/coder oriented font
 
 ## [Haskplex](https://github.com/huytd/haskplex-font)
 
@@ -1449,6 +1591,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Heimat Mono](http://www.atlasfonts.com/typefaces/heimat-mono/)
 
@@ -1469,6 +1613,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   monospace variant of a proportional font
 
 ## [Hermit](https://pcaro.es/p/hermit/)
 
@@ -1490,6 +1636,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <https://github.com/iaolo/iA-Fonts> [0.9]
@@ -1499,30 +1647,43 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
+
+-   urls:
+    -   <https://github.com/IBM/plex> [0.9]
 
 ## [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Inconsolata-LGC (adds cyrillics, bold, and italic)](https://github.com/DeLaGuardo/Inconsolata-LGC)
 
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Inconsolata-dz (adds straight quotes)](https://www.pronoy.in/2017/01/07/inconsolata-dz-adds-straight-quote-marks-to-inconsolata/)
 
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Inconsolata-g (adds dotted zero to Inconsolata-dz)](http://leonardo-m.livejournal.com/77079.html)
 
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Ingrid Mono](https://www.myfonts.com/fonts/jorg-schmitt/ingrid-mono/)
 
@@ -1539,6 +1700,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Intimo Two](https://www.myfonts.com/fonts/fw-alias/intimo/two/)
 
@@ -1551,6 +1714,10 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   ligatures
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <https://github.com/be5invis/Iosevka> [0.9]
@@ -1579,6 +1746,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   monospace variant of a proportional font
 
 -   urls:
     -   <https://www.myfonts.com/fonts/itc/souvenir-monospaced/> [0.7]
@@ -1662,6 +1831,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <https://github.com/theleagueof/league-mono> [0.9]
@@ -1781,6 +1952,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <https://lucidafonts.com/> [1]
@@ -1791,6 +1964,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Luxi Mono](https://www.fontsquirrel.com/fonts/luxi-mono)
 
@@ -1806,18 +1981,24 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [M+ 1mn](https://mplus-fonts.osdn.jp/about-en.html)
 
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [M+ 2m](https://mplus-fonts.osdn.jp/about-en.html)
 
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Maison Mono](https://www.milieugrotesque.com/specimen/maison/)
 
@@ -1844,25 +2025,31 @@
 
 ## [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface))
 
--   fork of: DejaVu Sans Mono
+-   fork of: Deja Vu Sans Mono
 
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   fork of Bitstream Vera / Deja Vu Sans Mono
 
 ## [Mensch](http://robey.lag.net/2010/06/21/mensch-font.html)
 
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Meslo](https://github.com/andreberg/Meslo-Font)
-
--   fork of: Menlo, which is based on DejaVu Sans Mono
 
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
+    
+    -   fork of Bitstream Vera / Deja Vu Sans Mono
 
 ## [Metrickal](https://github.com/robey/metrickal-typeface)
 
@@ -1948,6 +2135,10 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   ligatures
+    
+    -   programmer/coder oriented font
 
 ## [Monoist](https://hanken.co/products/monoist)
 
@@ -1960,6 +2151,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <https://github.com/madmalik/mononoki> [0.9]
@@ -1978,6 +2171,8 @@
 -   tags:
 
     -   paid
+    
+    -   monospace variant of a proportional font
 
 -   urls:
     -   <https://www.myfonts.com/fonts/bitstream/monospace-821/> [0.7]
@@ -2054,6 +2249,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <http://dev.naver.com/projects/nanumfont/> [-0.5] [original]
@@ -2116,6 +2313,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [NuSans Mono](http://www.cfcl.com/vlb/h/fontmono.html)
 
@@ -2185,9 +2384,17 @@
 
 ## [Office Code Pro](https://github.com/nathco/Office-Code-Pro)
 
+-   notes:
+
+        includes changes "made specifically for text editors and coding environments"
+
 -   tags:
 
-    -   paid, free, or open source (FIXME)
+    -   open source
+    
+    -   fork of Source Code Pro
+    
+    -   programmer/coder oriented font
 
 ## [Oloron Program](http://www.fontmenu.com/site/_program.html)
 
@@ -2220,9 +2427,13 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font?
 
 -   urls:
     -   <https://en.wikipedia.org/wiki/OpenDyslexic> [0.1]
+
+## OpenGenera/LispM
 
 ## [Operator Mono](http://www.typography.com/fonts/operator/overview/)
 
@@ -2261,6 +2472,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <https://github.com/RedHatBrand/Overpass> [0.9]
@@ -2272,6 +2485,8 @@
 -   tags:
 
     -   free
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <http://www.google.com/fonts/specimen/Oxygen+Mono> [0.6]
@@ -2298,6 +2513,18 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+
+## [Pet Me](http://www.kreativekorp.com/software/fonts/c64.shtml)
+
+-   designer: Rebecca Bettencourt
+
+-   notes:
+
+        Commodore PET/64 fonts
+
+-   tags:
+
+    -   free
 
 ## [PF Din Mono](https://www.myfonts.com/fonts/parachute/pf-din-mono/)
 
@@ -2346,13 +2573,16 @@
 
     -   paid, free, or open source (FIXME)
 
-## Plex Mono
-
--   now known as: IBM Plex Mono
+## [Plex Mono](https://ibm.github.io/type/#Intro)
 
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
+
+-   urls:
+    -   <https://github.com/IBM/plex> [0.9]
 
 ## [Pointfree](http://www.dafont.com/pointfree.font)
 
@@ -2374,15 +2604,27 @@
 
 ## [PR Number 3](http://www.kreativekorp.com/software/fonts/apple2.shtml)
 
+-   designer: Rebecca Bettencourt
+
+-   notes:
+
+        Apple II font
+
 -   tags:
 
-    -   paid, free, or open source (FIXME)
+    -   free
 
 ## [Print Char 21](http://www.kreativekorp.com/software/fonts/apple2.shtml)
 
+-   designer: Rebecca Bettencourt
+
+-   notes:
+
+        Apple II font
+
 -   tags:
 
-    -   paid, free, or open source (FIXME)
+    -   free
 
 ## [Pragmata and Pragmata Pro](http://www.fsd.it/fonts/pragma.htm)
 
@@ -2391,6 +2633,8 @@
     -   paid, free, or open source (FIXME)
     
     -   programmer/coder oriented font
+    
+    -   ligatures (Pragmata Pro)
 
 ## [Essential PragmataPro](https://www.myfonts.com/fonts/fsd/pragmata-pro/)
 
@@ -2443,6 +2687,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Proggy](http://www.proggyfonts.net/)
 
@@ -2455,6 +2701,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Proggy Square](http://www.proggyfonts.net/)
 
@@ -2479,12 +2727,16 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [PT Mono](http://paratype.com/public/)
 
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <http://www.google.com/fonts/specimen/PT+Mono> [0.6]
@@ -2509,6 +2761,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Raize](http://www.raize.com/devtools/tools/rzfont.asp)
 
@@ -2562,6 +2816,10 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
+    
+    -   monospace variant of a proportional font
 
 ## [Rubik Mono One](https://fonts.google.com/specimen/Rubik+Mono+One)
 
@@ -2662,6 +2920,8 @@
 -   tags:
 
     -   limited license
+    
+    -   programmer/coder oriented font
 
 -   urls:
     -   <https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface)> [0.1]
@@ -2680,6 +2940,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Sheldon](http://www.lowing.org/fonts/)
 
@@ -2700,6 +2962,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Skurier](https://www.myfonts.com/fonts/nowak/skurier/)
 
@@ -2741,6 +3005,12 @@
     
     -   classic traditional typewriter font
 
+## [Sometype Mono](http://monospacedfont.com/)
+
+-   tags:
+
+    -   programmer/coder oriented font
+
 ## [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 
 -   tags:
@@ -2758,6 +3028,8 @@
     -   novelty
     
     -   ugly as sin
+    
+    -   programmer/coder oriented font
 
 ## [Speedy](https://proggyfonts.net/speedy/)
 
@@ -2881,6 +3153,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   https://files.ax86.net/terminus-ttf
 
 -   urls:
     -   <https://files.ax86.net/terminus-ttf/> [1] [ttf conversion]
@@ -3017,6 +3291,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 ## [Unica77 Mono](https://lineto.com/typefaces/unica77-mono)
 
@@ -3046,6 +3322,14 @@
 
     -   paid, free, or open source (FIXME)
 
+## [Victor Mono](https://rubjo.github.io/victor-mono/)
+
+-   tags:
+
+    -   ligatures
+    
+    -   free
+
 ## [Vidilex](http://www.cfcl.com/vlb/h/fontmono.html)
 
 -   tags:
@@ -3057,6 +3341,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   programmer/coder oriented font
 
 -   x-designer:
 
@@ -3073,6 +3359,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   terminal font
 
 -   urls:
     -   <https://fonts.google.com/specimen/VT323> [0.7]
@@ -3122,6 +3410,8 @@
 -   Courier MM Screenwriter
 -   Courier Standard
 -   DEC VT330
+-   Droid Sans Mono Slashed
+-   OpenGenera/LispM
 -   PCMyungjo
 -   Triumph Durabel
 
