@@ -349,6 +349,14 @@ fonts:
       Bitstream Vera Sans Mono is the basis of numerous open source
       fonts, the first and most popular of which is Deja Vu Sans Mono.
 
+  - name: Bizcat
+    urls:
+      - https://robey.lag.net/2020/02/09/bizcat-bitmap-font.html
+    tags:
+      - open source
+      - bitmap
+    designer: Robey Pointer
+
   - name: Borg Sans Mono
     notes: |
       Borg Sans Mono is a fork of Droid Sans Mono, adding a slashed
