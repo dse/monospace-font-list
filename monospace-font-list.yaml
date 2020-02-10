@@ -54,6 +54,14 @@ fonts:
       - classic typewriter font
     similar to: orator
 
+  - name: Adobe Courier Bitmap Fonts
+    urls:
+      https://gitlab.freedesktop.org/xorg/font/adobe-75dpi
+      https://gitlab.freedesktop.org/xorg/font/adobe-100dpi
+    tags:
+      - bitmap
+      - paid, free, or open source (FIXME)
+
   - name: Agave
     urls:
       - https://github.com/agarick/agave
@@ -327,6 +335,12 @@ fonts:
     designer: Neal Fletcher
     tags:
       - free
+
+  - name: Bitstream Courier Type 1
+    urls:
+      - https://gitlab.freedesktop.org/xorg/font/bitstream-type1
+    tags:
+      - paid, free, or open source (FIXME)
 
   - name: Bitstream Pica 10 Pitch
     urls:
@@ -754,6 +768,16 @@ fonts:
       - paid, free, or open source (FIXME)
       - implementation of Courier
 
+  - name: DEC Terminal
+    urls:
+      - https://gitlab.freedesktop.org/xorg/font/bitstream-75dpi
+      - https://gitlab.freedesktop.org/xorg/font/bitstream-100dpi
+    tags:
+      - paid, free, or open source (FIXME)
+      - bitmap
+    notes: |
+      Fonts used on DECstation/VAXstation hardware
+
   - name: DEC Terminal Modern
     urls:
       - https://www.dafont.com/dec-terminal-modern.font
@@ -1094,14 +1118,21 @@ fonts:
       - open source
       - programmer/coder oriented font
 
+  - name: Misc Fixed
+    urls:
+      - https://gitlab.freedesktop.org/xorg/font/misc-misc
+    tags:
+      - paid, free, or open source (FIXME)
+      - bitmap
+
   - name: Misc Fixed 6x13
     urls:
       - http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/
       - https://github.com/staberas/project-singularity/blob/master/%20project-singularity/Project%20Singularity%20GL/data/Misc-Fixed.ttf
-    designer:
     tags:
       - paid, free, or open source (FIXME)
       - programmer/coder oriented font
+      - bitmap
 
   - name: Misc Fixed 6x13, 7x14, 9x15, 10x20
     urls:
@@ -1110,6 +1141,7 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
       - programmer/coder oriented font
+      - bitmap
 
   - name: Fixedsys
     urls:
@@ -1118,6 +1150,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - bitmap
 
   - name: Fixedsys Excelsior
     urls:
@@ -1125,6 +1158,7 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+      - bitmap
 
   - name: Fixedsys Excelsior with Ligatures
     urls:
@@ -1133,6 +1167,7 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
       - ligatures
+      - bitmap
 
   - name: Flexi IBM VGA
     urls:
@@ -1319,6 +1354,12 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
       - programmer/coder oriented font
+
+  - name: IBM Courier Type 1
+    urls:
+      - https://gitlab.freedesktop.org/xorg/font/ibm-type1
+    tags:
+      - paid, free, or open source (FIXME)
 
   - name: IBM Plex Mono
     urls:
@@ -1588,6 +1629,14 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
 
+  - name: Lucida Typewriter Bitmap Fonts
+    urls:
+      - https://gitlab.freedesktop.org/xorg/font/bh-lucidatypewriter-75dpi
+      - https://gitlab.freedesktop.org/xorg/font/bh-lucidatypewriter-100dpi
+    tags:
+      - paid, free, or open source (FIXME)
+      - bitmap
+
   - name: Lucida Typewriter
     urls:
       - https://en.wikipedia.org/wiki/Lucida
@@ -1625,6 +1674,8 @@ fonts:
 
   - name: Luxi Mono
     urls:
+      - https://gitlab.freedesktop.org/xorg/font/bh-type1
+      - https://gitlab.freedesktop.org/xorg/font/bh-ttf
       - https://www.fontsquirrel.com/fonts/luxi-mono
       - https://en.wikipedia.org/wiki/Luxi_fonts
     designer:
@@ -2448,6 +2499,13 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
 
+  - name: Schumaker Misc
+    urls:
+      - https://gitlab.freedesktop.org/xorg/font/schumacher-misc
+    tags:
+      - paid, free, or open source (FIXME)
+      - bitmap
+
   - name: Screenwriter\'s Typewriter Fonts Pro
     urls:
       - http://www.vintagetype.com/screenwriters/
@@ -2593,6 +2651,13 @@ fonts:
       - http://monospacedfont.com/
     tags:
       - programmer/coder oriented font
+
+  - name: Sony Misc
+    urls:
+      - https://gitlab.freedesktop.org/xorg/font/sony-misc
+    tags:
+      - paid, free, or open source (FIXME)
+      - bitmap
 
   - name: Source Code Pro
     urls:
