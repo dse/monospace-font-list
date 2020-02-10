@@ -233,7 +233,7 @@
 
 -   notes:
 
-        This is Adrian Smith''s Unicode APL font, a de facto industry standard.
+        This is Adrian Smith\'s Unicode APL font, a de facto industry standard.
         Also available in a proportional version called APL333.
 
 -   tags:
@@ -455,6 +455,16 @@
 -   urls:
     -   <http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/> [1]
 
+## [Bizcat](https://robey.lag.net/2020/02/09/bizcat-bitmap-font.html)
+
+-   designer: Robey Pointer
+
+-   tags:
+
+    -   open source
+    
+    -   bitmap
+
 ## [Borg Sans Mono](https://github.com/marnen/borg-sans-mono)
 
 -   designer: Marnen Laibow-Koser
@@ -626,10 +636,10 @@
 
 -   notes:
 
-        Computer Modern was Donald Knuth's original name for his family
+        Computer Modern was Donald Knuth\'s original name for his family
         of typefaces, including this monospace variant.  As a condition
-        of his license, derivative works can not be called "Computer
-        Modern".  Popular modern implementations of Computer Modern
+        of his license, derivative works can not be called \"Computer
+        Modern\".  Popular modern implementations of Computer Modern
         include:
         
         - the CMU distribution (for Computer Modern Unicode);
@@ -696,11 +706,11 @@
         free.
         
         Implementations not specifically listed here include:
-        - Adobe's bitmap version for X11
-        - Microsoft's bitmap version for Windows
-        - Linotype's square terminal version
-        - Monotype's square terminal version
-        - Adobe's square terminal version
+        - Adobe\'s bitmap version for X11
+        - Microsoft\'s bitmap version for Windows
+        - Linotype\'s square terminal version
+        - Monotype\'s square terminal version
+        - Adobe\'s square terminal version
         
         Since its release in 1956, Courier has become favored for
         screenplays and business correspondence, and a version of
@@ -846,7 +856,7 @@
         Cousine is part of the collection of fonts known as the Chrome
         OS core fonts, or Croscore fonts.
         
-        Cousine is also included in Google's noto-fonts repository on
+        Cousine is also included in Google\'s noto-fonts repository on
         GitHub.
 
 -   tags:
@@ -1025,7 +1035,7 @@
 -   notes:
 
         Deja Vu Sans Mono is the granddaddy of all Bitstream Vera Sans
-        Mono forks, adding a wider range of characters atop Bitstream's
+        Mono forks, adding a wider range of characters atop Bitstream\'s
         original.
 
 -   tags:
@@ -1586,7 +1596,9 @@
 
 ## [Haskplex](https://github.com/huytd/haskplex-font)
 
--   based on: Hasklig and IBM Plex Mono.  It's just Hasklig regular and IBM Plex Mono italic.
+-   based on: Hasklig and IBM Plex Mono.  It is just Hasklig regular and IBM Plex Mono italic.
+
+-   designer: IBM
 
 -   tags:
 
@@ -2386,7 +2398,7 @@
 
 -   notes:
 
-        includes changes "made specifically for text editors and coding environments"
+        includes changes \"made specifically for text editors and coding environments\"
 
 -   tags:
 
@@ -2851,8 +2863,8 @@
 
         Vintage Type Foundary was Mark Alan Thomas, an artist from Santa Barbara, CA.
         
-        Its web site was http://www.vintagetype.com/ but that's domain parked now.
-        Mark's web site was http://www.markalanthomas.com/ but that's domain parked too.
+        Its web site was http://www.vintagetype.com/ but that\'s domain parked now.
+        Mark\'s web site was http://www.markalanthomas.com/ but that\'s domain parked too.
         His Flickr is at https://www.flickr.com/people/markalanthomas/
         He had a squarespace at http://maralatho.squarespace.com/
         Email address was/is vintype@gmail.com vintagetype@mac.com
@@ -2906,13 +2918,13 @@
 
 -   notes:
 
-        Monospaced version of San Francisco, Apple''s corporate system
+        Monospaced version of San Francisco, Apple\'s corporate system
         font.
         
         Comes with Terminal.app and Xcode.app for use with them.
         
         San Francisco is not to be confused with the decorative
-        "ransom note" bitmap typeface known as "San Francisco" that
+        \"ransom note\" bitmap typeface known as \"San Francisco\" that
         was distributed with the original Macintosh.
         
         - Licensed only for creating UI mockups.
