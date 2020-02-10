@@ -56,8 +56,8 @@ fonts:
 
   - name: Adobe Courier Bitmap Fonts
     urls:
-      https://gitlab.freedesktop.org/xorg/font/adobe-75dpi
-      https://gitlab.freedesktop.org/xorg/font/adobe-100dpi
+      - https://gitlab.freedesktop.org/xorg/font/adobe-75dpi
+      - https://gitlab.freedesktop.org/xorg/font/adobe-100dpi
     tags:
       - bitmap
       - paid, free, or open source (FIXME)
@@ -2993,7 +2993,7 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
       - terminal font
-    notes:
+    notes: |
       Based on the font on the DEC VT320.
 
   - name: Whois Mono
