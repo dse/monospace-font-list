@@ -764,6 +764,8 @@ fonts:
       - paid, free, or open source (FIXME)
     old urls:
       - http://www.vtxemu.com/download.html
+    notes: |
+      Based on the font on the DEC VT220.
 
   - name: DEC VT330
     notes: |
@@ -1174,6 +1176,8 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+    notes: |
+      Based on the font on the DEC VT220.
 
   - name: Glovis
     urls:
@@ -2924,6 +2928,8 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
       - terminal font
+    notes:
+      Based on the font on the DEC VT320.
 
   - name: Whois Mono
     urls:
