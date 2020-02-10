@@ -51,6 +51,17 @@
 -   urls:
     -   <https://www.myfonts.com/fonts/ilott-type/64-src/> [0.7]
 
+## [Adobe Courier Bitmap Fonts](https://gitlab.freedesktop.org/xorg/font/adobe-75dpi)
+
+-   tags:
+
+    -   bitmap
+    
+    -   paid, free, or open source (FIXME)
+
+-   urls:
+    -   <https://gitlab.freedesktop.org/xorg/font/adobe-100dpi> [1]
+
 ## [Agave](https://b.agaric.net/page/agave)
 
 -   designer:
@@ -424,6 +435,12 @@
 -   tags:
 
     -   free
+
+## [Bitstream Courier Type 1](https://gitlab.freedesktop.org/xorg/font/bitstream-type1)
+
+-   tags:
+
+    -   paid, free, or open source (FIXME)
 
 ## [Bitstream Pica 10 Pitch](http://www.myfonts.com/fonts/bitstream/pica-10-pitch/)
 
@@ -963,9 +980,28 @@
 -   urls:
     -   <ftp://ftp.hp.com/pub/printers/software/lj611en.exe> [1]
 
+## [DEC Terminal](https://gitlab.freedesktop.org/xorg/font/bitstream-75dpi)
+
+-   notes:
+
+        Fonts used on DECstation/VAXstation hardware
+
+-   tags:
+
+    -   paid, free, or open source (FIXME)
+    
+    -   bitmap
+
+-   urls:
+    -   <https://gitlab.freedesktop.org/xorg/font/bitstream-100dpi> [1]
+
 ## [DEC Terminal Modern](https://goblin.strangled.net/)
 
 -   designer: Dan Mecklenburg, Jr.
+
+-   notes:
+
+        Based on the font on the DEC VT220.
 
 -   old urls:
 
@@ -1405,6 +1441,14 @@
     -   <http://www.google.com/fonts/specimen/Fira+Mono> [0.6]
     -   <http://www.fontsquirrel.com/fonts/fira-mono> [0.5]
 
+## [Misc Fixed](https://gitlab.freedesktop.org/xorg/font/misc-misc)
+
+-   tags:
+
+    -   paid, free, or open source (FIXME)
+    
+    -   bitmap
+
 ## [Misc Fixed 6x13](http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/)
 
 -   tags:
@@ -1412,6 +1456,8 @@
     -   paid, free, or open source (FIXME)
     
     -   programmer/coder oriented font
+    
+    -   bitmap
 
 -   urls:
     -   <https://github.com/staberas/project-singularity/blob/master/%20project-singularity/Project%20Singularity%20GL/data/Misc-Fixed.ttf> [0.9]
@@ -1423,12 +1469,16 @@
     -   paid, free, or open source (FIXME)
     
     -   programmer/coder oriented font
+    
+    -   bitmap
 
 ## [Fixedsys](http://www.moviecorner.de/en/font-fixedsys-ttf/description.html)
 
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   bitmap
 
 -   urls:
     -   <https://en.wikipedia.org/wiki/Fixedsys> [0.1]
@@ -1438,6 +1488,8 @@
 -   tags:
 
     -   paid, free, or open source (FIXME)
+    
+    -   bitmap
 
 ## [Fixedsys Excelsior with Ligatures](https://github.com/kika/fixedsys)
 
@@ -1446,6 +1498,8 @@
     -   paid, free, or open source (FIXME)
     
     -   ligatures
+    
+    -   bitmap
 
 ## [Flexi IBM VGA](https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/)
 
@@ -1490,6 +1544,10 @@
     -   <http://luc.devroye.org/fonts-75172.html> [1]
 
 ## [Glass TTY VT220](http://svo.2.staticpublic.s3-website-us-east-1.amazonaws.com/glasstty/)
+
+-   notes:
+
+        Based on the font on the DEC VT220.
 
 -   tags:
 
@@ -1653,6 +1711,12 @@
 
 -   urls:
     -   <https://github.com/iaolo/iA-Fonts> [0.9]
+
+## [IBM Courier Type 1](https://gitlab.freedesktop.org/xorg/font/ibm-type1)
+
+-   tags:
+
+    -   paid, free, or open source (FIXME)
 
 ## [IBM Plex Mono](https://ibm.github.io/type/#Intro)
 
@@ -1940,6 +2004,17 @@
     -   <https://lucidafonts.com/> [1]
     -   <https://en.wikipedia.org/wiki/Lucida> [0.1]
 
+## [Lucida Typewriter Bitmap Fonts](https://gitlab.freedesktop.org/xorg/font/bh-lucidatypewriter-75dpi)
+
+-   tags:
+
+    -   paid, free, or open source (FIXME)
+    
+    -   bitmap
+
+-   urls:
+    -   <https://gitlab.freedesktop.org/xorg/font/bh-lucidatypewriter-100dpi> [1]
+
 ## [Lucida Typewriter](https://lucidafonts.com/)
 
 -   tags:
@@ -1979,13 +2054,15 @@
     
     -   programmer/coder oriented font
 
-## [Luxi Mono](https://www.fontsquirrel.com/fonts/luxi-mono)
+## [Luxi Mono](https://gitlab.freedesktop.org/xorg/font/bh-type1)
 
 -   tags:
 
     -   paid, free, or open source (FIXME)
 
 -   urls:
+    -   <https://gitlab.freedesktop.org/xorg/font/bh-ttf> [1]
+    -   <https://www.fontsquirrel.com/fonts/luxi-mono> [0.5]
     -   <https://en.wikipedia.org/wiki/Luxi_fonts> [0.1]
 
 ## [M+ 1m](https://mplus-fonts.osdn.jp/about-en.html)
@@ -2857,6 +2934,14 @@
 
     -   neato
 
+## [Schumaker Misc](https://gitlab.freedesktop.org/xorg/font/schumacher-misc)
+
+-   tags:
+
+    -   paid, free, or open source (FIXME)
+    
+    -   bitmap
+
 ## [Screenwriter\'s Typewriter Fonts Pro](http://www.vintagetype.com/screenwriters/)
 
 -   notes:
@@ -3022,6 +3107,14 @@
 -   tags:
 
     -   programmer/coder oriented font
+
+## [Sony Misc](https://gitlab.freedesktop.org/xorg/font/sony-misc)
+
+-   tags:
+
+    -   paid, free, or open source (FIXME)
+    
+    -   bitmap
 
 ## [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 
@@ -3367,6 +3460,10 @@
     -   paid, free, or open source (FIXME)
 
 ## [VT323](https://fedoraproject.org/wiki/VT323_Fonts)
+
+-   notes:
+
+        Based on the font on the DEC VT320.
 
 -   tags:
 
