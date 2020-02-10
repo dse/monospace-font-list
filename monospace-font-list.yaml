@@ -150,7 +150,7 @@ fonts:
       - open source
       - programmer/coder oriented font
 
-  - name: Another Man's Treasure
+  - name: "Another Man's Treasure"
     designer: Rebecca Bettencourt
     urls:
       - http://www.kreativekorp.com/software/fonts/trs80.shtml
@@ -183,7 +183,7 @@ fonts:
     x-tags:
       - quirky
     notes: |
-        This is Adrian Smith''s Unicode APL font, a de facto industry standard.
+        This is Adrian Smith\'s Unicode APL font, a de facto industry standard.
         Also available in a proportional version called APL333.
     designer:
       name: Adrian Smith
@@ -484,10 +484,10 @@ fonts:
 
   - name: Computer Modern Typewriter
     notes: |
-      Computer Modern was Donald Knuth's original name for his family
+      Computer Modern was Donald Knuth\'s original name for his family
       of typefaces, including this monospace variant.  As a condition
-      of his license, derivative works can not be called "Computer
-      Modern".  Popular modern implementations of Computer Modern
+      of his license, derivative works can not be called \"Computer
+      Modern\".  Popular modern implementations of Computer Modern
       include:
 
       - the CMU distribution (for Computer Modern Unicode);
@@ -535,7 +535,7 @@ fonts:
 
   - name: Courier
     urls: https://en.wikipedia.org/wiki/Courier_(typeface)
-    designer: Howard "Bud" Kettler
+    designer: "Howard \"Bud\" Kettler"
     tags:
       - royalty free
     notes: |
@@ -545,11 +545,11 @@ fonts:
       free.
 
       Implementations not specifically listed here include:
-      - Adobe's bitmap version for X11
-      - Microsoft's bitmap version for Windows
-      - Linotype's square terminal version
-      - Monotype's square terminal version
-      - Adobe's square terminal version
+      - Adobe\'s bitmap version for X11
+      - Microsoft\'s bitmap version for Windows
+      - Linotype\'s square terminal version
+      - Monotype\'s square terminal version
+      - Adobe\'s square terminal version
 
       Since its release in 1956, Courier has become favored for
       screenplays and business correspondence, and a version of
@@ -672,7 +672,7 @@ fonts:
       Cousine is part of the collection of fonts known as the Chrome
       OS core fonts, or Croscore fonts.
 
-      Cousine is also included in Google's noto-fonts repository on
+      Cousine is also included in Google\'s noto-fonts repository on
       GitHub.
 
   - name: CP Mono
@@ -806,7 +806,7 @@ fonts:
     fork of: Bitstream Vera Sans Mono
     notes: |
       Deja Vu Sans Mono is the granddaddy of all Bitstream Vera Sans
-      Mono forks, adding a wider range of characters atop Bitstream's
+      Mono forks, adding a wider range of characters atop Bitstream\'s
       original.
     tags:
       - open source
@@ -2019,7 +2019,7 @@ fonts:
       - fork of Source Code Pro
       - programmer/coder oriented font
     notes: |
-      includes changes "made specifically for text editors and coding environments"
+      includes changes \"made specifically for text editors and coding environments\"
 
   - name: Oloron Program
     urls:
@@ -2456,8 +2456,8 @@ fonts:
     notes: |
       Vintage Type Foundary was Mark Alan Thomas, an artist from Santa Barbara, CA.
 
-      Its web site was http://www.vintagetype.com/ but that's domain parked now.
-      Mark's web site was http://www.markalanthomas.com/ but that's domain parked too.
+      Its web site was http://www.vintagetype.com/ but that\'s domain parked now.
+      Mark\'s web site was http://www.markalanthomas.com/ but that\'s domain parked too.
       His Flickr is at https://www.flickr.com/people/markalanthomas/
       He had a squarespace at http://maralatho.squarespace.com/
       Email address was/is vintype@gmail.com vintagetype@mac.com
@@ -2496,13 +2496,13 @@ fonts:
       - https://developer.apple.com/fonts/
       - https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface)
     notes: |
-        Monospaced version of San Francisco, Apple''s corporate system
+        Monospaced version of San Francisco, Apple\'s corporate system
         font.
 
         Comes with Terminal.app and Xcode.app for use with them.
 
         San Francisco is not to be confused with the decorative
-        "ransom note" bitmap typeface known as "San Francisco" that
+        \"ransom note\" bitmap typeface known as \"San Francisco\" that
         was distributed with the original Macintosh.
 
         - Licensed only for creating UI mockups.
