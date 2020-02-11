@@ -8,12 +8,12 @@
 -   [Ahamono Monospaced](#ahamono-monospaced)
 -   [Akkurat Mono](#akkurat-mono)
 -   [Amiri Typewriter](#amiri-typewriter)
--   [Andalé Mono](#andal�-mono)
+-   [Andalé Mono](#andalé-mono)
 -   [Angelus III](#angelus-iii)
 -   [Anka/Coder](#ankacoder)
 -   [Anonymous Pro](#anonymous-pro)
 -   [Another Man's Treasure](#another-mans-treasure)
--   [Aperçu Mono](#aper�u-mono)
+-   [Aperçu Mono](#aperçu-mono)
 -   [APL2741](#apl2741)
 -   [APL385 Unicode](#apl385-unicode)
 -   [APLX Upright](#aplx-upright)
@@ -50,7 +50,7 @@
 -   [CMU Typewriter](#cmu-typewriter)
 -   [Code New Roman](#code-new-roman)
 -   [Coding Font Tobi](#coding-font-tobi)
--   [Colón Mono](#col�n-mono)
+-   [Colón Mono](#colón-mono)
 -   [Computer Modern Typewriter](#computer-modern-typewriter)
 -   [Concursico Mono BTN](#concursico-mono-btn)
 -   [ConsolaMono](#consolamono)
@@ -488,7 +488,7 @@
 
 -   also known as: Andale Mono
 
--   anchorName: andal�-mono
+-   anchorName: andalé-mono
 
 -   designer:
 
@@ -596,7 +596,7 @@
 
 -   also known as: Apercu Mono
 
--   anchorName: aper�u-mono
+-   anchorName: aperçu-mono
 
 -   foundry: Colophon
 
@@ -1093,7 +1093,7 @@
 
 ## [Colón Mono](http://www.youworkforthem.com/font/T4920/colon-mono)
 
--   anchorName: col�n-mono
+-   anchorName: colón-mono
 
 -   foundry: TipografiaRamis
 

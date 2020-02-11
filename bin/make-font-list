@@ -1,7 +1,14 @@
 #!/usr/bin/env perl
 use warnings;
 use strict;
-use feature 'state';
+use v5.10.0;
+
+use open qw(:locale);
+use Encode::Locale;
+use Encode qw(decode);
+BEGIN {
+    @ARGV = map { decode('locale', $_, Encode::FB_CROAK) } @ARGV;
+}
 
 use Sort::Naturally qw(nsort);
 use YAML;
