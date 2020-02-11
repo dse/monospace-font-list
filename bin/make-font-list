@@ -1,6 +1,7 @@
 #!/usr/bin/env perl
 use warnings;
 use strict;
+use feature 'state';
 
 use Sort::Naturally qw(nsort);
 use YAML;
@@ -9,7 +10,21 @@ use URI;
 my @urlless;
 
 my $doc = YAML::Load(join('', <>));
+
+print("# Table of Contents\n\n");
+
 foreach my $font (@{$doc->{fonts}}) {
+    my $fontName = $font->{name};
+    my $anchorName = uniqueAnchorName($fontName);
+    printf("-   [%s](#%s)\n", $fontName, $anchorName);
+    $font->{anchorName} = $anchorName;
+}
+
+print("\n");
+
+foreach my $font (@{$doc->{fonts}}) {
+    my $font = { %$font };
+
     my $name = delete $font->{name};
     my $urls = delete $font->{urls};
 
@@ -146,4 +161,24 @@ sub toMarkdown {
         $o .= "\n\n";
         return $o;
     }
+}
+
+sub anchorName {
+    my $name = shift;
+    $name =~ s{[^\p{Word}\- ]}{}g;
+    $name = lc($name);
+    $name =~ s{ }{-}g;
+    return $name;
+}
+
+sub uniqueAnchorName {
+    state %anchorName;
+    my $name = shift;
+    my $anchorName = anchorName($name);
+    my $uniq = $anchorName{$anchorName} // 0;
+    $anchorName{$anchorName} += 1;
+    if ($uniq) {
+        $anchorName .= '-' . $uniq;
+    }
+    return $anchorName;
 }
