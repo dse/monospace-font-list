@@ -189,6 +189,7 @@ sub toMarkdown {
     }
 }
 
+# https://github.com/jch/html-pipeline/blob/master/lib/html/pipeline/toc_filter.rb
 sub anchorName {
     my $name = shift;
     $name =~ s{[^\p{Word}\- ]}{}g;
@@ -196,7 +197,6 @@ sub anchorName {
     $name =~ s{ }{-}g;
     return $name;
 }
-
 sub uniqueAnchorName {
     state %anchorName;
     my $name = shift;
