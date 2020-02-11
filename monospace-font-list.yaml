@@ -794,7 +794,20 @@ fonts:
   - name: DEC VT330
     notes: |
         A collection of .pcf fonts available on HP systems and/or VMS
-        https://www.itec.suny.edu/scsys/vms/ovmsdoc073/v73/6470/6470pro_004.html
+        Referenced in https://www.itec.suny.edu/scsys/vms/ovmsdoc073/v73/6470/6470pro_004.html
+        Filenames are as follows, in case you can find them:
+        -   VT33018.PCF
+        -   VT33036.PCF
+        -   VT330_BOLD18.PCF
+        -   VT330_BOLD36.PCF
+        -   VT330_BOLD_DBLWIDE18.PCF
+        -   VT330_BOLD_NARROW18.PCF
+        -   VT330_BOLD_NARROW36.PCF
+        -   VT330_BOLD_WIDE18.PCF
+        -   VT330_DBLWIDE18.PCF
+        -   VT330_NARROW18.PCF
+        -   VT330_NARROW36.PCF
+        -   VT330_WIDE18.PCF
     designer:
     tags:
       - paid, free, or open source (FIXME)
@@ -2995,6 +3008,7 @@ fonts:
       - terminal font
     notes: |
       Based on the font on the DEC VT320.
+
 
   - name: Whois Mono
     urls:
