@@ -30,9 +30,7 @@ foreach my $font (@{$doc->{fonts}}) {
 print("\n");
 
 foreach my $font (@{$doc->{fonts}}) {
-    my $font = { %$font };
-
-    my $name = delete $font->{name};
+    my $name = $font->{name};
     my $urls = delete $font->{urls};
 
     if (!$urls) {
@@ -88,6 +86,7 @@ foreach my $font (@{$doc->{fonts}}) {
 
     if (scalar @$urls) {
         shift @$urls;
+        $font->{mainUrl} = $url;
     } elsif ($font->{'now known as'}) {
         # do nothing
     } else {
@@ -97,6 +96,12 @@ foreach my $font (@{$doc->{fonts}}) {
         $font->{urls} = $urls;
     }
 
+}
+
+foreach my $font (@{$doc->{fonts}}) {
+    my $name = $font->{name};
+    my $urls = $font->{urls};
+    my $url = $font->{mainUrl};
     if (defined $url) {
         printf("## [%s](%s)\n\n", $name, $url);
     } else {
@@ -114,12 +119,26 @@ if (scalar @urlless) {
 }
 
 sub toMarkdown {
-    my ($o) = @_;
+    my ($o, $level) = @_;
+    $level //= 0;
     return unless defined $o;
+
+    if (ref $o eq 'ARRAY') {
+        $o = [ @$o ];
+    } elsif (ref $o eq 'HASH') {
+        $o = { %$o };
+    }
+
+    if ($level == 0) {
+        delete $o->{name};
+        delete $o->{anchorName};
+        delete $o->{mainUrl};
+    }
+
     if (ref $o eq 'ARRAY') {
         my $result = '';
         foreach my $value (@$o) {
-            my $r = toMarkdown($value);
+            my $r = toMarkdown($value, $level + 1);
             $r =~ s{^}{    }gms;
             substr($r, 0, 1) = '-';
             $r =~ s{\s+\z}{}s;
@@ -154,7 +173,7 @@ sub toMarkdown {
                 if (!ref $value && $value !~ m{\R}) {
                     $r = "-   $key: $value";
                 } else {
-                    $r = toMarkdown($value);
+                    $r = toMarkdown($value, $level + 1);
                     $r =~ s{^}{    }gms;
                     $r = "-   $key:\n\n" . $r;
                 }
