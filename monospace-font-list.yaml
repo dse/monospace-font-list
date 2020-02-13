@@ -3047,6 +3047,21 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
 
+  - name: X11 Monospace Fonts
+    notes: |
+      A work in progress to convert freedesktop/xorg fonts to .ttf
+      for use in Windows and macOS née OSX.
+
+      Including:
+        - "B&H Lucida Typewriter"
+        - Misc Fixed (including 6x13 and 10x20)
+        - Sony fonts
+        - DEC Terminal (VAXstation/DECstation font)
+    urls:
+      - https://github.com/dse/x11-monospace-fonts-ttf
+    tags:
+      - paid, free, or open source (FIXME)
+
   - name: Zolan Mono
     urls:
       - http://www.myfonts.com/fonts/btn/zolan-mono-btn/
