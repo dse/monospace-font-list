@@ -348,6 +348,7 @@
 -   [WikisourceMono](#wikisourcemono)
 -   [Wire Type Mono](#wire-type-mono)
 -   [Wudoo](#wudoo)
+-   [X11 Monospace Fonts](#x11-monospace-fonts)
 -   [Zolan Mono](#zolan-mono)
 
 ## [1403 Vintage Mono](https://1403.slantedhall.com/)
@@ -1816,6 +1817,12 @@
 
 ## [Misc Fixed 6x13](http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/)
 
+-   notes:
+
+        TTF fonts.
+        
+        For 6x13, regular and bold bitmaps, and an honest to goodness vector font.
+
 -   tags:
 
     -   paid, free, or open source (FIXME)
@@ -1828,6 +1835,10 @@
     -   <https://github.com/staberas/project-singularity/blob/master/%20project-singularity/Project%20Singularity%20GL/data/Misc-Fixed.ttf> [0.9]
 
 ## [Misc Fixed 6x13, 7x14, 9x15, 10x20](https://monkey.org/~marius/beautiful-fixed-width-fonts-for-osx.html)
+
+-   notes:
+
+        `.dfont` files for macOS née OSX.
 
 -   tags:
 
@@ -3868,6 +3879,23 @@
 -   x-designer:
 
     -   name: Vishnu Sathyan
+
+## [X11 Monospace Fonts](https://github.com/dse/x11-monospace-fonts-ttf)
+
+-   notes:
+
+        A work in progress to convert freedesktop/xorg fonts to .ttf
+        for use in Windows and macOS née OSX.
+        
+        Including:
+          - "B&H Lucida Typewriter"
+          - Misc Fixed (including 6x13 and 10x20)
+          - Sony fonts
+          - DEC Terminal (VAXstation/DECstation font)
+
+-   tags:
+
+    -   paid, free, or open source (FIXME)
 
 ## [Zolan Mono](http://www.myfonts.com/fonts/btn/zolan-mono-btn/)
 
