@@ -1139,6 +1139,10 @@ fonts:
       - bitmap
 
   - name: Misc Fixed 6x13
+    notes: |
+      TTF fonts.
+
+      For 6x13, regular and bold bitmaps, and an honest to goodness vector font.
     urls:
       - http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/
       - https://github.com/staberas/project-singularity/blob/master/%20project-singularity/Project%20Singularity%20GL/data/Misc-Fixed.ttf
@@ -1150,6 +1154,8 @@ fonts:
   - name: Misc Fixed 6x13, 7x14, 9x15, 10x20
     urls:
       - https://monkey.org/~marius/beautiful-fixed-width-fonts-for-osx.html
+    notes: |
+      `.dfont` files for macOS née OSX.
     designer:
     tags:
       - paid, free, or open source (FIXME)
