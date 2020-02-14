@@ -336,6 +336,7 @@
 -   [Typewalk Mono 1915](#typewalk-mono-1915)
 -   [Ubuntu Mono](#ubuntu-mono)
 -   [Unica77 Mono](#unica77-mono)
+-   [UnixPC](#unixpc)
 -   [Unotype](#unotype)
 -   [Valentine](#valentine)
 -   [Verily Serif Mono](#verily-serif-mono)
@@ -3782,6 +3783,16 @@
 -   tags:
 
     -   paid
+
+## [UnixPC](https://github.com/brandon-rhodes/unixpc-font-bdf)
+
+-   tags:
+
+    -   free
+    
+    -   bdf
+    
+    -   bitmap
 
 ## [Unotype](http://www.cfcl.com/vlb/h/fontmono.html)
 

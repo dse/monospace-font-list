@@ -2952,6 +2952,14 @@ fonts:
     tags:
       - paid
 
+  - name: UnixPC
+    urls:
+      - https://github.com/brandon-rhodes/unixpc-font-bdf
+    tags:
+      - free
+      - bdf
+      - bitmap
+
   - name: Unotype
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
