@@ -703,6 +703,14 @@ fonts:
       Cousine is also included in Google\'s noto-fonts repository on
       GitHub.
 
+  - name: Cozette
+    urls:
+      - https://github.com/slavfox/Cozette
+    tags:
+      - bitmap
+    via:
+      - https://www.reddit.com/r/unixporn/comments/f4cb7f/oc_i_wanted_a_small_bitmap_font_with_powerline/
+
   - name: CP Mono
     urls:
       - https://github.com/chrissimpkins/codeface/tree/master/fonts/cp-mono
