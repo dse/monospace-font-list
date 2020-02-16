@@ -433,6 +433,14 @@ fonts:
       - open source
       - programmer/coder oriented font
 
+  - name: Cella Typewriter
+    urls:
+      - https://fontsarena.com/wp-content/uploads/2018/11/cella.zip
+    via:
+      - https://fontsarena.com/blog/free-modern-typewriter-fonts/
+    designer:
+      - Volker Busse (F25 Digital Typeface Design)
+
   - name: Centima Mono
     urls:
       - http://www.tipografiaramis.com/centima-mono.html
@@ -495,6 +503,12 @@ fonts:
       - http://www.youworkforthem.com/font/T4920/colon-mono
     tags:
       - paid
+
+  - name: Compagnon
+    urls:
+      - https://fontsarena.com/compagnon-by-velvetyne-type-foundry/
+    tags:
+      - free
 
   - name: Computer Modern Typewriter
     notes: |
@@ -1003,6 +1017,14 @@ fonts:
     foundry: Lineto
     tags:
       - paid
+
+  - name: F25 Bank Printer
+    urls:
+      - https://fontsarena.com/wp-content/uploads/2018/11/f25_bank_printer.zip
+    via:
+      - https://fontsarena.com/blog/free-modern-typewriter-fonts/
+    designer:
+      - Volker Busse, F25 Digital Typeface Design
 
   - name: Fabrikat Mono
     urls:
@@ -2937,6 +2959,10 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
 
+  - name: Typewriter Condensed
+    urls:
+      - https://fontsarena.com/wp-content/uploads/2018/11/typewriter_condensed.zip
+
   - name: Ubuntu Mono
     urls:
       - https://design.ubuntu.com/font/
@@ -2994,6 +3020,14 @@ fonts:
     designer:
     tags:
       - paid, free, or open source (FIXME)
+
+  - name: Vin Mono Pro
+    urls:
+      - https://www.fontspring.com/fonts/mint-type/vin-mono-pro
+    via:
+      - https://fontsarena.com/blog/free-modern-typewriter-fonts/
+    foundry: Mint Type
+
 
   - name: Vivala Code
     x-designer:
