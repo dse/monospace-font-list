@@ -44,6 +44,7 @@
 -   [BSU Kermit](#bsu-kermit)
 -   [Camingo Code](#camingo-code)
 -   [Cascadia Code](#cascadia-code)
+-   [Cella Typewriter](#cella-typewriter)
 -   [Centima Mono](#centima-mono)
 -   [Century Schoolbook Monospace](#century-schoolbook-monospace)
 -   [Circular Mono](#circular-mono)
@@ -51,6 +52,7 @@
 -   [Code New Roman](#code-new-roman)
 -   [Coding Font Tobi](#coding-font-tobi)
 -   [Colón Mono](#colón-mono)
+-   [Compagnon](#compagnon)
 -   [Computer Modern Typewriter](#computer-modern-typewriter)
 -   [Concursico Mono BTN](#concursico-mono-btn)
 -   [ConsolaMono](#consolamono)
@@ -70,6 +72,7 @@
 -   [Courier Screenplay](#courier-screenplay)
 -   [Courier Standard](#courier-standard)
 -   [Cousine](#cousine)
+-   [Cozette](#cozette)
 -   [CP Mono](#cp-mono)
 -   [CP1250 Terminal Fonts](#cp1250-terminal-fonts)
 -   [Creep](#creep)
@@ -104,6 +107,7 @@
 -   [Everson Mono](#everson-mono)
 -   [Excalibur Monospace](#excalibur-monospace)
 -   [Excellent](#excellent)
+-   [F25 Bank Printer](#f25-bank-printer)
 -   [Fabrikat Mono](#fabrikat-mono)
 -   [Fairfax](#fairfax)
 -   [Fairfax HD](#fairfax-hd)
@@ -307,9 +311,11 @@
 -   [Source Code Pro](#source-code-pro)
 -   [Space Mono](#space-mono)
 -   [Speedy](#speedy)
+-   [Spleen](#spleen)
 -   [Squareshooter Mono](#squareshooter-mono)
 -   [String Literal 437](#string-literal-437)
 -   [Sudo](#sudo)
+-   [Sun Gallant Demi](#sun-gallant-demi)
 -   [Superstudio](#superstudio)
 -   [SV Basic Manual](#sv-basic-manual)
 -   [Tabular](#tabular)
@@ -334,6 +340,7 @@
 -   [TT2020](#tt2020)
 -   [Tye Paloon](#tye-paloon)
 -   [Typewalk Mono 1915](#typewalk-mono-1915)
+-   [Typewriter Condensed](#typewriter-condensed)
 -   [Ubuntu Mono](#ubuntu-mono)
 -   [Unica77 Mono](#unica77-mono)
 -   [UnixPC](#unixpc)
@@ -342,6 +349,7 @@
 -   [Verily Serif Mono](#verily-serif-mono)
 -   [Victor Mono](#victor-mono)
 -   [Vidilex](#vidilex)
+-   [Vin Mono Pro](#vin-mono-pro)
 -   [Vivala Code](#vivala-code)
 -   [VLNL TP Kurier Callig Regular](#vlnl-tp-kurier-callig-regular)
 -   [VT323](#vt323)
@@ -544,17 +552,15 @@
     -   open source
     
     -   programmer/coder oriented font
+    
+    -   popular
+    
+    -   ofl
 
 -   urls:
     -   <http://www.google.com/fonts/specimen/Anonymous+Pro> [0.6]
     -   <http://www.fontsquirrel.com/fonts/Anonymous-Pro> [0.5]
     -   <http://www.fontsquirrel.com/fonts/Anonymous> [0.5] [former]
-
--   x-tags:
-
-    -   popular
-    
-    -   ofl
 
 ## [Another Man's Treasure](http://www.kreativekorp.com/software/fonts/trs80.shtml)
 
@@ -606,13 +612,11 @@
     -   public domain
     
     -   programmer/coder oriented font
+    
+    -   quirky
 
 -   urls:
     -   <http://www.dyalog.com/apl-font-keyboard.htm> [1] [old]
-
--   x-tags:
-
-    -   quirky
 
 ## [APLX Upright](https://www.dyalog.com/aplx.htm)
 
@@ -792,10 +796,6 @@
 
 ## [Bitstream Courier Type 1](https://gitlab.freedesktop.org/xorg/font/bitstream-type1)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Bitstream Pica 10 Pitch](http://www.myfonts.com/fonts/bitstream/pica-10-pitch/)
 
 -   foundry: Bitstream
@@ -889,10 +889,6 @@
 
 ## [BSU Kermit](http://www.lowing.org/fonts/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Camingo Code](http://www.janfromm.de/typefaces/camingomono/camingocode/)
 
 -   designer: Jan Fromm
@@ -915,6 +911,16 @@
     -   open source
     
     -   programmer/coder oriented font
+
+## [Cella Typewriter](https://fontsarena.com/wp-content/uploads/2018/11/cella.zip)
+
+-   designer:
+
+    -   Volker Busse (F25 Digital Typeface Design)
+
+-   via:
+
+    -   https://fontsarena.com/blog/free-modern-typewriter-fonts/
 
 ## [Centima Mono](http://www.tipografiaramis.com/centima-mono.html)
 
@@ -1000,6 +1006,12 @@
 -   tags:
 
     -   paid
+
+## [Compagnon](https://fontsarena.com/compagnon-by-velvetyne-type-foundry/)
+
+-   tags:
+
+    -   free
 
 ## [Computer Modern Typewriter](https://en.wikipedia.org/wiki/Computer_Modern)
 
@@ -1241,6 +1253,16 @@
     -   <http://www.google.com/fonts/specimen/Cousine> [0.6]
     -   <http://www.fontsquirrel.com/fonts/cousine> [0.5]
 
+## [Cozette](https://github.com/slavfox/Cozette)
+
+-   tags:
+
+    -   bitmap
+
+-   via:
+
+    -   https://www.reddit.com/r/unixporn/comments/f4cb7f/oc_i_wanted_a_small_bitmap_font_with_powerline/
+
 ## [CP Mono](https://github.com/chrissimpkins/codeface/tree/master/fonts/cp-mono)
 
 -   designer: Chris Simpkins
@@ -1252,10 +1274,6 @@
     -   programmer/coder oriented font
 
 ## [CP1250 Terminal Fonts](http://www.lowing.org/fonts/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Creep](https://github.com/romeovs/creep)
 
@@ -1276,10 +1294,6 @@
     -   free
 
 ## [Crystal](http://www.lowing.org/fonts/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Cubiculum](https://www.myfonts.com/fonts/johan-winge/cubiculum/)
 
@@ -1388,10 +1402,6 @@
         -   VT330_NARROW18.PCF
         -   VT330_NARROW36.PCF
         -   VT330_WIDE18.PCF
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Decima Mono](http://www.tipografiaramis.com/decima-mono.html)
 
@@ -1573,16 +1583,10 @@
 -   tags:
 
     -   open source
-
--   x-tags:
-
+    
     -   dot matrix
 
 ## [Efont](http://www.lowing.org/fonts/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Envy Code R](http://damieng.com/blog/2007/08/19/envy-code-r-preview-6-released-with-visual-studio-italics)
 
@@ -1638,10 +1642,6 @@
 
 ## [Excalibur Monospace](http://www.cfcl.com/vlb/h/fontmono.html)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Excellent](https://lineto.com/typefaces/excellent)
 
 -   foundry: Lineto
@@ -1649,6 +1649,16 @@
 -   tags:
 
     -   paid
+
+## [F25 Bank Printer](https://fontsarena.com/wp-content/uploads/2018/11/f25_bank_printer.zip)
+
+-   designer:
+
+    -   Volker Busse, F25 Digital Typeface Design
+
+-   via:
+
+    -   https://fontsarena.com/blog/free-modern-typewriter-fonts/
 
 ## [Fabrikat Mono](https://www.hvdfonts.com/fonts/fabrikat-mono)
 
@@ -1704,15 +1714,7 @@
 
 ## [Feggolite Mono](http://www.cfcl.com/vlb/h/fontmono.html)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Felt Pen](http://www.cfcl.com/vlb/h/fontmono.html)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [FF Elementa](https://www.myfonts.com/fonts/fontfont/elementa-pro/)
 
@@ -1880,10 +1882,6 @@
 
 ## [Flexi IBM VGA](https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [FreeMono](https://www.gnu.org/software/freefont/)
 
 -   clone of: Courier
@@ -1902,20 +1900,12 @@
 
 -   tags:
 
-    -   paid, free, or open source (FIXME)
+    -   novelty
 
 -   urls:
     -   via <http://www.cfcl.com/vlb/h/fontmono.html> [-1] [via]
 
--   x-tags:
-
-    -   novelty
-
 ## [Generic Mono](http://programmingfonts.org/post/107484861287/generic-mono-a-generic-monospaced-font)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   <http://luc.devroye.org/fonts-75172.html> [1]
@@ -1935,17 +1925,9 @@
 
 ## [Glovis](https://www.myfonts.com/fonts/nonpareille/glovis/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [GNUTypewriter](https://fontlibrary.org/en/font/gnutypewriter)
 
 -   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-tags:
 
     -   distressed
 
@@ -1953,14 +1935,10 @@
 
 -   tags:
 
-    -   paid, free, or open source (FIXME)
+    -   bitmap
 
 -   urls:
     -   <https://github.com/zhenruyan/codefont/tree/master/lib/gohu/koemaeda> [0.9] [ttf]
-
--   x-tags:
-
-    -   bitmap
 
 ## [Go Mono](https://blog.golang.org/go-fonts)
 
@@ -1971,10 +1949,6 @@
     -   programmer/coder oriented font
 
 ## [Greenwood Pro](https://www.myfonts.com/fonts/protimient/greenwood/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [GNU Unifont](http://unifoundry.com/unifont.html)
 
@@ -2000,10 +1974,6 @@
     -   paid
 
 ## [GwdTE 437](http://www.lowing.org/fonts/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Hack](https://github.com/chrissimpkins/Hack)
 
@@ -2043,17 +2013,13 @@
 
 ## [Heimat Mono](http://www.atlasfonts.com/typefaces/heimat-mono/)
 
--   tags:
+-   designer:
 
-    -   paid, free, or open source (FIXME)
+    -   name: Atlas Font Foundry
 
 -   urls:
     -   <https://fonts.adobe.com/fonts/heimat-mono> [0.7]
     -   <https://www.myfonts.com/fonts/atlas-font-foundry/heimat-mono/> [0.7]
-
--   x-designer:
-
-    -   name: Atlas Font Foundry
 
 ## [Helvetica Monospaced](https://www.myfonts.com/fonts/linotype/helvetica-monospaced/)
 
@@ -2065,15 +2031,7 @@
 
 ## [Hermit](https://pcaro.es/p/hermit/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Hyperfont](https://en.wikipedia.org/wiki/HyperFont)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   via <http://www.lowing.org/fonts/> [-1] [via]
@@ -2090,10 +2048,6 @@
     -   <https://github.com/iaolo/iA-Fonts> [0.9]
 
 ## [IBM Courier Type 1](https://gitlab.freedesktop.org/xorg/font/ibm-type1)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [IBM Plex Mono](https://ibm.github.io/type/#Intro)
 
@@ -2140,11 +2094,7 @@
 
 ## [Ingrid Mono](https://www.myfonts.com/fonts/jorg-schmitt/ingrid-mono/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-designer:
+-   designer:
 
     -   name: Jörg Schmitt
 
@@ -2157,10 +2107,6 @@
     -   programmer/coder oriented font
 
 ## [Intimo Two](https://www.myfonts.com/fonts/fw-alias/intimo/two/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Iosevka](https://be5invis.github.io/Iosevka/)
 
@@ -2177,20 +2123,12 @@
 
 ## [Iosevka Slab](https://be5invis.github.io/Iosevka/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 -   urls:
     -   <https://github.com/be5invis/Iosevka> [0.9]
 
 ## [Italian Typewriter](https://www.myfonts.com/fonts/flanker/italian-typewriter/)
 
 -   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-tags:
 
     -   classic
 
@@ -2207,56 +2145,28 @@
 
 ## [JetJane Mono](http://www.cfcl.com/vlb/h/fontmono.html)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [jxyahei](https://github.com/zhenruyan/codefont/blob/master/readme_en.md)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Karben 105 Mono](https://www.talbottype.co.uk/typefaces/karben-105-mono/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-designer:
+-   designer:
 
     -   name: Talbot Type
 
 ## [Karben 205 Mono](https://www.talbottype.co.uk/typefaces/karben-205-mono/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-designer:
+-   designer:
 
     -   name: Talbot Type
 
 ## [Kawkab Mono (Arabic)](https://fontlibrary.org/en/font/kawkab-mono)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Klartext Mono](http://www.fontswithlove.com/fwl/klartext-mono-fontfamily)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   <https://www.fontsquirrel.com/fonts/klartext-mono> [0.5]
 
 ## [Larabiefont](http://typodermicfonts.com/larabiefont/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   <http://www.larabiefonts.com/> [1]
@@ -2292,18 +2202,10 @@
 
 ## [Lekton](http://www.google.com/fonts/specimen/Lekton)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 -   urls:
     -   <http://www.fontsquirrel.com/fonts/lekton> [0.5]
 
 ## [Less Perfect DOS VGA](http://laemeur.sdf.org/fonts/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Letter Gothic](https://fonts.adobe.com/fonts/letter-gothic)
 
@@ -2323,15 +2225,7 @@
 
 ## [LH Mono Slab](https://coliss.com/articles/freebies/freebies-font-by-lufthamn-studio.html)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Liberation Mono](https://fedorahosted.org/liberation-fonts/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   <https://www.fontsquirrel.com/fonts/liberation-mono> [0.5]
@@ -2344,24 +2238,12 @@
 
 ## [Linux Console Fonts for Windows](http://web.archive.org/web/20110830193159/http://www.ank.com.ar/fonts/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Linux Libertine Mono](http://www.linuxlibertine.org/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   <https://fontlibrary.org/en/font/linux-libertine> [0.8]
 
 ## [LispM](https://github.com/unjordy/LispM-Font)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [LTC Remington Typewriter](http://new.myfonts.com/fonts/lanston/ltc-remington-typewriter/)
 
@@ -2372,10 +2254,6 @@
     -   classic traditional typewriter font
 
 ## [Lucida Console](https://docs.microsoft.com/en-us/typography/font-list/lucida-console)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   <https://lucidafonts.com/> [1]
@@ -2394,18 +2272,10 @@
 
 ## [Lucida Typewriter](https://lucidafonts.com/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 -   urls:
     -   <https://en.wikipedia.org/wiki/Lucida> [0.1]
 
 ## [Lucida Typewriter EF](https://lucidafonts.com/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   <https://www.myfonts.com/fonts/ef/lucida-typewriter/> [0.7]
@@ -2432,10 +2302,6 @@
     -   programmer/coder oriented font
 
 ## [Luxi Mono](https://gitlab.freedesktop.org/xorg/font/bh-type1)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   <https://gitlab.freedesktop.org/xorg/font/bh-ttf> [1]
@@ -2468,15 +2334,7 @@
 
 ## [Maison Mono](https://www.milieugrotesque.com/specimen/maison/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Maison Neue Mono](https://www.milieugrotesque.com/specimen/maison-neue/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Marista](https://www.myfonts.com/fonts/zephyris/marista/)
 
@@ -2484,10 +2342,6 @@
 
         inspired by classic cursive faces
         one weight is free
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface))
 
@@ -2519,31 +2373,15 @@
 
 ## [Metrickal](https://github.com/robey/metrickal-typeface)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Mingray Mono](https://www.myfonts.com/fonts/rekord/mingray-mono/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-designer:
+-   designer:
 
     -   name: Rekord
 
 ## [Mitigate](https://www.myfonts.com/fonts/typodermic/mitigate/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Monaco](ftp://ftp.apple.com/developer/Tool_Chest/Core_Mac_OS_Tools/MPW_etc./Miscellaneous/MPW_Font.sit.hqx)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   <http://en.wikipedia.org/wiki/Monaco_(typeface)> [0.1]
@@ -2558,43 +2396,19 @@
 
 ## [Mono Condensed](https://www.myfonts.com/fonts/paratype/mono-condensed/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-designer:
+-   designer:
 
     -   name: ParaType
 
 ## [Mono LH](https://www.ffonts.net/Mono-LH.font)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Mono Spatial](https://www.dafont.com/mono-spatial.font)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Monocto](https://www.myfonts.com/fonts/lafonts/monocto/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Monoela](https://www.myfonts.com/fonts/interfont/monoela/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Monofur](https://www.dafont.com/monofur.font)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Monoid](https://larsenwork.com/monoid/)
 
@@ -2608,10 +2422,6 @@
 
 ## [Monoist](https://hanken.co/products/monoist)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Mononoki](http://madmalik.github.io/mononoki/)
 
 -   tags:
@@ -2624,10 +2434,6 @@
     -   <https://github.com/madmalik/mononoki> [0.9]
 
 ## [Monospace](http://www.fontspace.com/george-williams/monospace)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   <https://en.wikipedia.org/wiki/Monospace_(typeface)> [0.1]
@@ -2646,23 +2452,11 @@
 
 ## [MonosapceTypewriter](https://www.fontsquirrel.com/fonts/MonospaceTypewriter)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Monosten](https://www.colophon-foundry.org/typefaces/monosten/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Monostep](https://www.myfonts.com/fonts/yokkmokk/monostep/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-designer:
+-   designer:
 
     -   name: YOKKMOKK
 
@@ -2674,41 +2468,17 @@
 
 -   tags:
 
-    -   paid, free, or open source (FIXME)
-
--   x-tags:
-
     -   classic
 
 ## [Monte Carlo](http://www.bok.net/MonteCarlo/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [More Perfect DOS VGA](http://laemeur.sdf.org/fonts/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [MS Mincho](http://www.lowing.org/fonts/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [MVB Fantabular](https://www.myfonts.com/fonts/mvbfonts/mvb-fantabular/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [MVB Fantabular Sans](https://www.myfonts.com/fonts/mvbfonts/mvb-fantabular-sans/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Nanum Gothic Coding (Korean)](https://www.freekoreanfont.com/nanum-gothic-coding-free-download/)
 
@@ -2723,11 +2493,7 @@
 
 ## [Native](https://fortfoundry.com/pages/native)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-designer:
+-   designer:
 
     -   name: Fort Foundry
 
@@ -2753,15 +2519,7 @@
 
 ## [Normafixed](http://www.cfcl.com/vlb/h/fontmono.html)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [NotCourierSans](http://openfontlibrary.org/en/font/notcouriersans)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   <https://www.fontsquirrel.com/fonts/notcouriersans> [0.5]
@@ -2769,10 +2527,6 @@
 ## [Noto Mono](https://www.google.com/get/noto/)
 
 -   based on: Droid Sans Mono
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Nova Mono](https://fonts.google.com/specimen/Nova+Mono)
 
@@ -2783,10 +2537,6 @@
     -   programmer/coder oriented font
 
 ## [NuSans Mono](http://www.cfcl.com/vlb/h/fontmono.html)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [OCR-A](https://osdn.net/projects/tsukurimashou/releases/56948)
 
@@ -2834,19 +2584,11 @@
 
 ## [OCRJ](https://www.myfonts.com/fonts/testpilot/ocrj/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-designer:
+-   designer:
 
     -   name: Test Pilot Collective
 
 ## [Odisseia](https://www.myfonts.com/fonts/niramekko/odisseia/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Office Code Pro](https://github.com/nathco/Office-Code-Pro)
 
@@ -2870,23 +2612,11 @@
 
 -   tags:
 
-    -   paid, free, or open source (FIXME)
-
--   x-tags:
-
     -   ugly
 
 ## [Olympiad](https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Onuava](http://www.cfcl.com/vlb/h/fontmono.html)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [OpenDyslexic](https://opendyslexic.org/)
 
@@ -2911,10 +2641,6 @@
 
 -   see also: Proggy
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Orator](https://www.myfonts.com/fonts/adobe/orator/)
 
 -   tags:
@@ -2928,10 +2654,6 @@
 -   notes:
 
         (comes with macOS)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Overpass Mono](http://overpassfont.org)
 
@@ -2960,25 +2682,13 @@
 
 ## [Panic Sans](https://github.com/chrissimpkins/codeface/tree/master/fonts/panic-sans)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## PCMyungjo
 
 -   notes:
 
         (comes with MacOS)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Perfect DOS VGA 437](https://www.dafont.com/perfect-dos-vga-437.font)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Pet Me](http://www.kreativekorp.com/software/fonts/c64.shtml)
 
@@ -2993,10 +2703,6 @@
     -   free
 
 ## [PF Din Mono](https://www.myfonts.com/fonts/parachute/pf-din-mono/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Bitstream Pica 10 Pitch](http://www.myfonts.com/fonts/bitstream/pica-10-pitch/)
 
@@ -3018,26 +2724,14 @@
 
 -   tags:
 
-    -   paid, free, or open source (FIXME)
+    -   dot matrix
 
 -   urls:
     -   <https://www.dafont.com/pixelcarnage.d870> [0.5]
 
--   x-tags:
-
-    -   dot matrix
-
 ## [PixSymbols Courex](http://www.myfonts.com/fonts/pixymbols/courex/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Platelet](http://www.cfcl.com/vlb/h/fontmono.html)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Plex Mono](https://ibm.github.io/type/#Intro)
 
@@ -3053,10 +2747,6 @@
 ## [Pointfree](http://www.dafont.com/pointfree.font)
 
 -   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-tags:
 
     -   if you like Comic Sans
 
@@ -3112,10 +2802,6 @@
 
 ## [Press Start 2P](https://fontlibrary.org/en/font/press-start-2p)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 -   urls:
     -   <https://fonts.google.com/specimen/Press+Start+2P> [0.7]
 
@@ -3141,10 +2827,6 @@
         based on Excelsior
         Reconstructed in a reconstruction of the Bell Labs Vacation memo
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 -   urls:
     -   <http://www.cs.princeton.edu/~bwk/202/> [1]
 
@@ -3158,10 +2840,6 @@
 
 ## [Proggy](http://www.proggyfonts.net/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Proggy Clean](http://www.proggyfonts.net/)
 
 -   tags:
@@ -3172,21 +2850,9 @@
 
 ## [Proggy Square](http://www.proggyfonts.net/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Proggy Small](http://www.proggyfonts.net/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Proggy Tiny](http://www.proggyfonts.net/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Proggy Vector](http://www.proggyfonts.net/)
 
@@ -3210,15 +2876,7 @@
 
 ## [The Ultimate Oldschool PC Font Pack (PX Plus family)](http://int10h.org/oldschool-pc-fonts/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [QuickType Mono](http://www.cfcl.com/vlb/h/fontmono.html)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Quinze](https://fontlibrary.org/en/font/quinze)
 
@@ -3232,30 +2890,14 @@
 
 ## [Raize](http://www.raize.com/devtools/tools/rzfont.asp)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 -   urls:
     -   via <http://www.lowing.org/fonts/> [-1] [via]
 
 ## [Range Mono](https://www.myfonts.com/fonts/griffin-moore/range-mono/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Rational TW](https://www.myfonts.com/fonts/rene-bieder/rational-tw/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Relative Mono](https://www.colophon-foundry.org/typefaces/relative/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Replica Mono](https://lineto.com/typefaces/replica-mono)
 
@@ -3267,15 +2909,7 @@
 
 ## [Resolution](https://www.myfonts.com/fonts/emil-kozole/resolution/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [RF Rostin](https://www.myfonts.com/fonts/russian-fonts/rf-rostin/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
 
@@ -3289,10 +2923,6 @@
 
 ## [Rubik Mono One](https://fonts.google.com/specimen/Rubik+Mono+One)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [SaxMono (\"Tile\")](https://www.fontsquirrel.com/fonts/saxMono)
 
 -   tags:
@@ -3304,10 +2934,6 @@
 ## [Sauna Mono Pro](https://www.myfonts.com/fonts/underware/sauna-mono-pro/)
 
 -   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-tags:
 
     -   neato
 
@@ -3362,15 +2988,7 @@
     
     -   classic traditional typewriter font
 
--   x-tags:
-
-    -   classic
-
 ## [Segoe UI Mono](https://docs.microsoft.com/en-us/typography/font-list/segoe-ui)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   <https://www.myfonts.com/fonts/ascender/segoe-ui-mono/> [0.7]
@@ -3402,10 +3020,6 @@
 
 ## [SGI Screen](https://bitbucket.org/tarkasteve/sgi-screen-ttf/src)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 -   urls:
     -   <https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/> [1] [macos conversion]
 
@@ -3418,10 +3032,6 @@
     -   programmer/coder oriented font
 
 ## [Sheldon](http://www.lowing.org/fonts/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Simple](https://lineto.com/typefaces/simple)
 
@@ -3441,23 +3051,15 @@
 
 ## [Skurier](https://www.myfonts.com/fonts/nowak/skurier/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-designer:
+-   designer:
 
     -   name: GRIN3 (Nowak)
 
--   x-tags:
+-   tags:
 
     -   cute
 
 ## [Skyhook Mono](https://www.fontsquirrel.com/fonts/skyhook-mono)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Small Type Writing](https://www.dafont.com/smalltypewriting-medium.font)
 
@@ -3466,10 +3068,6 @@
         (a narrow Courier-like)
 
 -   see also: Courier
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Smith Premier NF](http://www.myfonts.com/fonts/nicksfonts/smith-premier-nf/)
 
@@ -3517,33 +3115,32 @@
 
 -   see also: Proggy
 
+## [Spleen](https://www.cambus.net/spleen-monospaced-bitmap-fonts/)
+
 -   tags:
 
-    -   paid, free, or open source (FIXME)
+    -   bitmap
+
+-   urls:
+    -   <https://github.com/fcambus/spleen> [0.9]
 
 ## [Squareshooter Mono](http://www.lowing.org/fonts/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [String Literal 437](http://fontsgeek.com/fonts/String-Literal-437-Medium)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   <https://www.ffonts.net/String-Literal-437-Medium.font.download> [1]
 
 ## [Sudo](https://www.kutilek.de/sudo-font/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 -   urls:
     -   <https://github.com/jenskutilek/sudo-font> [0.9]
+
+## [Sun Gallant Demi](https://github.com/illumos/illumos-gate/blob/master/usr/src/uts/common/io/12x22.c)
+
+-   notes:
+
+        Sun's good old Unix workstation console font.
 
 ## [Superstudio](https://lineto.com/typefaces/superstudio)
 
@@ -3557,29 +3154,17 @@
 
 -   tags:
 
-    -   paid, free, or open source (FIXME)
-
--   x-tags:
-
     -   mildly distressed
     
     -   line printer
 
 ## [Tabular](https://www.myfonts.com/fonts/indian-type-foundry/tabular/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-designer:
+-   designer:
 
     -   name: Indian Type Foundry
 
 ## [Tamsyn](http://www.fial.com/~scott/tamsyn-font/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   <https://sunaku.github.io/tamsyn-1.7b-font-review.html> [1]
@@ -3588,47 +3173,23 @@
 
 -   based on: tamsyn
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Teamhair](http://www.cfcl.com/vlb/h/fontmono.html)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Telegrama](https://www.fontsquirrel.com/fonts/telegrama)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Telegrama Raw](https://www.fontsquirrel.com/fonts/Telegrama)
 
 -   tags:
 
-    -   paid, free, or open source (FIXME)
-
--   x-tags:
-
     -   dot matrix
 
 ## [Telegramo](https://www.myfonts.com/fonts/volcano/telegramo/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-designer:
+-   designer:
 
     -   name: Volcano Type
 
 ## [Terminal/VGA Font](http://www.lowing.org/fonts/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Terminus](http://terminus-font.sourceforge.net/)
 
@@ -3644,10 +3205,6 @@
 ## [Tewi](https://github.com/lucy/tewi-font)
 
 -   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-tags:
 
     -   bitmap
 
@@ -3677,15 +3234,7 @@
 
 ## [TheSansTypewriter; TheSansMono; etc.](http://www.lucasfonts.com/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [TI92PlusPC](http://ufonts.com/fonts/ti92pluspc.html)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 -   urls:
     -   <https://web.archive.org/web/20040214132157/http://www.tamuk.edu/math/scott/stars/tutorial.htm> [1]
@@ -3693,15 +3242,7 @@
 
 ## [Tired of Courier](http://new.myfonts.com/fonts/ingrimayne/tiredofcourier/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Topaz-8](http://www.lowing.org/fonts/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Triplicate](http://practicaltypography.com/triplicate.html)
 
@@ -3715,10 +3256,6 @@
 
 ## [Triskweline](http://www.cfcl.com/vlb/h/fontmono.html)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## Triumph Durabel
 
 -   notes:
@@ -3727,10 +3264,6 @@
         typewriter font FF Trixie is based on.
         
         [1] https://www.creativebloq.com/typography/best-typewriter-fonts-10135084
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [TT2020](https://ctrlcctrlv.github.io/TT2020/docs/)
 
@@ -3754,19 +3287,13 @@
 
 ## [Tye Paloon](https://www.fontspace.com/font-monkey/tye-paloon)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Typewalk Mono 1915](https://www.myfonts.com/fonts/typocalypse/typewalk-mono-1915/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-designer:
+-   designer:
 
     -   name: Typocalypse
+
+## [Typewriter Condensed](https://fontsarena.com/wp-content/uploads/2018/11/typewriter_condensed.zip)
 
 ## [Ubuntu Mono](https://design.ubuntu.com/font/)
 
@@ -3796,10 +3323,6 @@
 
 ## [Unotype](http://www.cfcl.com/vlb/h/fontmono.html)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Valentine](https://lineto.com/typefaces/valentine)
 
 -   foundry: Lineto
@@ -3809,10 +3332,6 @@
     -   paid
 
 ## [Verily Serif Mono](https://www.fontsquirrel.com/fonts/verily-serif-mono)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [Victor Mono](https://rubjo.github.io/victor-mono/)
 
@@ -3824,11 +3343,19 @@
 
 ## [Vidilex](http://www.cfcl.com/vlb/h/fontmono.html)
 
--   tags:
+## [Vin Mono Pro](https://www.fontspring.com/fonts/mint-type/vin-mono-pro)
 
-    -   paid, free, or open source (FIXME)
+-   foundry: Mint Type
+
+-   via:
+
+    -   https://fontsarena.com/blog/free-modern-typewriter-fonts/
 
 ## [Vivala Code](https://www.myfonts.com/fonts/johannes-hoffmann/vivala-code/)
+
+-   designer:
+
+    -   name: Johannes Hoffmann
 
 -   tags:
 
@@ -3836,15 +3363,7 @@
     
     -   programmer/coder oriented font
 
--   x-designer:
-
-    -   name: Johannes Hoffmann
-
 ## [VLNL TP Kurier Callig Regular](https://www.myfonts.com/fonts/vetteletters/vlnl-tp-kurier/callig-regular/)
-
--   tags:
-
-    -   paid, free, or open source (FIXME)
 
 ## [VT323](https://fedoraproject.org/wiki/VT323_Fonts)
 
@@ -3863,10 +3382,6 @@
 
 ## [Whois Mono](https://github.com/raphaelbastide/Whois-mono)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [WikisourceMono](https://github.com/wikisource/WikisourceMono)
 
 -   fork of: DPCustomMono2
@@ -3877,17 +3392,9 @@
 
 ## [Wire Type Mono](https://www.myfonts.com/fonts/thomas-kaeding/wire-type-mono/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Wudoo](https://www.myfonts.com/fonts/vishnu-sathyan/wudoo/)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-designer:
+-   designer:
 
     -   name: Vishnu Sathyan
 
@@ -3904,17 +3411,9 @@
           - Sony fonts
           - DEC Terminal (VAXstation/DECstation font)
 
--   tags:
-
-    -   paid, free, or open source (FIXME)
-
 ## [Zolan Mono](http://www.myfonts.com/fonts/btn/zolan-mono-btn/)
 
 -   tags:
-
-    -   paid, free, or open source (FIXME)
-
--   x-tags:
 
     -   novelty
 
