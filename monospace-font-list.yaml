@@ -150,13 +150,12 @@ fonts:
     formerly known as: Anonymous
     notes: |
         Alternate version Anonymous Pro Minus does not contain embedded bitmaps at smaller sizes.
-    x-tags:
-      - popular
-      - ofl
     designer: Mark Simonson
     tags:
       - open source
       - programmer/coder oriented font
+      - popular
+      - ofl
 
   - name: "Another Man's Treasure"
     designer: Rebecca Bettencourt
@@ -188,8 +187,6 @@ fonts:
     urls:
       - http://apl385.com/fonts/
       - { type: 'old', url: 'http://www.dyalog.com/apl-font-keyboard.htm' }
-    x-tags:
-      - quirky
     notes: |
         This is Adrian Smith\'s Unicode APL font, a de facto industry standard.
         Also available in a proportional version called APL333.
@@ -198,6 +195,7 @@ fonts:
     tags:
       - public domain
       - programmer/coder oriented font
+      - quirky
 
   - name: APLX Upright
     urls:
@@ -937,11 +935,10 @@ fonts:
   - name: Effects Eighty
     urls:
       - https://fontlibrary.org/en/font/effects-eighty
-    x-tags:
-      - dot matrix
     designer: Peter Hull
     tags:
       - open source
+      - dot matrix
 
   - name: Efont
     urls:
@@ -1191,7 +1188,7 @@ fonts:
     urls:
       - http://www.identifont.com/show?9A6
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    x-tags:
+    tags:
       - novelty
 
   - name: Generic Mono
@@ -1215,14 +1212,14 @@ fonts:
   - name: GNUTypewriter
     urls:
       - https://fontlibrary.org/en/font/gnutypewriter
-    x-tags:
+    tags:
       - distressed
 
   - name: Gohu
     urls:
       - http://font.gohu.org/
       - { type: 'ttf', url: 'https://github.com/zhenruyan/codefont/tree/master/lib/gohu/koemaeda' }
-    x-tags:
+    tags:
       - bitmap
 
   - name: Go Mono
@@ -1288,7 +1285,7 @@ fonts:
       - programmer/coder oriented font
 
   - name: Heimat Mono
-    x-designer:
+    designer:
       name: Atlas Font Foundry
     urls:
       - https://fonts.adobe.com/fonts/heimat-mono
@@ -1360,7 +1357,7 @@ fonts:
       - programmer/coder oriented font
 
   - name: Ingrid Mono
-    x-designer:
+    designer:
       name: Jörg Schmitt
     urls:
       - https://www.myfonts.com/fonts/jorg-schmitt/ingrid-mono/
@@ -1393,7 +1390,7 @@ fonts:
   - name: Italian Typewriter
     urls:
       - https://www.myfonts.com/fonts/flanker/italian-typewriter/
-    x-tags:
+    tags:
       - classic
 
   - name: ITC Souvenir Monospaced
@@ -1413,13 +1410,13 @@ fonts:
       - { type: 'via', url: 'https://github.com/zhenruyan/codefont/blob/master/readme_en.md' }
 
   - name: Karben 105 Mono
-    x-designer:
+    designer:
       name: Talbot Type
     urls:
       - https://www.talbottype.co.uk/typefaces/karben-105-mono/
 
   - name: Karben 205 Mono
-    x-designer:
+    designer:
       name: Talbot Type
     urls:
       - https://www.talbottype.co.uk/typefaces/karben-205-mono/
@@ -1628,7 +1625,7 @@ fonts:
       - https://github.com/robey/metrickal-typeface
 
   - name: Mingray Mono
-    x-designer:
+    designer:
       name: Rekord
     urls:
       - https://www.myfonts.com/fonts/rekord/mingray-mono/
@@ -1650,7 +1647,7 @@ fonts:
       - paid
 
   - name: Mono Condensed
-    x-designer:
+    designer:
       name: ParaType
     urls:
       - https://www.myfonts.com/fonts/paratype/mono-condensed/
@@ -1718,7 +1715,7 @@ fonts:
       - https://www.colophon-foundry.org/typefaces/monosten/
 
   - name: Monostep
-    x-designer:
+    designer:
       name: YOKKMOKK
     urls:
       - https://www.myfonts.com/fonts/yokkmokk/monostep/
@@ -1726,7 +1723,7 @@ fonts:
   - name: Monotype Typewriter
     urls:
       - https://www.fonts.com/font/monotype/typewriter
-    x-tags:
+    tags:
       - classic
     notes: |
         Regular, Elite, and Gothic
@@ -1760,7 +1757,7 @@ fonts:
       - programmer/coder oriented font
 
   - name: Native
-    x-designer:
+    designer:
       name: Fort Foundry
     urls:
       - https://fortfoundry.com/pages/native
@@ -1835,7 +1832,7 @@ fonts:
       - ISO 1073-2:1976 (E)
 
   - name: OCRJ
-    x-designer:
+    designer:
       name: Test Pilot Collective
     urls:
       - https://www.myfonts.com/fonts/testpilot/ocrj/
@@ -1857,7 +1854,7 @@ fonts:
   - name: Oloron Program
     urls:
       - http://www.fontmenu.com/site/_program.html
-    x-tags:
+    tags:
       - ugly
     notes: |
       Punctuation characters are bold.
@@ -1966,7 +1963,7 @@ fonts:
     urls:
       - https://proggyfonts.net/pixel-carnage/
       - https://www.dafont.com/pixelcarnage.d870
-    x-tags:
+    tags:
       - dot matrix
 
   - name: PixSymbols Courex
@@ -1988,7 +1985,7 @@ fonts:
   - name: Pointfree
     urls:
       - http://www.dafont.com/pointfree.font
-    x-tags:
+    tags:
       - if you like Comic Sans
 
   - name: Powerline Fonts
@@ -2171,7 +2168,7 @@ fonts:
   - name: Sauna Mono Pro
     urls:
       - https://www.myfonts.com/fonts/underware/sauna-mono-pro/
-    x-tags:
+    tags:
       - neato
 
   - name: Schumaker Misc
@@ -2210,8 +2207,6 @@ fonts:
   - name: Script 12 Pitch
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    x-tags:
-      - classic
     notes: |
         (that classic cursive typewriter font)
     tags:
@@ -2274,9 +2269,9 @@ fonts:
       - programmer/coder oriented font
 
   - name: Skurier
-    x-designer:
+    designer:
       name: GRIN3 (Nowak)
-    x-tags:
+    tags:
       - cute
     urls:
       - https://www.myfonts.com/fonts/nowak/skurier/
@@ -2370,12 +2365,12 @@ fonts:
   - name: SV Basic Manual
     urls:
       - https://www.dafont.com/sv-basic-manual.font
-    x-tags:
+    tags:
       - mildly distressed
       - line printer
 
   - name: Tabular
-    x-designer:
+    designer:
       name: Indian Type Foundry
     urls:
       - https://www.myfonts.com/fonts/indian-type-foundry/tabular/
@@ -2401,11 +2396,11 @@ fonts:
   - name: Telegrama Raw
     urls:
       - https://www.fontsquirrel.com/fonts/Telegrama
-    x-tags:
+    tags:
       - dot matrix
 
   - name: Telegramo
-    x-designer:
+    designer:
       name: Volcano Type
     urls:
       - https://www.myfonts.com/fonts/volcano/telegramo/
@@ -2425,7 +2420,7 @@ fonts:
   - name: Tewi
     urls:
       - https://github.com/lucy/tewi-font
-    x-tags:
+    tags:
       - bitmap
 
   - name: TeX Gyre Cursor
@@ -2508,7 +2503,7 @@ fonts:
       - https://www.fontspace.com/font-monkey/tye-paloon
 
   - name: Typewalk Mono 1915
-    x-designer:
+    designer:
       name: Typocalypse
     urls:
       - https://www.myfonts.com/fonts/typocalypse/typewalk-mono-1915/
@@ -2574,7 +2569,7 @@ fonts:
 
 
   - name: Vivala Code
-    x-designer:
+    designer:
       name: Johannes Hoffmann
     urls:
       - https://www.myfonts.com/fonts/johannes-hoffmann/vivala-code/
@@ -2613,7 +2608,7 @@ fonts:
       - https://www.myfonts.com/fonts/thomas-kaeding/wire-type-mono/
 
   - name: Wudoo
-    x-designer:
+    designer:
       name: Vishnu Sathyan
     urls:
       - https://www.myfonts.com/fonts/vishnu-sathyan/wudoo/
@@ -2634,5 +2629,5 @@ fonts:
   - name: Zolan Mono
     urls:
       - http://www.myfonts.com/fonts/btn/zolan-mono-btn/
-    x-tags:
+    tags:
       - novelty
