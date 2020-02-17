@@ -759,6 +759,14 @@ fonts:
       - open source
       - programmer/coder oriented font
 
+  - name: Dank Mono
+    urls:
+      - https://dank.sh/
+    tags:
+      - paid
+      - script italic
+      - ligatures
+
   - name: Dark Courier
     urls:
       - http://www.rolandstroud.com/Fonts-1.html
@@ -1413,6 +1421,14 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
       - monospace variant of a proportional font
+
+  - name: JetBrains Mono
+    urls:
+      - https://www.jetbrains.com/lp/mono/
+      - https://github.com/JetBrains/JetBrainsMono
+    tags:
+      - free
+      - ligatures
 
   - name: JetJane Mono
     urls:

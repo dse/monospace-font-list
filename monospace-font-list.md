@@ -82,6 +82,7 @@
 -   [Cutive Mono](#cutive-mono)
 -   [D2 Coding](#d2-coding)
 -   [DaddyTimeMono](#daddytimemono)
+-   [Dank Mono](#dank-mono)
 -   [Dark Courier](#dark-courier)
 -   [DEC Terminal](#dec-terminal)
 -   [DEC Terminal Modern](#dec-terminal-modern)
@@ -166,6 +167,7 @@
 -   [Iosevka Slab](#iosevka-slab)
 -   [Italian Typewriter](#italian-typewriter)
 -   [ITC Souvenir Monospaced](#itc-souvenir-monospaced)
+-   [JetBrains Mono](#jetbrains-mono)
 -   [JetJane Mono](#jetjane-mono)
 -   [jxyahei](#jxyahei)
 -   [Karben 105 Mono](#karben-105-mono)
@@ -1339,6 +1341,16 @@
     
     -   programmer/coder oriented font
 
+## [Dank Mono](https://dank.sh/)
+
+-   tags:
+
+    -   paid
+    
+    -   script italic
+    
+    -   ligatures
+
 ## [Dark Courier](http://www.rolandstroud.com/Fonts-1.html)
 
 -   tags:
@@ -2155,6 +2167,17 @@
 
 -   urls:
     -   <https://www.myfonts.com/fonts/itc/souvenir-monospaced/> [0.7]
+
+## [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+
+-   tags:
+
+    -   free
+    
+    -   ligatures
+
+-   urls:
+    -   <https://github.com/JetBrains/JetBrainsMono> [0.9]
 
 ## [JetJane Mono](http://www.cfcl.com/vlb/h/fontmono.html)
 
