@@ -1450,7 +1450,7 @@ fonts:
     urls:
       - https://www.talbottype.co.uk/typefaces/karben-205-mono/
 
-  - name: Kawkab Mono (Arabic)
+  - name: Kawkab Mono
     urls:
       - https://fontlibrary.org/en/font/kawkab-mono
 
@@ -1720,6 +1720,12 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
       - programmer/coder oriented font
+
+  - name: MonoOne
+    urls:
+      - https://github.com/zlsa/monoOne
+    tags:
+      - free
 
   - name: Monospace
     urls:
@@ -2423,6 +2429,12 @@ fonts:
     urls:
       - https://fonts.google.com/specimen/Rubik+Mono+One
 
+  - name: Sarasa Gothic
+    urls:
+      - https://github.com/be5invis/Sarasa-Gothic
+    notes: |
+      based on Iosevka and Source Han Sans
+
   - name: SaxMono (\"Tile\")
     urls:
       - https://www.fontsquirrel.com/fonts/saxMono
@@ -2855,7 +2867,6 @@ fonts:
       - terminal font
     notes: |
       Based on the font on the DEC VT320.
-
 
   - name: Whois Mono
     urls:

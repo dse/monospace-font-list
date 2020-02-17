@@ -172,7 +172,7 @@
 -   [jxyahei](#jxyahei)
 -   [Karben 105 Mono](#karben-105-mono)
 -   [Karben 205 Mono](#karben-205-mono)
--   [Kawkab Mono (Arabic)](#kawkab-mono-arabic)
+-   [Kawkab Mono](#kawkab-mono)
 -   [Klartext Mono](#klartext-mono)
 -   [Larabiefont](#larabiefont)
 -   [Latin Modern Mono](#latin-modern-mono)
@@ -218,6 +218,7 @@
 -   [Monoid](#monoid)
 -   [Monoist](#monoist)
 -   [Mononoki](#mononoki)
+-   [MonoOne](#monoone)
 -   [Monospace](#monospace)
 -   [Monospace 821](#monospace-821)
 -   [MonosapceTypewriter](#monosapcetypewriter)
@@ -294,6 +295,7 @@
 -   [RF Rostin](#rf-rostin)
 -   [Roboto Mono](#roboto-mono)
 -   [Rubik Mono One](#rubik-mono-one)
+-   [Sarasa Gothic](#sarasa-gothic)
 -   [SaxMono (\"Tile\")](#saxmono-tile)
 -   [Sauna Mono Pro](#sauna-mono-pro)
 -   [Schumaker Misc](#schumaker-misc)
@@ -2195,7 +2197,7 @@
 
     -   name: Talbot Type
 
-## [Kawkab Mono (Arabic)](https://fontlibrary.org/en/font/kawkab-mono)
+## [Kawkab Mono](https://fontlibrary.org/en/font/kawkab-mono)
 
 ## [Klartext Mono](http://www.fontswithlove.com/fwl/klartext-mono-fontfamily)
 
@@ -2468,6 +2470,12 @@
 
 -   urls:
     -   <https://github.com/madmalik/mononoki> [0.9]
+
+## [MonoOne](https://github.com/zlsa/monoOne)
+
+-   tags:
+
+    -   free
 
 ## [Monospace](http://www.fontspace.com/george-williams/monospace)
 
@@ -3197,6 +3205,12 @@
     -   monospace variant of a proportional font
 
 ## [Rubik Mono One](https://fonts.google.com/specimen/Rubik+Mono+One)
+
+## [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic)
+
+-   notes:
+
+        based on Iosevka and Source Han Sans
 
 ## [SaxMono (\"Tile\")](https://www.fontsquirrel.com/fonts/saxMono)
 
