@@ -904,7 +904,15 @@ fonts:
     tags:
       - open source
 
-  - name: Droid Sans Mono Slashed
+  - name: Droid Sans Mono Slashed/Dotted
+    urls:
+      - http://www.cosmix.org/software/
+
+  - name: Droid Sans Mono ZeroMod
+    urls:
+      https://github.com/AlbertoDorado/droid-sans-mono-zeromod
+    notes: |
+      Two variants, one with a dotted zero, and one with a slashed zero.
 
   - name: EB Jessica
     designer: Erik Bertell
@@ -1355,6 +1363,11 @@ fonts:
     tags:
       - paid, free, or open source (FIXME)
       - programmer/coder oriented font
+
+  - name: Inconsolata Hellenic
+    urls:
+      - http://www.cosmix.org/software/
+      - https://github.com/cosmix/Inconsolata-Hellenic
 
   - name: Ingrid Mono
     designer:
@@ -1875,8 +1888,16 @@ fonts:
       - paid, free, or open source (FIXME)
       - programmer/coder oriented font?
 
-  - name: OpenGenera/LispM
+  - name: OpenGenera fonts
+    urls:
+      - https://archive.org/download/SymblicsOpenGenera
+    notes: |
+      Extract the contents of `opengenera2.tar.bz2`.
+      The `sys.sct/x11/fonts/bdf/genera` directory contains a bunch
+      of BDF fonts.
 
+      cptfont.bdf is pretty much this font:
+      https://github.com/unjordy/LispM-Font
 
   - name: Operator Mono
     urls:
