@@ -910,7 +910,7 @@ fonts:
 
   - name: Droid Sans Mono ZeroMod
     urls:
-      https://github.com/AlbertoDorado/droid-sans-mono-zeromod
+      - https://github.com/AlbertoDorado/droid-sans-mono-zeromod
     notes: |
       Two variants, one with a dotted zero, and one with a slashed zero.
 

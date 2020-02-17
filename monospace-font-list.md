@@ -95,7 +95,8 @@
 -   [Doire](#doire)
 -   [DPCustomMono2](#dpcustommono2)
 -   [Droid Sans Mono](#droid-sans-mono)
--   [Droid Sans Mono Slashed](#droid-sans-mono-slashed)
+-   [Droid Sans Mono Slashed/Dotted](#droid-sans-mono-slasheddotted)
+-   [Droid Sans Mono ZeroMod](#droid-sans-mono-zeromod)
 -   [EB Jessica](#eb-jessica)
 -   [Edlo](#edlo)
 -   [EF Techno Script](#ef-techno-script)
@@ -157,6 +158,7 @@
 -   [Inconsolata-LGC (adds cyrillics, bold, and italic)](#inconsolata-lgc-adds-cyrillics-bold-and-italic)
 -   [Inconsolata-dz (adds straight quotes)](#inconsolata-dz-adds-straight-quotes)
 -   [Inconsolata-g (adds dotted zero to Inconsolata-dz)](#inconsolata-g-adds-dotted-zero-to-inconsolata-dz)
+-   [Inconsolata Hellenic](#inconsolata-hellenic)
 -   [Ingrid Mono](#ingrid-mono)
 -   [Input Mono](#input-mono)
 -   [Intimo Two](#intimo-two)
@@ -243,7 +245,7 @@
 -   [Olympiad](#olympiad)
 -   [Onuava](#onuava)
 -   [OpenDyslexic](#opendyslexic)
--   [OpenGenera/LispM](#opengeneralispm)
+-   [OpenGenera fonts](#opengenera-fonts)
 -   [Operator Mono](#operator-mono)
 -   [Opti](#opti)
 -   [Orator](#orator)
@@ -1541,7 +1543,13 @@
     -   <https://fonts.google.com/specimen/Droid+Sans+Mono> [0.7]
     -   <https://en.wikipedia.org/wiki/Droid_fonts> [0.1]
 
-## Droid Sans Mono Slashed
+## [Droid Sans Mono Slashed/Dotted](http://www.cosmix.org/software/)
+
+## [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
+
+-   notes:
+
+        Two variants, one with a dotted zero, and one with a slashed zero.
 
 ## [EB Jessica](https://www.myfonts.com/fonts/erik-bertell/eb-jessica/)
 
@@ -2092,6 +2100,11 @@
     
     -   programmer/coder oriented font
 
+## [Inconsolata Hellenic](http://www.cosmix.org/software/)
+
+-   urls:
+    -   <https://github.com/cosmix/Inconsolata-Hellenic> [0.9]
+
 ## [Ingrid Mono](https://www.myfonts.com/fonts/jorg-schmitt/ingrid-mono/)
 
 -   designer:
@@ -2629,7 +2642,16 @@
 -   urls:
     -   <https://en.wikipedia.org/wiki/OpenDyslexic> [0.1]
 
-## OpenGenera/LispM
+## [OpenGenera fonts](https://archive.org/download/SymblicsOpenGenera)
+
+-   notes:
+
+        Extract the contents of `opengenera2.tar.bz2`.
+        The `sys.sct/x11/fonts/bdf/genera` directory contains a bunch
+        of BDF fonts.
+        
+        cptfont.bdf is pretty much this font:
+        https://github.com/unjordy/LispM-Font
 
 ## [Operator Mono](http://www.typography.com/fonts/operator/overview/)
 
@@ -3422,8 +3444,6 @@
 -   Courier MM Screenwriter
 -   Courier Standard
 -   DEC VT330
--   Droid Sans Mono Slashed
--   OpenGenera/LispM
 -   PCMyungjo
 -   Triumph Durabel
 
