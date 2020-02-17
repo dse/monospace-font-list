@@ -410,7 +410,6 @@ fonts:
   - name: BSU Kermit
     urls:
       - { type: "via", url: "http://www.lowing.org/fonts/" }
-    designer:
 
   - name: Camingo Code
     urls:
@@ -718,7 +717,6 @@ fonts:
   - name: CP1250 Terminal Fonts
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
-    designer:
 
   - name: Creep
     urls:
@@ -738,7 +736,6 @@ fonts:
   - name: Crystal
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
-    designer:
 
   - name: Cubiculum
     designer: Johan Winge
@@ -822,7 +819,6 @@ fonts:
         -   VT330_NARROW18.PCF
         -   VT330_NARROW36.PCF
         -   VT330_WIDE18.PCF
-    designer:
 
   - name: Decima Mono
     urls:
@@ -961,7 +957,6 @@ fonts:
   - name: Efont
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
-    designer:
 
   - name: Envy Code R
     urls:
@@ -1003,7 +998,6 @@ fonts:
   - name: Excalibur Monospace
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    designer:
 
   - name: Excellent
     urls:
@@ -1063,12 +1057,10 @@ fonts:
   - name: Feggolite Mono
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    designer:
 
   - name: Felt Pen
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    designer:
 
   - name: FF Elementa
     urls:
@@ -1203,7 +1195,6 @@ fonts:
   - name: Flexi IBM VGA
     urls:
       - https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/
-    designer:
 
   - name: FreeMono
     notes: FreeMono is part of the GNU FreeFont collection, also known as Free UCS Outline Fonts
@@ -1221,13 +1212,11 @@ fonts:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     x-tags:
       - novelty
-    designer:
 
   - name: Generic Mono
     urls:
       - http://programmingfonts.org/post/107484861287/generic-mono-a-generic-monospaced-font
       - http://luc.devroye.org/fonts-75172.html
-    designer:
 
   - name: Glass TTY VT220
     urls:
@@ -1242,14 +1231,12 @@ fonts:
   - name: Glovis
     urls:
       - https://www.myfonts.com/fonts/nonpareille/glovis/
-    designer:
 
   - name: GNUTypewriter
     urls:
       - https://fontlibrary.org/en/font/gnutypewriter
     x-tags:
       - distressed
-    designer:
 
   - name: Gohu
     urls:
@@ -1257,7 +1244,6 @@ fonts:
       - { type: 'ttf', url: 'https://github.com/zhenruyan/codefont/tree/master/lib/gohu/koemaeda' }
     x-tags:
       - bitmap
-    designer:
 
   - name: Go Mono
     urls:
@@ -1270,7 +1256,6 @@ fonts:
   - name: Greenwood Pro
     urls:
       - https://www.myfonts.com/fonts/protimient/greenwood/
-    designer:
 
   - name: GNU Unifont
     urls:
@@ -1296,7 +1281,6 @@ fonts:
   - name: GwdTE 437
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
-    designer:
 
   - name: Hack
     urls:
@@ -1334,7 +1318,6 @@ fonts:
       - https://fonts.adobe.com/fonts/heimat-mono
       - https://www.myfonts.com/fonts/atlas-font-foundry/heimat-mono/
       - http://www.atlasfonts.com/typefaces/heimat-mono/
-    designer:
 
   - name: Helvetica Monospaced
     urls:
@@ -1347,13 +1330,11 @@ fonts:
   - name: Hermit
     urls:
       - https://pcaro.es/p/hermit/
-    designer:
 
   - name: Hyperfont
     urls:
       - https://en.wikipedia.org/wiki/HyperFont
       - { type: "via", url: "http://www.lowing.org/fonts/" }
-    designer:
 
   - name: iA Writer Mono
     urls:
@@ -1414,7 +1395,6 @@ fonts:
       name: Jörg Schmitt
     urls:
       - https://www.myfonts.com/fonts/jorg-schmitt/ingrid-mono/
-    designer:
 
   - name: Input Mono
     urls:
@@ -1427,7 +1407,6 @@ fonts:
   - name: Intimo Two
     urls:
       - https://www.myfonts.com/fonts/fw-alias/intimo/two/
-    designer:
 
   - name: Iosevka
     urls:
@@ -1443,14 +1422,12 @@ fonts:
     urls:
       - https://be5invis.github.io/Iosevka/
       - https://github.com/be5invis/Iosevka
-    designer:
 
   - name: Italian Typewriter
     urls:
       - https://www.myfonts.com/fonts/flanker/italian-typewriter/
     x-tags:
       - classic
-    designer:
 
   - name: ITC Souvenir Monospaced
     urls:
@@ -1464,44 +1441,37 @@ fonts:
   - name: JetJane Mono
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    designer:
 
   - name: jxyahei
     urls:
       - { type: 'via', url: 'https://github.com/zhenruyan/codefont/blob/master/readme_en.md' }
-    designer:
 
   - name: Karben 105 Mono
     x-designer:
       name: Talbot Type
     urls:
       - https://www.talbottype.co.uk/typefaces/karben-105-mono/
-    designer:
 
   - name: Karben 205 Mono
     x-designer:
       name: Talbot Type
     urls:
       - https://www.talbottype.co.uk/typefaces/karben-205-mono/
-    designer:
 
   - name: Kawkab Mono (Arabic)
     urls:
       - https://fontlibrary.org/en/font/kawkab-mono
-    designer:
 
   - name: Klartext Mono
     urls:
       - http://www.fontswithlove.com/fwl/klartext-mono-fontfamily
       - https://www.fontsquirrel.com/fonts/klartext-mono
-    designer:
 
   - name: Larabiefont
     urls:
       - http://typodermicfonts.com/larabiefont/
       - http://www.larabiefonts.com/
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    designer:
 
   - name: Latin Modern Mono
     urls:
@@ -1527,12 +1497,10 @@ fonts:
     urls:
       - http://www.fontsquirrel.com/fonts/lekton
       - http://www.google.com/fonts/specimen/Lekton
-    designer:
 
   - name: Less Perfect DOS VGA
     urls:
       - http://laemeur.sdf.org/fonts/
-    designer:
 
   - name: Letter Gothic
     urls:
@@ -1552,13 +1520,11 @@ fonts:
   - name: LH Mono Slab
     urls:
       - https://coliss.com/articles/freebies/freebies-font-by-lufthamn-studio.html
-    designer:
 
   - name: Liberation Mono
     urls:
       - https://fedorahosted.org/liberation-fonts/
       - https://www.fontsquirrel.com/fonts/liberation-mono
-    designer:
 
   - name: Linefeed
     urls:
@@ -1570,18 +1536,15 @@ fonts:
   - name: Linux Console Fonts for Windows
     urls:
       - http://web.archive.org/web/20110830193159/http://www.ank.com.ar/fonts/
-    designer:
 
   - name: Linux Libertine Mono
     urls:
       - http://www.linuxlibertine.org/
       - https://fontlibrary.org/en/font/linux-libertine
-    designer:
 
   - name: LispM
     urls:
       - https://github.com/unjordy/LispM-Font
-    designer:
 
   - name: LTC Remington Typewriter
     urls:
@@ -1596,7 +1559,6 @@ fonts:
       - https://docs.microsoft.com/en-us/typography/font-list/lucida-console
       - https://en.wikipedia.org/wiki/Lucida
       - https://lucidafonts.com/
-    designer:
 
   - name: Lucida Typewriter Bitmap Fonts
     urls:
@@ -1610,14 +1572,12 @@ fonts:
     urls:
       - https://en.wikipedia.org/wiki/Lucida
       - https://lucidafonts.com/
-    designer:
 
   - name: Lucida Typewriter EF
     urls:
       - https://www.myfonts.com/fonts/ef/lucida-typewriter/
       - https://en.wikipedia.org/wiki/Lucida
       - https://lucidafonts.com/
-    designer:
 
   - name: Lucida Sans Typewriter
     urls:
@@ -1643,7 +1603,6 @@ fonts:
       - https://gitlab.freedesktop.org/xorg/font/bh-ttf
       - https://www.fontsquirrel.com/fonts/luxi-mono
       - https://en.wikipedia.org/wiki/Luxi_fonts
-    designer:
 
   - name: M+ 1m
     urls:
@@ -1672,12 +1631,10 @@ fonts:
   - name: Maison Mono
     urls:
       - https://www.milieugrotesque.com/specimen/maison/
-    designer:
 
   - name: Maison Neue Mono
     urls:
       - https://www.milieugrotesque.com/specimen/maison-neue/
-    designer:
 
   - name: Marista
     urls:
@@ -1685,7 +1642,6 @@ fonts:
     notes: |
         inspired by classic cursive faces
         one weight is free
-    designer:
 
   - name: Menlo
     fork of: Deja Vu Sans Mono
@@ -1715,25 +1671,21 @@ fonts:
   - name: Metrickal
     urls:
       - https://github.com/robey/metrickal-typeface
-    designer:
 
   - name: Mingray Mono
     x-designer:
       name: Rekord
     urls:
       - https://www.myfonts.com/fonts/rekord/mingray-mono/
-    designer:
 
   - name: Mitigate
     urls:
       - https://www.myfonts.com/fonts/typodermic/mitigate/
-    designer:
 
   - name: Monaco
     urls:
       - ftp://ftp.apple.com/developer/Tool_Chest/Core_Mac_OS_Tools/MPW_etc./Miscellaneous/MPW_Font.sit.hqx
       - http://en.wikipedia.org/wiki/Monaco_(typeface)
-    designer:
 
   - name: Mono
     foundry: Lineto
@@ -1747,27 +1699,22 @@ fonts:
       name: ParaType
     urls:
       - https://www.myfonts.com/fonts/paratype/mono-condensed/
-    designer:
 
   - name: Mono LH
     urls:
       - https://www.ffonts.net/Mono-LH.font
-    designer:
 
   - name: Mono Spatial
     urls:
       - https://www.dafont.com/mono-spatial.font
-    designer:
 
   - name: Monocto
     urls:
       - https://www.myfonts.com/fonts/lafonts/monocto/
-    designer:
 
   - name: Monoela
     urls:
       - https://www.myfonts.com/fonts/interfont/monoela/
-    designer:
 
   - name: Monofur
     urls:
@@ -1785,7 +1732,6 @@ fonts:
   - name: Monoist
     urls:
       - https://hanken.co/products/monoist
-    designer:
 
   - name: Mononoki
     urls:
@@ -1800,7 +1746,6 @@ fonts:
     urls:
       - http://www.fontspace.com/george-williams/monospace
       - https://en.wikipedia.org/wiki/Monospace_(typeface)
-    designer:
 
   - name: Monospace 821
     urls:
@@ -1815,19 +1760,16 @@ fonts:
   - name: MonosapceTypewriter
     urls:
       - https://www.fontsquirrel.com/fonts/MonospaceTypewriter
-    designer:
 
   - name: Monosten
     urls:
       - https://www.colophon-foundry.org/typefaces/monosten/
-    designer:
 
   - name: Monostep
     x-designer:
       name: YOKKMOKK
     urls:
       - https://www.myfonts.com/fonts/yokkmokk/monostep/
-    designer:
 
   - name: Monotype Typewriter
     urls:
@@ -1836,32 +1778,26 @@ fonts:
       - classic
     notes: |
         Regular, Elite, and Gothic
-    designer:
 
   - name: Monte Carlo
     urls:
       - http://www.bok.net/MonteCarlo/
-    designer:
 
   - name: More Perfect DOS VGA
     urls:
       - http://laemeur.sdf.org/fonts/
-    designer:
 
   - name: MS Mincho
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
-    designer:
 
   - name: MVB Fantabular
     urls:
       - https://www.myfonts.com/fonts/mvbfonts/mvb-fantabular/
-    designer:
 
   - name: MVB Fantabular Sans
     urls:
       - https://www.myfonts.com/fonts/mvbfonts/mvb-fantabular-sans/
-    designer:
 
   - name: Nanum Gothic Coding (Korean)
     urls:
@@ -1877,7 +1813,6 @@ fonts:
       name: Fort Foundry
     urls:
       - https://fortfoundry.com/pages/native
-    designer:
 
   - name: URW Nimbus Mono L
     urls:
@@ -1899,19 +1834,16 @@ fonts:
   - name: Normafixed
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    designer:
 
   - name: NotCourierSans
     urls:
       - http://openfontlibrary.org/en/font/notcouriersans
       - https://www.fontsquirrel.com/fonts/notcouriersans
-    designer:
 
   - name: Noto Mono
     based on: Droid Sans Mono
     urls:
       - https://www.google.com/get/noto/
-    designer:
 
   - name: Nova Mono
     urls:
@@ -1924,7 +1856,6 @@ fonts:
   - name: NuSans Mono
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    designer:
 
   - name: OCR-A
     urls:
@@ -1959,12 +1890,10 @@ fonts:
       name: Test Pilot Collective
     urls:
       - https://www.myfonts.com/fonts/testpilot/ocrj/
-    designer:
 
   - name: Odisseia
     urls:
       - https://www.myfonts.com/fonts/niramekko/odisseia/
-    designer:
 
   - name: Office Code Pro
     urls:
@@ -1984,17 +1913,14 @@ fonts:
       - ugly
     notes: |
       Punctuation characters are bold.
-    designer:
 
   - name: Olympiad
     urls:
       - https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/
-    designer:
 
   - name: Onuava
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    designer:
 
   - name: OpenDyslexic
     urls:
@@ -2019,7 +1945,6 @@ fonts:
     see also: Proggy
     urls:
       - https://proggyfonts.net/proggy-opti/
-    designer:
 
   - name: Orator
     urls:
@@ -2034,7 +1959,6 @@ fonts:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     notes: |
         (comes with macOS)
-    designer:
 
   - name: Overpass Mono
     urls:
@@ -2058,17 +1982,14 @@ fonts:
   - name: Panic Sans
     urls:
       - https://github.com/chrissimpkins/codeface/tree/master/fonts/panic-sans
-    designer:
 
   - name: PCMyungjo
     notes: |
       (comes with MacOS)
-    designer:
 
   - name: Perfect DOS VGA 437
     urls:
       - https://www.dafont.com/perfect-dos-vga-437.font
-    designer:
 
   - name: Pet Me
     designer: Rebecca Bettencourt
@@ -2082,7 +2003,6 @@ fonts:
   - name: PF Din Mono
     urls:
       - https://www.myfonts.com/fonts/parachute/pf-din-mono/
-    designer:
 
   - name: Bitstream Pica 10 Pitch
     urls:
@@ -2106,17 +2026,14 @@ fonts:
       - https://www.dafont.com/pixelcarnage.d870
     x-tags:
       - dot matrix
-    designer:
 
   - name: PixSymbols Courex
     urls:
       - http://www.myfonts.com/fonts/pixymbols/courex/
-    designer:
 
   - name: Platelet
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    designer:
 
   - name: Plex Mono
     urls:
@@ -2131,7 +2048,6 @@ fonts:
       - http://www.dafont.com/pointfree.font
     x-tags:
       - if you like Comic Sans
-    designer:
 
   - name: Powerline Fonts
     urls:
@@ -2180,7 +2096,6 @@ fonts:
     urls:
       - https://fonts.google.com/specimen/Press+Start+2P
       - https://fontlibrary.org/en/font/press-start-2p
-    designer:
 
   - name: Prestige (Elite)
     urls:
@@ -2200,7 +2115,6 @@ fonts:
         Shipped with the Linotron 202
         based on Excelsior
         Reconstructed in a reconstruction of the Bell Labs Vacation memo
-    designer:
 
   - name: Profont
     urls:
@@ -2213,7 +2127,6 @@ fonts:
   - name: Proggy
     urls:
       - http://www.proggyfonts.net/
-    designer:
 
   - name: Proggy Clean
     urls:
@@ -2226,17 +2139,14 @@ fonts:
   - name: Proggy Square
     urls:
       - http://www.proggyfonts.net/
-    designer:
 
   - name: Proggy Small
     urls:
       - http://www.proggyfonts.net/
-    designer:
 
   - name: Proggy Tiny
     urls:
       - http://www.proggyfonts.net/
-    designer:
 
   - name: Proggy Vector
     urls:
@@ -2259,12 +2169,10 @@ fonts:
   - name: The Ultimate Oldschool PC Font Pack (PX Plus family)
     urls:
       - http://int10h.org/oldschool-pc-fonts/
-    designer:
 
   - name: QuickType Mono
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    designer:
 
   - name: Quinze
     see also: Fifteen
@@ -2279,22 +2187,18 @@ fonts:
     urls:
       - http://www.raize.com/devtools/tools/rzfont.asp
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
-    designer:
 
   - name: Range Mono
     urls:
       - https://www.myfonts.com/fonts/griffin-moore/range-mono/
-    designer:
 
   - name: Rational TW
     urls:
       - https://www.myfonts.com/fonts/rene-bieder/rational-tw/
-    designer:
 
   - name: Relative Mono
     urls:
       - https://www.colophon-foundry.org/typefaces/relative/
-    designer:
 
   - name: Replica Mono
     foundry: Lineto
@@ -2306,12 +2210,10 @@ fonts:
   - name: Resolution
     urls:
       - https://www.myfonts.com/fonts/emil-kozole/resolution/
-    designer:
 
   - name: RF Rostin
     urls:
       - https://www.myfonts.com/fonts/russian-fonts/rf-rostin/
-    designer:
 
   - name: Roboto Mono
     urls:
@@ -2325,7 +2227,6 @@ fonts:
   - name: Rubik Mono One
     urls:
       - https://fonts.google.com/specimen/Rubik+Mono+One
-    designer:
 
   - name: SaxMono (\"Tile\")
     urls:
@@ -2340,7 +2241,6 @@ fonts:
       - https://www.myfonts.com/fonts/underware/sauna-mono-pro/
     x-tags:
       - neato
-    designer:
 
   - name: Schumaker Misc
     urls:
@@ -2392,7 +2292,6 @@ fonts:
       - https://docs.microsoft.com/en-us/typography/font-list/segoe-ui
       - https://en.wikipedia.org/wiki/Segoe
       - https://www.myfonts.com/fonts/ascender/segoe-ui-mono/
-    designer:
 
   - name: SF Mono
     urls:
@@ -2417,7 +2316,6 @@ fonts:
     urls:
       - https://bitbucket.org/tarkasteve/sgi-screen-ttf/src
       - { type: 'macos conversion', url: 'https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/' }
-    designer:
 
   - name: Share Tech Mono
     urls:
@@ -2430,7 +2328,6 @@ fonts:
   - name: Sheldon
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
-    designer:
 
   - name: Simple
     foundry: Lineto
@@ -2454,12 +2351,10 @@ fonts:
       - cute
     urls:
       - https://www.myfonts.com/fonts/nowak/skurier/
-    designer:
 
   - name: Skyhook Mono
     urls:
       - https://www.fontsquirrel.com/fonts/skyhook-mono
-    designer:
 
   - name: Small Type Writing
     urls:
@@ -2467,7 +2362,6 @@ fonts:
     see also: Courier
     notes: |
         (a narrow Courier-like)
-    designer:
 
   - name: Smith Premier NF
     urls:
@@ -2512,7 +2406,6 @@ fonts:
     see also: Proggy
     urls:
       - https://proggyfonts.net/speedy/
-    designer:
 
   - name: Spleen
     urls:
@@ -2524,19 +2417,16 @@ fonts:
   - name: Squareshooter Mono
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
-    designer:
 
   - name: String Literal 437
     urls:
       - http://fontsgeek.com/fonts/String-Literal-437-Medium
       - https://www.ffonts.net/String-Literal-437-Medium.font.download
-    designer:
 
   - name: Sudo
     urls:
       - https://www.kutilek.de/sudo-font/
       - https://github.com/jenskutilek/sudo-font
-    designer:
 
   - name: Sun Gallant Demi
     urls:
@@ -2557,55 +2447,46 @@ fonts:
     x-tags:
       - mildly distressed
       - line printer
-    designer:
 
   - name: Tabular
     x-designer:
       name: Indian Type Foundry
     urls:
       - https://www.myfonts.com/fonts/indian-type-foundry/tabular/
-    designer:
 
   - name: Tamsyn
     urls:
       - http://www.fial.com/~scott/tamsyn-font/
       - https://sunaku.github.io/tamsyn-1.7b-font-review.html
-    designer:
 
   - name: Tamzen
     urls:
       - https://github.com/sunaku/tamzen-font
     based on: tamsyn
-    designer:
 
   - name: Teamhair
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    designer:
 
   - name: Telegrama
     urls:
       - https://www.fontsquirrel.com/fonts/telegrama
-    designer:
 
   - name: Telegrama Raw
     urls:
       - https://www.fontsquirrel.com/fonts/Telegrama
     x-tags:
       - dot matrix
-    designer:
 
   - name: Telegramo
     x-designer:
       name: Volcano Type
     urls:
       - https://www.myfonts.com/fonts/volcano/telegramo/
-    designer:
 
   - name: Terminal/VGA Font
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
-    designer:
 
   - name: Terminus
     urls:
@@ -2621,7 +2502,6 @@ fonts:
       - https://github.com/lucy/tewi-font
     x-tags:
       - bitmap
-    designer:
 
   - name: TeX Gyre Cursor
     urls:
@@ -2645,24 +2525,20 @@ fonts:
   - name: TheSansTypewriter; TheSansMono; etc.
     urls:
       - http://www.lucasfonts.com/
-    designer:
 
   - name: TI92PlusPC
     urls:
       - http://ufonts.com/fonts/ti92pluspc.html
       - https://github.com/sterpe/ti92plus
       - https://web.archive.org/web/20040214132157/http://www.tamuk.edu/math/scott/stars/tutorial.htm
-    designer:
 
   - name: Tired of Courier
     urls:
       - http://new.myfonts.com/fonts/ingrimayne/tiredofcourier/
-    designer:
 
   - name: Topaz-8
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
-    designer:
 
   - name: Triplicate
     urls:
@@ -2676,7 +2552,6 @@ fonts:
   - name: Triskweline
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    designer:
 
   - name: Triumph Durabel
     notes: |
@@ -2684,7 +2559,6 @@ fonts:
       typewriter font FF Trixie is based on.
 
       [1] https://www.creativebloq.com/typography/best-typewriter-fonts-10135084
-    designer:
 
   - name: TT2020
     urls:
@@ -2709,14 +2583,12 @@ fonts:
   - name: Tye Paloon
     urls:
       - https://www.fontspace.com/font-monkey/tye-paloon
-    designer:
 
   - name: Typewalk Mono 1915
     x-designer:
       name: Typocalypse
     urls:
       - https://www.myfonts.com/fonts/typocalypse/typewalk-mono-1915/
-    designer:
 
   - name: Typewriter Condensed
     urls:
@@ -2748,7 +2620,6 @@ fonts:
   - name: Unotype
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    designer:
 
   - name: Valentine
     foundry: Lineto
@@ -2760,7 +2631,6 @@ fonts:
   - name: Verily Serif Mono
     urls:
       - https://www.fontsquirrel.com/fonts/verily-serif-mono
-    designer:
 
   - name: Victor Mono
     urls:
@@ -2772,7 +2642,6 @@ fonts:
   - name: Vidilex
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
-    designer:
 
   - name: Vin Mono Pro
     urls:
@@ -2795,7 +2664,6 @@ fonts:
   - name: VLNL TP Kurier Callig Regular
     urls:
       - https://www.myfonts.com/fonts/vetteletters/vlnl-tp-kurier/callig-regular/
-    designer:
 
   - name: VT323
     urls:
@@ -2812,7 +2680,6 @@ fonts:
   - name: Whois Mono
     urls:
       - https://github.com/raphaelbastide/Whois-mono
-    designer:
 
   - name: WikisourceMono
     fork of: DPCustomMono2
@@ -2825,14 +2692,12 @@ fonts:
   - name: Wire Type Mono
     urls:
       - https://www.myfonts.com/fonts/thomas-kaeding/wire-type-mono/
-    designer:
 
   - name: Wudoo
     x-designer:
       name: Vishnu Sathyan
     urls:
       - https://www.myfonts.com/fonts/vishnu-sathyan/wudoo/
-    designer:
 
   - name: X11 Monospace Fonts
     notes: |
