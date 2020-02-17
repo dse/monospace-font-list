@@ -339,8 +339,6 @@ fonts:
   - name: Bitstream Courier Type 1
     urls:
       - https://gitlab.freedesktop.org/xorg/font/bitstream-type1
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Bitstream Pica 10 Pitch
     urls:
@@ -413,8 +411,6 @@ fonts:
     urls:
       - { type: "via", url: "http://www.lowing.org/fonts/" }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Camingo Code
     urls:
@@ -723,8 +719,6 @@ fonts:
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Creep
     urls:
@@ -745,8 +739,6 @@ fonts:
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Cubiculum
     designer: Johan Winge
@@ -831,8 +823,6 @@ fonts:
         -   VT330_NARROW36.PCF
         -   VT330_WIDE18.PCF
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Decima Mono
     urls:
@@ -972,8 +962,6 @@ fonts:
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Envy Code R
     urls:
@@ -1016,8 +1004,6 @@ fonts:
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Excellent
     urls:
@@ -1078,15 +1064,11 @@ fonts:
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Felt Pen
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: FF Elementa
     urls:
@@ -1222,8 +1204,6 @@ fonts:
     urls:
       - https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: FreeMono
     notes: FreeMono is part of the GNU FreeFont collection, also known as Free UCS Outline Fonts
@@ -1242,16 +1222,12 @@ fonts:
     x-tags:
       - novelty
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Generic Mono
     urls:
       - http://programmingfonts.org/post/107484861287/generic-mono-a-generic-monospaced-font
       - http://luc.devroye.org/fonts-75172.html
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Glass TTY VT220
     urls:
@@ -1267,8 +1243,6 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/nonpareille/glovis/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: GNUTypewriter
     urls:
@@ -1276,8 +1250,6 @@ fonts:
     x-tags:
       - distressed
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Gohu
     urls:
@@ -1286,8 +1258,6 @@ fonts:
     x-tags:
       - bitmap
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Go Mono
     urls:
@@ -1301,8 +1271,6 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/protimient/greenwood/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: GNU Unifont
     urls:
@@ -1329,8 +1297,6 @@ fonts:
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Hack
     urls:
@@ -1369,8 +1335,6 @@ fonts:
       - https://www.myfonts.com/fonts/atlas-font-foundry/heimat-mono/
       - http://www.atlasfonts.com/typefaces/heimat-mono/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Helvetica Monospaced
     urls:
@@ -1384,16 +1348,12 @@ fonts:
     urls:
       - https://pcaro.es/p/hermit/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Hyperfont
     urls:
       - https://en.wikipedia.org/wiki/HyperFont
       - { type: "via", url: "http://www.lowing.org/fonts/" }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: iA Writer Mono
     urls:
@@ -1407,8 +1367,6 @@ fonts:
   - name: IBM Courier Type 1
     urls:
       - https://gitlab.freedesktop.org/xorg/font/ibm-type1
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: IBM Plex Mono
     urls:
@@ -1457,8 +1415,6 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/jorg-schmitt/ingrid-mono/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Input Mono
     urls:
@@ -1472,8 +1428,6 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/fw-alias/intimo/two/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Iosevka
     urls:
@@ -1490,8 +1444,6 @@ fonts:
       - https://be5invis.github.io/Iosevka/
       - https://github.com/be5invis/Iosevka
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Italian Typewriter
     urls:
@@ -1499,8 +1451,6 @@ fonts:
     x-tags:
       - classic
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: ITC Souvenir Monospaced
     urls:
@@ -1515,15 +1465,11 @@ fonts:
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: jxyahei
     urls:
       - { type: 'via', url: 'https://github.com/zhenruyan/codefont/blob/master/readme_en.md' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Karben 105 Mono
     x-designer:
@@ -1531,8 +1477,6 @@ fonts:
     urls:
       - https://www.talbottype.co.uk/typefaces/karben-105-mono/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Karben 205 Mono
     x-designer:
@@ -1540,23 +1484,17 @@ fonts:
     urls:
       - https://www.talbottype.co.uk/typefaces/karben-205-mono/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Kawkab Mono (Arabic)
     urls:
       - https://fontlibrary.org/en/font/kawkab-mono
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Klartext Mono
     urls:
       - http://www.fontswithlove.com/fwl/klartext-mono-fontfamily
       - https://www.fontsquirrel.com/fonts/klartext-mono
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Larabiefont
     urls:
@@ -1564,8 +1502,6 @@ fonts:
       - http://www.larabiefonts.com/
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Latin Modern Mono
     urls:
@@ -1592,15 +1528,11 @@ fonts:
       - http://www.fontsquirrel.com/fonts/lekton
       - http://www.google.com/fonts/specimen/Lekton
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Less Perfect DOS VGA
     urls:
       - http://laemeur.sdf.org/fonts/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Letter Gothic
     urls:
@@ -1621,16 +1553,12 @@ fonts:
     urls:
       - https://coliss.com/articles/freebies/freebies-font-by-lufthamn-studio.html
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Liberation Mono
     urls:
       - https://fedorahosted.org/liberation-fonts/
       - https://www.fontsquirrel.com/fonts/liberation-mono
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Linefeed
     urls:
@@ -1643,23 +1571,17 @@ fonts:
     urls:
       - http://web.archive.org/web/20110830193159/http://www.ank.com.ar/fonts/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Linux Libertine Mono
     urls:
       - http://www.linuxlibertine.org/
       - https://fontlibrary.org/en/font/linux-libertine
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: LispM
     urls:
       - https://github.com/unjordy/LispM-Font
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: LTC Remington Typewriter
     urls:
@@ -1675,8 +1597,6 @@ fonts:
       - https://en.wikipedia.org/wiki/Lucida
       - https://lucidafonts.com/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Lucida Typewriter Bitmap Fonts
     urls:
@@ -1691,8 +1611,6 @@ fonts:
       - https://en.wikipedia.org/wiki/Lucida
       - https://lucidafonts.com/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Lucida Typewriter EF
     urls:
@@ -1700,8 +1618,6 @@ fonts:
       - https://en.wikipedia.org/wiki/Lucida
       - https://lucidafonts.com/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Lucida Sans Typewriter
     urls:
@@ -1728,8 +1644,6 @@ fonts:
       - https://www.fontsquirrel.com/fonts/luxi-mono
       - https://en.wikipedia.org/wiki/Luxi_fonts
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: M+ 1m
     urls:
@@ -1759,15 +1673,11 @@ fonts:
     urls:
       - https://www.milieugrotesque.com/specimen/maison/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Maison Neue Mono
     urls:
       - https://www.milieugrotesque.com/specimen/maison-neue/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Marista
     urls:
@@ -1776,8 +1686,6 @@ fonts:
         inspired by classic cursive faces
         one weight is free
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Menlo
     fork of: Deja Vu Sans Mono
@@ -1808,8 +1716,6 @@ fonts:
     urls:
       - https://github.com/robey/metrickal-typeface
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Mingray Mono
     x-designer:
@@ -1817,23 +1723,17 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/rekord/mingray-mono/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Mitigate
     urls:
       - https://www.myfonts.com/fonts/typodermic/mitigate/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Monaco
     urls:
       - ftp://ftp.apple.com/developer/Tool_Chest/Core_Mac_OS_Tools/MPW_etc./Miscellaneous/MPW_Font.sit.hqx
       - http://en.wikipedia.org/wiki/Monaco_(typeface)
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Mono
     foundry: Lineto
@@ -1848,42 +1748,30 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/paratype/mono-condensed/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Mono LH
     urls:
       - https://www.ffonts.net/Mono-LH.font
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Mono Spatial
     urls:
       - https://www.dafont.com/mono-spatial.font
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Monocto
     urls:
       - https://www.myfonts.com/fonts/lafonts/monocto/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Monoela
     urls:
       - https://www.myfonts.com/fonts/interfont/monoela/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Monofur
     urls:
       - https://www.dafont.com/monofur.font
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Monoid
     urls:
@@ -1898,8 +1786,6 @@ fonts:
     urls:
       - https://hanken.co/products/monoist
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Mononoki
     urls:
@@ -1915,8 +1801,6 @@ fonts:
       - http://www.fontspace.com/george-williams/monospace
       - https://en.wikipedia.org/wiki/Monospace_(typeface)
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Monospace 821
     urls:
@@ -1932,15 +1816,11 @@ fonts:
     urls:
       - https://www.fontsquirrel.com/fonts/MonospaceTypewriter
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Monosten
     urls:
       - https://www.colophon-foundry.org/typefaces/monosten/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Monostep
     x-designer:
@@ -1948,8 +1828,6 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/yokkmokk/monostep/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Monotype Typewriter
     urls:
@@ -1959,43 +1837,31 @@ fonts:
     notes: |
         Regular, Elite, and Gothic
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Monte Carlo
     urls:
       - http://www.bok.net/MonteCarlo/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: More Perfect DOS VGA
     urls:
       - http://laemeur.sdf.org/fonts/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: MS Mincho
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: MVB Fantabular
     urls:
       - https://www.myfonts.com/fonts/mvbfonts/mvb-fantabular/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: MVB Fantabular Sans
     urls:
       - https://www.myfonts.com/fonts/mvbfonts/mvb-fantabular-sans/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Nanum Gothic Coding (Korean)
     urls:
@@ -2012,8 +1878,6 @@ fonts:
     urls:
       - https://fortfoundry.com/pages/native
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: URW Nimbus Mono L
     urls:
@@ -2036,24 +1900,18 @@ fonts:
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: NotCourierSans
     urls:
       - http://openfontlibrary.org/en/font/notcouriersans
       - https://www.fontsquirrel.com/fonts/notcouriersans
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Noto Mono
     based on: Droid Sans Mono
     urls:
       - https://www.google.com/get/noto/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Nova Mono
     urls:
@@ -2067,8 +1925,6 @@ fonts:
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: OCR-A
     urls:
@@ -2104,15 +1960,11 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/testpilot/ocrj/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Odisseia
     urls:
       - https://www.myfonts.com/fonts/niramekko/odisseia/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Office Code Pro
     urls:
@@ -2133,22 +1985,16 @@ fonts:
     notes: |
       Punctuation characters are bold.
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Olympiad
     urls:
       - https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Onuava
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: OpenDyslexic
     urls:
@@ -2174,8 +2020,6 @@ fonts:
     urls:
       - https://proggyfonts.net/proggy-opti/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Orator
     urls:
@@ -2191,8 +2035,6 @@ fonts:
     notes: |
         (comes with macOS)
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Overpass Mono
     urls:
@@ -2217,22 +2059,16 @@ fonts:
     urls:
       - https://github.com/chrissimpkins/codeface/tree/master/fonts/panic-sans
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: PCMyungjo
     notes: |
       (comes with MacOS)
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Perfect DOS VGA 437
     urls:
       - https://www.dafont.com/perfect-dos-vga-437.font
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Pet Me
     designer: Rebecca Bettencourt
@@ -2247,8 +2083,6 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/parachute/pf-din-mono/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Bitstream Pica 10 Pitch
     urls:
@@ -2273,22 +2107,16 @@ fonts:
     x-tags:
       - dot matrix
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: PixSymbols Courex
     urls:
       - http://www.myfonts.com/fonts/pixymbols/courex/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Platelet
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Plex Mono
     urls:
@@ -2304,8 +2132,6 @@ fonts:
     x-tags:
       - if you like Comic Sans
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Powerline Fonts
     urls:
@@ -2355,8 +2181,6 @@ fonts:
       - https://fonts.google.com/specimen/Press+Start+2P
       - https://fontlibrary.org/en/font/press-start-2p
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Prestige (Elite)
     urls:
@@ -2377,8 +2201,6 @@ fonts:
         based on Excelsior
         Reconstructed in a reconstruction of the Bell Labs Vacation memo
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Profont
     urls:
@@ -2392,8 +2214,6 @@ fonts:
     urls:
       - http://www.proggyfonts.net/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Proggy Clean
     urls:
@@ -2407,22 +2227,16 @@ fonts:
     urls:
       - http://www.proggyfonts.net/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Proggy Small
     urls:
       - http://www.proggyfonts.net/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Proggy Tiny
     urls:
       - http://www.proggyfonts.net/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Proggy Vector
     urls:
@@ -2446,15 +2260,11 @@ fonts:
     urls:
       - http://int10h.org/oldschool-pc-fonts/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: QuickType Mono
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Quinze
     see also: Fifteen
@@ -2470,29 +2280,21 @@ fonts:
       - http://www.raize.com/devtools/tools/rzfont.asp
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Range Mono
     urls:
       - https://www.myfonts.com/fonts/griffin-moore/range-mono/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Rational TW
     urls:
       - https://www.myfonts.com/fonts/rene-bieder/rational-tw/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Relative Mono
     urls:
       - https://www.colophon-foundry.org/typefaces/relative/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Replica Mono
     foundry: Lineto
@@ -2505,15 +2307,11 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/emil-kozole/resolution/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: RF Rostin
     urls:
       - https://www.myfonts.com/fonts/russian-fonts/rf-rostin/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Roboto Mono
     urls:
@@ -2528,8 +2326,6 @@ fonts:
     urls:
       - https://fonts.google.com/specimen/Rubik+Mono+One
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: SaxMono (\"Tile\")
     urls:
@@ -2545,8 +2341,6 @@ fonts:
     x-tags:
       - neato
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Schumaker Misc
     urls:
@@ -2599,8 +2393,6 @@ fonts:
       - https://en.wikipedia.org/wiki/Segoe
       - https://www.myfonts.com/fonts/ascender/segoe-ui-mono/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: SF Mono
     urls:
@@ -2626,8 +2418,6 @@ fonts:
       - https://bitbucket.org/tarkasteve/sgi-screen-ttf/src
       - { type: 'macos conversion', url: 'https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Share Tech Mono
     urls:
@@ -2641,8 +2431,6 @@ fonts:
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Simple
     foundry: Lineto
@@ -2667,15 +2455,11 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/nowak/skurier/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Skyhook Mono
     urls:
       - https://www.fontsquirrel.com/fonts/skyhook-mono
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Small Type Writing
     urls:
@@ -2684,8 +2468,6 @@ fonts:
     notes: |
         (a narrow Courier-like)
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Smith Premier NF
     urls:
@@ -2731,31 +2513,36 @@ fonts:
     urls:
       - https://proggyfonts.net/speedy/
     designer:
+
+  - name: Spleen
+    urls:
+      - https://github.com/fcambus/spleen
+      - https://www.cambus.net/spleen-monospaced-bitmap-fonts/
     tags:
-      - paid, free, or open source (FIXME)
+      - bitmap
 
   - name: Squareshooter Mono
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: String Literal 437
     urls:
       - http://fontsgeek.com/fonts/String-Literal-437-Medium
       - https://www.ffonts.net/String-Literal-437-Medium.font.download
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Sudo
     urls:
       - https://www.kutilek.de/sudo-font/
       - https://github.com/jenskutilek/sudo-font
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
+
+  - name: Sun Gallant Demi
+    urls:
+      - https://github.com/illumos/illumos-gate/blob/master/usr/src/uts/common/io/12x22.c
+    notes: |
+      Sun's good old Unix workstation console font.
 
   - name: Superstudio
     foundry: Lineto
@@ -2771,8 +2558,6 @@ fonts:
       - mildly distressed
       - line printer
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Tabular
     x-designer:
@@ -2780,38 +2565,28 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/indian-type-foundry/tabular/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Tamsyn
     urls:
       - http://www.fial.com/~scott/tamsyn-font/
       - https://sunaku.github.io/tamsyn-1.7b-font-review.html
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Tamzen
     urls:
       - https://github.com/sunaku/tamzen-font
     based on: tamsyn
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Teamhair
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Telegrama
     urls:
       - https://www.fontsquirrel.com/fonts/telegrama
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Telegrama Raw
     urls:
@@ -2819,8 +2594,6 @@ fonts:
     x-tags:
       - dot matrix
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Telegramo
     x-designer:
@@ -2828,15 +2601,11 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/volcano/telegramo/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Terminal/VGA Font
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Terminus
     urls:
@@ -2853,8 +2622,6 @@ fonts:
     x-tags:
       - bitmap
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: TeX Gyre Cursor
     urls:
@@ -2879,8 +2646,6 @@ fonts:
     urls:
       - http://www.lucasfonts.com/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: TI92PlusPC
     urls:
@@ -2888,22 +2653,16 @@ fonts:
       - https://github.com/sterpe/ti92plus
       - https://web.archive.org/web/20040214132157/http://www.tamuk.edu/math/scott/stars/tutorial.htm
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Tired of Courier
     urls:
       - http://new.myfonts.com/fonts/ingrimayne/tiredofcourier/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Topaz-8
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Triplicate
     urls:
@@ -2918,8 +2677,6 @@ fonts:
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Triumph Durabel
     notes: |
@@ -2928,8 +2685,6 @@ fonts:
 
       [1] https://www.creativebloq.com/typography/best-typewriter-fonts-10135084
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: TT2020
     urls:
@@ -2955,8 +2710,6 @@ fonts:
     urls:
       - https://www.fontspace.com/font-monkey/tye-paloon
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Typewalk Mono 1915
     x-designer:
@@ -2964,8 +2717,6 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/typocalypse/typewalk-mono-1915/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Typewriter Condensed
     urls:
@@ -2998,8 +2749,6 @@ fonts:
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Valentine
     foundry: Lineto
@@ -3012,8 +2761,6 @@ fonts:
     urls:
       - https://www.fontsquirrel.com/fonts/verily-serif-mono
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Victor Mono
     urls:
@@ -3026,8 +2773,6 @@ fonts:
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Vin Mono Pro
     urls:
@@ -3051,8 +2796,6 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/vetteletters/vlnl-tp-kurier/callig-regular/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: VT323
     urls:
@@ -3070,8 +2813,6 @@ fonts:
     urls:
       - https://github.com/raphaelbastide/Whois-mono
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: WikisourceMono
     fork of: DPCustomMono2
@@ -3085,8 +2826,6 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/thomas-kaeding/wire-type-mono/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Wudoo
     x-designer:
@@ -3094,8 +2833,6 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/vishnu-sathyan/wudoo/
     designer:
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: X11 Monospace Fonts
     notes: |
@@ -3109,8 +2846,6 @@ fonts:
         - DEC Terminal (VAXstation/DECstation font)
     urls:
       - https://github.com/dse/x11-monospace-fonts-ttf
-    tags:
-      - paid, free, or open source (FIXME)
 
   - name: Zolan Mono
     urls:
