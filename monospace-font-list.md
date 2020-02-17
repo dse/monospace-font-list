@@ -2880,6 +2880,9 @@
         - tvfontr.bdf.~3~*
         - vt100.bdf.~3~*
 
+-   urls:
+    -   <https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera> [0.9]
+
 ## [Operator Mono](http://www.typography.com/fonts/operator/overview/)
 
 -   tags:

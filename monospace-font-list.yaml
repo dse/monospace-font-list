@@ -1891,6 +1891,7 @@ fonts:
   - name: OpenGenera fonts
     urls:
       - https://archive.org/download/SymblicsOpenGenera
+      - https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera
     notes: |
       Extract the contents of `opengenera2.tar.bz2`.
       The `sys.sct/x11/fonts/bdf/genera` directory contains a bunch
