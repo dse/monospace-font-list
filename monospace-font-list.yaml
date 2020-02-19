@@ -1,33 +1,17 @@
 ---
-todo:
-  - include https://app.programmingfonts.org/ links for all fonts it demos.
-  - tags to use:
-      - monospace variant of a proportional font (e.g., Arial Monospaced; ITC Souvenir Monospaced; Monospace 821)
-      - implementation of Courier
-      - implementation of Courier, kind of
-      - fork of Bitstream Vera / Deja Vu Sans Mono
-      - fork of Deja Vu Sans Mono
-      - programmer/coder oriented font
-      - classic traditional typewriter font (e.g., Smith, Underwood, Royal, Olivetti, etc.)
-      - classic typewriter font (e.g., Prestige, Courier, Letter Gothic, Orator, etc.)
-      - classic monospace font (e.g., OCR-A, OCR-B, etc., never used on typewriters)
-      - classic line printer font
-      - dot matrix
-      - vectorized dot matrix (e.g., Hermit)
-      - terminal font
-      - vectorized terminal font (e.g., 3270; Hermit)
-  - standard tag for software with which fonts are bundled
-  - look through font lists
 fonts:
   - name: 1403 Vintage Mono
     urls:
-      - https://1403.slantedhall.com/
+      - { type: 'official', url: 'https://1403.slantedhall.com/' }
     tags:
       - classic line printer font
       - ibm line printer
-      - paid
-    designer:
-      name: Jeff Kellem
+    designer: Jeff Kellem
+    cost: $90; $40 for limited subset
+    notes:
+      - small caps, no lower case
+    updated: 2020-02-19
+    description: "A practical monospaced typeface, inspired by the IBM 1403 mainframe line printer from the 1960s."
 
   - name: 3270
     urls:
@@ -35,24 +19,30 @@ fonts:
     debian package: fonts-3270
     tags:
       - ibm 3270
+      - mainframe
       - terminal
-      - open source
-      - programmer/coder oriented font
+      - coding-focused
       - vectorized terminal font
-    designer:
-      name: Ricardo Bánffy
+    designer: Ricardo Bánffy
+    license: similar to 3-clause BSD
+    updated: 2020-02-19
+    description: "This font is derived from the x3270 font, which, in turn, was translated from the one in Georgia Tech's 3270tool, which was itself hand-copied from a 3270 series terminal. I built it because I felt terminals deserve to be pretty."
 
   - name: 64-SRC
     urls:
       - https://www.myfonts.com/fonts/ilott-type/64-src/
+    listed in:
       - http://luc.devroye.org/fonts-87939.html
+    designer: Andrew Bellamy
     foundry: ILOTT TYPE
     tags:
       - ibm
       - selectric
-      - paid
       - classic typewriter font
     similar to: orator
+    description: "64-SRC is a condensed monospace font inspired by 1960s IBM Selectric type seen on HAL’s telemetric displays in 2001: A Space Odyssey. It is characterized by unique \"double-space\" alternates for the widest characters such as “w” and “m”. These alternates maximize legibility, improve the rhythm of readability and keep typographic color even. As a result 64-SRC is as well suited for extensive copy as it is display type."
+    updated: 2020-02-19
+    cost: $49 for individual weights; $169 for all six.
 
   - name: Adobe Courier Bitmap Fonts
     urls:
@@ -60,159 +50,174 @@ fonts:
       - https://gitlab.freedesktop.org/xorg/font/adobe-100dpi
     tags:
       - bitmap
-      - paid, free, or open source (FIXME)
+      - implementation of Courier
+    license: https://gitlab.freedesktop.org/xorg/font/adobe-75dpi/blob/master/COPYING
+    updated: 2020-02-19
 
   - name: Agave
     urls:
+      - { type: 'official', name: 'https://b.agaric.net/page/agave' }
       - https://github.com/agarick/agave
-      - https://b.agaric.net/page/agave
       - https://www.myfonts.com/fonts/jonahfonts/agave/
     designer:
-      name: agaric
+      name: type agaric
+      url: https://b.agaric.net/about
     tags:
-      - open source
-      - programmer/coder oriented font
+      - coding-focused
+    license: MIT
+    updated: 2020-02-19
+    description: "Agave was an attempt at making a small, monospace, outline font that would be geometrically regular and simple. The endeavor was motivated by a deep adoration of old-school console bitmap fonts, of Consolas, of Pragmata Pro, as well as a novice curiosity for typographical design."
 
   - name: Ahamono Monospaced
     urls:
       - https://www.behance.net/gallery/19532783/AhamonoMonospaced
       - http://www.myfonts.com/fonts/hanken-designco/ahamono/
-      - { url: "https://desket.co/blogs/news/50-free-fonts-for-minimalist-design", type: "via" }
-    foundry:
-      name: Hanken Design Co.
+    listed in:
+      - https://desket.co/blogs/news/50-free-fonts-for-minimalist-design
+    designer: Alfredo Marco Pradil
+    foundry: Hanken Design Co.
       url: https://hanken.co/
-    notes: |
-      You can obtain Ahamono from myfonts.com, or from hanken.co via their 2019 font bundle.
-    tags:
-      - paid
+    cost: $45
+    updated: 2020-02-19
+    description: "Ahamono™ is a rounded monospaced typeface"
 
   - name: Akkurat Mono
     foundry: Lineto
     urls:
       - https://lineto.com/typefaces/akkurat-mono/
-    tags:
-      - paid
+    cost: CHF 190 for individual weights; CHF 570 for all four.
+    updated: 2020-02-19
+    description: "Fifteen years after its first release, Laurenz Brunner’s now famous LL Akkurat (2004) appears almost humble. With its static construction, it has proven that combining the qualities of classic sans-serif craft with a new contemporaneity can be a sustainable endeavour. Never attempting to be trendy, elegant or fashionable, LL Akkurat aspired to embody qualities such as technical precision, down-to-earth robustness, reliability and neutrality, reflecting certain values generally associated with Switzerland."
 
   - name: Amiri Typewriter
     urls:
       - https://github.com/alif-type/amiri-typewriter
+    designer: Khaled Hosny
     language/script: Arabic
     foundry: Alif Type
-    tags:
-      - open source
+    license: SIL OFL 1.1
+    updated: 2020-02-19
+    description: "Amiri Typewriter is a typewriter companion to Amiri font family.  The design is inspired inspired by old Arabic typewriters, and features a very simplified Arabic design with most letters using the one shape for both isolated and final forms, and one shape for initial and medial forms (with few exceptions)."
 
   - name: Andalé Mono
     also known as: Andale Mono
+    description: "Andale Mono is a highly legible monospaced font designed with the needs of terminal emulation and software development environments."
     urls:
-      - { url: "https://www.microsoft.com/typography/fonts/family.aspx?FID=11", type: "official" }
+      - { type: "official", url: "https://docs.microsoft.com/en-us/typography/font-list/andale-mono" }
       - https://en.wikipedia.org/wiki/Andal%C3%A9_Mono
       - https://www.myfonts.com/fonts/mti/andale-mono/
-    notes: |
-        Has a non-monospace sibling called Andalé Sans.
-        Originally distributed with Internet Explorer 4.0 as Monotype.com; renamed Andale Mono for IE 5 and 6.
-        Included in Core fonts for the Web.
-        Bundled with macOS.
-        Sold by the Ascender Corporation with bold and italic variants supporting WGL.
-        Also sold by Monotype.
-    designer:
-      name: Steve Matteson
-    foundry:
-      name: Monotype
-    tags:
-      - paid
+    notes:
+      - Has a non-monospace sibling called Andalé Sans.
+      - Originally distributed with Internet Explorer 4.0 as Monotype.com; renamed Andale Mono for IE 5 and 6.
+      - Included in Core fonts for the Web.
+      - Bundled with macOS.
+      - Sold by the Ascender Corporation with bold and italic variants supporting WGL.
+      - Also sold by Monotype.
+    designer: Steve Matteson
+    foundry: Monotype
+    license: https://www.fonts.com/content/microsoft-typography; bundled with Windows; Individual Styles from $89.00; Complete family of 4 fonts: $348.88
+    updated: 2020-02-19
 
   - name: Angelus III
+    description: "Angelus is a rather different monospaced font. Unlike an earlier version this one has full upper and lowercase characters."
     urls:
-      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
       - https://www.myfonts.com/fonts/scriptorium/angelus-iii/
-    keywords: novelty
-    designer:
-      name: David Nalle
+    listed in:
+      - http://www.cfcl.com/vlb/h/fontmono.html
+    designer: David Nalle
     foundry: Scriptorium
     tags:
-      - paid
+      - novelty
+    cost: $18 for individual weights, or for complete family
+    updated: 2020-02-19
 
   - name: Anka/Coder
+    description: "The Anka/Coder family is a monospaced, courier-width (60% of height; em size 2048x1229) font that contains characters from 437, 866, 1251, 1252 and some other code pages and can be used for source code, terminal windows etc."
     urls:
       - https://github.com/fitojb/anka-coder-fonts
       - https://fontlibrary.org/en/font/anka-coder
     designer: Adolfo Jayme-Barrientos
     tags:
-      - open source
-      - programmer/coder oriented font
+      - coding-focused
+    license: OFL
+    updated: 2020-02-19
 
   - name: Anonymous Pro
+    description: "Anonymous Pro (2009) is a family of four fixed-width fonts designed with coding in mind."
     urls:
-      - https://www.marksimonson.com/fonts/view/anonymous-pro
+      - { type: "official", url: "https://www.marksimonson.com/fonts/view/anonymous-pro" }
       - http://www.fontsquirrel.com/fonts/Anonymous-Pro
       - http://www.google.com/fonts/specimen/Anonymous+Pro
-      - { type: 'former', url: "http://www.fontsquirrel.com/fonts/Anonymous" }
+      - { type: "former", url: "http://www.fontsquirrel.com/fonts/Anonymous" }
     formerly known as: Anonymous
-    notes: |
-        Alternate version Anonymous Pro Minus does not contain embedded bitmaps at smaller sizes.
+    notes:
+      - Alternate version Anonymous Pro Minus does not contain embedded bitmaps at smaller sizes.
     designer: Mark Simonson
     tags:
-      - open source
-      - programmer/coder oriented font
-      - popular
-      - ofl
+      - coding-focused
+    license: OFL
+    updated: 2020-02-19
 
   - name: "Another Man's Treasure"
+    description: "The world's most complete TRS-80 text font set, in TrueType format."
     designer: Rebecca Bettencourt
     urls:
       - http://www.kreativekorp.com/software/fonts/trs80.shtml
-    notes: |
-      TRS-80 fonts
+    notes:
+      - bitmap font
     tags:
       - free
+    license: TBD
+    updated: 2020-02-19
 
   - name: Aperçu Mono
     also known as: Apercu Mono
     urls:
       - https://www.colophon-foundry.org/typefaces/apercu/
     foundry: Colophon
-    tags:
-      - paid
+    cost: mono family for £170.00
+    updated: 2020-02-19
+    description: "Aperçu was started in December 2009, and was trialled & tested throughout a number of design commissions into 2010. The conceit behind Aperçu was to create a synopsis or amalgamation of classic realist typefaces: Johnston, Gill Sans, Neuzeit & Franklin Gothic. Becoming, a sum of parts, building upon its initial reference points to create an extensive and usable family."
 
   - name: APL2741
     urls:
       - http://apl385.com/fonts/
-    designer:
-      name: Adrian Smith
-    tags:
-      - public domain
-      - programmer/coder oriented font
+    designer: Adrian Smith
+    license: public domain
+    updated: 2020-02-19
+    description: "Historic interest only. This was hand digitised as a PostScript Type-3 font from an original 2741 golf-ball salvaged from an IBM selectric typewriter. Looks good on paper, but poor on screen as it is lightweight and italic. The hinting is rudimentary and even with ClearType it is hard to read!"
 
   - name: APL385 Unicode
     urls:
       - http://apl385.com/fonts/
       - { type: 'old', url: 'http://www.dyalog.com/apl-font-keyboard.htm' }
-    notes: |
-        This is Adrian Smith\'s Unicode APL font, a de facto industry standard.
-        Also available in a proportional version called APL333.
-    designer:
-      name: Adrian Smith
+    notes:
+      - This is Adrian Smith\'s Unicode APL font, a de facto industry standard.
+      - Also available in a proportional version called APL333.
+    designer: Adrian Smith
     tags:
-      - public domain
-      - programmer/coder oriented font
+      - coding-focused
       - quirky
+    license: public domain
+    updated: 2020-02-19
+    description: "Developed with all APL software vendors in the late 1980s and enhanced as required with new characters to meet interpreter updates."
 
   - name: APLX Upright
+    description: TBD
     urls:
       - https://www.dyalog.com/aplx.htm
       - { type: "download", url: "http://www.microapl.co.uk/download/aplx_unicode.ttf" }
-    notes: |
-        Distributed with end-of-lifed APLX.
-    designer: ???
-    tags:
-      - uncategorized license
+    notes:
+      - Distributed with end-of-lifed product APLX.
+    license: TBD
+    updated: 2020-02-19
 
   - name: Archive Mono
     urls:
       - https://www.colophon-foundry.org/typefaces/archive/
     foundry: Colphon
-    tags:
-      - paid
+    cost: UKP 50.00 for sole mono weight
+    updated: 2020-02-19
 
   - name: Arial Monospaced
     urls:
@@ -222,15 +227,18 @@ fonts:
       - Patricia Saunders
     foundry: Monotype
     tags:
-      - paid
       - monospace variant of a proportional font
+    cost: $126 for complete family of four weights.
+    updated: 2020-02-19
 
   - name: Ascender Sans Mono
     urls:
       - https://www.myfonts.com/fonts/ascender/ascender-sans-mono/
     foundry: Ascender
-    tags:
-      - paid
+    designer: Steve Matteson
+    cost: Individual Styles from $89.00; Complete family of 4 fonts: $356.00 $348.88
+    updated: 2020-02-19
+    description: "The Ascender Sans Mono font family was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New.  Ascender Sans Mono offers improved on-screen readability characteristics and the pan-European WGL character set."
 
   - name: ASM
     urls:
@@ -252,11 +260,10 @@ fonts:
     urls:
       - https://www.fontsquirrel.com/fonts/aurulent-sans-mono
       - https://www.dafont.com/aurulent-sans-mono.font
-    designer:
-      name: Stephen G. Hartke
+    designer: Stephen G. Hartke
     tags:
       - free?
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Autocode
     urls:
@@ -354,7 +361,7 @@ fonts:
     tags:
       - open source
       - monospace variant of a proportional font
-      - programmer/coder oriented font
+      - coding-focused
     notes: |
       Bitstream Vera Sans Mono is the basis of numerous open source
       fonts, the first and most popular of which is Deja Vu Sans Mono.
@@ -378,7 +385,7 @@ fonts:
       - open source
       - fork of Droid Sans Mono
       - ligatures
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: BPMono
     urls:
@@ -386,7 +393,7 @@ fonts:
     foundry: Backpacker
     tags:
       - free
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Bradford Mono
     foundry: Lineto
@@ -403,7 +410,7 @@ fonts:
     designer: Chris Wendt
     tags:
       - open source
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: BSU Kermit
     urls:
@@ -416,7 +423,7 @@ fonts:
     designer: Jan Fromm
     tags:
       - free
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Cascadia Code
     urls:
@@ -424,7 +431,7 @@ fonts:
     tags:
       - ligatures
       - open source
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Cella Typewriter
     urls:
@@ -449,7 +456,6 @@ fonts:
       - https://github.com/zhenruyan/codefont/tree/master/lib/centschbook-mono
       - { url: "http://www.lowing.org/fonts/", type: "via" }
     tags:
-      - paid, free, or open source (FIXME)
       - monospace variant of a proportional font
 
   - name: Circular Mono
@@ -478,7 +484,7 @@ fonts:
     tags:
       - open source
       - fork of Ubuntu Mono
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Coding Font Tobi
     urls:
@@ -487,7 +493,7 @@ fonts:
     designer: Tobias Werner
     tags:
       - free
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Colón Mono
     foundry: TipografiaRamis
@@ -534,7 +540,7 @@ fonts:
     designer: wmk69 (wmk69@o2.pl)
     tags:
       - open source
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Consolas
     urls:
@@ -544,13 +550,13 @@ fonts:
     foundry: Microsoft
     tags:
       - paid
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Cosmic Sans Neue Mono
     now known as: Fantasque Sans Mono
     tags:
       - open source
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Courier
     urls: https://en.wikipedia.org/wiki/Courier_(typeface)
@@ -590,7 +596,7 @@ fonts:
     urls:
       - http://openfontlibrary.org/en/font/courier-code
     tags:
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Courier Final Draft
     software: from Final Draft
@@ -606,7 +612,6 @@ fonts:
   - name: Courier MM Screenwriter
     software: from Movie Magic Screenwriter
     tags:
-      - paid, free, or open source (FIXME)
       - implementation of Courier
 
   - name: Courier New
@@ -630,7 +635,7 @@ fonts:
     tags:
       - open source
       - implementation of Courier, sort of
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Courier Prime Sans
     urls:
@@ -667,7 +672,6 @@ fonts:
   - name: Courier Standard
     bundled with: Adobe Reader 6
     tags:
-      - paid, free, or open source (FIXME)
       - implementation of Courier
 
   - name: Cousine
@@ -679,7 +683,7 @@ fonts:
     designer: Steve Matteson
     tags:
       - open source
-      - programmer/coder oriented font
+      - coding-focused
     notes: |
       Cousine is part of the collection of fonts known as the Chrome
       OS core fonts, or Croscore fonts.
@@ -701,7 +705,7 @@ fonts:
     designer: Chris Simpkins
     tags:
       - open source
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: CP1250 Terminal Fonts
     urls:
@@ -749,7 +753,7 @@ fonts:
     designer: Naver Corp.
     tags:
       - open source
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: DaddyTimeMono
     urls:
@@ -757,7 +761,7 @@ fonts:
     designer: Jason Stewart
     tags:
       - open source
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Dank Mono
     urls:
@@ -772,7 +776,6 @@ fonts:
       - http://www.rolandstroud.com/Fonts-1.html
       - ftp://ftp.hp.com/pub/printers/software/lj611en.exe
     tags:
-      - paid, free, or open source (FIXME)
       - implementation of Courier
 
   - name: DEC Terminal
@@ -780,7 +783,6 @@ fonts:
       - https://gitlab.freedesktop.org/xorg/font/bitstream-75dpi
       - https://gitlab.freedesktop.org/xorg/font/bitstream-100dpi
     tags:
-      - paid, free, or open source (FIXME)
       - bitmap
     notes: |
       Fonts used on DECstation/VAXstation hardware
@@ -792,7 +794,6 @@ fonts:
       - https://goblin.strangled.net/
     designer: Dan Mecklenburg, Jr.
     tags:
-      - paid, free, or open source (FIXME)
     old urls:
       - http://www.vtxemu.com/download.html
     notes: |
@@ -839,7 +840,7 @@ fonts:
       - open source
       - fork of Bitstream Vera / Deja Vu Sans Mono
       - ligatures
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Deja Vu Sans Mono
     urls:
@@ -853,7 +854,7 @@ fonts:
       original.
     tags:
       - open source
-      - programmer/coder oriented font
+      - coding-focused
       - monospace variant of a proportional font
 
   - name: DF Staple Mono
@@ -897,7 +898,6 @@ fonts:
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
     tags:
-      - paid, free, or open source (FIXME)
     notes: |
       DPCustomMono2 is used for proofreading.
 
@@ -924,11 +924,11 @@ fonts:
 
   - name: EB Jessica
     designer: Erik Bertell
-    keywords: novelty
     urls:
       - https://www.myfonts.com/fonts/erik-bertell/eb-jessica/
     tags:
       - paid
+      - novelty
 
   - name: Edlo
     urls:
@@ -967,7 +967,7 @@ fonts:
     designer: Damien Guard
     tags:
       - free to use only
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Erica Type
     urls:
@@ -983,9 +983,8 @@ fonts:
       - http://theoveranalyzed.net/2015/8/31/espressoapp-and-hack-a-typeface-designed-for-source-code
       - https://github.com/jmazzi/dotfiles/blob/master/.fonts/EspressoMonoRegular.ttf
     tags:
-      - paid, free, or open source (FIXME)
       - fork of Bitstream Vera Sans Mono
-      - programmer/coder oriented font
+      - coding-focused
     see also: Hack
 
   - name: Everson Mono
@@ -1112,7 +1111,7 @@ fonts:
     tags:
       - open source
       - dot matrix
-      - programmer/coder oriented font
+      - coding-focused
     see also: Quinze
 
   - name: Fira Code
@@ -1121,7 +1120,7 @@ fonts:
     tags:
       - open source
       - ligatures
-      - programmer/coder oriented font
+      - coding-focused
     notes: |
       adds ligatures to Fira Mono
 
@@ -1132,13 +1131,12 @@ fonts:
       - http://www.google.com/fonts/specimen/Fira+Mono
     tags:
       - open source
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Misc Fixed
     urls:
       - https://gitlab.freedesktop.org/xorg/font/misc-misc
     tags:
-      - paid, free, or open source (FIXME)
       - bitmap
 
   - name: Misc Fixed 6x13
@@ -1150,8 +1148,7 @@ fonts:
       - http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/
       - https://github.com/staberas/project-singularity/blob/master/%20project-singularity/Project%20Singularity%20GL/data/Misc-Fixed.ttf
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
       - bitmap
 
   - name: Misc Fixed 6x13, 7x14, 9x15, 10x20
@@ -1160,8 +1157,7 @@ fonts:
     notes: |
       `.dfont` files for macOS née OSX.
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
       - bitmap
 
   - name: Fixedsys
@@ -1169,21 +1165,18 @@ fonts:
       - http://www.moviecorner.de/en/font-fixedsys-ttf/description.html
       - https://en.wikipedia.org/wiki/Fixedsys
     tags:
-      - paid, free, or open source (FIXME)
       - bitmap
 
   - name: Fixedsys Excelsior
     urls:
       - http://www.fixedsysexcelsior.com/
     tags:
-      - paid, free, or open source (FIXME)
       - bitmap
 
   - name: Fixedsys Excelsior with Ligatures
     urls:
       - https://github.com/kika/fixedsys
     tags:
-      - paid, free, or open source (FIXME)
       - ligatures
       - bitmap
 
@@ -1197,7 +1190,6 @@ fonts:
       - https://www.gnu.org/software/freefont/
     clone of: Courier
     tags:
-      - paid, free, or open source (FIXME)
       - implementation of Courier
 
   - name: Galexica Mono (novelty)
@@ -1217,7 +1209,6 @@ fonts:
       - http://svo.2.staticpublic.s3-website-us-east-1.amazonaws.com/glasstty/
       - http://sensi.org/~svo/glasstty/
     tags:
-      - paid, free, or open source (FIXME)
     notes: |
       Based on the font on the DEC VT220.
 
@@ -1242,8 +1233,7 @@ fonts:
     urls:
       - https://blog.golang.org/go-fonts
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Greenwood Pro
     urls:
@@ -1254,8 +1244,7 @@ fonts:
       - http://unifoundry.com/unifont.html
       - https://en.wikipedia.org/wiki/GNU_Unifont
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: GT America Mono
     urls:
@@ -1278,18 +1267,16 @@ fonts:
       - https://github.com/chrissimpkins/Hack
     fork of: Deja Vu Sans Mono
     tags:
-      - paid, free, or open source (FIXME)
       - fork of Bitstream Vera / Deja Vu Sans Mono
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Hasklig
     fork of: Source Code Pro, with ligatures
     urls:
       - https://github.com/i-tu/Hasklig
     tags:
-      - paid, free, or open source (FIXME)
       - ligatures
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Haskplex
     based on: Hasklig and IBM Plex Mono.  It is just Hasklig regular and IBM Plex Mono italic.
@@ -1297,12 +1284,10 @@ fonts:
       - https://github.com/huytd/haskplex-font
     designer: IBM
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Heimat Mono
-    designer:
-      name: Atlas Font Foundry
+    designer: Atlas Font Foundry
     urls:
       - https://fonts.adobe.com/fonts/heimat-mono
       - https://www.myfonts.com/fonts/atlas-font-foundry/heimat-mono/
@@ -1312,7 +1297,6 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/linotype/helvetica-monospaced/
     tags:
-      - paid, free, or open source (FIXME)
       - monospace variant of a proportional font
 
   - name: Hermit
@@ -1329,8 +1313,7 @@ fonts:
       - https://ia.net/writer/blog/a-typographic-christmas
       - https://github.com/iaolo/iA-Fonts
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: IBM Courier Type 1
     urls:
@@ -1341,36 +1324,31 @@ fonts:
       - https://github.com/IBM/plex
       - https://ibm.github.io/type/#Intro
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Inconsolata
     urls:
       - http://levien.com/type/myfonts/inconsolata.html
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Inconsolata-LGC (adds cyrillics, bold, and italic)
     urls:
       - https://github.com/DeLaGuardo/Inconsolata-LGC
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Inconsolata-dz (adds straight quotes)
     urls:
       - https://www.pronoy.in/2017/01/07/inconsolata-dz-adds-straight-quote-marks-to-inconsolata/
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Inconsolata-g (adds dotted zero to Inconsolata-dz)
     urls:
       - http://leonardo-m.livejournal.com/77079.html
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Inconsolata Hellenic
     urls:
@@ -1378,8 +1356,7 @@ fonts:
       - https://github.com/cosmix/Inconsolata-Hellenic
 
   - name: Ingrid Mono
-    designer:
-      name: Jörg Schmitt
+    designer: Jörg Schmitt
     urls:
       - https://www.myfonts.com/fonts/jorg-schmitt/ingrid-mono/
 
@@ -1387,8 +1364,7 @@ fonts:
     urls:
       - http://input.fontbureau.com/
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Intimo Two
     urls:
@@ -1399,9 +1375,8 @@ fonts:
       - https://be5invis.github.io/Iosevka/
       - https://github.com/be5invis/Iosevka
     tags:
-      - paid, free, or open source (FIXME)
       - ligatures
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Iosevka Slab
     urls:
@@ -1419,7 +1394,6 @@ fonts:
       - https://www.myfonts.com/fonts/linotype/itc-souvenir-monospaced/
       - https://www.myfonts.com/fonts/itc/souvenir-monospaced/
     tags:
-      - paid, free, or open source (FIXME)
       - monospace variant of a proportional font
 
   - name: JetBrains Mono
@@ -1439,14 +1413,12 @@ fonts:
       - { type: 'via', url: 'https://github.com/zhenruyan/codefont/blob/master/readme_en.md' }
 
   - name: Karben 105 Mono
-    designer:
-      name: Talbot Type
+    designer: Talbot Type
     urls:
       - https://www.talbottype.co.uk/typefaces/karben-105-mono/
 
   - name: Karben 205 Mono
-    designer:
-      name: Talbot Type
+    designer: Talbot Type
     urls:
       - https://www.talbottype.co.uk/typefaces/karben-205-mono/
 
@@ -1481,8 +1453,7 @@ fonts:
       - https://www.theleagueofmoveabletype.com/league-mono
       - https://github.com/theleagueof/league-mono
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Lekton
     urls:
@@ -1497,7 +1468,6 @@ fonts:
     urls:
       - https://fonts.adobe.com/fonts/letter-gothic
     tags:
-      - paid, free, or open source (FIXME)
       - classic typewriter font
 
   - name: Lettera Mono
@@ -1553,7 +1523,6 @@ fonts:
       - https://gitlab.freedesktop.org/xorg/font/bh-lucidatypewriter-75dpi
       - https://gitlab.freedesktop.org/xorg/font/bh-lucidatypewriter-100dpi
     tags:
-      - paid, free, or open source (FIXME)
       - bitmap
 
   - name: Lucida Typewriter
@@ -1573,15 +1542,13 @@ fonts:
       - https://en.wikipedia.org/wiki/Lucida
       - https://lucidafonts.com/
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Luculent
     urls:
       - http://eastfarthing.com/luculent/
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Luxi Mono
     urls:
@@ -1594,22 +1561,19 @@ fonts:
     urls:
       - https://mplus-fonts.osdn.jp/about-en.html
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: M+ 1mn
     urls:
       - https://mplus-fonts.osdn.jp/about-en.html
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: M+ 2m
     urls:
       - https://mplus-fonts.osdn.jp/about-en.html
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Maison Mono
     urls:
@@ -1631,22 +1595,19 @@ fonts:
     urls:
       - https://en.wikipedia.org/wiki/Menlo_(typeface)
     tags:
-      - paid, free, or open source (FIXME)
       - fork of Bitstream Vera / Deja Vu Sans Mono
 
   - name: Mensch
     urls:
       - http://robey.lag.net/2010/06/21/mensch-font.html
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Meslo
     urls:
       - https://github.com/andreberg/Meslo-Font
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
       - fork of Bitstream Vera / Deja Vu Sans Mono
 
   - name: Metrickal
@@ -1654,8 +1615,7 @@ fonts:
       - https://github.com/robey/metrickal-typeface
 
   - name: Mingray Mono
-    designer:
-      name: Rekord
+    designer: Rekord
     urls:
       - https://www.myfonts.com/fonts/rekord/mingray-mono/
 
@@ -1676,8 +1636,7 @@ fonts:
       - paid
 
   - name: Mono Condensed
-    designer:
-      name: ParaType
+    designer: ParaType
     urls:
       - https://www.myfonts.com/fonts/paratype/mono-condensed/
 
@@ -1705,9 +1664,8 @@ fonts:
     urls:
       - https://larsenwork.com/monoid/
     tags:
-      - paid, free, or open source (FIXME)
       - ligatures
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Monoist
     urls:
@@ -1718,8 +1676,7 @@ fonts:
       - http://madmalik.github.io/mononoki/
       - https://github.com/madmalik/mononoki
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: MonoOne
     urls:
@@ -1750,8 +1707,7 @@ fonts:
       - https://www.colophon-foundry.org/typefaces/monosten/
 
   - name: Monostep
-    designer:
-      name: YOKKMOKK
+    designer: YOKKMOKK
     urls:
       - https://www.myfonts.com/fonts/yokkmokk/monostep/
 
@@ -1788,12 +1744,10 @@ fonts:
       - { type: 'original', url: 'http://dev.naver.com/projects/nanumfont/' }
       - https://www.freekoreanfont.com/nanum-gothic-coding-free-download/
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Native
-    designer:
-      name: Fort Foundry
+    designer: Fort Foundry
     urls:
       - https://fortfoundry.com/pages/native
 
@@ -1804,7 +1758,6 @@ fonts:
       - https://git.ghostscript.com/?p=urw-core35-fonts.git;a=summary
     foundry: URW++
     tags:
-      - paid, free, or open source (FIXME)
       - implementation of Courier
 
   - name: Nitti
@@ -1831,8 +1784,7 @@ fonts:
     urls:
       - https://fonts.google.com/specimen/Nova+Mono
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: NuSans Mono
     urls:
@@ -1845,7 +1797,6 @@ fonts:
       - { type: 'free version', url: 'https://osdn.net/projects/tsukurimashou/releases/56948' }
     foundry: American Type Founders
     tags:
-      - paid, free, or open source (FIXME)
       - classic monospace font
     standardized:
       - ANSI X3.17-1981
@@ -1861,14 +1812,12 @@ fonts:
       - { type: 'free version', url: 'https://osdn.net/projects/tsukurimashou/releases/56948' }
     designer: Adrian Frutiger
     tags:
-      - paid, free, or open source (FIXME)
       - classic monospace font
     standards:
       - ISO 1073-2:1976 (E)
 
   - name: OCRJ
-    designer:
-      name: Test Pilot Collective
+    designer: Test Pilot Collective
     urls:
       - https://www.myfonts.com/fonts/testpilot/ocrj/
 
@@ -1882,7 +1831,7 @@ fonts:
     tags:
       - open source
       - fork of Source Code Pro
-      - programmer/coder oriented font
+      - coding-focused
     notes: |
       includes changes \"made specifically for text editors and coding environments\"
 
@@ -1907,7 +1856,6 @@ fonts:
       - https://opendyslexic.org/
       - https://en.wikipedia.org/wiki/OpenDyslexic
     tags:
-      - paid, free, or open source (FIXME)
       - programmer/coder oriented font?
 
   - name: OpenGenera fonts
@@ -2164,7 +2112,6 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/adobe/orator/
     tags:
-      - paid, free, or open source (FIXME)
       - classic typewriter font
 
   - name: Osaka Regular-Mono
@@ -2178,8 +2125,7 @@ fonts:
       - http://overpassfont.org
       - https://github.com/RedHatBrand/Overpass
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Oxygen Mono
     urls:
@@ -2189,7 +2135,7 @@ fonts:
     designer: Vernon Adams
     tags:
       - free
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Panic Sans
     urls:
@@ -2220,7 +2166,6 @@ fonts:
     urls:
       - http://www.myfonts.com/fonts/bitstream/pica-10-pitch/
     tags:
-      - paid, free, or open source (FIXME)
       - classic typewriter font
 
   - name: Pitch
@@ -2250,8 +2195,7 @@ fonts:
       - https://github.com/IBM/plex
       - https://ibm.github.io/type/#Intro
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Pointfree
     urls:
@@ -2263,8 +2207,7 @@ fonts:
     urls:
       - https://github.com/powerline/fonts
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: PR Number 3
     urls:
@@ -2288,16 +2231,14 @@ fonts:
     urls:
       - http://www.fsd.it/fonts/pragma.htm
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
       - ligatures (Pragmata Pro)
 
   - name: Essential PragmataPro
     urls:
       - https://www.myfonts.com/fonts/fsd/pragmata-pro/
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Press Start 2P
     urls:
@@ -2327,8 +2268,7 @@ fonts:
     urls:
       - http://tobiasjung.name/profont/
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Proggy
     urls:
@@ -2338,8 +2278,7 @@ fonts:
     urls:
       - http://www.proggyfonts.net/
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Proggy Square
     urls:
@@ -2357,8 +2296,7 @@ fonts:
     urls:
       - http://www.proggyfonts.net/
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: PT Mono
     urls:
@@ -2366,8 +2304,7 @@ fonts:
       - http://www.fontsquirrel.com/fonts/pt-mono
       - http://www.google.com/fonts/specimen/PT+Mono
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: The Ultimate Oldschool PC Font Pack (PX Plus family)
     urls:
@@ -2382,8 +2319,7 @@ fonts:
     urls:
       - https://fontlibrary.org/en/font/quinze
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Raize
     urls:
@@ -2421,8 +2357,7 @@ fonts:
     urls:
       - https://fonts.google.com/specimen/Roboto+Mono
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
       - monospace variant of a proportional font
 
   - name: Rubik Mono One
@@ -2439,7 +2374,6 @@ fonts:
     urls:
       - https://www.fontsquirrel.com/fonts/saxMono
     tags:
-      - paid, free, or open source (FIXME)
       - classic typewriter font
 
   - name: Sauna Mono Pro
@@ -2452,7 +2386,6 @@ fonts:
     urls:
       - https://gitlab.freedesktop.org/xorg/font/schumacher-misc
     tags:
-      - paid, free, or open source (FIXME)
       - bitmap
 
   - name: Screenwriter\'s Typewriter Fonts Pro
@@ -2487,7 +2420,6 @@ fonts:
     notes: |
         (that classic cursive typewriter font)
     tags:
-      - paid, free, or open source (FIXME)
       - classic traditional typewriter font
 
   - name: Segoe UI Mono
@@ -2513,7 +2445,7 @@ fonts:
         - Licensed only for creating UI mockups.
     tags:
       - limited license
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: SGI Screen
     urls:
@@ -2524,8 +2456,7 @@ fonts:
     urls:
       - https://fonts.google.com/specimen/Share+Tech+Mono
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Sheldon
     urls:
@@ -2542,12 +2473,10 @@ fonts:
     urls:
       - http://seankanedesign.com/work/sk-modernist
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Skurier
-    designer:
-      name: GRIN3 (Nowak)
+    designer: GRIN3 (Nowak)
     tags:
       - cute
     urls:
@@ -2575,30 +2504,27 @@ fonts:
     urls:
       - http://monospacedfont.com/
     tags:
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Sony Misc
     urls:
       - https://gitlab.freedesktop.org/xorg/font/sony-misc
     tags:
-      - paid, free, or open source (FIXME)
       - bitmap
 
   - name: Source Code Pro
     urls:
       - https://github.com/adobe-fonts/source-code-pro
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Space Mono
     urls:
       - https://fonts.google.com/specimen/Space+Mono
     tags:
-      - paid, free, or open source (FIXME)
       - novelty
       - ugly as sin
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Speedy
     see also: Proggy
@@ -2647,8 +2573,7 @@ fonts:
       - line printer
 
   - name: Tabular
-    designer:
-      name: Indian Type Foundry
+    designer: Indian Type Foundry
     urls:
       - https://www.myfonts.com/fonts/indian-type-foundry/tabular/
 
@@ -2677,8 +2602,7 @@ fonts:
       - dot matrix
 
   - name: Telegramo
-    designer:
-      name: Volcano Type
+    designer: Volcano Type
     urls:
       - https://www.myfonts.com/fonts/volcano/telegramo/
 
@@ -2691,7 +2615,6 @@ fonts:
       - http://terminus-font.sourceforge.net/
       - { type: 'ttf conversion', url: 'https://files.ax86.net/terminus-ttf/' }
     tags:
-      - paid, free, or open source (FIXME)
       - https://files.ax86.net/terminus-ttf
 
   - name: Tewi
@@ -2706,7 +2629,6 @@ fonts:
       - https://www.fontsquirrel.com/fonts/tex-gyre-cursor
       - http://www.fontsquirrel.com/fonts/TeX-Gyre-Cursor
     tags:
-      - paid, free, or open source (FIXME)
       - implementation of Courier
     notes: |
       based on URW Nimbus Mono L
@@ -2741,7 +2663,6 @@ fonts:
       - http://practicaltypography.com/triplicate.html
     see also: Prestige
     tags:
-      - paid, free, or open source (FIXME)
       - classic typewriter font
 
   - name: Triskweline
@@ -2780,8 +2701,7 @@ fonts:
       - https://www.fontspace.com/font-monkey/tye-paloon
 
   - name: Typewalk Mono 1915
-    designer:
-      name: Typocalypse
+    designer: Typocalypse
     urls:
       - https://www.myfonts.com/fonts/typocalypse/typewalk-mono-1915/
 
@@ -2793,8 +2713,7 @@ fonts:
     urls:
       - https://design.ubuntu.com/font/
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: Unica77 Mono
     foundry: Lineto
@@ -2846,13 +2765,11 @@ fonts:
 
 
   - name: Vivala Code
-    designer:
-      name: Johannes Hoffmann
+    designer: Johannes Hoffmann
     urls:
       - https://www.myfonts.com/fonts/johannes-hoffmann/vivala-code/
     tags:
-      - paid, free, or open source (FIXME)
-      - programmer/coder oriented font
+      - coding-focused
 
   - name: VLNL TP Kurier Callig Regular
     urls:
@@ -2863,7 +2780,6 @@ fonts:
       - https://fedoraproject.org/wiki/VT323_Fonts
       - https://fonts.google.com/specimen/VT323
     tags:
-      - paid, free, or open source (FIXME)
       - terminal font
     notes: |
       Based on the font on the DEC VT320.
@@ -2884,8 +2800,7 @@ fonts:
       - https://www.myfonts.com/fonts/thomas-kaeding/wire-type-mono/
 
   - name: Wudoo
-    designer:
-      name: Vishnu Sathyan
+    designer: Vishnu Sathyan
     urls:
       - https://www.myfonts.com/fonts/vishnu-sathyan/wudoo/
 
