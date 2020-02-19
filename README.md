@@ -76,6 +76,8 @@ as this one does.
 
 -   https://github.com/chrissimpkins/codeface
 
+-   https://github.com/Tecate/bitmap-fonts --- monospaced bitmap fonts for X11 --- I'll be adding these eventually. (02/19/2019)
+
 ## Font Patches
 
 ### Nerd Fonts
