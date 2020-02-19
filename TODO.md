@@ -4,14 +4,14 @@
 
 -   Look through http://charlesleifer.com/blog/monospace-font-favorites/
 
--   Implement a `cost` tag: `free` or `paid`.
+-   Implement a `cost` tag: `$90; $40 for limited subset`
 
--   Implement a `free-to-use` tag: `personal`, `commercial`, `non-profit`.
-
--   Implement a `license` tag: `ofl`, `gpl2`, `gpl3`, `mit`, `bsd`, etc.
+-   Implement a `license:` value: `ofl`, `gpl2`, `gpl3`, `mit`, `bsd`, `free for commercial use`, etc.
 
 -   Implement a `coding-focused` tag.
 
--   Add an `official-url` tag.
+-   Add a `listed in:` value.
+
+-   Add an `updated: 2020-02-19` value.
 
 -   Screenshots.
