@@ -1,0 +1,34 @@
+---
+fonts:
+  - name: XYZ Mono
+  - urls:
+      - { type: "official", url: "https://example.com/" }
+      - https://github.com/example/xyzmono
+  - designer: XYZ
+  - foundry: XYZ
+  - cost: $80
+  - license: MIT
+  - notes:
+      - A
+      - B
+      - C
+  - description: "..."
+  - tags:
+      - coding focused
+      - novelty
+      - quirky
+      - monospace variant of a proportional font
+                (e.g., Arial Monospaced)
+      - implementation of Courier
+      - fork of Deja Vu Sans Mono
+      - classic traditional typewriter font
+                (e.g., Smith, Underwood, Royal, Olivetti, etc.)
+      - classic typewriter font
+                (e.g., Courier, Prestige, Letter Gothic, Orator)
+      - classic monospace font
+                (e.g., OCR-A, OCR-B)
+      - classic line printer font
+                (e.g., 1403 Vintage Mono)
+      - "{bitmap, dot matrix, terminal} font"
+      - "vectorized {bitmap, dot matrix, terminal} font"
+  - updated: 2020-00-00
