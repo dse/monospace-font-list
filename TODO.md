@@ -9,3 +9,9 @@
 -   Implement a `free-to-use` tag: `personal`, `commercial`, `non-profit`.
 
 -   Implement a `license` tag: `ofl`, `gpl2`, `gpl3`, `mit`, `bsd`, etc.
+
+-   Implement a `coding-focused` tag.
+
+-   Add an `official-url` tag.
+
+-   Screenshots.
