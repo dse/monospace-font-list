@@ -2,18 +2,16 @@
 
 My goal is to create a complete list of monospace fonts, to the extent
 I can. Primarily for the fun of it, but sometimes I like to use fonts
-that are really not all that programmer friendly when coding, or even
-just when writing (in a text editor).
+that are not focused on coding.
 
-I've found a few lists here and there of programmer-friendly monospace
+I've found a few lists here and there of coding-focused monospace
 fonts, but none of them are exhaustive, and I also haven't seen any
-lists that include fonts that are not necessarily
-programmer-friendly. Namely, those inspired by or sourced from
-20th-century typewriters.
+lists that include fonts that are not necessarily focused on coding.
+Namely, those inspired by or sourced from 20th-century typewriters.
 
 Send an email to dse AT SIGN webonastick PERIOD com if you know of any
-I've missed.  Or submit a patch---after all, this *is* a github
-repository.
+I've missed.  Or submit a patch, pull request, whatever---after all,
+this *is* a github repository.
 
 I might include images of screenshots, specimens, etc. in the future,
 but for now this is a text-only list.
