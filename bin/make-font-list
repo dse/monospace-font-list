@@ -172,6 +172,7 @@ sub toMarkdown {
 
             my $r = toMarkdown($value, $level + 1);
             if ($r !~ m{\R.} && !(ref $value)) {
+                # single line, simple string, neither an array nor a hash
                 $r =~ s{^\s+}{};
                 $r =~ s{\s+\z}{};
                 $result .= "-   $key: $r\n\n";
