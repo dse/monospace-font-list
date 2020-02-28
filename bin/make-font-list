@@ -127,13 +127,14 @@ sub toMarkdown {
     $level //= 0;
     return unless defined $o;
 
+    # shallow copy, so we can delete keys
     if (ref $o eq 'ARRAY') {
         $o = [ @$o ];
     } elsif (ref $o eq 'HASH') {
         $o = { %$o };
     }
 
-    if ($level == 0) {
+    if ($level == 0 && ref $o eq 'HASH') {
         delete $o->{name};
         delete $o->{anchorName};
         delete $o->{mainUrl};
@@ -168,21 +169,12 @@ sub toMarkdown {
                 next;
             }
             next unless defined $value && $value =~ m{\S};
-            my $r;
-            if ($key eq 'notes') {
-                $r = $value;
-                $r =~ s{^}{        }gms;
-                $r = "-   $key:\n\n" . $r;
-            } else {
-                if (!ref $value && $value !~ m{\R}) {
-                    $r = "-   $key: $value";
-                } else {
-                    $r = toMarkdown($value, $level + 1);
-                    $r =~ s{^}{    }gms;
-                    $r = "-   $key:\n\n" . $r;
-                }
-            }
+
+            my $r = toMarkdown($value, $level + 1);
+            $r =~ s{^}{    }gms;
+            substr($r, 0, 1) = '-';
             $r =~ s{\s+\z}{}s;
+            $result .= "-   $key:\n\n";
             $result .= $r . "\n\n";
         }
         return $result;
