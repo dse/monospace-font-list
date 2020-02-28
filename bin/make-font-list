@@ -171,10 +171,16 @@ sub toMarkdown {
             next unless defined $value && $value =~ m{\S};
 
             my $r = toMarkdown($value, $level + 1);
-            $r =~ s{^}{    }gms;
-            $r =~ s{\s+\z}{}s;
-            $result .= "-   $key:\n\n";
-            $result .= $r . "\n\n";
+            if ($r !~ m{\R.} && !(ref $value)) {
+                $r =~ s{^\s+}{};
+                $r =~ s{\s+\z}{};
+                $result .= "-   $key: $r\n\n";
+            } else {
+                $r =~ s{^}{    }gms;
+                $r =~ s{\s+\z}{}s;
+                $result .= "-   $key:\n\n";
+                $result .= $r . "\n\n";
+            }
         }
         return $result;
     } else {
