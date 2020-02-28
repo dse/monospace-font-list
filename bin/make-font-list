@@ -172,7 +172,6 @@ sub toMarkdown {
 
             my $r = toMarkdown($value, $level + 1);
             $r =~ s{^}{    }gms;
-            substr($r, 0, 1) = '-';
             $r =~ s{\s+\z}{}s;
             $result .= "-   $key:\n\n";
             $result .= $r . "\n\n";
