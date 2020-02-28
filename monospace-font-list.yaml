@@ -922,6 +922,17 @@ fonts:
     notes: |
       Two variants, one with a dotted zero, and one with a slashed zero.
 
+  - name: DSE Typewriter
+    urls:
+      - https://github.com/dse/dse-typewriter-font
+    tags:
+      - coding focused
+      - classic traditional typewriter font
+    license: SIL OFL 1.1
+    author: Darren Embry
+    description: "A monospace coding font inspired by pre-war typewriters."
+    updated: 2002-02-27
+
   - name: EB Jessica
     designer: Erik Bertell
     urls:
