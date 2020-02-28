@@ -75,7 +75,8 @@ fonts:
     listed in:
       - https://desket.co/blogs/news/50-free-fonts-for-minimalist-design
     designer: Alfredo Marco Pradil
-    foundry: Hanken Design Co.
+    foundry:
+      name: Hanken Design Co.
       url: https://hanken.co/
     cost: $45
     updated: 2020-02-19
