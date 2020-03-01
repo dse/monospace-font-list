@@ -1,19 +1,19 @@
 ---
 fonts:
   - name: XYZ Mono
-  - urls:
+    urls:
       - { type: "official", url: "https://example.com/" }
       - https://github.com/example/xyzmono
-  - designer: XYZ
-  - foundry: XYZ
-  - cost: $80
-  - license: MIT
-  - notes:
+    designer: XYZ
+    foundry: XYZ
+    cost: $80
+    license: MIT
+    notes:
       - A
       - B
       - C
-  - description: "..."
-  - tags:
+    description: "..."
+    tags:
       - coding focused
       - novelty
       - quirky
@@ -31,4 +31,4 @@ fonts:
                 (e.g., 1403 Vintage Mono)
       - "{bitmap, dot matrix, terminal} font"
       - "vectorized {bitmap, dot matrix, terminal} font"
-  - updated: 2020-00-00
+    updated: 2020-00-00
