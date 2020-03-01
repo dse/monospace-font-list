@@ -2840,6 +2840,16 @@ fonts:
     urls:
       - https://github.com/dse/x11-monospace-fonts-ttf
 
+  - name: xnufont
+    urls:
+      - https://github.com/vladkorotnev/xnufont
+    designer: Akasaka Ryuunosuke
+    license: Apple Public Source License
+    description: "The console font from XNU/Darwin (Apple) kernel for Linux console."
+    tags:
+      - bitmap font
+    updated: 2020-02-29
+
   - name: Zolan Mono
     urls:
       - http://www.myfonts.com/fonts/btn/zolan-mono-btn/
