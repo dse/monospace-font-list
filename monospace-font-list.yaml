@@ -1460,6 +1460,17 @@ fonts:
     see also:
       - CMU Typewriter
 
+  - name: Lavender
+  - urls:
+      - https://github.com/kori/lavender-font
+  - designer: Luiz de Milon
+  - license: SIL OFL 1.1
+  - description: "This is a console font that is heavily inspired by Sun Gallant Demi and the XNU console font."
+  - tags:
+      - coding focused
+      - bitmap font
+  - updated: 2020-02-29
+
   - name: League Mono
     urls:
       - https://www.theleagueofmoveabletype.com/league-mono
