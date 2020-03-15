@@ -895,6 +895,17 @@ fonts:
       - unreadable
       - novelty
 
+  - name: Dossier
+    urls:
+      - https://www.myfonts.com/fonts/tabular-type-foundry/dossier/
+    designer: William Dwiggins, Toshi Omagari
+    foundry: Tabular Type Foundry
+    cost: Individual Styles from $29.99; Complete family of 16 fonts: $299.99
+    tags:
+      - novelty
+      - quirky
+    updated: 2020-03-15
+
   - name: DPCustomMono2
     urls:
       - { type: 'via', url: 'http://www.lowing.org/fonts/' }
@@ -1257,6 +1268,23 @@ fonts:
       - https://en.wikipedia.org/wiki/GNU_Unifont
     tags:
       - coding-focused
+
+  - name: Grid15
+    urls:
+      - https://kraemer.link/fonts/en/Grid15.html
+    designer: Joshua Krämer
+    tags:
+      - coding focused
+    notes:
+      - not available yet?
+    updated: 2020-03-15
+
+  - name: GT Alpina Typewriter
+    urls:
+      - https://www.grillitype.com/typeface/gt-alpina
+    foundry: Grilli Type
+    cost: https://www.grillitype.com/shops/gt-alpina
+    updated: 2020-03-15
 
   - name: GT America Mono
     urls:
@@ -1737,6 +1765,7 @@ fonts:
   - name: Monotype Typewriter
     urls:
       - https://www.fonts.com/font/monotype/typewriter
+      - https://catalog.monotype.com/family/monotype/typewriter
     tags:
       - classic
     notes: |
@@ -2357,6 +2386,14 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/rene-bieder/rational-tw/
 
+  - name: Recursive Mono
+    urls:
+      - https://github.com/arrowtype/recursive
+    foundry: Arrow Type
+    license: SIL OFL 1.1
+    description: "Recursive Mono & Sans is a variable font family for code & UI (work in progress!)"
+    updated: 2020-03-05
+
   - name: Relative Mono
     urls:
       - https://www.colophon-foundry.org/typefaces/relative/
@@ -2450,6 +2487,15 @@ fonts:
       - https://docs.microsoft.com/en-us/typography/font-list/segoe-ui
       - https://en.wikipedia.org/wiki/Segoe
       - https://www.myfonts.com/fonts/ascender/segoe-ui-mono/
+
+  - name: Selectric
+    urls:
+      - https://www.fontspring.com/fonts/indian-summer-studio/selectric
+    foundry: Indian Summer Studio
+    cost: $45
+    tags:
+      - classic traditional typewriter font
+    updated: 2020-03-15
 
   - name: SF Mono
     urls:
@@ -2744,6 +2790,16 @@ fonts:
       - https://lineto.com/typefaces/unica77-mono
     tags:
       - paid
+
+  - name: Univers Next Typewriter
+    urls:
+      - https://www.myfonts.com/fonts/linotype/univers-next-typewriter/
+    designer: Adrian Frutiger
+    foundry: Linotype
+    cost: $35 for each of four weights; $99 for all four
+    tags:
+      - monospace variant of a proportional font
+    updated: 2020-03-15
 
   - name: UnixPC
     urls:
