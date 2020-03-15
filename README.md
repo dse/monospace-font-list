@@ -58,9 +58,11 @@ See [monospace-font-list.md](monospace-font-list.md).
 These lists, for the most part, do not attempt to be comprehensive,
 as this one does.
 
--   https://github.com/chrissimpkins/codeface
+-   http://luc.devroye.org/programming-index.html
 
 -   http://luc.devroye.org/mono.html
+
+-   https://github.com/chrissimpkins/codeface
 
 -   http://consowah.blogspot.com/2007/06/monospacefixed-width-programmers-fonts.html
 
