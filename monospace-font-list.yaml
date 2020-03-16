@@ -1722,6 +1722,15 @@ fonts:
     urls:
       - https://hanken.co/products/monoist
 
+  - name: MonoLisa
+    urls:
+      - https://monolisa.dev/
+    designer: Marcus Sterz, Andrey Okonetchnikov, and Juho Vepsäläinen
+    cost: personal edition $59; professional edition $279
+    tags:
+      - coding focused
+    updated: 2020-03-16
+
   - name: Mononoki
     urls:
       - http://madmalik.github.io/mononoki/
