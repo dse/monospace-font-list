@@ -10,6 +10,8 @@ fonts:
     cost: $90; $40 for limited subset
     notes:
       - small caps, no lower case
+    images:
+      - images/1403-vintage-mono.png
     updated: 2020-02-19
     description: "A practical monospaced typeface, inspired by the IBM 1403 mainframe line printer from the 1960s."
 
@@ -26,6 +28,8 @@ fonts:
     designer: Ricardo Bánffy
     license: similar to 3-clause BSD
     updated: 2020-02-19
+    images:
+      - images/3270.png
     description: "This font is derived from the x3270 font, which, in turn, was translated from the one in Georgia Tech's 3270tool, which was itself hand-copied from a 3270 series terminal. I built it because I felt terminals deserve to be pretty."
 
   - name: 64-SRC
@@ -43,6 +47,8 @@ fonts:
     description: "64-SRC is a condensed monospace font inspired by 1960s IBM Selectric type seen on HAL’s telemetric displays in 2001: A Space Odyssey. It is characterized by unique \"double-space\" alternates for the widest characters such as “w” and “m”. These alternates maximize legibility, improve the rhythm of readability and keep typographic color even. As a result 64-SRC is as well suited for extensive copy as it is display type."
     updated: 2020-02-19
     cost: $49 for individual weights; $169 for all six.
+    images:
+      - images/64-src.png
 
   - name: Adobe Courier Bitmap Fonts
     urls:
@@ -67,6 +73,8 @@ fonts:
     license: MIT
     updated: 2020-02-19
     description: "Agave was an attempt at making a small, monospace, outline font that would be geometrically regular and simple. The endeavor was motivated by a deep adoration of old-school console bitmap fonts, of Consolas, of Pragmata Pro, as well as a novice curiosity for typographical design."
+    images:
+      - images/agave.png
 
   - name: Ahamono Monospaced
     urls:
@@ -81,6 +89,8 @@ fonts:
     cost: $45
     updated: 2020-02-19
     description: "Ahamono™ is a rounded monospaced typeface"
+    images:
+      - images/ahamono.jpeg
 
   - name: Akkurat Mono
     foundry: Lineto
@@ -89,6 +99,8 @@ fonts:
     cost: CHF 190 for individual weights; CHF 570 for all four.
     updated: 2020-02-19
     description: "Fifteen years after its first release, Laurenz Brunner’s now famous LL Akkurat (2004) appears almost humble. With its static construction, it has proven that combining the qualities of classic sans-serif craft with a new contemporaneity can be a sustainable endeavour. Never attempting to be trendy, elegant or fashionable, LL Akkurat aspired to embody qualities such as technical precision, down-to-earth robustness, reliability and neutrality, reflecting certain values generally associated with Switzerland."
+    images:
+      - images/akkurat-mono.png
 
   - name: Amiri Typewriter
     urls:
@@ -99,6 +111,8 @@ fonts:
     license: SIL OFL 1.1
     updated: 2020-02-19
     description: "Amiri Typewriter is a typewriter companion to Amiri font family.  The design is inspired inspired by old Arabic typewriters, and features a very simplified Arabic design with most letters using the one shape for both isolated and final forms, and one shape for initial and medial forms (with few exceptions)."
+    images:
+      - images/amiri-typewriter.png
 
   - name: Andalé Mono
     also known as: Andale Mono
@@ -297,6 +311,8 @@ fonts:
     foundry: intactile DESIGN on behalf of Airbus
     tags:
       - open source
+    images:
+      - images/b612-mono.png
 
   - name: Base Monospace Narrow
     urls:
@@ -410,6 +426,8 @@ fonts:
       - https://lineto.com/typefaces/bradford-mono
     tags:
       - paid
+    images:
+      - images/bradford-mono.png
 
   - name: Bront
     urls:
@@ -473,6 +491,8 @@ fonts:
       - https://lineto.com/typefaces/circular-mono
     tags:
       - paid
+    images:
+      - images/circular-mono.png
 
   - name: CMU Typewriter
     urls:
@@ -560,6 +580,8 @@ fonts:
     tags:
       - paid
       - coding-focused
+    images:
+      - images/consolas.png
 
   - name: Cosmic Sans Neue Mono
     now known as: Fantasque Sans Mono
@@ -659,6 +681,8 @@ fonts:
       - https://lineto.com/typefaces/courier-sans-mono
     tags:
       - paid
+    images:
+      - images/courier-sans-mono.png
 
   - name: Courier SB
     notes: |
@@ -754,6 +778,8 @@ fonts:
     designer: Vernon Adams
     tags:
       - free
+    images:
+      - images/cutive-mono.png
 
   - name: D2 Coding
     urls:
@@ -931,6 +957,8 @@ fonts:
     foundry: Ascender
     tags:
       - open source
+    images:
+      - images/droid-sans-mono.png
 
   - name: Droid Sans Mono Slashed/Dotted
     urls:
@@ -952,6 +980,8 @@ fonts:
     author: "Darren Embry (the author of this list!)"
     description: "A monospace coding font inspired by pre-war typewriters."
     updated: 2002-02-27
+    images:
+      - images/dse-typewriter.png
 
   - name: EB Jessica
     designer: Erik Bertell
@@ -1036,6 +1066,8 @@ fonts:
     foundry: Lineto
     tags:
       - paid
+    images:
+      - images/excellent.png
 
   - name: F25 Bank Printer
     urls:
@@ -1084,6 +1116,8 @@ fonts:
       - open source
       - if you like Comic Sans
       - ligatures
+    images:
+      - images/fantasque-sans-mono.png
 
   - name: Feggolite Mono
     urls:
@@ -1154,6 +1188,8 @@ fonts:
       - coding-focused
     notes: |
       adds ligatures to Fira Mono
+    images:
+      - images/fira-code.png
 
   - name: Fira Mono
     urls:
@@ -1379,6 +1415,8 @@ fonts:
       - http://levien.com/type/myfonts/inconsolata.html
     tags:
       - coding-focused
+    images:
+      - images/inconsolata.png
 
   - name: Inconsolata-LGC (adds cyrillics, bold, and italic)
     urls:
@@ -1535,6 +1573,8 @@ fonts:
       - https://lineto.com/typefaces/lettera-mono
     tags:
       - paid
+    images:
+      - images/lettera-mono.png
 
   - name: LH Mono Slab
     urls:
@@ -1621,18 +1661,24 @@ fonts:
       - https://mplus-fonts.osdn.jp/about-en.html
     tags:
       - coding-focused
+    images:
+      - images/m+-1m.png
 
   - name: M+ 1mn
     urls:
       - https://mplus-fonts.osdn.jp/about-en.html
     tags:
       - coding-focused
+    images:
+      - images/m+-1mn.png
 
   - name: M+ 2m
     urls:
       - https://mplus-fonts.osdn.jp/about-en.html
     tags:
       - coding-focused
+    images:
+      - images/m+-2m.png
 
   - name: Maison Mono
     urls:
@@ -1693,6 +1739,8 @@ fonts:
       - https://lineto.com/typefaces/mono
     tags:
       - paid
+    images:
+      - images/mono.png
 
   - name: Mono Condensed
     designer: ParaType
@@ -1863,6 +1911,8 @@ fonts:
     based on: Droid Sans Mono
     urls:
       - https://www.google.com/get/noto/
+    images:
+      - images/noto-sans-mono.png
 
   - name: Nova Mono
     urls:
@@ -2436,6 +2486,8 @@ fonts:
       - https://lineto.com/typefaces/replica-mono
     tags:
       - paid
+    images:
+      - images/replica-mono.png
 
   - name: Resolution
     urls:
@@ -2451,6 +2503,8 @@ fonts:
     tags:
       - coding-focused
       - monospace variant of a proportional font
+    images:
+      - images/roboto-mono.png
 
   - name: Rubik Mono One
     urls:
@@ -2505,6 +2559,9 @@ fonts:
         - VTScreenplay Underwood
 
       [1] https://www.literatureandlatte.com/forum/viewtopic.php?t=41122&start=45
+    images:
+      - images/vtscreenplay-oliverb.png
+      - images/vtscreenplay-remingtonb.png
 
   - name: Script 12 Pitch
     urls:
@@ -2618,6 +2675,8 @@ fonts:
       - https://github.com/adobe-fonts/source-code-pro
     tags:
       - coding-focused
+    images:
+      - images/source-code-pro.png
 
   - name: Space Mono
     urls:
@@ -2665,6 +2724,8 @@ fonts:
       - https://lineto.com/typefaces/superstudio
     tags:
       - paid
+    images:
+      - images/superstudio.png
 
   - name: SV Basic Manual
     urls:
@@ -2822,6 +2883,8 @@ fonts:
       - https://lineto.com/typefaces/unica77-mono
     tags:
       - paid
+    images:
+      - images/unica77-mono.png
 
   - name: Univers Next Typewriter
     urls:
@@ -2851,6 +2914,8 @@ fonts:
       - https://lineto.com/typefaces/valentine
     tags:
       - paid
+    images:
+      - images/valentine.png
 
   - name: Verily Serif Mono
     urls:
