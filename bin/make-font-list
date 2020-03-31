@@ -205,7 +205,6 @@ sub toMarkdown {
         if (!ref $i) {          # $i is a string
             $i = [$i];          # $i should be an array
         }
-        print(Dumper($i));
         foreach my $i (@$i) {
             my $src;
             my $alt;
