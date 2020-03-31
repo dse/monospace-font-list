@@ -1978,7 +1978,7 @@ fonts:
       - { type: "purchase", url: "https://neubauladen.com/product/nb-typewriter-pro-edition/" }
     foundry: Neubau
     cost: €69.00
-    updated: 2020-03-30
+    updated: 2020-03-31
 
   - name: URW Nimbus Mono L
     urls:
