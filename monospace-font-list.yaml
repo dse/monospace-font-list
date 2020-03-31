@@ -315,6 +315,14 @@ fonts:
     tags:
       - paid
 
+  - name: Basier Mono
+    urls:
+      - { type: "official", url: "http://atipofoundry.com/fonts/basier-mono" }
+      - https://github.com/example/xyzmono
+    foundry: Atipo
+    cost: regular weight free; pay what you want for complete family
+    updated: 2020-03-27
+
   - name: Basis Grotesque Mono
     urls:
       - https://www.colophon-foundry.org/typefaces/basis-grotesque/
@@ -1811,6 +1819,14 @@ fonts:
     designer: Fort Foundry
     urls:
       - https://fortfoundry.com/pages/native
+
+  - name: NB Architekt
+    urls:
+      - { type: "official", url: "https://neubauberlin.com/project/nb-architekt-otf-std/" }
+      - { type: "purchase", url: "https://neubauladen.com/product/nb-architekt-edition/" }
+    foundry: Neubau
+    cost: €199.00
+    udpated: 2020-03-31
 
   - name: URW Nimbus Mono L
     urls:
