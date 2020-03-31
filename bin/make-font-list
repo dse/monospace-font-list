@@ -10,6 +10,8 @@ BEGIN {
     @ARGV = map { decode('locale', $_, Encode::FB_CROAK) } @ARGV;
 }
 
+use Data::Dumper qw(Dumper);
+use File::Basename qw(basename);
 use Sort::Naturally qw(nsort);
 use YAML;
 use URI;
@@ -134,14 +136,24 @@ sub toMarkdown {
         $o = { %$o };
     }
 
+    my $images;
+    my $image;
+    my $fontName;
+    my $anchorName;
+    my $mainUrl;
+
     if ($level == 0 && ref $o eq 'HASH') {
-        delete $o->{name};
-        delete $o->{anchorName};
-        delete $o->{mainUrl};
+        $fontName = delete $o->{name};
+        $anchorName = delete $o->{anchorName};
+        $mainUrl = delete $o->{mainUrl};
+        $images = delete $o->{images};
+        $image = delete $o->{image};
     }
 
+    my $result;
+
     if (ref $o eq 'ARRAY') {
-        my $result = '';
+        $result = '';
         foreach my $value (@$o) {
             my $r = toMarkdown($value, $level + 1);
             $r =~ s{^}{    }gms;
@@ -149,9 +161,8 @@ sub toMarkdown {
             $r =~ s{\s+\z}{}s;
             $result .= $r . "\n\n";
         }
-        return $result;
     } elsif (ref $o eq 'HASH') {
-        my $result = '';
+        $result = '';
         my @keys = nsort keys %$o;
         foreach my $key (@keys) {
             my $value = $o->{$key};
@@ -183,12 +194,33 @@ sub toMarkdown {
                 $result .= $r . "\n\n";
             }
         }
-        return $result;
     } else {
-        $o =~ s{\s*\z}{};
-        $o .= "\n\n";
-        return $o;
+        $result = $o;
+        $result =~ s{\s*\z}{};
+        $result .= "\n\n";
     }
+
+    foreach my $i ($image, $images) {
+        next unless $i;
+        if (!ref $i) {          # $i is a string
+            $i = [$i];          # $i should be an array
+        }
+        print(Dumper($i));
+        foreach my $i (@$i) {
+            my $src;
+            my $alt;
+            if (ref $i eq 'HASH') {
+                $src = $i->{src};
+                $alt = $i->{alt} // $i->{title} // $fontName;
+            } else {
+                $src = $i;
+                $alt = $fontName;
+            }
+            $result .= sprintf("![%s](%s)\n\n", $alt, $src);
+        }
+    }
+
+    return $result;
 }
 
 # https://github.com/jch/html-pipeline/blob/master/lib/html/pipeline/toc_filter.rb
