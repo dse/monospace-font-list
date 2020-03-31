@@ -1,5 +1,3 @@
----
-fonts:
   - name: XYZ Mono
     urls:
       - { type: "official", url: "https://example.com/" }
