@@ -2393,12 +2393,6 @@ fonts:
     urls:
       - https://www.myfonts.com/fonts/parachute/pf-din-mono/
 
-  - name: Bitstream Pica 10 Pitch
-    urls:
-      - http://www.myfonts.com/fonts/bitstream/pica-10-pitch/
-    tags:
-      - classic typewriter font
-
   - name: Pitch
     urls:
       - https://klim.co.nz/retail-fonts/pitch/
