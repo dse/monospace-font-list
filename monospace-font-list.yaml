@@ -1605,6 +1605,15 @@ fonts:
     urls:
       - https://fontlibrary.org/en/font/kawkab-mono
 
+  - name: Kepler-452b
+    urls:
+      - https://github.com/weirdoonthebus/Kepler
+    designer: Sam Murphey
+    license: SIL OFL
+    tags:
+      - vectrex font vibe
+    updated: 2020-03-31
+
   - name: Klartext Mono
     urls:
       - http://www.fontswithlove.com/fwl/klartext-mono-fontfamily
