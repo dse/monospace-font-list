@@ -282,6 +282,8 @@ fonts:
     tags:
       - paid
     images:
+      - images/asm-font-1.png
+      - images/asm-font-2.png
       - images/asm.png
 
   - name: Audimat Mono
@@ -311,6 +313,7 @@ fonts:
     tags:
       - paid
     images:
+      - images/autocode-font-1.png
       - images/autocode.png
 
   - name: Autoscape
@@ -319,6 +322,8 @@ fonts:
       - https://lineto.com/typefaces/autoscape
     tags:
       - paid
+    images:
+      - images/autoscape.png
 
   - name: Average Mono
     clone of: Courier
@@ -328,6 +333,8 @@ fonts:
     tags:
       - open source
       - implementation of Courier
+    images:
+      - images/average-mono.png
 
   - name: B612 Mono
     urls:
@@ -347,6 +354,11 @@ fonts:
     foundry: Emigre
     tags:
       - paid
+    images:
+      - images/base-monospace-font-1.png
+      - images/base-monospace-font-2.png
+      - images/base-monospace-font-3.png
+      - images/base-monospace-narrow.png
 
   - name: Base Monospace Wide
     urls:
@@ -356,6 +368,8 @@ fonts:
     foundry: Emigre
     tags:
       - paid
+    images:
+      - images/base-monospace-wide.png
 
   - name: Basier Mono
     urls:
@@ -364,6 +378,10 @@ fonts:
     foundry: Atipo
     cost: regular weight free; pay what you want for complete family
     updated: 2020-03-27
+    images:
+      - images/basier-mono-1.png
+      - images/basier-mono-2.png
+      - images/basier-mono-3.png
 
   - name: Basis Grotesque Mono
     urls:
@@ -371,6 +389,8 @@ fonts:
     foundry: Colophon
     tags:
       - paid
+    images:
+      - images/basis-grotesque-mono.png
 
   - name: Bedstead
     urls:
@@ -378,12 +398,16 @@ fonts:
     designer: Ben Harris
     tags:
       - public domain
+    images:
+      - images/bedstead.png
 
   - name: BigBlue Terminal
     urls:
       - https://int10h.org/blog/2015/12/bigblue-terminal-oldschool-fixed-width-font/
     tags:
       - open source
+    images:
+      - images/big-blue-terminal-font-1.png
 
   - name: Bino Mono
     urls:
@@ -391,6 +415,8 @@ fonts:
     designer: Neal Fletcher
     tags:
       - free
+    images:
+      - images/bino-font-1.jpg
 
   - name: Bitstream Courier Type 1
     urls:
@@ -403,6 +429,8 @@ fonts:
     tags:
       - paid
       - classic traditional typewriter font
+    images:
+      - images/bitstream-pica-10-pitch.png
 
   - name: Bitstream Vera Sans Mono
     urls:
@@ -416,6 +444,8 @@ fonts:
     notes: |
       Bitstream Vera Sans Mono is the basis of numerous open source
       fonts, the first and most popular of which is Deja Vu Sans Mono.
+    images:
+      - images/bitstream-vera-sans-mono.png
 
   - name: Bizcat
     urls:
@@ -424,6 +454,8 @@ fonts:
       - open source
       - bitmap
     designer: Robey Pointer
+    images:
+      - images/bizcat-bitmap-font-1.png
 
   - name: Borg Sans Mono
     notes: |
@@ -437,6 +469,9 @@ fonts:
       - fork of Droid Sans Mono
       - ligatures
       - coding-focused
+    images:
+      - images/borg-sans-mono-font-1.png
+      - images/borg-sans-mono.png
 
   - name: BPMono
     urls:
@@ -445,6 +480,8 @@ fonts:
     tags:
       - free
       - coding-focused
+    images:
+      - images/bpmono.png
 
   - name: Bradford Mono
     foundry: Lineto
@@ -464,6 +501,10 @@ fonts:
     tags:
       - open source
       - coding-focused
+    images:
+      - images/dejavu-sans-mono-bront.png
+      - images/dejavu-sans-mono-99.png
+      - images/ubuntu-mono-99.png
 
   - name: BSU Kermit
     urls:
@@ -477,6 +518,8 @@ fonts:
     tags:
       - free
       - coding-focused
+    images:
+      - images/camingo-code.png
 
   - name: Cascadia Code
     urls:
@@ -485,6 +528,9 @@ fonts:
       - ligatures
       - open source
       - coding-focused
+    images:
+      - images/cascadia-code-font-0.png
+      - images/cascadia-code-font-1.png
 
   - name: Cella Typewriter
     urls:
@@ -493,6 +539,8 @@ fonts:
       - https://fontsarena.com/blog/free-modern-typewriter-fonts/
     designer:
       - Volker Busse (F25 Digital Typeface Design)
+    images:
+      - images/cella.png
 
   - name: Centima Mono
     urls:
@@ -503,6 +551,8 @@ fonts:
       - paid
     see also:
       - Decima Mono
+    images:
+      - images/centima.png
 
   - name: Century Schoolbook Monospace
     urls:
@@ -510,6 +560,8 @@ fonts:
       - { url: "http://www.lowing.org/fonts/", type: "via" }
     tags:
       - monospace variant of a proportional font
+    images:
+      - images/century-schoolbook-mono.png
 
   - name: Circular Mono
     foundry: Lineto
@@ -530,6 +582,8 @@ fonts:
       - implementation of Computer Modern Typewriter Text
     see also:
       - Latin Modern Mono
+    images:
+      - images/cmu-typewriter-text.png
 
   - name: Code New Roman
     urls:
@@ -540,6 +594,10 @@ fonts:
       - open source
       - fork of Ubuntu Mono
       - coding-focused
+    images:
+      - images/code-new-roman-font-1.png
+      - images/code-new-roman-font-2.png
+      - images/code-new-roman.png
 
   - name: Coding Font Tobi
     urls:
@@ -549,6 +607,8 @@ fonts:
     tags:
       - free
       - coding-focused
+    images:
+      - images/coding-font-tobi.png
 
   - name: Colón Mono
     foundry: TipografiaRamis
