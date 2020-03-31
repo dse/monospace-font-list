@@ -132,6 +132,8 @@ fonts:
     foundry: Monotype
     license: https://www.fonts.com/content/microsoft-typography; bundled with Windows; Individual Styles from $89.00; Complete family of 4 fonts: $348.88
     updated: 2020-02-19
+    images:
+      - images/andale-mono.png
 
   - name: Angelus III
     description: "Angelus is a rather different monospaced font. Unlike an earlier version this one has full upper and lowercase characters."
@@ -738,6 +740,8 @@ fonts:
     tags:
       - paid
       - implementation of Courier
+    images:
+      - images/courier-new.png
 
   - name: Courier Prime
     urls:
@@ -907,6 +911,9 @@ fonts:
       - bitmap
     notes: |
       Fonts used on DECstation/VAXstation hardware
+    images:
+      - images/dec-terminal-14.png
+      - images/dec-terminal-18.png
 
   - name: DEC Terminal Modern
     urls:
@@ -1787,6 +1794,8 @@ fonts:
       - https://en.wikipedia.org/wiki/Menlo_(typeface)
     tags:
       - fork of Bitstream Vera / Deja Vu Sans Mono
+    images:
+      - images/menlo.png
 
   - name: Mensch
     urls:
@@ -1818,6 +1827,8 @@ fonts:
     urls:
       - ftp://ftp.apple.com/developer/Tool_Chest/Core_Mac_OS_Tools/MPW_etc./Miscellaneous/MPW_Font.sit.hqx
       - http://en.wikipedia.org/wiki/Monaco_(typeface)
+    images:
+      - images/monaco.png
 
   - name: Mono
     foundry: Lineto
