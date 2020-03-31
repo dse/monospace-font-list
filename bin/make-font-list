@@ -113,6 +113,7 @@ foreach my $font (@{$doc->{fonts}}) {
     } else {
         printf("## %s\n\n", $name);
     }
+    print toMarkdownImages($font);
     print toMarkdown($font);
 }
 
@@ -124,10 +125,39 @@ if (scalar @urlless) {
     print "\n";
 }
 
+sub toMarkdownImages {
+    my ($o) = @_;
+    my $result = '';
+    return $result unless $o;
+    foreach my $key ('image', 'images') {
+        my $data = $o->{$key};
+        next unless $data;
+
+        # force $data to be an array.
+        if (!ref $data) {
+            $data = [$data];
+        }
+
+        foreach my $item (@$data) {
+            my $src;
+            my $alt;
+            if (ref $item eq 'HASH') {
+                $src = $item->{src};
+                $alt = $item->{alt} // $item->{title} // $o->{name};
+            } elsif (!ref $item) { # assume string
+                $src = $item;
+                $alt = $o->{name};
+            }
+            $result .= sprintf("![%s](%s)\n\n", $alt, $src);
+        }
+    }
+    return $result;
+}
+
 sub toMarkdown {
     my ($o, $level) = @_;
     $level //= 0;
-    return unless defined $o;
+    return '' unless defined $o;
 
     # shallow copy, so we can delete keys
     if (ref $o eq 'ARRAY') {
@@ -198,25 +228,6 @@ sub toMarkdown {
         $result = $o;
         $result =~ s{\s*\z}{};
         $result .= "\n\n";
-    }
-
-    foreach my $i ($image, $images) {
-        next unless $i;
-        if (!ref $i) {          # $i is a string
-            $i = [$i];          # $i should be an array
-        }
-        foreach my $i (@$i) {
-            my $src;
-            my $alt;
-            if (ref $i eq 'HASH') {
-                $src = $i->{src};
-                $alt = $i->{alt} // $i->{title} // $fontName;
-            } else {
-                $src = $i;
-                $alt = $fontName;
-            }
-            $result .= sprintf("![%s](%s)\n\n", $alt, $src);
-        }
     }
 
     return $result;
