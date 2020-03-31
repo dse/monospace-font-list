@@ -1,0 +1,37 @@
+#!/usr/bin/env perl
+use warnings;
+use strict;
+use v5.10.0;
+
+use Sort::Naturally qw(nsort);
+use Path::Tiny;
+use YAML;
+
+my ($imageDir) = grep { -d $_ } ('./images', '../images');
+
+my ($fontListYaml) = grep { -e $_ } (
+    '../monospace-font-list.yaml',
+    './monospace-font-list.yaml'
+);
+
+my $fontList = YAML::LoadFile($fontListYaml);
+
+my $dh;
+opendir($dh, $imageDir) or die("opendir $imageDir: $!\n");
+my @images = nsort grep {
+    $_ ne '.' && $_ ne '..' && $_ ne '.DS_Store' && !m{\.webp$}
+} readdir($dh);
+closedir($dh);
+
+@images = map { 'images/' . $_ } @images;
+
+image:
+foreach my $image (@images) {
+    foreach my $font (@{$fontList->{fonts}}) {
+        if ($font->{images}) {
+            next image if grep { $_ eq $image } @{$font->{images}};
+        }
+    }
+    print("    images:\n");
+    print("      - $image\n");
+}

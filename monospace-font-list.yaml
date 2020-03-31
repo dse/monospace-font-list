@@ -145,6 +145,8 @@ fonts:
       - novelty
     cost: $18 for individual weights, or for complete family
     updated: 2020-02-19
+    images:
+      - images/angelus-iii.png
 
   - name: Anka/Coder
     description: "The Anka/Coder family is a monospaced, courier-width (60% of height; em size 2048x1229) font that contains characters from 437, 866, 1251, 1252 and some other code pages and can be used for source code, terminal windows etc."
@@ -156,6 +158,8 @@ fonts:
       - coding-focused
     license: OFL
     updated: 2020-02-19
+    images:
+      - images/anka-coder.png
 
   - name: Anonymous Pro
     description: "Anonymous Pro (2009) is a family of four fixed-width fonts designed with coding in mind."
@@ -172,6 +176,8 @@ fonts:
       - coding-focused
     license: OFL
     updated: 2020-02-19
+    images:
+      - images/anonymous-pro.png
 
   - name: "Another Man's Treasure"
     description: "The world's most complete TRS-80 text font set, in TrueType format."
@@ -184,6 +190,8 @@ fonts:
       - free
     license: TBD
     updated: 2020-02-19
+    images:
+      - images/another-mans-treasure.png
 
   - name: Aperçu Mono
     also known as: Apercu Mono
@@ -193,6 +201,8 @@ fonts:
     cost: mono family for £170.00
     updated: 2020-02-19
     description: "Aperçu was started in December 2009, and was trialled & tested throughout a number of design commissions into 2010. The conceit behind Aperçu was to create a synopsis or amalgamation of classic realist typefaces: Johnston, Gill Sans, Neuzeit & Franklin Gothic. Becoming, a sum of parts, building upon its initial reference points to create an extensive and usable family."
+    images:
+      - images/apercu-mono.png
 
   - name: APL2741
     urls:
@@ -201,6 +211,8 @@ fonts:
     license: public domain
     updated: 2020-02-19
     description: "Historic interest only. This was hand digitised as a PostScript Type-3 font from an original 2741 golf-ball salvaged from an IBM selectric typewriter. Looks good on paper, but poor on screen as it is lightweight and italic. The hinting is rudimentary and even with ClearType it is hard to read!"
+    images:
+      - images/apl2741.png
 
   - name: APL385 Unicode
     urls:
@@ -216,6 +228,8 @@ fonts:
     license: public domain
     updated: 2020-02-19
     description: "Developed with all APL software vendors in the late 1980s and enhanced as required with new characters to meet interpreter updates."
+    images:
+      - images/apl385.png
 
   - name: APLX Upright
     description: TBD
@@ -233,6 +247,8 @@ fonts:
     foundry: Colphon
     cost: UKP 50.00 for sole mono weight
     updated: 2020-02-19
+    images:
+      - images/archive-mono.png
 
   - name: Arial Monospaced
     urls:
@@ -245,6 +261,8 @@ fonts:
       - monospace variant of a proportional font
     cost: $126 for complete family of four weights.
     updated: 2020-02-19
+    images:
+      - images/arial-monospaced.png
 
   - name: Ascender Sans Mono
     urls:
@@ -254,6 +272,8 @@ fonts:
     cost: Individual Styles from $89.00; Complete family of 4 fonts: $356.00 $348.88
     updated: 2020-02-19
     description: "The Ascender Sans Mono font family was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New.  Ascender Sans Mono offers improved on-screen readability characteristics and the pan-European WGL character set."
+    images:
+      - images/ascender-sans-mono.png
 
   - name: ASM
     urls:
@@ -261,6 +281,8 @@ fonts:
     foundry: Extratype f/k/a Textaxis
     tags:
       - paid
+    images:
+      - images/asm.png
 
   - name: Audimat Mono
     urls:
@@ -279,6 +301,8 @@ fonts:
     tags:
       - free?
       - coding-focused
+    images:
+      - images/aurulent-sans-mono.png
 
   - name: Autocode
     urls:
@@ -286,6 +310,8 @@ fonts:
     foundry: AVP
     tags:
       - paid
+    images:
+      - images/autocode.png
 
   - name: Autoscape
     foundry: Lineto
