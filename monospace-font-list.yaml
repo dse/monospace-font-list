@@ -1828,6 +1828,13 @@ fonts:
     cost: €199.00
     udpated: 2020-03-31
 
+  - name: NB Typewriter
+    urls:
+      - { type: "purchase", url: "https://neubauladen.com/product/nb-typewriter-pro-edition/" }
+    foundry: Neubau
+    cost: €69.00
+    updated: 2020-03-30
+
   - name: URW Nimbus Mono L
     urls:
       - https://www.fontsquirrel.com/fonts/nimbus-mono
