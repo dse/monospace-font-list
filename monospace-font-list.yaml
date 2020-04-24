@@ -288,6 +288,14 @@ fonts:
       - images/asm-font-2.png
       - images/asm.png
 
+  - name: Atlas Typewriter
+    urls:
+      - { type: "official", url: "https://commercialtype.com/catalog/atlas/atlas_typewriter" }
+    foundry: Commercial Type
+    cost: $325 desktop; $325 web; $487.50 app
+    description: "Atlas Typewriter is a distinctive monospaced sans, well suited for a wide range of uses, from art catalogues to personal correspondence, through to data visualization. Rather than hewing closely to the model of existing monospaced typefaces, Atlas Typewriter aims for an even, readable texture with the same clean and effortless tone as the Grotesk."
+    updated: 2020-04-22
+
   - name: Audimat Mono
     urls:
       - https://www.smeltery.net/en/fonts/dead
@@ -1358,6 +1366,14 @@ fonts:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
     tags:
       - novelty
+
+  - name: Gemeli Mono
+    urls:
+      - https://fonts.adobe.com/fonts/gemeli-mono
+      - { type: 'official', url: 'https://www.productiontype.com/family/gemeli_mono' }
+    foundry: Production Type
+    cost: desktop €200; desktop and web €335
+    updated: 2020-04-24
 
   - name: Generic Mono
     urls:
