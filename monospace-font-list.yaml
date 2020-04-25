@@ -1088,13 +1088,14 @@ fonts:
   - name: DSE Typewriter
     urls:
       - https://github.com/dse/dse-typewriter-font
+      - { type: "official", url: "https://webonastick.com/fonts/dse-typewriter/" }
     tags:
       - coding focused
       - classic traditional typewriter font
     license: SIL OFL 1.1
     author: "Darren Embry (the author of this list!)"
-    description: "A monospace coding font inspired by pre-war typewriters."
-    updated: 2002-02-27
+    description: "A pre-war typewriter styled font you can use for coding."
+    updated: 2002-04-25
     images:
       - images/dse-typewriter.png
 
