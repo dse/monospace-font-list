@@ -2,7 +2,7 @@
 fonts:
   - name: 1403 Vintage Mono
     urls:
-      - { type: 'official', url: 'https://1403.slantedhall.com/' }
+      - { type: 'official', url: "https://1403.slantedhall.com/" }
     tags:
       - classic line printer font
       - ibm line printer
@@ -219,7 +219,7 @@ fonts:
   - name: APL385 Unicode
     urls:
       - http://apl385.com/fonts/
-      - { type: 'old', url: 'http://www.dyalog.com/apl-font-keyboard.htm' }
+      - { type: 'old', url: "http://www.dyalog.com/apl-font-keyboard.htm" }
     notes:
       - This is Adrian Smith\'s Unicode APL font, a de facto industry standard.
       - Also available in a proportional version called APL333.
@@ -309,7 +309,7 @@ fonts:
     urls:
       - https://www.fontsquirrel.com/fonts/aurulent-sans-mono
       - https://www.dafont.com/aurulent-sans-mono.font
-    designer: Stephen G. Hartke
+    designer: Stephen G. Hartke, designer of Verily Serif Mono
     tags:
       - free?
       - coding-focused
@@ -671,7 +671,7 @@ fonts:
     urls:
       - https://www.microsoft.com/typography/fonts/family.aspx?FID=300
       - https://en.wikipedia.org/wiki/Consolas
-    designer: Luc(as) de Groot
+    designer: Luc(as) de Groot, designer of TheSansTypewriter and TheSansMono
     foundry: Microsoft
     tags:
       - paid
@@ -1001,6 +1001,20 @@ fonts:
     tags:
       - paid
       - cute
+
+  - name: DIN Monospace
+    urls:
+      - https://www.parachutefonts.com/typefaces/allfonts/din-monospace
+    foundry: Parachute Fonts
+    cost: €49.00 per weight; €395.00 complete family
+    updated: 2020-04-25
+
+  - name: DIN Mono Pro
+    urls:
+      - https://www.parachutefonts.com/typefaces/allfonts/din-mono-pro
+    foundry: Parachute Fonts
+    cost: €65.00 per weight; €585.00 complete family
+    updated: 2020-04-25
 
   - name: Dina
     urls:
@@ -1505,23 +1519,35 @@ fonts:
     urls:
       - https://ia.net/writer/blog/a-typographic-christmas
       - https://github.com/iaolo/iA-Fonts
-    tags:
-      - coding-focused
+    license: SIL OFL 1.1
+    foundry: iA
+    updated: 2020-04-25
 
   - name: IBM Courier Type 1
     urls:
       - https://gitlab.freedesktop.org/xorg/font/ibm-type1
+    license: https://gitlab.freedesktop.org/xorg/font/ibm-type1/-/blob/master/COPYING
+    updated: 2020-04-25
+    tags:
+      - implementation of Courier
 
   - name: IBM Plex Mono
     urls:
+      - { type: 'official', url: 'https://www.ibm.com/plex/' }
       - https://github.com/IBM/plex
-      - https://ibm.github.io/type/#Intro
+      - https://fonts.google.com/specimen/IBM+Plex+Mono
+    license: SIL OFL 1.1
+    updated: 2020-04-25
     tags:
-      - coding-focused
+      - coding focused
 
   - name: Inconsolata
     urls:
-      - http://levien.com/type/myfonts/inconsolata.html
+      - { type: 'official', url: 'http://levien.com/type/myfonts/inconsolata.html' }
+      - https://fonts.google.com/specimen/Inconsolata
+      - https://github.com/google/fonts/tree/master/ofl/inconsolata
+    updated: 2020-04-25
+    license: SIL OFL 1.1
     tags:
       - coding-focused
     images:
@@ -1558,8 +1584,14 @@ fonts:
   - name: Input Mono
     urls:
       - http://input.fontbureau.com/
+    designer: David Jonathan Ross
+    foundry: Font Bureau
     tags:
       - coding-focused
+    license:
+      - free of charge for private use; priced for public-facing use
+      - https://input.fontbureau.com/download/
+    updated: 2020-04-25
 
   - name: Intimo Two
     urls:
@@ -2440,13 +2472,6 @@ fonts:
     urls:
       - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
 
-  - name: Plex Mono
-    urls:
-      - https://github.com/IBM/plex
-      - https://ibm.github.io/type/#Intro
-    tags:
-      - coding-focused
-
   - name: Pointfree
     urls:
       - http://www.dafont.com/pointfree.font
@@ -2918,9 +2943,14 @@ fonts:
     tags:
       - paid
 
-  - name: TheSansTypewriter; TheSansMono; etc.
+  - name: TheSansMono
     urls:
-      - http://www.lucasfonts.com/
+      - https://www.lucasfonts.com/fonts/the-sans/mono
+    designer: Lucas de Groot, designer of Consolas
+    cost:
+      - from €45 to €60 for single weights; from €111 to €364 for complete families
+      - https://www.lucasfonts.com/fonts/packages/the-sans/mono
+    updated: 2020-04-25
 
   - name: TI92PlusPC
     urls:
@@ -2930,7 +2960,16 @@ fonts:
 
   - name: Tired of Courier
     urls:
-      - http://new.myfonts.com/fonts/ingrimayne/tiredofcourier/
+      - https://www.myfonts.com/fonts/ingrimayne/tiredofcourier/
+      - https://www.linotype.com/316996/tired-of-courier-family.html
+      - https://www.fonts.com/font/ingrimayne-type/tired-of-courier/volume
+    designer: Robert Schenk
+    foundry: Ingrimayne Type
+    updated: 2020-04-25
+    cost:
+      - $25 for 8 fonts at https://www.myfonts.com/fonts/ingrimayne/tiredofcourier/
+      - $25 for 6 fonts at https://www.fonts.com/font/ingrimayne-type/tired-of-courier/volume
+      - $25 for 6 fonts at https://www.linotype.com/316996/tired-of-courier-family.html?site=valuepacks
 
   - name: Topaz-8
     urls:
@@ -2987,11 +3026,18 @@ fonts:
     urls:
       - https://fontsarena.com/wp-content/uploads/2018/11/typewriter_condensed.zip
 
-  - name: Ubuntu Mono
+  - name: Ubuntu Monospace
     urls:
       - https://design.ubuntu.com/font/
+      - https://fonts.google.com/specimen/Ubuntu+Mono
     tags:
       - coding-focused
+    designer: Dalton Maag
+    foundry: Ubuntu
+    updated: 2020-04-25
+    license:
+      - Ubuntu Font License
+      - https://ubuntu.com/legal/font-licence
 
   - name: Unica77 Mono
     foundry: Lineto
@@ -3036,6 +3082,23 @@ fonts:
   - name: Verily Serif Mono
     urls:
       - https://www.fontsquirrel.com/fonts/verily-serif-mono
+      - https://www.dafont.com/verily-serif-mono.font
+    designer: Stephen G. Hartke, designer of Aurulent Sans Mono
+    description: |
+      Verily Serif Mono is derived from Bitstream Vera Serif with the
+      same proportions as Bitstream Vera Sans Mono. Only the primary
+      ASCII characters have been modified; I have no plans at the
+      moment to modify the extended character set or to do a bold
+      version.
+      (from the author)
+    license: |
+      Verily Serif Mono is released under the Vera license, with the
+      exception that the name does not need to be changed from
+      “Verily.” Verily is so named since I have seen many posts asking
+      whether a Bitstream Vera Serif Mono font exists; verily, it does
+      now.
+      (from the author)
+    updated: 2020-04-25
 
   - name: Victor Mono
     urls:
