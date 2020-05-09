@@ -302,8 +302,9 @@ fonts:
       - https://www.fontsquirrel.com/fonts/audimat-mono
     foundry: SMeltery
     designer: Jack Usine
-    tags:
-      - no longer available
+    notes:
+      - no longer available from the official site
+    updated: 2020-05-09
 
   - name: Aurulent Sans Mono
     urls:
@@ -311,29 +312,29 @@ fonts:
       - https://www.dafont.com/aurulent-sans-mono.font
     designer: Stephen G. Hartke, designer of Verily Serif Mono
     tags:
-      - free?
-      - coding-focused
+      - coding focused
     images:
       - images/aurulent-sans-mono.png
+    updated: 2020-05-09
 
   - name: Autocode
     urls:
       - https://www.myfonts.com/fonts/aviation/autocode/
     foundry: AVP
-    tags:
-      - paid
+    cost: $35.00
     images:
       - images/autocode-font-1.png
       - images/autocode.png
+    updated: 2020-05-09
 
   - name: Autoscape
     foundry: Lineto
     urls:
       - https://lineto.com/typefaces/autoscape
-    tags:
-      - paid
+    cost: CHF 120
     images:
       - images/autoscape.png
+    updated: 2020-05-09
 
   - name: Average Mono
     clone of: Courier
@@ -343,8 +344,11 @@ fonts:
     tags:
       - open source
       - implementation of Courier
+    description: "Average Mono is an average of thirteen different fonts which are all derivatives of the public domain “Courier” typeface."
     images:
       - images/average-mono.png
+    license: Bitstream Vera License
+    updated: 2020-05-09
 
   - name: B612 Mono
     urls:
@@ -608,6 +612,10 @@ fonts:
       - images/code-new-roman-font-1.png
       - images/code-new-roman-font-2.png
       - images/code-new-roman.png
+
+  - name: Codename Coder 4F
+    urls:
+      - https://www.myfonts.com/fonts/4thfebruary/codename-coder-4f/
 
   - name: Coding Font Tobi
     urls:
@@ -1023,6 +1031,16 @@ fonts:
     designer: Jørgen Ibsen
     tags:
       - free
+
+  - name: Disket Mono
+    urls:
+      - https://www.webdesignbites.com/2020/05/05/disket-mono-free-font/
+      - { type: 'via', url: 'https://www.reddit.com/r/fonts/comments/ge3eyh/disket_mono_free_font/' }
+    designer: Mariano Diez; Denis Ignatov
+    license: free for personal and commercial use
+    tags:
+      - display
+    updated: 2020-05-06
 
   - name: Dispatch Mono
     urls:
@@ -1868,6 +1886,10 @@ fonts:
       - coding-focused
       - fork of Bitstream Vera / Deja Vu Sans Mono
 
+  - name: Meslo LG M
+    urls:
+      - https://localfonts.eu/freefonts/programming-fonts/meslo-lg-m/
+
   - name: Metrickal
     urls:
       - https://github.com/robey/metrickal-typeface
@@ -1880,6 +1902,13 @@ fonts:
   - name: Mitigate
     urls:
       - https://www.myfonts.com/fonts/typodermic/mitigate/
+
+  - name: Modd
+    urls:
+      - { type: 'official', url: 'http://nikolas.us.to/jmkfonts/' }
+      - https://github.com/nikolas/jmk-x11-fonts
+    see also: Neep
+    updated: 2020-05-09
 
   - name: Monaco
     urls:
@@ -2038,6 +2067,17 @@ fonts:
     cost: €69.00
     updated: 2020-03-31
 
+  - name: Neep
+    urls:
+      - { type: 'official', url: 'http://nikolas.us.to/jmkfonts/' }
+      - https://github.com/nikolas/jmk-x11-fonts
+    designer: Jim Knoble
+    license: GPL2
+    tags:
+      - coding focused
+      - bitmap font
+    updated: 2020-05-09
+
   - name: URW Nimbus Mono L
     urls:
       - https://www.fontsquirrel.com/fonts/nimbus-mono
@@ -2052,6 +2092,10 @@ fonts:
       - https://www.boldmonday.com/typeface/nitti/
     tags:
       - paid
+
+  - name: NK57 Monospace
+    urls:
+      - https://localfonts.eu/freefonts/traditional-cyrillic-free-fonts/nk57-monospace/
 
   - name: Normafixed
     urls:
@@ -2651,6 +2695,10 @@ fonts:
   - name: Rubik Mono One
     urls:
       - https://fonts.google.com/specimen/Rubik+Mono+One
+
+  - name: Sabir Mono
+    urls:
+      - https://localfonts.eu/freefonts/traditional-cyrillic-free-fonts/sabir-mono/
 
   - name: Sarasa Gothic
     urls:
