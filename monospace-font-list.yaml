@@ -2,7 +2,7 @@
 fonts:
   - name: 1403 Vintage Mono
     urls:
-      - { type: 'official', url: "https://1403.slantedhall.com/" }
+      - { type: "official", url: "https://1403.slantedhall.com/" }
     tags:
       - classic line printer font
       - ibm line printer
@@ -62,7 +62,7 @@ fonts:
 
   - name: Agave
     urls:
-      - { type: 'official', name: 'https://b.agaric.net/page/agave' }
+      - { type: "official", name: 'https://b.agaric.net/page/agave' }
       - https://github.com/agarick/agave
       - https://www.myfonts.com/fonts/jonahfonts/agave/
     designer:
@@ -219,7 +219,7 @@ fonts:
   - name: APL385 Unicode
     urls:
       - http://apl385.com/fonts/
-      - { type: 'old', url: "http://www.dyalog.com/apl-font-keyboard.htm" }
+      - { type: "old", url: "http://www.dyalog.com/apl-font-keyboard.htm" }
     notes:
       - This is Adrian Smith\'s Unicode APL font, a de facto industry standard.
       - Also available in a proportional version called APL333.
@@ -344,7 +344,9 @@ fonts:
     tags:
       - open source
       - implementation of Courier
-    description: "Average Mono is an average of thirteen different fonts which are all derivatives of the public domain “Courier” typeface."
+    description: |
+      (from the author)
+      Average Mono is an average of thirteen different fonts which are all derivatives of the public domain “Courier” typeface.
     images:
       - images/average-mono.png
     license: Bitstream Vera License
@@ -353,37 +355,31 @@ fonts:
   - name: B612 Mono
     urls:
       - http://b612-font.com/
+      - https://github.com/polarsys/b612
     designer:
       - Nicolas Chauveau, Thomas Paillot, and Jonathan Favre-Lamarine
     foundry: intactile DESIGN on behalf of Airbus
-    tags:
-      - open source
+    license: Eclipse Public License v2.0, Eclipse Distribution License v1.0, and SIL Open Font License v1.1
     images:
       - images/b612-mono.png
+    updated: 2020-05-09
+    description: |
+      (from the author)
+      B612 is an highly legible open source font family designed and tested to be used on aircraft cockpit screens.
 
-  - name: Base Monospace Narrow
+  - name: Base Monospace Narrow and Wide
     urls:
       - https://www.emigre.com/Fonts/Base-Monospace
     designer: Zuzana Licko
     foundry: Emigre
-    tags:
-      - paid
+    cost: $39 for each weight; packages from $115 to $170
     images:
       - images/base-monospace-font-1.png
       - images/base-monospace-font-2.png
       - images/base-monospace-font-3.png
       - images/base-monospace-narrow.png
-
-  - name: Base Monospace Wide
-    urls:
-      - https://www.emigre.com/Fonts/Base-Monospace
-      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
-    designer: Zuzana Licko
-    foundry: Emigre
-    tags:
-      - paid
-    images:
       - images/base-monospace-wide.png
+    updated: 2020-05-09
 
   - name: Basier Mono
     urls:
@@ -401,110 +397,132 @@ fonts:
     urls:
       - https://www.colophon-foundry.org/typefaces/basis-grotesque/
     foundry: Colophon
-    tags:
-      - paid
+    cost: GBP 340 for complete mono family
     images:
       - images/basis-grotesque-mono.png
+    updated: 2020-05-09
 
   - name: Bedstead
     urls:
       - https://bjh21.me.uk/bedstead/
     designer: Ben Harris
-    tags:
-      - public domain
+    license: public domain
     images:
       - images/bedstead.png
+    updated: 2020-05-09
+    description: |
+      (from the author)
+      Bedstead is a family of outline fonts based on the characters produced by the Mullard SAA5050 series of Teletext Character Generators. The SAA5050 is familiar to those of a certain age as the chip that produced the MODE 7 display on the BBC Microcomputer. It generates characters from a 5 × 9 pixel matrix, smoothing diagonal lines to produce an interlaced 10 × 18 matrix for each character. Bedstead extends that algorithm to continuity, converting a 5 × 9 pixel grid into an outline with smooth diagonals.
 
   - name: BigBlue Terminal
     urls:
       - https://int10h.org/blog/2015/12/bigblue-terminal-oldschool-fixed-width-font/
-    tags:
-      - open source
+    license: CC Attribution-ShareAlike 4.0 license
     images:
       - images/big-blue-terminal-font-1.png
+    updated: 2020-05-09
+    description: |
+      (from the author)
+      BigBlue Terminal is a monospaced pixel font, designed for use in fixed-width textual environments (consoles/terminals, text/code/hex editors and so on).  It follows the metrics and dimensions of Windows' old Terminal font (at the 9pt/12px size), but the appearance is closer to the classic IBM PC text mode character sets.
 
   - name: Bino Mono
     urls:
       - https://www.behance.net/gallery/2120022/Bino-Typeface
     designer: Neal Fletcher
     tags:
-      - free
+      - display
     images:
       - images/bino-font-1.jpg
+    updated: 2020-05-09
+    description: |
+      (from the author)
+      Bino is a monospaced typeface consisting of uppercase, lowercase, numerals, punctuation and diacritic characters.
+      With a combination of curves and slanted cuts I wanted the typeface to be both a regimented monospaced font with that slightly decorative feel.
 
   - name: Bitstream Courier Type 1
     urls:
       - https://gitlab.freedesktop.org/xorg/font/bitstream-type1
+    license: https://gitlab.freedesktop.org/xorg/font/bitstream-type1/-/blob/master/Copyright
+    updated: 2020-05-09
 
   - name: Bitstream Pica 10 Pitch
     urls:
       - http://www.myfonts.com/fonts/bitstream/pica-10-pitch/
     foundry: Bitstream
+    cost: $29.00
     tags:
-      - paid
       - classic traditional typewriter font
     images:
       - images/bitstream-pica-10-pitch.png
+    updated: 2020-05-09
 
   - name: Bitstream Vera Sans Mono
     urls:
       - https://www.gnome.org/fonts/
       - http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/
     foundry: Bitstream
+    license: https://www.gnome.org/fonts/#Final_Bitstream_Vera_Fonts
     tags:
-      - open source
       - monospace variant of a proportional font
       - coding-focused
-    notes: |
+    description: |
       Bitstream Vera Sans Mono is the basis of numerous open source
       fonts, the first and most popular of which is Deja Vu Sans Mono.
     images:
       - images/bitstream-vera-sans-mono.png
+    updated: 2020-05-09
 
   - name: Bizcat
     urls:
       - https://robey.lag.net/2020/02/09/bizcat-bitmap-font.html
     tags:
-      - open source
       - bitmap
     designer: Robey Pointer
     images:
       - images/bizcat-bitmap-font-1.png
+    license: https://creativecommons.org/licenses/by/4.0/
+    updated: 2020-05-09
+    description: |
+      (from the author)
+      Bizcat is a retro 8x16 bitmap font, intended for hobby computers or terminals that use a 640x480 graphics mode, like the Linux VGA console. It supports most of Latin-9 and box-drawing glyphs.
 
   - name: Borg Sans Mono
-    notes: |
-      Borg Sans Mono is a fork of Droid Sans Mono, adding a slashed
-      zero and ligatures à la Hasklig.
+    description: |
+      Borg Sans Mono is a fork of Droid Sans Mono, adding a slashed zero and ligatures à la Hasklig.
     urls:
       - https://github.com/marnen/borg-sans-mono
     designer: Marnen Laibow-Koser
     tags:
-      - open source
       - fork of Droid Sans Mono
       - ligatures
       - coding-focused
+    license: Apache License 2.0 https://github.com/marnen/borg-sans-mono/blob/master/LICENSE
     images:
       - images/borg-sans-mono-font-1.png
       - images/borg-sans-mono.png
+    updated: 2020-05-09
 
   - name: BPMono
     urls:
+      - { type: "official", url: "https://backpacker.gr/fonts/5" }
       - https://www.fontsquirrel.com/fonts/BPmono
     foundry: Backpacker
     tags:
-      - free
       - coding-focused
     images:
       - images/bpmono.png
+    updated: 2020-05-09
+    description: |
+      A monospaced typeface suitable for technical texts and/or programming. BPmono and BPmono Bold are manually hinted from 9px to 16px making it appropriate for use in various advanced text and programming editors (eg. Visual Studio .net, Visual Web Developer, MS Word etc). All three fonts are available in TTF format.
 
   - name: Bradford Mono
     foundry: Lineto
     urls:
       - https://lineto.com/typefaces/bradford-mono
-    tags:
-      - paid
+    cost: CHF 190
     images:
       - images/bradford-mono.png
+    updated: 2020-05-09
 
   - name: Bront
     urls:
@@ -515,18 +533,25 @@ fonts:
     tags:
       - open source
       - coding-focused
+    license:
+      - https://github.com/chrismwendt/bront/blob/master/DejaVuSansMono-LICENSE.txt
+      - https://github.com/chrismwendt/bront/blob/master/UbuntuMono-LICENSE.txt
     images:
       - images/dejavu-sans-mono-bront.png
       - images/dejavu-sans-mono-99.png
       - images/ubuntu-mono-99.png
+    updated: 2020-05-09
 
   - name: BSU Kermit
     urls:
       - { type: "via", url: "http://www.lowing.org/fonts/" }
+    old URLs:
+      - http://nova.bsuvc.bsu.edu/prn/monofont/bsuk.html
+      - http://home.datacomm.ch/privmsg/havoc/mircscript.htm
 
   - name: Camingo Code
     urls:
-      - http://www.janfromm.de/typefaces/camingomono/camingocode/
+      - { type: "official", url: "http://www.janfromm.de/typefaces/camingomono/camingocode/" }
       - https://www.myfonts.com/fonts/jan-fromm/camingo-code/
     designer: Jan Fromm
     tags:
@@ -848,7 +873,7 @@ fonts:
 
   - name: CP1250 Terminal Fonts
     urls:
-      - { type: 'via', url: 'http://www.lowing.org/fonts/' }
+      - { type: "via", url: "http://www.lowing.org/fonts/" }
 
   - name: Creep
     urls:
@@ -867,7 +892,7 @@ fonts:
 
   - name: Crystal
     urls:
-      - { type: 'via', url: 'http://www.lowing.org/fonts/' }
+      - { type: "via", url: "http://www.lowing.org/fonts/" }
 
   - name: Cubiculum
     designer: Johan Winge
@@ -1035,7 +1060,7 @@ fonts:
   - name: Disket Mono
     urls:
       - https://www.webdesignbites.com/2020/05/05/disket-mono-free-font/
-      - { type: 'via', url: 'https://www.reddit.com/r/fonts/comments/ge3eyh/disket_mono_free_font/' }
+      - { type: "via", url: "https://www.reddit.com/r/fonts/comments/ge3eyh/disket_mono_free_font/" }
     designer: Mariano Diez; Denis Ignatov
     license: free for personal and commercial use
     tags:
@@ -1054,7 +1079,7 @@ fonts:
   - name: Doire
     urls:
       - https://www.myfonts.com/fonts/everson/doire/
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
     designer: Michael Everson
     foundry: Evertype
     tags:
@@ -1075,7 +1100,7 @@ fonts:
 
   - name: DPCustomMono2
     urls:
-      - { type: 'via', url: 'http://www.lowing.org/fonts/' }
+      - { type: "via", url: "http://www.lowing.org/fonts/" }
     tags:
     notes: |
       DPCustomMono2 is used for proofreading.
@@ -1153,11 +1178,11 @@ fonts:
 
   - name: Efont
     urls:
-      - { type: 'via', url: 'http://www.lowing.org/fonts/' }
+      - { type: "via", url: "http://www.lowing.org/fonts/" }
 
   - name: Envy Code R
     urls:
-      - { type: 'old', url: 'http://damieng.com/blog/2007/08/19/envy-code-r-preview-6-released-with-visual-studio-italics' }
+      - { type: "old", url: "http://damieng.com/blog/2007/08/19/envy-code-r-preview-6-released-with-visual-studio-italics" }
       - https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released
     designer: Damien Guard
     tags:
@@ -1184,7 +1209,7 @@ fonts:
 
   - name: Everson Mono
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
       - https://www.evertype.com/emono/
     foundry: Evertype
     tags:
@@ -1192,7 +1217,7 @@ fonts:
 
   - name: Excalibur Monospace
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
   - name: Excellent
     urls:
@@ -1255,11 +1280,11 @@ fonts:
 
   - name: Feggolite Mono
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
   - name: Felt Pen
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
   - name: FF Elementa
     urls:
@@ -1396,14 +1421,14 @@ fonts:
   - name: Galexica Mono (novelty)
     urls:
       - http://www.identifont.com/show?9A6
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
     tags:
       - novelty
 
   - name: Gemeli Mono
     urls:
       - https://fonts.adobe.com/fonts/gemeli-mono
-      - { type: 'official', url: 'https://www.productiontype.com/family/gemeli_mono' }
+      - { type: "official", url: "https://www.productiontype.com/family/gemeli_mono" }
     foundry: Production Type
     cost: desktop €200; desktop and web €335
     updated: 2020-04-24
@@ -1434,7 +1459,7 @@ fonts:
   - name: Gohu
     urls:
       - http://font.gohu.org/
-      - { type: 'ttf', url: 'https://github.com/zhenruyan/codefont/tree/master/lib/gohu/koemaeda' }
+      - { type: "ttf", url: "https://github.com/zhenruyan/codefont/tree/master/lib/gohu/koemaeda" }
     tags:
       - bitmap
 
@@ -1486,7 +1511,7 @@ fonts:
 
   - name: GwdTE 437
     urls:
-      - { type: 'via', url: 'http://www.lowing.org/fonts/' }
+      - { type: "via", url: "http://www.lowing.org/fonts/" }
 
   - name: Hack
     urls:
@@ -1552,7 +1577,7 @@ fonts:
 
   - name: IBM Plex Mono
     urls:
-      - { type: 'official', url: 'https://www.ibm.com/plex/' }
+      - { type: "official", url: "https://www.ibm.com/plex/" }
       - https://github.com/IBM/plex
       - https://fonts.google.com/specimen/IBM+Plex+Mono
     license: SIL OFL 1.1
@@ -1562,7 +1587,7 @@ fonts:
 
   - name: Inconsolata
     urls:
-      - { type: 'official', url: 'http://levien.com/type/myfonts/inconsolata.html' }
+      - { type: "official", url: "http://levien.com/type/myfonts/inconsolata.html" }
       - https://fonts.google.com/specimen/Inconsolata
       - https://github.com/google/fonts/tree/master/ofl/inconsolata
     updated: 2020-04-25
@@ -1652,11 +1677,11 @@ fonts:
 
   - name: JetJane Mono
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
   - name: jxyahei
     urls:
-      - { type: 'via', url: 'https://github.com/zhenruyan/codefont/blob/master/readme_en.md' }
+      - { type: "via", url: "https://github.com/zhenruyan/codefont/blob/master/readme_en.md" }
 
   - name: Karben 105 Mono
     designer: Talbot Type
@@ -1690,7 +1715,7 @@ fonts:
     urls:
       - http://typodermicfonts.com/larabiefont/
       - http://www.larabiefonts.com/
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
   - name: Latin Modern Mono
     urls:
@@ -1905,7 +1930,7 @@ fonts:
 
   - name: Modd
     urls:
-      - { type: 'official', url: 'http://nikolas.us.to/jmkfonts/' }
+      - { type: "official", url: "http://nikolas.us.to/jmkfonts/" }
       - https://github.com/nikolas/jmk-x11-fonts
     see also: Neep
     updated: 2020-05-09
@@ -2030,7 +2055,7 @@ fonts:
 
   - name: MS Mincho
     urls:
-      - { type: 'via', url: 'http://www.lowing.org/fonts/' }
+      - { type: "via", url: "http://www.lowing.org/fonts/" }
 
   - name: MVB Fantabular
     urls:
@@ -2042,7 +2067,7 @@ fonts:
 
   - name: Nanum Gothic Coding (Korean)
     urls:
-      - { type: 'original', url: 'http://dev.naver.com/projects/nanumfont/' }
+      - { type: "original", url: "http://dev.naver.com/projects/nanumfont/" }
       - https://www.freekoreanfont.com/nanum-gothic-coding-free-download/
     tags:
       - coding-focused
@@ -2069,7 +2094,7 @@ fonts:
 
   - name: Neep
     urls:
-      - { type: 'official', url: 'http://nikolas.us.to/jmkfonts/' }
+      - { type: "official", url: "http://nikolas.us.to/jmkfonts/" }
       - https://github.com/nikolas/jmk-x11-fonts
     designer: Jim Knoble
     license: GPL2
@@ -2099,7 +2124,7 @@ fonts:
 
   - name: Normafixed
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
   - name: NotCourierSans
     urls:
@@ -2121,13 +2146,13 @@ fonts:
 
   - name: NuSans Mono
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
   - name: OCR-A
     urls:
       - https://en.wikipedia.org/wiki/OCR-A
       - https://typekit.com/fonts/ocr-a
-      - { type: 'free version', url: 'https://osdn.net/projects/tsukurimashou/releases/56948' }
+      - { type: "free version", url: "https://osdn.net/projects/tsukurimashou/releases/56948" }
     foundry: American Type Founders
     tags:
       - classic monospace font
@@ -2142,7 +2167,7 @@ fonts:
     urls:
       - https://typekit.com/fonts/ocr-b
       - https://en.wikipedia.org/wiki/OCR-B
-      - { type: 'free version', url: 'https://osdn.net/projects/tsukurimashou/releases/56948' }
+      - { type: "free version", url: "https://osdn.net/projects/tsukurimashou/releases/56948" }
     designer: Adrian Frutiger
     tags:
       - classic monospace font
@@ -2182,7 +2207,7 @@ fonts:
 
   - name: Onuava
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
   - name: OpenDyslexic
     urls:
@@ -2449,7 +2474,7 @@ fonts:
 
   - name: Osaka Regular-Mono
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
     notes: |
         (comes with macOS)
 
@@ -2515,7 +2540,7 @@ fonts:
 
   - name: Platelet
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
   - name: Pointfree
     urls:
@@ -2632,7 +2657,7 @@ fonts:
 
   - name: QuickType Mono
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
   - name: Quinze
     see also: Fifteen
@@ -2644,7 +2669,7 @@ fonts:
   - name: Raize
     urls:
       - http://www.raize.com/devtools/tools/rzfont.asp
-      - { type: 'via', url: 'http://www.lowing.org/fonts/' }
+      - { type: "via", url: "http://www.lowing.org/fonts/" }
 
   - name: Range Mono
     urls:
@@ -2755,7 +2780,7 @@ fonts:
 
   - name: Script 12 Pitch
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
     notes: |
         (that classic cursive typewriter font)
     tags:
@@ -2798,7 +2823,7 @@ fonts:
   - name: SGI Screen
     urls:
       - https://bitbucket.org/tarkasteve/sgi-screen-ttf/src
-      - { type: 'macos conversion', url: 'https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/' }
+      - { type: "macos conversion", url: "https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/" }
 
   - name: Share Tech Mono
     urls:
@@ -2808,7 +2833,7 @@ fonts:
 
   - name: Sheldon
     urls:
-      - { type: 'via', url: 'http://www.lowing.org/fonts/' }
+      - { type: "via", url: "http://www.lowing.org/fonts/" }
 
   - name: Simple
     foundry: Lineto
@@ -2890,7 +2915,7 @@ fonts:
 
   - name: Squareshooter Mono
     urls:
-      - { type: 'via', url: 'http://www.lowing.org/fonts/' }
+      - { type: "via", url: "http://www.lowing.org/fonts/" }
 
   - name: String Literal 437
     urls:
@@ -2941,7 +2966,7 @@ fonts:
 
   - name: Teamhair
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
   - name: Telegrama
     urls:
@@ -2960,12 +2985,12 @@ fonts:
 
   - name: Terminal/VGA Font
     urls:
-      - { type: 'via', url: 'http://www.lowing.org/fonts/' }
+      - { type: "via", url: "http://www.lowing.org/fonts/" }
 
   - name: Terminus
     urls:
       - http://terminus-font.sourceforge.net/
-      - { type: 'ttf conversion', url: 'https://files.ax86.net/terminus-ttf/' }
+      - { type: "ttf conversion", url: "https://files.ax86.net/terminus-ttf/" }
     tags:
       - https://files.ax86.net/terminus-ttf
 
@@ -3022,7 +3047,7 @@ fonts:
 
   - name: Topaz-8
     urls:
-      - { type: 'via', url: 'http://www.lowing.org/fonts/' }
+      - { type: "via", url: "http://www.lowing.org/fonts/" }
 
   - name: Triplicate
     urls:
@@ -3033,7 +3058,7 @@ fonts:
 
   - name: Triskweline
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
   - name: Triumph Durabel
     notes: |
@@ -3117,7 +3142,7 @@ fonts:
 
   - name: Unotype
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
   - name: Valentine
     foundry: Lineto
@@ -3158,7 +3183,7 @@ fonts:
 
   - name: Vidilex
     urls:
-      - { type: 'via', url: 'http://www.cfcl.com/vlb/h/fontmono.html' }
+      - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
   - name: Vin Mono Pro
     urls:
