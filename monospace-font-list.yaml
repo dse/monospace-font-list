@@ -548,6 +548,7 @@ fonts:
     old URLs:
       - http://nova.bsuvc.bsu.edu/prn/monofont/bsuk.html
       - http://home.datacomm.ch/privmsg/havoc/mircscript.htm
+    updated: 2020-05-29
 
   - name: Camingo Code
     urls:
@@ -3191,7 +3192,6 @@ fonts:
     via:
       - https://fontsarena.com/blog/free-modern-typewriter-fonts/
     foundry: Mint Type
-
 
   - name: Vivala Code
     designer: Johannes Hoffmann
