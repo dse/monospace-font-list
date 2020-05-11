@@ -548,39 +548,34 @@ fonts:
     old URLs:
       - http://nova.bsuvc.bsu.edu/prn/monofont/bsuk.html
       - http://home.datacomm.ch/privmsg/havoc/mircscript.htm
-    updated: 2020-05-29
+    updated: 2020-05-09
 
   - name: Camingo Code
     urls:
       - { type: "official", url: "http://www.janfromm.de/typefaces/camingomono/camingocode/" }
       - https://www.myfonts.com/fonts/jan-fromm/camingo-code/
     designer: Jan Fromm
+    cost: $441 complete family; $45 per weight
     tags:
-      - free
       - coding-focused
     images:
       - images/camingo-code.png
+    updated: 2020-05-11
 
   - name: Cascadia Code
     urls:
       - https://github.com/microsoft/cascadia-code
     tags:
       - ligatures
-      - open source
       - coding-focused
+    license: SIL OFL 1.1
     images:
       - images/cascadia-code-font-0.png
       - images/cascadia-code-font-1.png
-
-  - name: Cella Typewriter
-    urls:
-      - https://fontsarena.com/wp-content/uploads/2018/11/cella.zip
-    via:
-      - https://fontsarena.com/blog/free-modern-typewriter-fonts/
-    designer:
-      - Volker Busse (F25 Digital Typeface Design)
-    images:
-      - images/cella.png
+    updated: 2020-05-11
+    description: |
+      (from the author)
+      This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 
   - name: Centima Mono
     urls:
@@ -1231,11 +1226,68 @@ fonts:
 
   - name: F25 Bank Printer
     urls:
-      - https://fontsarena.com/wp-content/uploads/2018/11/f25_bank_printer.zip
+      - http://www.f25.cc/index.php?F25_Fonts:Monospaced:F25_Bank_Printer
     via:
       - https://fontsarena.com/blog/free-modern-typewriter-fonts/
-    designer:
-      - Volker Busse, F25 Digital Typeface Design
+    designer: Volker Busse
+    foundry: F25 Digital Typeface Design
+    license: free for personal use
+    updated: 2020-05-11
+
+  - name: F25 Cella
+    urls:
+      - http://www.f25.cc/index.php?F25_Fonts:Monospaced:F25_Cella
+    via:
+      - https://fontsarena.com/blog/free-modern-typewriter-fonts/
+    designer: Volker Busse
+    foundry: F25 Digital Typeface Design
+    license: free for personal use
+    images:
+      - images/cella.png
+    tags:
+      - distressed
+    updated: 2020-05-11
+
+  - name: F25 Typewriter Condensed
+    urls:
+      - http://www.f25.cc/index.php?F25_Fonts:Monospaced:F25_Typewriter_Condensed
+    designer: Volker Busse
+    foundry: F25 Digital Typeface Design
+    license: free for personal use
+    updated: 2020-05-11
+
+  - name: F25 Blackletter Typewriter
+    urls:
+      - http://www.f25.cc/index.php?F25_Fonts:Monospaced:F25_Blackletter_Typewriter
+    designer: Volker Busse
+    foundry: F25 Digital Typeface Design
+    license: free for personal use
+    updated: 2020-05-11
+
+  - name: F25 Telegraphem
+    urls:
+      - http://www.f25.cc/index.php?F25_Fonts:Monospaced:F25_Telegraphem
+    designer: Volker Busse
+    foundry: F25 Digital Typeface Design
+    updated: 2020-05-11
+    license: unknown
+    availability: unknown
+
+  - name: F25 Artisan12
+    urls:
+      - http://www.f25.cc/index.php?F25_Fonts:Monospaced:F25_Artisan12
+    designer: Volker Busse
+    foundry: F25 Digital Typeface Design
+    license: free for personal use
+    updated: 2020-05-11
+
+  - name: F25 DaisyWheel
+    urls:
+      - http://www.f25.cc/index.php?F25_Fonts:Monospaced:F25_DaisyWheel
+    designer: Volker Busse
+    foundry: F25 Digital Typeface Design
+    license: free for personal use
+    updated: 2020-05-11
 
   - name: Fabrikat Mono
     urls:
