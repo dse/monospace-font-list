@@ -580,14 +580,15 @@ fonts:
   - name: Centima Mono
     urls:
       - http://www.tipografiaramis.com/centima-mono.html
+      - https://www.myfonts.com/fonts/tipografiaramis/centima-mono/
+    cost: $29 per weight: $140 for complete family
     foundry: TipografiaRamis
     designer: Ramiz Guseynov
-    tags:
-      - paid
     see also:
       - Decima Mono
     images:
       - images/centima.png
+    updated: 2020-05-11
 
   - name: Century Schoolbook Monospace
     urls:
@@ -987,14 +988,15 @@ fonts:
       - http://www.tipografiaramis.com/decima-mono.html
       - http://www.tipografiaramis.com/decima-mono-pro.html
       - http://www.tipografiaramis.com/decima-mono-round.html
+      - https://www.myfonts.com/fonts/tipografiaramis/decima-mono/
+    cost: $39 per weight; $340 for complete family
     foundry: TipografiaRamis
     designer: Ramiz Guseynov
     notes: |
         font used on fivethirtyeight.com
-    tags:
-      - paid
     see also:
       - Centima Mono
+    updated: 2020-05-11
 
   - name: Deja Vu Sans Code
     urls:
@@ -2770,6 +2772,17 @@ fonts:
     images:
       - images/roboto-mono.png
 
+  - name: romfont
+    urls:
+      - https://github.com/spacerace/romfont
+    updated: 2020-05-13
+    author: Stec Dose
+    description: |
+      (from the author)
+      I have diassembled and/or searched BIOS and VGA-ROMs for fonts and extracted these. Also I have written a few tools to support this job. All extracted fonts and screenshots are available here. I have written a big table to show what is covered. Also had a look and wrote about fonts of open source BIOSes/source available.
+    tags:
+      - bitmap fonts
+
   - name: Rubik Mono One
     urls:
       - https://fonts.google.com/specimen/Rubik+Mono+One
@@ -2952,7 +2965,8 @@ fonts:
     tags:
       - novelty
       - ugly as sin
-      - coding-focused
+      - Seriously, if you use this font I will beat you up.
+      - I would rather use ITC Souvenir Monospaced.
 
   - name: Speedy
     see also: Proggy
@@ -2965,6 +2979,8 @@ fonts:
       - https://www.cambus.net/spleen-monospaced-bitmap-fonts/
     tags:
       - bitmap
+
+  - name: Spot Mono
 
   - name: Squareshooter Mono
     urls:
@@ -3197,6 +3213,15 @@ fonts:
     urls:
       - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
+  - name: UNSCII
+    urls:
+      - { type: "official", url: "http://pelulamu.net/unscii/" }
+    designer: Viznut
+    description: "Unscii is a set of bitmapped Unicode fonts based on classic system fonts. Unscii attempts to support character cell art well while also being suitable for terminal and programming use."
+    tags:
+      - "{bitmap, dot matrix, terminal} font"
+    updated: 2020-12-03
+
   - name: Valentine
     foundry: Lineto
     urls:
@@ -3313,3 +3338,8 @@ fonts:
       - http://www.myfonts.com/fonts/btn/zolan-mono-btn/
     tags:
       - novelty
+      - display
+    designer: Stuart Sandler
+    foundry: Breaking the Norm
+    cost: $12.99 per weight; $51.96 for complete family of four weights
+    updated: 2020-05-13
