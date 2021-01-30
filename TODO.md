@@ -1,5 +1,23 @@
 # TODO
 
+-   Mono Spaital https://www.dafont.com/mono-spatial.font
+-   BPtypewrite https://backpacker.gr/fonts/10
+-   WenQuanYi Zen Hei Mono, PxPlus IBM CGA 2Y, Fixedsys Excelsior
+-   dank mono
+-   MesloLGS
+-   victor mono
+-   monospace regular
+-   dina https://www.dcmembers.com/jibsen/download/61/
+-   (lucy/)Tewi
+-   recursive https://www.recursive.design/
+-   dossier https://www.myfonts.com/fonts/tabular-type-foundry/dossier/
+-   letter gothic http://ftp.brother.co.il/p-touch/Editor50/Fonts/
+-   ??? https://www.reddit.com/r/identifythisfont/comments/g8i030/nice_monospace_font_from_brother_printer_stats/
+-   ??? https://www.reddit.com/r/identifythisfont/comments/fzvu4y/font_gods_what_could_this_glorious_monospace_font/
+-   Lotion https://font.nina.coffee/
+-   Polli Mono https://www.reddit.com/r/typography/comments/hbm95l/polli_sans_polli_mono_free_sans_serif_typeface/
+
+
 -   Look through https://github.com/Tecate/bitmap-fonts --- monospaced bitmap fonts for X11
 
 -   Look through http://charlesleifer.com/blog/monospace-font-favorites/

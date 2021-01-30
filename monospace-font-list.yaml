@@ -1607,7 +1607,14 @@ fonts:
 
   - name: Hermit
     urls:
-      - https://pcaro.es/p/hermit/
+      - { type: "official", url: "https://pcaro.es/p/hermit/" }
+      - https://github.com/pcaro90/hermit
+    description: "Hermit is a monospace font designed to be clear, pragmatic and very readable. Its creation has been focused on programming. Every glyph was carefully planned and calculated, according to defined principles and rules. For this reason, Hermit is coherent and regular."
+    updated: 2020-12-03
+    tags:
+      - coding-focused
+    license: SIL OFL 1.1
+    author: Pablo Caro
 
   - name: Hyperfont
     urls:
@@ -1733,6 +1740,13 @@ fonts:
   - name: JetJane Mono
     urls:
       - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
+
+  - name: Julia Mono
+    urls:
+      - { type: "official", url: "https://juliamono.netlify.app/" }
+    updated: 2020-12-03
+    description: "JuliaMono is a monospaced typeface designed for programming in the Julia Programming Language and in other text editing environments that require a wide range of specialist and technical Unicode characters. It was intended as an experiment to be presented at the 2020 JuliaCon conference in Lisbon, Portugal (which of course was held online instead)."
+    author: cormullion
 
   - name: jxyahei
     urls:
@@ -2709,6 +2723,10 @@ fonts:
   - name: The Ultimate Oldschool PC Font Pack (PX Plus family)
     urls:
       - http://int10h.org/oldschool-pc-fonts/
+    description: "The world's biggest collection of classic text mode fonts, system fonts and BIOS fonts from DOS-era IBM PCs and compatibles - preserving raster typography from pre-GUI times"
+    updated: 2020-12-03
+    license: CC BY-SA 4.0
+    author: VileR
 
   - name: QuickType Mono
     urls:
@@ -2795,7 +2813,7 @@ fonts:
     urls:
       - https://github.com/be5invis/Sarasa-Gothic
     notes: |
-      based on Iosevka and Source Han Sans
+      CJK programming font based on Iosevka and Source Han Sans
 
   - name: SaxMono (\"Tile\")
     urls:
