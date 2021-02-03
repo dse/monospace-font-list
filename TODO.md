@@ -1,5 +1,7 @@
 # TODO
 
+-   https://fontshub.pro/category/monospaced-fonts
+
 -   Mono Spaital https://www.dafont.com/mono-spatial.font
 -   BPtypewrite https://backpacker.gr/fonts/10
 -   WenQuanYi Zen Hei Mono, PxPlus IBM CGA 2Y, Fixedsys Excelsior
