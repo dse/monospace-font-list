@@ -663,6 +663,12 @@ fonts:
       - http://home.datacomm.ch/privmsg/havoc/mircscript.htm
     updated: 2020-05-09
 
+  - name: Calling Code
+    urls:
+      - https://catalog.monotype.com/family/dharma-type/calling-code
+    foundry: Dharma Type
+    updated: 2021-03-21
+
   - name: Camingo Code
     urls:
       - { type: "official", url: "http://www.janfromm.de/typefaces/camingomono/camingocode/" }
@@ -708,10 +714,13 @@ fonts:
     urls:
       - https://github.com/zhenruyan/codefont/tree/master/lib/centschbook-mono
       - { url: "http://www.lowing.org/fonts/", type: "via" }
+      - https://catalog.monotype.com/font/bitstream/century-schoolbook/monospaced
     tags:
       - monospace variant of a proportional font
     images:
       - images/century-schoolbook-mono.png
+
+  - name:
 
   - name: Circular Mono
     foundry: Lineto
@@ -2036,8 +2045,23 @@ fonts:
   - name: Linefeed
     urls:
       - http://www.myfonts.com/fonts/typodermic/linefeed/
+      - https://typodermicfonts.com/linefeed/
     tags:
       - paid
+      - chainprinter
+    description: |
+      Linefeed is a monospaced font inspired by computer band printers
+      of the 1960s and 1970s. A row of hammers, one for each column
+      hit the paper, pushing it into the ribbon and against the
+      character image on a continuously revolving steel
+      band. Extraneous characters would have slowed down a band
+      printer so most were limited to capitals, numerals and a little
+      punctuation. This was one of the most common computer fonts of
+      the 1960s and 1970s. It could be seen on driver’s licences,
+      magazine subscription labels, report cards, invoices and car
+      dealership window stickers. This once ubiquitous typeface now
+      includes lowercase letters, more punctuation and accents.
+    updated: 2021-03-21
 
   - name: Linux Console Fonts for Windows
     urls:
