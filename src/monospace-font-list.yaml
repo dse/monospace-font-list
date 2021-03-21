@@ -515,6 +515,21 @@ fonts:
     description: |
       A monospaced typeface suitable for technical texts and/or programming. BPmono and BPmono Bold are manually hinted from 9px to 16px making it appropriate for use in various advanced text and programming editors (eg. Visual Studio .net, Visual Web Developer, MS Word etc). All three fonts are available in TTF format.
 
+  - name: BPtypewrite
+    urls:
+      { type: "official", url: "https://backpacker.gr/fonts/10" }
+    foundry: Backpacker
+    updated: 2021-03-20
+    description: |
+      Didn't you just love BPmono italics? Well, it has undergone
+      through a transformation process and has eventually been
+      reformed into an actual typewriter font. BPtypewrite is in fact
+      BPmono italics standing up, with new soft edges, and a whole
+      system of supporting fonts including underscored, strikethrough
+      and slashed. The italics version remains in all variations,
+      while a rough alternate complements the whole set
+      (BPtypewriteDamaged).
+
   - name: Bradford Mono
     foundry: Lineto
     urls:
@@ -1629,13 +1644,21 @@ fonts:
     foundry: iA
     updated: 2020-04-25
 
-  - name: IBM Courier Type 1
+  - name: IBM Courier
     urls:
-      - https://gitlab.freedesktop.org/xorg/font/ibm-type1
-    license: https://gitlab.freedesktop.org/xorg/font/ibm-type1/-/blob/master/COPYING
-    updated: 2020-04-25
+      - https://github.com/dse/ibm-courier
+      - { type: "old", url: "https://gitlab.freedesktop.org/xorg/font/ibm-type1" }
+    license: https://github.com/dse/ibm-courier/blob/master/COPYRIGHT
+    updated: 2021-03-20
     tags:
       - implementation of Courier
+    description: |
+      IBM's digital implementation of Courier, originally made
+      available as a PostScript Type 1 font under a permissive license
+      with MIT and the X Consortium.
+
+      Conversions to TrueType, OpenType, SVG, WOFF, and WOFF2 are
+      provided.
 
   - name: IBM Plex Mono
     urls:
