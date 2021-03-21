@@ -2672,6 +2672,25 @@ fonts:
     tags:
       - if you like Comic Sans
 
+  - name: Polli Sans Mono
+    urls:
+      - https://www.myfonts.com/fonts/will-albin-clark/polli-sans/
+      - { type: "via", url: "https://www.reddit.com/r/typography/comments/hbm95l/polli_sans_polli_mono_free_sans_serif_typeface/" }
+    description: |
+      Polli Sans is a sans serif geometric font, designed with both proportional and fixed-width styles in mind.
+
+      Polli is great for large scale display purposes and small scale
+      copy. The proportional’s curvy form makes it super useful for
+      title type, and the detailed technical fixed-width sub-family is
+      perfect for any informative body of text.
+
+      Polli is designed as an homage to common type practices of the
+      early 21st centric corporate America. Borrowing from friendly
+      styles you’ve seen before but with contemporary challenging
+      elements.
+    designer: Will Albin-Clark
+    updated: 2021-03-21
+
   - name: Powerline Fonts
     urls:
       - https://github.com/powerline/fonts
