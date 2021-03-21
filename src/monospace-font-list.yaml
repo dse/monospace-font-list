@@ -615,7 +615,7 @@ fonts:
 
   - name: BPtypewrite
     urls:
-      { type: "official", url: "https://backpacker.gr/fonts/10" }
+      - { type: "official", url: "https://backpacker.gr/fonts/10" }
     foundry: Backpacker
     updated: 2021-03-20
     description: |
