@@ -19,7 +19,8 @@
 -   Lotion https://font.nina.coffee/
 -   Polli Mono https://www.reddit.com/r/typography/comments/hbm95l/polli_sans_polli_mono_free_sans_serif_typeface/
 -   GT Alpina Typewriter
-
+-   Plotter Mono
+-   Kettler (named after Howard Kettler, the designer of Courier)
 
 -   Look through https://github.com/Tecate/bitmap-fonts --- monospaced bitmap fonts for X11
 
