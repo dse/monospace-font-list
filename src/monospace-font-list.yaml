@@ -2649,6 +2649,23 @@ fonts:
     urls:
       - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
 
+  - name: Plotter Mono
+    urls:
+      - https://www.typotheque.com/fonts/plotter_mono
+    description: |
+      Plotter is a massive type family that explores the world of
+      technical drawings and architectural plans. Each subfamily
+      reflects the characteristics of the various tools that inspired
+      the project, tools from an age when technical diagrams were
+      drawn and lettered by hand, and draftsmen needed a simple,
+      efficient way to produce legible text that met established
+      norms. Plotter has the simplified monolinear strokes with round
+      terminals produced by technical pens, its letters reduced to
+      their most basic stencilform elements: stems, arms, curves and
+      diagonals.
+    cost: €64/font; €152/family
+    updated: 2021-03-21
+
   - name: Pointfree
     urls:
       - http://www.dafont.com/pointfree.font
