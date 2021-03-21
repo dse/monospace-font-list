@@ -13,7 +13,9 @@ fonts:
     images:
       - images/1403-vintage-mono.png
     updated: 2020-02-19
-    description: "A practical monospaced typeface, inspired by the IBM 1403 mainframe line printer from the 1960s."
+    description: |
+      A practical monospaced typeface, inspired by the IBM 1403
+      mainframe line printer from the 1960s.
 
   - name: 3270
     urls:
@@ -30,7 +32,11 @@ fonts:
     updated: 2020-02-19
     images:
       - images/3270.png
-    description: "This font is derived from the x3270 font, which, in turn, was translated from the one in Georgia Tech's 3270tool, which was itself hand-copied from a 3270 series terminal. I built it because I felt terminals deserve to be pretty."
+    description: |
+      This font is derived from the x3270 font, which, in turn, was
+      translated from the one in Georgia Tech's 3270tool, which was
+      itself hand-copied from a 3270 series terminal. I built it
+      because I felt terminals deserve to be pretty.
 
   - name: 64-SRC
     urls:
@@ -44,7 +50,14 @@ fonts:
       - selectric
       - classic typewriter font
     similar to: orator
-    description: "64-SRC is a condensed monospace font inspired by 1960s IBM Selectric type seen on HAL’s telemetric displays in 2001: A Space Odyssey. It is characterized by unique \"double-space\" alternates for the widest characters such as “w” and “m”. These alternates maximize legibility, improve the rhythm of readability and keep typographic color even. As a result 64-SRC is as well suited for extensive copy as it is display type."
+    description: |
+      64-SRC is a condensed monospace font inspired by 1960s IBM
+      Selectric type seen on HAL’s telemetric displays in 2001: A
+      Space Odyssey. It is characterized by unique \double-space\"
+      alternates for the widest characters such as “w” and “m”. These
+      alternates maximize legibility, improve the rhythm of
+      readability and keep typographic color even. As a result 64-SRC
+      is as well suited for extensive copy as it is display type.
     updated: 2020-02-19
     cost: $49 for individual weights; $169 for all six.
     images:
@@ -72,7 +85,12 @@ fonts:
       - coding-focused
     license: MIT
     updated: 2020-02-19
-    description: "Agave was an attempt at making a small, monospace, outline font that would be geometrically regular and simple. The endeavor was motivated by a deep adoration of old-school console bitmap fonts, of Consolas, of Pragmata Pro, as well as a novice curiosity for typographical design."
+    description: |
+      Agave was an attempt at making a small, monospace, outline font
+      that would be geometrically regular and simple. The endeavor was
+      motivated by a deep adoration of old-school console bitmap
+      fonts, of Consolas, of Pragmata Pro, as well as a novice
+      curiosity for typographical design.
     images:
       - images/agave.png
 
@@ -88,7 +106,8 @@ fonts:
       url: https://hanken.co/
     cost: $45
     updated: 2020-02-19
-    description: "Ahamono™ is a rounded monospaced typeface"
+    description: |
+      Ahamono™ is a rounded monospaced typeface
     images:
       - images/ahamono.jpeg
 
@@ -98,7 +117,16 @@ fonts:
       - https://lineto.com/typefaces/akkurat-mono/
     cost: CHF 190 for individual weights; CHF 570 for all four.
     updated: 2020-02-19
-    description: "Fifteen years after its first release, Laurenz Brunner’s now famous LL Akkurat (2004) appears almost humble. With its static construction, it has proven that combining the qualities of classic sans-serif craft with a new contemporaneity can be a sustainable endeavour. Never attempting to be trendy, elegant or fashionable, LL Akkurat aspired to embody qualities such as technical precision, down-to-earth robustness, reliability and neutrality, reflecting certain values generally associated with Switzerland."
+    description: |
+      Fifteen years after its first release, Laurenz Brunner’s now
+      famous LL Akkurat (2004) appears almost humble. With its static
+      construction, it has proven that combining the qualities of
+      classic sans-serif craft with a new contemporaneity can be a
+      sustainable endeavour. Never attempting to be trendy, elegant or
+      fashionable, LL Akkurat aspired to embody qualities such as
+      technical precision, down-to-earth robustness, reliability and
+      neutrality, reflecting certain values generally associated with
+      Switzerland.
     images:
       - images/akkurat-mono.png
 
@@ -110,13 +138,21 @@ fonts:
     foundry: Alif Type
     license: SIL OFL 1.1
     updated: 2020-02-19
-    description: "Amiri Typewriter is a typewriter companion to Amiri font family.  The design is inspired inspired by old Arabic typewriters, and features a very simplified Arabic design with most letters using the one shape for both isolated and final forms, and one shape for initial and medial forms (with few exceptions)."
+    description: |
+      Amiri Typewriter is a typewriter companion to Amiri font family.
+      The design is inspired inspired by old Arabic typewriters, and
+      features a very simplified Arabic design with most letters using
+      the one shape for both isolated and final forms, and one shape
+      for initial and medial forms (with few exceptions).
     images:
       - images/amiri-typewriter.png
 
   - name: Andalé Mono
     also known as: Andale Mono
-    description: "Andale Mono is a highly legible monospaced font designed with the needs of terminal emulation and software development environments."
+    description: |
+      Andale Mono is a highly legible monospaced font designed with
+      the needs of terminal emulation and software development
+      environments.
     urls:
       - { type: "official", url: "https://docs.microsoft.com/en-us/typography/font-list/andale-mono" }
       - https://en.wikipedia.org/wiki/Andal%C3%A9_Mono
@@ -130,13 +166,20 @@ fonts:
       - Also sold by Monotype.
     designer: Steve Matteson
     foundry: Monotype
-    license: https://www.fonts.com/content/microsoft-typography; bundled with Windows; Individual Styles from $89.00; Complete family of 4 fonts: $348.88
+    license:
+      - https://www.fonts.com/content/microsoft-typography
+      - bundled with Windows
+    cost:
+      - Individual Styles from $89.00
+      - Complete family of 4 fonts is $348.88
     updated: 2020-02-19
     images:
       - images/andale-mono.png
 
   - name: Angelus III
-    description: "Angelus is a rather different monospaced font. Unlike an earlier version this one has full upper and lowercase characters."
+    description: |
+      Angelus is a rather different monospaced font. Unlike an earlier
+      version this one has full upper and lowercase characters.
     urls:
       - https://www.myfonts.com/fonts/scriptorium/angelus-iii/
     listed in:
@@ -151,7 +194,11 @@ fonts:
       - images/angelus-iii.png
 
   - name: Anka/Coder
-    description: "The Anka/Coder family is a monospaced, courier-width (60% of height; em size 2048x1229) font that contains characters from 437, 866, 1251, 1252 and some other code pages and can be used for source code, terminal windows etc."
+    description: |
+      The Anka/Coder family is a monospaced, courier-width (60% of
+      height; em size 2048x1229) font that contains characters from
+      437, 866, 1251, 1252 and some other code pages and can be used
+      for source code, terminal windows etc.
     urls:
       - https://github.com/fitojb/anka-coder-fonts
       - https://fontlibrary.org/en/font/anka-coder
@@ -164,7 +211,9 @@ fonts:
       - images/anka-coder.png
 
   - name: Anonymous Pro
-    description: "Anonymous Pro (2009) is a family of four fixed-width fonts designed with coding in mind."
+    description: |
+      Anonymous Pro (2009) is a family of four fixed-width fonts
+      designed with coding in mind.
     urls:
       - { type: "official", url: "https://www.marksimonson.com/fonts/view/anonymous-pro" }
       - http://www.fontsquirrel.com/fonts/Anonymous-Pro
@@ -182,7 +231,9 @@ fonts:
       - images/anonymous-pro.png
 
   - name: "Another Man's Treasure"
-    description: "The world's most complete TRS-80 text font set, in TrueType format."
+    description: |
+      The world's most complete TRS-80 text font set, in TrueType
+      format.
     designer: Rebecca Bettencourt
     urls:
       - http://www.kreativekorp.com/software/fonts/trs80.shtml
@@ -202,7 +253,14 @@ fonts:
     foundry: Colophon
     cost: mono family for £170.00
     updated: 2020-02-19
-    description: "Aperçu was started in December 2009, and was trialled & tested throughout a number of design commissions into 2010. The conceit behind Aperçu was to create a synopsis or amalgamation of classic realist typefaces: Johnston, Gill Sans, Neuzeit & Franklin Gothic. Becoming, a sum of parts, building upon its initial reference points to create an extensive and usable family."
+    description: |
+      Aperçu was started in December 2009, and was trialled & tested
+      throughout a number of design commissions into 2010. The conceit
+      behind Aperçu was to create a synopsis or amalgamation of
+      classic realist typefaces: Johnston, Gill Sans, Neuzeit &
+      Franklin Gothic. Becoming, a sum of parts, building upon its
+      initial reference points to create an extensive and usable
+      family.
     images:
       - images/apercu-mono.png
 
@@ -212,7 +270,12 @@ fonts:
     designer: Adrian Smith
     license: public domain
     updated: 2020-02-19
-    description: "Historic interest only. This was hand digitised as a PostScript Type-3 font from an original 2741 golf-ball salvaged from an IBM selectric typewriter. Looks good on paper, but poor on screen as it is lightweight and italic. The hinting is rudimentary and even with ClearType it is hard to read!"
+    description: |
+      Historic interest only. This was hand digitised as a PostScript
+      Type-3 font from an original 2741 golf-ball salvaged from an IBM
+      selectric typewriter. Looks good on paper, but poor on screen as
+      it is lightweight and italic. The hinting is rudimentary and
+      even with ClearType it is hard to read!
     images:
       - images/apl2741.png
 
@@ -229,7 +292,10 @@ fonts:
       - quirky
     license: public domain
     updated: 2020-02-19
-    description: "Developed with all APL software vendors in the late 1980s and enhanced as required with new characters to meet interpreter updates."
+    description: |
+      Developed with all APL software vendors in the late 1980s and
+      enhanced as required with new characters to meet interpreter
+      updates.
     images:
       - images/apl385.png
 
@@ -273,7 +339,12 @@ fonts:
     designer: Steve Matteson
     cost: Individual Styles from $89.00; Complete family of 4 fonts: $356.00 $348.88
     updated: 2020-02-19
-    description: "The Ascender Sans Mono font family was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New.  Ascender Sans Mono offers improved on-screen readability characteristics and the pan-European WGL character set."
+    description: |
+      The Ascender Sans Mono font family was designed by Steve
+      Matteson as an innovative, refreshing sans serif design that is
+      metrically compatible with Courier New.  Ascender Sans Mono
+      offers improved on-screen readability characteristics and the
+      pan-European WGL character set.
     images:
       - images/ascender-sans-mono.png
 
@@ -293,7 +364,13 @@ fonts:
       - { type: "official", url: "https://commercialtype.com/catalog/atlas/atlas_typewriter" }
     foundry: Commercial Type
     cost: $325 desktop; $325 web; $487.50 app
-    description: "Atlas Typewriter is a distinctive monospaced sans, well suited for a wide range of uses, from art catalogues to personal correspondence, through to data visualization. Rather than hewing closely to the model of existing monospaced typefaces, Atlas Typewriter aims for an even, readable texture with the same clean and effortless tone as the Grotesk."
+    description: |
+      Atlas Typewriter is a distinctive monospaced sans, well suited
+      for a wide range of uses, from art catalogues to personal
+      correspondence, through to data visualization. Rather than
+      hewing closely to the model of existing monospaced typefaces,
+      Atlas Typewriter aims for an even, readable texture with the
+      same clean and effortless tone as the Grotesk.
     updated: 2020-04-22
 
   - name: Audimat Mono
@@ -345,8 +422,8 @@ fonts:
       - open source
       - implementation of Courier
     description: |
-      (from the author)
-      Average Mono is an average of thirteen different fonts which are all derivatives of the public domain “Courier” typeface.
+      Average Mono is an average of thirteen different fonts which are
+      all derivatives of the public domain “Courier” typeface.
     images:
       - images/average-mono.png
     license: Bitstream Vera License
@@ -364,8 +441,8 @@ fonts:
       - images/b612-mono.png
     updated: 2020-05-09
     description: |
-      (from the author)
-      B612 is an highly legible open source font family designed and tested to be used on aircraft cockpit screens.
+      B612 is an highly legible open source font family designed and
+      tested to be used on aircraft cockpit screens.
 
   - name: Base Monospace Narrow and Wide
     urls:
@@ -411,8 +488,15 @@ fonts:
       - images/bedstead.png
     updated: 2020-05-09
     description: |
-      (from the author)
-      Bedstead is a family of outline fonts based on the characters produced by the Mullard SAA5050 series of Teletext Character Generators. The SAA5050 is familiar to those of a certain age as the chip that produced the MODE 7 display on the BBC Microcomputer. It generates characters from a 5 × 9 pixel matrix, smoothing diagonal lines to produce an interlaced 10 × 18 matrix for each character. Bedstead extends that algorithm to continuity, converting a 5 × 9 pixel grid into an outline with smooth diagonals.
+      Bedstead is a family of outline fonts based on the characters
+      produced by the Mullard SAA5050 series of Teletext Character
+      Generators. The SAA5050 is familiar to those of a certain age as
+      the chip that produced the MODE 7 display on the BBC
+      Microcomputer. It generates characters from a 5 × 9 pixel
+      matrix, smoothing diagonal lines to produce an interlaced 10 ×
+      18 matrix for each character. Bedstead extends that algorithm to
+      continuity, converting a 5 × 9 pixel grid into an outline with
+      smooth diagonals.
 
   - name: BigBlue Terminal
     urls:
@@ -422,8 +506,12 @@ fonts:
       - images/big-blue-terminal-font-1.png
     updated: 2020-05-09
     description: |
-      (from the author)
-      BigBlue Terminal is a monospaced pixel font, designed for use in fixed-width textual environments (consoles/terminals, text/code/hex editors and so on).  It follows the metrics and dimensions of Windows' old Terminal font (at the 9pt/12px size), but the appearance is closer to the classic IBM PC text mode character sets.
+      BigBlue Terminal is a monospaced pixel font, designed for use in
+      fixed-width textual environments (consoles/terminals,
+      text/code/hex editors and so on).  It follows the metrics and
+      dimensions of Windows' old Terminal font (at the 9pt/12px size),
+      but the appearance is closer to the classic IBM PC text mode
+      character sets.
 
   - name: Bino Mono
     urls:
@@ -435,9 +523,11 @@ fonts:
       - images/bino-font-1.jpg
     updated: 2020-05-09
     description: |
-      (from the author)
-      Bino is a monospaced typeface consisting of uppercase, lowercase, numerals, punctuation and diacritic characters.
-      With a combination of curves and slanted cuts I wanted the typeface to be both a regimented monospaced font with that slightly decorative feel.
+      Bino is a monospaced typeface consisting of uppercase,
+      lowercase, numerals, punctuation and diacritic characters.  With
+      a combination of curves and slanted cuts I wanted the typeface
+      to be both a regimented monospaced font with that slightly
+      decorative feel.
 
   - name: Bitstream Courier Type 1
     urls:
@@ -483,12 +573,14 @@ fonts:
     license: https://creativecommons.org/licenses/by/4.0/
     updated: 2020-05-09
     description: |
-      (from the author)
-      Bizcat is a retro 8x16 bitmap font, intended for hobby computers or terminals that use a 640x480 graphics mode, like the Linux VGA console. It supports most of Latin-9 and box-drawing glyphs.
+      Bizcat is a retro 8x16 bitmap font, intended for hobby computers
+      or terminals that use a 640x480 graphics mode, like the Linux
+      VGA console. It supports most of Latin-9 and box-drawing glyphs.
 
   - name: Borg Sans Mono
     description: |
-      Borg Sans Mono is a fork of Droid Sans Mono, adding a slashed zero and ligatures à la Hasklig.
+      Borg Sans Mono is a fork of Droid Sans Mono, adding a slashed
+      zero and ligatures à la Hasklig.
     urls:
       - https://github.com/marnen/borg-sans-mono
     designer: Marnen Laibow-Koser
@@ -513,7 +605,12 @@ fonts:
       - images/bpmono.png
     updated: 2020-05-09
     description: |
-      A monospaced typeface suitable for technical texts and/or programming. BPmono and BPmono Bold are manually hinted from 9px to 16px making it appropriate for use in various advanced text and programming editors (eg. Visual Studio .net, Visual Web Developer, MS Word etc). All three fonts are available in TTF format.
+      A monospaced typeface suitable for technical texts and/or
+      programming. BPmono and BPmono Bold are manually hinted from 9px
+      to 16px making it appropriate for use in various advanced text
+      and programming editors (eg. Visual Studio .net, Visual Web
+      Developer, MS Word etc). All three fonts are available in TTF
+      format.
 
   - name: BPtypewrite
     urls:
@@ -589,8 +686,9 @@ fonts:
       - images/cascadia-code-font-1.png
     updated: 2020-05-11
     description: |
-      (from the author)
-      This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+      This is a fun, new monospaced font that includes programming
+      ligatures and is designed to enhance the modern look and feel of
+      the Windows Terminal.
 
   - name: Centima Mono
     urls:
@@ -1150,7 +1248,8 @@ fonts:
       - classic traditional typewriter font
     license: SIL OFL 1.1
     author: "Darren Embry (the author of this list!)"
-    description: "A pre-war typewriter styled font you can use for coding."
+    description: |
+      A pre-war typewriter styled font you can use for coding.
     updated: 2002-04-25
     images:
       - images/dse-typewriter.png
@@ -1567,7 +1666,12 @@ fonts:
     cost: https://www.grillitype.com/shops/gt-alpina
     updated: 2020-03-15
     description: |
-      GT Alpina proudly calls itself a workhorse serif, but delights in playing with the very meaning of that concept. It reaches into the grab bag of typographic history to resurrect shapes some may falsely see as too expressive, resulting in a meticulous family melding these distinct shapes with a pragmatic execution.
+      GT Alpina proudly calls itself a workhorse serif, but delights
+      in playing with the very meaning of that concept. It reaches
+      into the grab bag of typographic history to resurrect shapes
+      some may falsely see as too expressive, resulting in a
+      meticulous family melding these distinct shapes with a pragmatic
+      execution.
     designer: Reto Moser
 
   - name: GT America Mono
@@ -1627,7 +1731,12 @@ fonts:
     urls:
       - { type: "official", url: "https://pcaro.es/p/hermit/" }
       - https://github.com/pcaro90/hermit
-    description: "Hermit is a monospace font designed to be clear, pragmatic and very readable. Its creation has been focused on programming. Every glyph was carefully planned and calculated, according to defined principles and rules. For this reason, Hermit is coherent and regular."
+    description: |
+      Hermit is a monospace font designed to be clear, pragmatic and
+      very readable. Its creation has been focused on
+      programming. Every glyph was carefully planned and calculated,
+      according to defined principles and rules. For this reason,
+      Hermit is coherent and regular.
     updated: 2020-12-03
     tags:
       - coding-focused
@@ -1771,7 +1880,13 @@ fonts:
     urls:
       - { type: "official", url: "https://juliamono.netlify.app/" }
     updated: 2020-12-03
-    description: "JuliaMono is a monospaced typeface designed for programming in the Julia Programming Language and in other text editing environments that require a wide range of specialist and technical Unicode characters. It was intended as an experiment to be presented at the 2020 JuliaCon conference in Lisbon, Portugal (which of course was held online instead)."
+    description: |
+      JuliaMono is a monospaced typeface designed for programming in
+      the Julia Programming Language and in other text editing
+      environments that require a wide range of specialist and
+      technical Unicode characters. It was intended as an experiment
+      to be presented at the 2020 JuliaCon conference in Lisbon,
+      Portugal (which of course was held online instead).
     author: cormullion
 
   - name: jxyahei
@@ -1840,7 +1955,9 @@ fonts:
       - https://github.com/kori/lavender-font
     designer: Luiz de Milon
     license: SIL OFL 1.1
-    description: "This is a console font that is heavily inspired by Sun Gallant Demi and the XNU console font."
+    description: |
+      This is a console font that is heavily inspired by Sun Gallant
+      Demi and the XNU console font.
     tags:
       - coding focused
       - bitmap font
@@ -2685,7 +2802,8 @@ fonts:
       - https://www.myfonts.com/fonts/will-albin-clark/polli-sans/
       - { type: "via", url: "https://www.reddit.com/r/typography/comments/hbm95l/polli_sans_polli_mono_free_sans_serif_typeface/" }
     description: |
-      Polli Sans is a sans serif geometric font, designed with both proportional and fixed-width styles in mind.
+      Polli Sans is a sans serif geometric font, designed with both
+      proportional and fixed-width styles in mind.
 
       Polli is great for large scale display purposes and small scale
       copy. The proportional’s curvy form makes it super useful for
@@ -2805,7 +2923,10 @@ fonts:
   - name: The Ultimate Oldschool PC Font Pack (PX Plus family)
     urls:
       - http://int10h.org/oldschool-pc-fonts/
-    description: "The world's biggest collection of classic text mode fonts, system fonts and BIOS fonts from DOS-era IBM PCs and compatibles - preserving raster typography from pre-GUI times"
+    description: |
+      The world's biggest collection of classic text mode fonts,
+      system fonts and BIOS fonts from DOS-era IBM PCs and compatibles
+      - preserving raster typography from pre-GUI times
     updated: 2020-12-03
     license: CC BY-SA 4.0
     author: VileR
@@ -2881,8 +3002,12 @@ fonts:
     updated: 2020-05-13
     author: Stec Dose
     description: |
-      (from the author)
-      I have diassembled and/or searched BIOS and VGA-ROMs for fonts and extracted these. Also I have written a few tools to support this job. All extracted fonts and screenshots are available here. I have written a big table to show what is covered. Also had a look and wrote about fonts of open source BIOSes/source available.
+      I have diassembled and/or searched BIOS and VGA-ROMs for fonts
+      and extracted these. Also I have written a few tools to support
+      this job. All extracted fonts and screenshots are available
+      here. I have written a big table to show what is covered. Also
+      had a look and wrote about fonts of open source BIOSes/source
+      available.
     tags:
       - bitmap fonts
 
@@ -2928,12 +3053,19 @@ fonts:
       - paid
       - classic traditional typewriter font
     notes: |
-      Vintage Type Foundary was Mark Alan Thomas, an artist from Santa Barbara, CA.
+      Vintage Type Foundary was Mark Alan Thomas, an artist from Santa
+      Barbara, CA.
 
-      Its web site was http://www.vintagetype.com/ but that\'s domain parked now.
-      Mark\'s web site was http://www.markalanthomas.com/ but that\'s domain parked too.
+      Its web site was http://www.vintagetype.com/ but that\'s domain
+      parked now.
+
+      Mark\'s web site was http://www.markalanthomas.com/ but that\'s
+      domain parked too.
+
       His Flickr is at https://www.flickr.com/people/markalanthomas/
+
       He had a squarespace at http://maralatho.squarespace.com/
+
       Email address was/is vintype@gmail.com vintagetype@mac.com
 
       List of Fonts:
@@ -3320,7 +3452,10 @@ fonts:
     urls:
       - { type: "official", url: "http://pelulamu.net/unscii/" }
     designer: Viznut
-    description: "Unscii is a set of bitmapped Unicode fonts based on classic system fonts. Unscii attempts to support character cell art well while also being suitable for terminal and programming use."
+    description: |
+      Unscii is a set of bitmapped Unicode fonts based on classic
+      system fonts. Unscii attempts to support character cell art well
+      while also being suitable for terminal and programming use.
     tags:
       - "{bitmap, dot matrix, terminal} font"
     updated: 2020-12-03
@@ -3431,7 +3566,8 @@ fonts:
       - https://github.com/vladkorotnev/xnufont
     designer: Akasaka Ryuunosuke
     license: Apple Public Source License
-    description: "The console font from XNU/Darwin (Apple) kernel for Linux console."
+    description: |
+      The console font from XNU/Darwin (Apple) kernel for Linux console.
     tags:
       - bitmap font
     updated: 2020-02-29
