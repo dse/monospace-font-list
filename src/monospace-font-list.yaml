@@ -506,12 +506,13 @@ fonts:
       - images/big-blue-terminal-font-1.png
     updated: 2020-05-09
     description: |
-      BigBlue Terminal is a monospaced pixel font, designed for use in
-      fixed-width textual environments (consoles/terminals,
+      BigBlue Terminal is a monospaced pixel font, designed for use
+      in fixed-width textual environments (consoles/terminals,
       text/code/hex editors and so on).  It follows the metrics and
       dimensions of Windows' old Terminal font (at the 9pt/12px size),
       but the appearance is closer to the classic IBM PC text mode
       character sets.
+    author: VileR
 
   - name: Bino Mono
     urls:
@@ -1262,6 +1263,18 @@ fonts:
       - paid
       - novelty
 
+  - name: Eco Coding
+    urls:
+      - https://www.myfonts.com/fonts/s-core/eco-coding/
+    description: |
+      Eco Coding is a sans-serif monospaced font, especially designed
+      for programmers. This font is optimized for programming (coding)
+      environment. Eco Coding's neutral and open shapes will make your
+      eyes comfortable to read any source codes and text on
+      screen. The appearance of Eco Coding is neutral, but it has
+      distinctive shapes enhance legibility and readability on screen.
+    updated: 2021-03-21
+
   - name: Edlo
     urls:
       - https://github.com/ehamiter/Edlo
@@ -1300,6 +1313,10 @@ fonts:
     tags:
       - free to use only
       - coding-focused
+
+  - name: EnvyPN
+    urls:
+      - https://github.com/Tecate/bitmap-fonts/tree/master/bitmap/envypn-font
 
   - name: Erica Type
     urls:
@@ -1578,6 +1595,7 @@ fonts:
   - name: Flexi IBM VGA
     urls:
       - https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/
+    author: VileR
 
   - name: FreeMono
     notes: FreeMono is part of the GNU FreeFont collection, also known as Free UCS Outline Fonts
@@ -1771,6 +1789,18 @@ fonts:
 
       Conversions to TrueType, OpenType, SVG, WOFF, and WOFF2 are
       provided.
+
+  - name: IBM Fonts
+    urls:
+      - https://farsil.github.io/ibmfonts/
+    description: |
+      A collection of monospaced, bitmap fonts in BDF format that
+      origin from IBM text mode and system fonts. They include
+      extended latin, greek, cyrillic and hebrew scripts and several
+      extra characters, for a total of 782 glyphs each. The fonts are
+      in BDF 2.1 format and fully compatible with applications that
+      make use of either Xft or XLFD.
+    updated: 2021-03-21
 
   - name: IBM Plex Mono
     urls:
@@ -2136,16 +2166,19 @@ fonts:
     tags:
       - coding-focused
 
-  - name: Meslo
+  - name: Meslo LG
     urls:
       - https://github.com/andreberg/Meslo-Font
+      - https://localfonts.eu/freefonts/programming-fonts/meslo-lg-m/
     tags:
       - coding-focused
       - fork of Bitstream Vera / Deja Vu Sans Mono
-
-  - name: Meslo LG M
-    urls:
-      - https://localfonts.eu/freefonts/programming-fonts/meslo-lg-m/
+    fork of: Menlo, itself a fork of Deja Vu Sans Mono, in turn a fork of Bitstream Vera Sans Mono
+    updated: 2021-03-21
+    description: |
+      Meslo LG is a customized version of Apple's Menlo font
+      that adds additional line spacing and alters the
+      vertical alignment of the asterisk.
 
   - name: Metrickal
     urls:
@@ -2240,10 +2273,12 @@ fonts:
       - https://github.com/zlsa/monoOne
     tags:
       - free
+    description: |
+      Predecessor to Mononoki
 
   - name: Monospace
     urls:
-      - http://www.fontspace.com/george-williams/monospace
+      - https://www.fontspace.com/monospace-font-f13274
       - https://en.wikipedia.org/wiki/Monospace_(typeface)
 
   - name: Monospace 821
@@ -2284,6 +2319,10 @@ fonts:
   - name: More Perfect DOS VGA
     urls:
       - http://laemeur.sdf.org/fonts/
+
+  - name: MS Gothic
+    urls:
+      - { type: "via", url: "https://charlesleifer.com/blog/monospace-font-favorites/" }
 
   - name: MS Mincho
     urls:
@@ -2335,7 +2374,7 @@ fonts:
       - bitmap font
     updated: 2020-05-09
 
-  - name: URW Nimbus Mono L
+  - name: Nimbus Mono L (URW)
     urls:
       - https://www.fontsquirrel.com/fonts/nimbus-mono
       - https://en.wikipedia.org/wiki/Nimbus_Mono_L
@@ -2436,6 +2475,7 @@ fonts:
   - name: Olympiad
     urls:
       - https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/
+    author: VileR
 
   - name: Onuava
     urls:
@@ -2927,7 +2967,10 @@ fonts:
       The world's biggest collection of classic text mode fonts,
       system fonts and BIOS fonts from DOS-era IBM PCs and compatibles
       - preserving raster typography from pre-GUI times
-    updated: 2020-12-03
+
+      You may have seen the term "PxPlus" bandied about.  It's one
+      of the variants of these fonts, a more popular one.
+    updated: 2021-03-21
     license: CC BY-SA 4.0
     author: VileR
 
@@ -3263,6 +3306,10 @@ fonts:
       - http://www.fial.com/~scott/tamsyn-font/
       - https://sunaku.github.io/tamsyn-1.7b-font-review.html
 
+  - name: Tamsyn-Modified
+    urls:
+      - { type: "via", url: "https://charlesleifer.com/blog/monospace-font-favorites/" }
+
   - name: Tamzen
     urls:
       - https://github.com/sunaku/tamzen-font
@@ -3297,6 +3344,10 @@ fonts:
       - { type: "ttf conversion", url: "https://files.ax86.net/terminus-ttf/" }
     tags:
       - https://files.ax86.net/terminus-ttf
+
+  - name: Termsyn
+    urls:
+      - { type: "via", url: "https://charlesleifer.com/blog/monospace-font-favorites/" }
 
   - name: Tewi
     urls:
@@ -3527,6 +3578,20 @@ fonts:
       - terminal font
     notes: |
       Based on the font on the DEC VT320.
+
+  - name: WenQuanYi Zen Hei Mono
+    urls:
+      - http://wenq.org/wqy2/index.cgi?ZenHei%28en%29
+      - { type: "via", url: "" }
+      - https://en.wikipedia.org/wiki/WenQuanYi
+    updated: 2021-03-21
+
+  - name: WenQuanYi Micro Hei Mono
+    urls:
+      - http://wenq.org/wqy2/index.cgi?MicroHei%28en%29
+      - { type: "via", url: "" }
+      - https://en.wikipedia.org/wiki/WenQuanYi
+    updated: 2021-03-21
 
   - name: Whois Mono
     urls:
