@@ -2836,11 +2836,14 @@ fonts:
 
   - name: Recursive Mono
     urls:
+      - https://www.recursive.design/
       - https://github.com/arrowtype/recursive
     foundry: Arrow Type
     license: SIL OFL 1.1
-    description: "Recursive Mono & Sans is a variable font family for code & UI (work in progress!)"
-    updated: 2020-03-05
+    description: |
+      Recursive Mono & Sans is a variable font family for code & UI
+      (work in progress!)
+    updated: 2021-03-21
 
   - name: Relative Mono
     urls:
