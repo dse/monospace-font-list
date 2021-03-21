@@ -1905,6 +1905,14 @@ fonts:
     urls:
       - https://github.com/unjordy/LispM-Font
 
+  - name: Lotion
+    urls:
+      - https://font.nina.coffee/
+      - https://gitlab.com/nefertiti/lotion-dist
+    designer: Nina Belikova
+    license: SIL OFL 1.1
+    updated: 2021-03-21
+
   - name: LTC Remington Typewriter
     urls:
       - http://new.myfonts.com/fonts/lanston/ltc-remington-typewriter/
