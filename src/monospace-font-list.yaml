@@ -1566,6 +1566,9 @@ fonts:
     foundry: Grilli Type
     cost: https://www.grillitype.com/shops/gt-alpina
     updated: 2020-03-15
+    description: |
+      GT Alpina proudly calls itself a workhorse serif, but delights in playing with the very meaning of that concept. It reaches into the grab bag of typographic history to resurrect shapes some may falsely see as too expressive, resulting in a meticulous family melding these distinct shapes with a pragmatic execution.
+    designer: Reto Moser
 
   - name: GT America Mono
     urls:
@@ -1797,6 +1800,18 @@ fonts:
     tags:
       - vectrex font vibe
     updated: 2020-03-31
+
+  - name: Kettler
+    urls:
+      - https://processtypefoundry.com/fonts/kettler/
+    description: |
+      Kettler is a simple monospaced font named in tribute to designer
+      Howard ‘Bud’ Kettler, whose ubiquitous Courier is found on
+      computers everywhere. A subtle blend of utilitarian slabs serifs
+      and modern curves, Kettler is ideal for tabular information but
+      is also comfortable in display and headline use.
+    updated: 2021-03-21
+    cost: https://processtypefoundry.com/fonts/kettler/purchase-options
 
   - name: Klartext Mono
     urls:
