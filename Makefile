@@ -1,5 +1,11 @@
-default: monospace-font-list.md
+SRC = src/monospace-font-list.yaml
+TARGET = monospace-font-list.md
 
-monospace-font-list.md: monospace-font-list.yaml bin/make-font-list Makefile
-	bin/make-font-list $< >"$@.tmp"
+SCRIPT = bin/make-font-list
+THIS_FILE = Makefile
+
+default: $(TARGET)
+
+$(TARGET): $(SRC) $(SCRIPT) $(THIS_FILE)
+	$(SCRIPT) $< >"$@.tmp"
 	mv "$@.tmp" "$@"
