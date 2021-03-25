@@ -758,6 +758,12 @@ fonts:
       - images/code-new-roman-font-2.png
       - images/code-new-roman.png
 
+  - name: Code Saver
+    foundry: Dharma Type
+    urls:
+      - https://catalog.monotype.com/family/dharma-type/code-saver
+    updated: 2021-03-21
+
   - name: Codename Coder 4F
     urls:
       - https://www.myfonts.com/fonts/4thfebruary/codename-coder-4f/
@@ -1020,6 +1026,12 @@ fonts:
       - https://www.myfonts.com/fonts/johan-winge/cubiculum/
     tags:
       - paid
+
+  - name: Cumberland
+    foundry: Monotype
+    urls:
+      - https://catalog.monotype.com/family/monotype/cumberland
+    updated: 2021-03-21
 
   - name: Cutive Mono
     urls:
@@ -1480,6 +1492,12 @@ fonts:
   - name: Felt Pen
     urls:
       - { type: "via", url: "http://www.cfcl.com/vlb/h/fontmono.html" }
+
+  - name: FF Attribute Mono
+    foundry: FontFont
+    urls:
+      - https://catalog.monotype.com/family/fontfont/ff-attribute-mono
+    updated: 2021-03-21
 
   - name: FF Elementa
     urls:
@@ -3081,6 +3099,14 @@ fonts:
   - name: Rubik Mono One
     urls:
       - https://fonts.google.com/specimen/Rubik+Mono+One
+
+  - name: RX100
+    urls:
+      - https://www.fontshare.com/fonts/rx-100
+    license: ITF EULA https://www.fontshare.com/terms
+    cost: free for personal and commercial use
+    foundry: Indian Type Foundry
+    updated: 2021-03-24
 
   - name: Sabir Mono
     urls:
