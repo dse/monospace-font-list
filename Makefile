@@ -4,8 +4,10 @@ TARGET = monospace-font-list.md
 SCRIPT = bin/make-font-list
 THIS_FILE = Makefile
 
+SCRIPT_OPTIONS =
+
 default: $(TARGET)
 
 $(TARGET): $(SRC) $(SCRIPT) $(THIS_FILE)
-	$(SCRIPT) $< >"$@.tmp"
+	$(SCRIPT) $(SCRIPT_OPTIONS) $< >"$@.tmp"
 	mv "$@.tmp" "$@"
