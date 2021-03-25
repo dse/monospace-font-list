@@ -2,13 +2,41 @@
 use warnings;
 use strict;
 use v5.10.0;
+use utf8;
 
-use open qw(:locale);
+#------------------------------------------------------------------------------
+use File::Basename qw(basename);
+our $PROGNAME = basename($0);
+
+#------------------------------------------------------------------------------
+use open IO => qw(:locale);
 use Encode::Locale;
 use Encode qw(decode);
 BEGIN {
     @ARGV = map { decode('locale', $_, Encode::FB_CROAK) } @ARGV;
 }
+
+#------------------------------------------------------------------------------
+our $verbose = 0;
+
+#------------------------------------------------------------------------------
+use Getopt::Long;
+Getopt::Long::Configure('bundling', 'gnu_compat', 'no_ignore_case');
+Getopt::Long::GetOptions(
+    'v|verbose+' => \$verbose,
+    'h|help'     => sub { usage(); exit(0); },
+) or die("Type '$PROGNAME --help' for help.\n");
+
+sub usage { print(<<"END"); }
+usage:
+    $PROGNAME [<option> ...] [<filename> ...]
+options:
+    -h, --help
+    -v, --verbose
+    ...
+END
+
+###############################################################################
 
 use Data::Dumper qw(Dumper);
 use File::Basename qw(basename);
@@ -28,6 +56,9 @@ print("# Table of Contents\n\n");
 
 foreach my $font (@{$doc->{fonts}}) {
     my $fontName = $font->{name};
+    if ($verbose) {
+        printf STDERR ("-   %s\n", $fontName // '<undef>');
+    }
     my $anchorName = uniqueAnchorName($fontName);
     printf("-   [%s](#%s)\n", $fontName, $anchorName);
     $font->{anchorName} = $anchorName;
