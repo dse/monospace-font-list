@@ -720,8 +720,6 @@ fonts:
     images:
       - images/century-schoolbook-mono.png
 
-  - name:
-
   - name: Circular Mono
     foundry: Lineto
     urls:
