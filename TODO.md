@@ -2,7 +2,6 @@
 
 -   https://fontshub.pro/category/monospaced-fonts
 -   Look through https://github.com/Tecate/bitmap-fonts --- monospaced bitmap fonts for X11
--   Look through http://charlesleifer.com/blog/monospace-font-favorites/
 -   Look through <URL:https://catalog.monotype.com/search-results?filter=%5B%7B%22Id%22:1283136,%22Type%22:%22Typestyle%22,%22Value%22:%22%2Ftype-style%2Fmonospaced%22,%22Text%22:%22Monospaced%22%7D%5D&var=0>
 
 -   letter gothic http://ftp.brother.co.il/p-touch/Editor50/Fonts/
