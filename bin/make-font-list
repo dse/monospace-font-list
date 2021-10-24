@@ -43,8 +43,210 @@ use File::Basename qw(basename);
 use Sort::Naturally qw(nsort);
 use YAML;
 use URI;
+use Text::CSV;
+use JSON;
 
-printMarkdown();
+my $json = JSON->new->allow_nonref->allow_unknown->allow_blessed;
+
+my $doc = YAML::Load(join('', <>));
+fixFontSites($doc);
+setFontSiteDomains($doc);
+categorizeFontSites($doc);
+collectFontURLColumns($doc);
+printCSV($doc);
+
+###############################################################################
+# urls: url domain name type
+# fonts:
+#     name, sites, tags, designer, updated, foundry, notes, description, license, cost
+
+sub printCSV {
+    my ($doc) = @_;
+
+    my $fh = \*STDOUT;
+    binmode($fh, ':encoding(utf8)');
+
+    my $csv = Text::CSV->new({
+        binary => 1,
+        auto_diag => 1,
+        decode_utf8 => 0,
+    });
+
+    $csv->say($fh, [
+        'Name',
+        'Designer',
+        'Foundry',
+        'License',
+        'Cost',
+        @{$doc->{fontURLColumns}},
+        'Notes',
+        'Description',
+        'Tags',
+        'Other',
+    ]);
+
+    foreach my $font (@{$doc->{fonts}}) {
+        my $orig = $font;
+        my $font = { %$orig };  # shallow clone
+        my $name        = delete $font->{name}; # Name
+        my $sites       = delete $font->{sites}; # Sites
+        my $tags        = delete $font->{tags};  # Tags
+        my $designer    = delete $font->{designer}; # Designer
+        my $foundry     = delete $font->{foundry};  # Foundry
+        my $notes       = delete $font->{notes};    # Notes
+        my $description = delete $font->{description}; # Description
+        my $license     = delete $font->{license}; # License
+        my $cost        = delete $font->{cost};    # Cost
+        my $updated     = delete $font->{updated};    # Cost
+        my $urlsByType  = delete $font->{urlsByType};
+        my $urlColumns  = delete $font->{urlColumns};
+        my $images      = delete $font->{images};
+
+        foreach my $x ($notes) {
+            if (ref $x eq 'ARRAY') {
+                $x = join("\n\n", map { ref $_ ? $json->encode($_) : $_ } @$x);
+            }
+        }
+        foreach my $x ($tags) {
+            if (ref $x eq 'ARRAY') {
+                $x = join(", ", map { ref $_ ? $json->encode($_) : $_ } @$x);
+            }
+        }
+        foreach my $x ($designer, $foundry, $license, $cost) {
+            if (ref $x eq 'HASH') {
+                $x = $json->encode($x);
+            } elsif (ref $x eq 'ARRAY') {
+                $x = $json->encode($x);
+            }
+        }
+
+        my @fields;
+        push(@fields, $name);
+        push(@fields, $designer);
+        push(@fields, $foundry);
+        push(@fields, $license);
+        push(@fields, $cost);
+        foreach my $column (@{$doc->{fontURLColumns}}) {
+            my @urls = eval { @{$urlsByType->{$column}} };
+            if (scalar @urls) {
+                push(@fields, join("\n", @urls));
+            } else {
+                push(@fields, '');
+            }
+        }
+        push(@fields, $notes);
+        push(@fields, $description);
+        push(@fields, $tags);
+
+        my $other = scalar keys %$font ? $json->encode($font) : '';
+
+        push(@fields, $other);
+
+        $csv->say($fh, [@fields]);
+    }
+}
+
+sub collectFontURLColumns {
+    my ($doc) = @_;
+    $doc->{fontURLColumns} = {};
+    foreach my $font (@{$doc->{fonts}}) {
+        next if !defined $font->{sites};
+        $font->{urlColumns} = {};
+        foreach my $site (@{$font->{sites}}) {
+            my $type = $site->{type} // 'otherURLs';
+            push(@{$font->{urlColumns}->{$type}}, $site->{url});
+            $doc->{fontURLColumns}->{$type} = 1;
+        }
+    }
+    $doc->{fontURLColumns} = [keys %{$doc->{fontURLColumns}}];
+    $doc->{fontURLColumns} = [
+        'homepage',
+        'wikipedia',
+        'via',
+        (
+            sort { $a cmp $b } grep {
+                1                   # dummy for easier editing
+                  && $_ ne 'homepage'
+                  && $_ ne 'wikipedia'
+                  && $_ ne 'via'
+                  && $_ ne 'otherURLs'
+              } @{$doc->{fontURLColumns}}
+        ),
+        'otherURLs',
+    ];
+}
+
+sub setFontSiteDomains {
+    my ($doc) = @_;
+    foreach my $font (@{$doc->{fonts}}) {
+        next if !defined $font->{sites};
+        foreach my $site (@{$font->{sites}}) {
+            my $uri = URI->new($site->{url});
+            my $host = eval { $uri->host };
+            next if !defined $host;
+            my $domain = $host;
+            $domain =~ s{^www\.}{};
+            $site->{domain} = $domain;
+        }
+    }
+}
+
+sub fixFontSites {
+    my ($doc) = @_;
+    foreach my $font (@{$doc->{fonts}}) {
+        my $sites = $font->{sites};
+        next if !defined $sites;
+        if (ref $sites ne 'ARRAY') {
+            $font->{sites} = $sites = [ $sites ];
+        }
+        $font->{sites} = $sites = [
+            map { fixFontURL($_) } @{$font->{sites}}
+        ];
+    }
+}
+
+sub fixFontURL {
+    my ($site) = @_;
+    return { url => $site } if ref $site ne 'HASH';
+    return $site;
+}
+
+sub categorizeFontSites {
+    my ($doc) = @_;
+    foreach my $font (@{$doc->{fonts}}) {
+        next if !defined $font->{sites};
+        $font->{urlsByType} = {};
+        foreach my $site (@{$font->{sites}}) {
+            my $uri = URI->new($site->{url});
+            my $host = eval { $uri->host };
+            next if !defined $host;
+            if (!defined $site->{type}) {
+                $site->{type} = 'github'       if $host =~ m{(^|\.)github\.com$};
+                $site->{type} = 'fontlibrary'  if $host =~ m{(^|\.)openfontlibrary\.org$};
+                $site->{type} = 'fontlibrary'  if $host =~ m{(^|\.)fontlibrary\.org$};
+                $site->{type} = 'typekit'      if $host =~ m{(^|\.)typekit\.com$};
+                $site->{type} = 'ffonts'       if $host =~ m{(^|\.)ffonts\.com$};
+                $site->{type} = 'linotype'     if $host =~ m{(^|\.)linotype\.com$};
+                $site->{type} = 'myfonts'      if $host =~ m{(^|\.)myfonts\.com$};
+                $site->{type} = 'adobeFonts'   if $host =~ m{(^|\.)fonts\.adobe\.com$};
+                $site->{type} = 'googleFonts'  if $host =~ m{(^|\.)fonts\.google\.com$};
+                $site->{type} = 'fontsquirrel' if $host =~ m{(^|\.)fontsquirrel\.com$};
+                $site->{type} = 'dafont'       if $host =~ m{(^|\.)dafont\.com$};
+                $site->{type} = 'wikipedia'    if $host =~ m{(^|\.)wikipedia\.org$};
+                $site->{typeKnown} = 1;
+            } else {
+                $site->{typeKnown} = 1 if $site->{type} eq 'homepage';
+                $site->{typeKnown} = 1 if $site->{type} eq 'via';
+            }
+            if (!defined $site->{type}) {
+                $site->{type} = 'otherURLs';
+            } elsif (!$site->{typeKnown}) {
+                $site->{type} = 'otherURLs';
+            }
+            push(@{$font->{urlsByType}->{$site->{type}}}, $site->{url});
+        }
+    }
+}
 
 ###############################################################################
 
@@ -74,20 +276,20 @@ sub printMarkdown {
 
     foreach my $font (@{$doc->{fonts}}) {
         my $name = $font->{name};
-        my $urls = delete $font->{urls};
+        my $sites = delete $font->{sites};
 
-        if (!$urls) {
-            $urls = [];
-        } elsif (ref $urls ne 'ARRAY') {
-            $urls = [$urls];
+        if (!$sites) {
+            $sites = [];
+        } elsif (ref $sites ne 'ARRAY') {
+            $sites = [$sites];
         }
-        foreach my $urlh (@$urls) {
+        foreach my $urlh (@$sites) {
             if (ref $urlh ne 'HASH') {
                 $urlh = { url => $urlh };
             }
         }
         my $index = 0;
-        foreach my $urlh (@$urls) {
+        foreach my $urlh (@$sites) {
             $urlh->{index} = ($index += 1);
             my $url = $urlh->{url};
             my $type = $urlh->{type};
@@ -139,26 +341,26 @@ sub printMarkdown {
             $urlh->{priority} //= 1;
         }
 
-        @$urls = sort { $b->{priority} <=> $a->{priority} || $a->{index} <=> $b->{index} } @$urls;
-        my $url = scalar @$urls ? $urls->[0]->{url} : undef;
+        @$sites = sort { $b->{priority} <=> $a->{priority} || $a->{index} <=> $b->{index} } @$sites;
+        my $url = scalar @$sites ? $sites->[0]->{url} : undef;
 
-        if (scalar @$urls) {
-            shift @$urls;
+        if (scalar @$sites) {
+            shift @$sites;
             $font->{mainUrl} = $url;
         } elsif ($font->{'now known as'}) {
             # do nothing
         } else {
             push(@urlless, $name);
         }
-        if (scalar @$urls) {
-            $font->{urls} = $urls;
+        if (scalar @$sites) {
+            $font->{sites} = $sites;
         }
 
     }
 
     foreach my $font (@{$doc->{fonts}}) {
         my $name = $font->{name};
-        my $urls = $font->{urls};
+        my $sites = $font->{sites};
         my $url = $font->{mainUrl};
         if (defined $url) {
             printf("## [%s](%s)\n\n", $name, $url);
@@ -170,7 +372,7 @@ sub printMarkdown {
     }
 
     if (scalar @urlless) {
-        print "## Fonts not having URLs yet\n\n";
+        print "## Fonts not having Sites yet\n\n";
         foreach my $name (@urlless) {
             print "-   $name\n";
         }
