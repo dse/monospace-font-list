@@ -1,5 +1,11 @@
 # monospace-font-list
 
+## MOVED
+
+[**Go Here.  It's a Google Sheets document now.**](https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J45z8/edit?usp=sharing)
+
+## About
+
 My goal is to create a complete list of monospace fonts, to the extent
 I can. Primarily for the fun of it, but sometimes I like to use fonts
 that are not focused on coding.
@@ -41,18 +47,6 @@ include it, or to include it in this list with a caveat.
 Also I may or may not list all the grungy/rough/distressed fonts I can
 find.
 
----
-
----
-
-## The List of Fonts
-
-See [monospace-font-list.md](monospace-font-list.md).
-
----
-
----
-
 ## Other Lists of Fonts
 
 These lists, for the most part, do not attempt to be comprehensive,
@@ -71,6 +65,8 @@ as this one does.
 -   http://www.cfcl.com/vlb/h/fontmono.html
 
 -   https://app.programmingfonts.org/
+
+-   https://awesomeopensource.com/projects/monospace-font **perusing**
 
 ## Collections of Fonts
 
