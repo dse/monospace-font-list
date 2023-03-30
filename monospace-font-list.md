@@ -93,19 +93,52 @@
     -   foundry: Monotype
     -   fonts.com: https://www.fonts.com/font/monotype/arial/monospaced
 1.  Arkibal Mono (?)
+    -   NOT A MONOSPACE
     -   via: https://www.designbombs.com/best-monospaced-fonts/
 1.  Arev
     -   modified from: DejaVu Sans Mono
     -   website: http://tavmjong.free.fr/FONTS/
     -   license: http://tavmjong.free.fr/FONTS/ArevCopyright.txt
 1.  Ascender Sans Mono
+    -   myfonts: https://www.myfonts.com/collections/ascender-sans-mono-font-ascender-corp
+    -   designer: Steve Matteson
+    -   foundry: Ascender
+    -   $
 1.  ASM
+    -   myfonts: https://www.myfonts.com/collections/asm-font-textaxis
+    -   designer: Íñigo Jerez
+    -   foundry: Extratype
+    -   $
 1.  Atlas Typewriter
+    -   foundry: Commercial Type
+    -   designers:
+        -   Susana Carvalho
+        -   Kai Bernau
+        -   Ilya Ruderman
+        -   Irene Vlachou
+    -   website: https://commercialtype.com/catalog/atlas_typewriter
+    -   $
 1.  Audimat Mono
+    -   designer: SMeltery
+    -   fontsquirrel: https://www.fontsquirrel.com/fonts/audimat-mono
+    -   website: http://www.smeltery.net/en/fonts/dead
+        -   lists Audimat Mono as a dead font
 1.  Aurulent Sans Mono
+    -   designer: Stephen G. Hartke
+    -   fontsquirrel: https://www.fontsquirrel.com/fonts/aurulent-sans-mono
 1.  Autocode
+    -   myfonts: https://www.myfonts.com/collections/autocode-font-avp
+    -   designer: Nicholas Garner
+    -   foundry: AVP
+    -   $
 1.  Autoscape
+    -   foundry: Lineto
+    -   website: https://lineto.com/typefaces/autoscape
+    -   $
 1.  Azaret Mono
+    -   website: https://displaay.net/typeface/azeret/azeret-mono/
+    -   foundry: Displaay
+    -   google fonts: https://fonts.google.com/specimen/Azeret+Mono
 1.  B612 Mono
 1.  Base Monospace
     -   narrow and wide variants
