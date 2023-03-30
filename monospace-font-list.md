@@ -1,0 +1,112 @@
+# The Monospace Typeface List
+
+-   1403 Vintage Mono
+    -   website: https://1403.slantedhall.com/
+    -   cost: $40 or $90
+    -   designer: Jeff Kellem
+    -   font type: line printer
+-   3270font
+    -   github: https://github.com/rbanffy/3270font
+    -   license: https://github.com/rbanffy/3270font/blob/main/LICENSE.txt
+-   Agave
+    -   github: https://github.com/blobject/agave
+    -   license: MIT
+    -   author: Type Agaric
+    -   website: https://b.agaric.net/page/agave
+-   Arev
+    -   modified from: DejaVu Sans Mono
+    -   website: http://tavmjong.free.fr/FONTS/
+    -   license: http://tavmjong.free.fr/FONTS/ArevCopyright.txt
+-   Bitstream Vera Sans Mono
+    -   notes:
+        -   Bitstream Vera, via its primary fork, DejaVu, are the
+            origins of numerous FOSS programming typefaces.
+    -   author: Bitstream, Inc.
+    -   license: https://dejavu-fonts.github.io/License.html
+-   Cascadia Code
+    -   github: https://github.com/microsoft/cascadia-code
+    -   license: SIL OFL 1.1
+    -   author: Microsoft
+    -   designer: Aaron Bell
+-   Consolas
+    -   website: https://www.lucasfonts.com/fonts/consolas/
+    -   secondary website: https://learn.microsoft.com/en-us/typography/font-list/consolas
+    -   author: Microsoft
+    -   designer: Luc(as) de Groot
+-   DejaVu Sans Mono
+    -   website: https://dejavu-fonts.github.io/
+    -   license: https://dejavu-fonts.github.io/License.html
+    -   modified from: Bitstream Vera Sans Mono
+    -   notes:
+        -   DejaVu Sans Mono is the fork of Bitstream Vera Sans Mono
+            whence came a whole bunch of FOSS programming fonts.
+-   Droid Sans Mono
+    -   designer: Steve Matteson
+    -   foundry: Ascender Corporation
+    -   git: https://android.googlesource.com/platform/frameworks/base.git
+    -   github: https://github.com/aosp-mirror/platform_frameworks_base/tree/master/data/fonts
+    -   license: Apache License 2.0
+    -   website: https://damieng.com/blog/2007/11/14/droid-sans-mono-great-coding-font/
+-   Envy Code R
+    -   website: https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released
+-   Fira Code
+    -   github: https://github.com/tonsky/FiraCode
+    -   author: Nikita Prokopov
+    -   based on: Fira Mono
+-   Fira Mono
+    -   github: https://github.com/mozilla/Fira
+    -   license: SIL OFL 1.1
+    -   website: http://mozilla.github.io/Fira/
+-   Hack
+    -   github: https://github.com/source-foundry/Hack
+    -   license: MIT
+    -   modified from: DejaVu Sans Mono
+    -   author: Source Foundry
+-   Hasklig
+    -   github: https://github.com/i-tu/Hasklig
+    -   license: SIL OFL 1.1
+    -   based on: Source Code Pro
+-   Hermit
+    -   github: https://github.com/pcaro90/hermit
+    -   license: SIL OFL 1.1
+    -   designer: Pablo Caro
+    -   website: https://pcaro.es/hermit/
+-   IBM Plex Mono
+    -   website: https://www.ibm.com/plex/
+    -   github: https://github.com/IBM/plex
+    -   license: SIL OFL 1.1
+-   Inconsolata
+    -   website: https://levien.com/type/myfonts/inconsolata.html
+    -   google fonts: https://www.google.com/fonts/specimen/Inconsolata
+    -   github: https://github.com/google/fonts/tree/master/ofl/inconsolata
+    -   notes:
+        -   With design cues from Consolas, Avenir, and Franklin
+            Gothic, this humanist monospace typeface has a Letter
+            Gothic vibe.
+    -   license: SIL OFL 1.1
+-   Input
+    -   website: https://input.djr.com/
+-   Iosevka
+    -   github: https://github.com/be5invis/Iosevka
+    -   license: SIL OFL 1.1
+    -   website: https://typeof.net/Iosevka/
+-   JetBrains Mono
+    -   website: https://www.jetbrains.com/lp/mono/
+    -   github: https://github.com/JetBrains/JetBrainsMono
+    -   license: SIL OFL 1.1
+-   Monoid
+-   Noto Sans Mono
+-   Operator Mono
+-   Proggy Fonts
+-   Roboto Mono
+-   Source Code Pro
+    -   github: https://github.com/adobe-fonts/source-code-pro
+    -   designer: Paul D. Hunt
+    -   website: http://adobe-fonts.github.io/source-code-pro/
+    -   license: SIL OFL 1.1
+-   Terminus
+-   TheSansMono
+    -   website: https://www.lucasfonts.com/fonts/the-sans-mono
+    -   designer: Luc(as) de Groot
+    -   license: https://www.lucasfonts.com/fonts/eula
+-   Ubuntu Mono
