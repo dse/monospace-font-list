@@ -5,37 +5,93 @@
     -   license: https://github.com/rbanffy/3270font/blob/main/LICENSE.txt
     -   built for coding
 1.  64-SRC
+    -   myfonts: https://www.myfonts.com/collections/64-src-font-ilott-type
+    -   foundry: ILOTT-TYPE
+    -   designer: Andrew Bellamy
+1.  A+
+    -   via: http://archive.vector.org.uk/resource/index.htm
 1.  Adore Mono
+    -   designer: Pieter van Rosmalen
+    -   foundry: GarageFonts
+    -   website: https://garagefonts.com/font/adore-mono
+    -   buy: https://www.fontshop.com/families/adore-mono
 1.  Agave
     -   github: https://github.com/blobject/agave
     -   license: MIT
     -   author: Type Agaric
     -   website: https://b.agaric.net/page/agave
 1.  Ahamono
+    -   myfonts: https://www.myfonts.com/collections/ahamono-font-hanken-design-co
+    -   foundry: Hanken Design Co.
+    -   designer: Alfredo Marco Pradil
+    -   website: https://hanken.co/collections/monospaced/products/ahamono
+    -   $
 1.  Akkurat Mono
+    -   foundry: Lineto
+    -   website: https://lineto.com/typefaces/akkurat-mono
+    -   $
 1.  Alma Mono
+    -   website: https://www.almamono.com/
+    -   myfonts: https://www.myfonts.com/collections/alma-mono-font-great-scott
     -   via: https://www.designbombs.com/best-monospaced-fonts/
 1.  Alto Mono
-1.  Amiri Typewriter
+    -   website: https://www.typeby.com/fonts/alto-mono
+    -   $
 1.  Andale Mono
+    -   learn: https://learn.microsoft.com/en-us/typography/font-list/andale-mono
+    -   designer: Steven R. Matteson
+    -   foundry: Agfa Monotype
 1.  Andale Teletext
+    -   myfonts: https://www.myfonts.com/collections/andale-teletext-font-monotype-imaging
+    -   designer: Microsoft
+    -   foundry: Monotype
 1.  Angelus III
+    -   myfonts: https://www.myfonts.com/collections/angelus-iii-font-scriptorium
+    -   designer: David Nalle
+    -   foundry: Scriptorium
 1.  Anka/Coder
+    -   github: https://github.com/loafer-mka/anka-coder-fonts
+    -   google code archive: https://code.google.com/archive/p/anka-coder-fonts/
+    -   license: SIL OFL 1.1
     -   built for coding
-    -   has a condensed variant
+    -   fontlibrary: https://fontlibrary.org/en/font/anka-coder
+    -   designer: Andrey Makarov (?)
 1.  Anomaly Mono
-1.  Another Man's Treasure
+    -   github: https://github.com/benbusby/anomaly-mono
+    -   designer: Ben Busby
+    -   license: SIL OFL 1.1
 1.  Anonymous Pro
+    -   website: https://www.marksimonson.com/fonts/view/anonymous-pro
+    -   designer: Mark Simonson
+    -   license: SIL OFL, presumably 1.1
 1.  Antikor Mono
-1.  Apercu Mono
-1.  APL2741
+    -   designer: Taner Ardali
+    -   website: https://tanerardali.com/project/antikor (parked)
+1.  Aperçu Mono
+    -   foundry: Colophon
+    -   website: https://www.colophon-foundry.org/typefaces/apercu
+    -   $
+1.  APL2741 Unicode
+    -   website: https://abrudz.github.io/APL2741/
+    -   download: http://apl385.com/fonts/apl2741.zip
+        -   via: http://apl385.com/fonts/index.htm
 1.  APL 385
-    -   if you like Comic Sans
+    -   download: http://apl385.com/fonts/apl385.zip
+        -   via: http://apl385.com/fonts/index.htm
 1.  APL 386
     -   if you like Comic Sans
+    -   website: https://abrudz.github.io/APL386/
 1.  APLX Upright
+    -   download: http://www.microapl.co.uk/download/aplx_unicode.ttf
+    -   via: https://www.microapl.com/apl/learn_apl.html
 1.  Archive Mono
+    -   website: https://www.colophon-foundry.org/typefaces/archive-mono
+    -   foundry: Colophon
+    -   $
 1.  Arial Monospaced
+    -   designers: Robin Nicholas, Patricia Saunders
+    -   foundry: Monotype
+    -   fonts.com: https://www.fonts.com/font/monotype/arial/monospaced
 1.  Arimo
 1.  Arkibal Mono (?)
     -   via: https://www.designbombs.com/best-monospaced-fonts/
@@ -57,6 +113,8 @@
 1.  Basier Mono
 1.  Basis Grotesque mono
 1.  Bedstead
+1.  Befont
+    -   git: https://codeberg.org/Wezl/fonts
 1.  Bergen Mono
     -   via: https://www.designbombs.com/best-monospaced-fonts/
 1.  BigBlue Terminal
@@ -75,6 +133,11 @@
 1.  Borg Sans Mono
 1.  BPmono
 1.  BPtypewrite
+1.  BQN386
+    -   APL font
+    -   github: https://github.com/dzaima/BQN386
+    -   website: https://dzaima.github.io/BQN386/
+    -   based on: APL386
 1.  Bradford Mono
 1.  Brass Mono
 1.  Bront (aggregator)
@@ -97,7 +160,7 @@
 1.  Coding Font Tobi
 1.  Colón Mono
 1.  Comic Code
-    -   https://tosche.net/fonts/comic-code
+    -   website: https://tosche.net/fonts/comic-code
 1.  Comic Mono
     -   github: https://github.com/shannpersand/comic-shanns
 1.  Comic Shanns
@@ -313,6 +376,8 @@
     -   built for coding
 1.  Iosevka Slab
 1.  ITC Souvenir Monospaced
+1.  JSans J
+    -   via: http://archive.vector.org.uk/resource/index.htm
 1.  JetBrains Mono
     -   website: https://www.jetbrains.com/lp/mono/
     -   github: https://github.com/JetBrains/JetBrainsMono
@@ -393,7 +458,7 @@
 1.  Mononoki
 1.  monoOne
 1.  Monospace
-    -   https://www.fontspace.com/monospace-font-f13274
+    -   ???: https://www.fontspace.com/monospace-font-f13274
 1.  Monospace 821 BT
 1.  Monospace Typewriter
 1.  MonoSpatial
@@ -470,6 +535,8 @@
 1.  Pointfree
     -   if you like Comic Sans
 1.  Polli Sans Mono
+1.  PoulTre
+    -   git: https://codeberg.org/Wezl/fonts
 1.  Press Start {, 2P, K}
 1.  Print Out
 1.  ProFont
@@ -482,6 +549,8 @@
 1.  PT Mono
 1.  PTL Notes Tec Mono
 1.  Quadraat Sans Mono
+    -   website: https://www.typeby.com/fonts/quadraat-sans-mono
+    -   $
 1.  QuickType Mono
 1.  Quinze
 1.  Raize
@@ -509,13 +578,16 @@
 1.  RX100
 1.  Sabir Mono
 1.  Sarasa Gothic
+1.  SAX2
+    -   APL font
+    -   website: https://abrudz.github.io/SAX2/
 1.  saxMono ("Tile")
 1.  Sauna Mono Pro
 1.  Schumaker Misc
     -   git: https://gitlab.freedesktop.org/xorg/font/schumacher-misc
 1.  Screenwriter's Typewriter Fonts Pro
     -   old-timey
-    -   http://www.vintagetype.com/screenwriters/ (archive.org)
+    -   old website: http://www.vintagetype.com/screenwriters/ (archive.org)
 1.  Script 12 Pitch
 1.  Segoe UI Mono
 1.  Selectric
@@ -524,6 +596,9 @@
 1.  SGI Screen
 1.  Share Tech Mono
 1.  Sheldon
+1.  SImPL
+    -   APL font
+    -   website: http://archive.vector.org.uk/art10002160
 1.  Simple
 1.  SK Modernist Mono
 1.  Skurier
@@ -594,7 +669,7 @@
 1.  Tye Paloon
 1.  Typewalk Mono 1915
 1.  Typewriter Condensed
-    -   https://fontsarena.com/wp-content/uploads/2018/11/typewriter_condensed.zip
+    -   download: https://fontsarena.com/wp-content/uploads/2018/11/typewriter_condensed.zip
 1.  Ubuntu Monospace
     -   website: https://design.ubuntu.com/font
     -   designer: Dalton Maag
@@ -606,9 +681,11 @@
 1.  The Ultimate Oldschool PC Font Pack
     -   like, almost every PC font ever.
     -   website: https://int10h.org/oldschool-pc-fonts/
+1.  The Ultimate TRS-80 Font - "Another Man's Treasure"
+    -   website: https://www.kreativekorp.com/software/fonts/trs80/
 1.  Unica 77 Mono
 1.  Unifont
-    -   https://unifoundry.com/unifont/index.html
+    -   website: https://unifoundry.com/unifont/index.html
     -   built for coding
 1.  Univers Next Typewriter
 1.  unix-originated terminal fonts for windows
@@ -698,6 +775,9 @@ There are sixty five krillion implementations of IBM's public
 domain(?) Courier typeface.  This may or may not be a complete
 list of them.
 
+-   Adobe Courier bitmap fonts
+    -   git: https://gitlab.freedesktop.org/xorg/font/adobe-75dpi/blob/master/COPYING 
+    -   there's a 100dpi version right?
 -   IBM Courier
 -   Courier New
     -   Courier New is one of Microsoft's Core Fonts for the Web.
@@ -762,6 +842,10 @@ About Courier, generally:
 
 ## Almost Monospace
 
+1.  Amiri Typewriter
+    -   github: https://github.com/aliftype/amiri-typewriter
+    -   almost monospace; Arabic
+
 ## Grungy Old Typewriter Fonts
 
 -   Trixie
@@ -789,3 +873,6 @@ About Courier, generally:
     -   website: https://www.codingfont.com/
 -   https://github.com/adobe-fonts
 -   https://aplwiki.com/wiki/Fonts
+-   http://luc.devroye.org/
+-   bunch of APL fonts: https://aplwiki.com/wiki/Fonts
+    -   downloads: http://archive.vector.org.uk/resource/index.htm
