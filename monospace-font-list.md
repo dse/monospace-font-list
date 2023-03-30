@@ -92,7 +92,6 @@
     -   designers: Robin Nicholas, Patricia Saunders
     -   foundry: Monotype
     -   fonts.com: https://www.fonts.com/font/monotype/arial/monospaced
-1.  Arimo
 1.  Arkibal Mono (?)
     -   via: https://www.designbombs.com/best-monospaced-fonts/
 1.  Arev
