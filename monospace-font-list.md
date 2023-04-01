@@ -27,18 +27,18 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   foundry: Hanken Design Co.
     -   designer: Alfredo Marco Pradil
     -   website: https://hanken.co/collections/monospaced/products/ahamono
-    -   $
+    -   cost: $
 1.  Akkurat Mono
     -   foundry: Lineto
     -   website: https://lineto.com/typefaces/akkurat-mono
-    -   $
+    -   cost: $
 1.  Alma Mono
     -   website: https://www.almamono.com/
     -   myfonts: https://www.myfonts.com/collections/alma-mono-font-great-scott
     -   via: https://www.designbombs.com/best-monospaced-fonts/
 1.  Alto Mono
     -   website: https://www.typeby.com/fonts/alto-mono
-    -   $
+    -   cost: $
 1.  Andale Mono
     -   learn: https://learn.microsoft.com/en-us/typography/font-list/andale-mono
     -   designer: Steven R. Matteson
@@ -72,7 +72,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  Aperçu Mono
     -   foundry: Colophon
     -   website: https://www.colophon-foundry.org/typefaces/apercu
-    -   $
+    -   cost: $
 1.  APL2741 Unicode
     -   website: https://abrudz.github.io/APL2741/
     -   download: http://apl385.com/fonts/apl2741.zip
@@ -89,7 +89,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  Archive Mono
     -   website: https://www.colophon-foundry.org/typefaces/archive-mono
     -   foundry: Colophon
-    -   $
+    -   cost: $
 1.  Arial Monospaced
     -   designers: Robin Nicholas, Patricia Saunders
     -   foundry: Monotype
@@ -105,12 +105,12 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   myfonts: https://www.myfonts.com/collections/ascender-sans-mono-font-ascender-corp
     -   designer: Steve Matteson
     -   foundry: Ascender
-    -   $
+    -   cost: $
 1.  ASM
     -   myfonts: https://www.myfonts.com/collections/asm-font-textaxis
     -   designer: Íñigo Jerez
     -   foundry: Extratype
-    -   $
+    -   cost: $
 1.  Atlas Typewriter
     -   foundry: Commercial Type
     -   designers:
@@ -119,7 +119,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
         -   Ilya Ruderman
         -   Irene Vlachou
     -   website: https://commercialtype.com/catalog/atlas_typewriter
-    -   $
+    -   cost: $
 1.  Audimat Mono
     -   designer: SMeltery
     -   fontsquirrel: https://www.fontsquirrel.com/fonts/audimat-mono
@@ -132,11 +132,11 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   myfonts: https://www.myfonts.com/collections/autocode-font-avp
     -   designer: Nicholas Garner
     -   foundry: AVP
-    -   $
+    -   cost: $
 1.  Autoscape
     -   foundry: Lineto
     -   website: https://lineto.com/typefaces/autoscape
-    -   $
+    -   cost: $
 1.  Azaret Mono
     -   website: https://displaay.net/typeface/azeret/azeret-mono/
     -   foundry: Displaay
@@ -149,7 +149,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  Base Monospace
     -   narrow and wide variants
     -   website: https://www.emigre.com/Fonts/Base-Monospace
-    -   $
+    -   cost: $
     -   foundry: Emigre
 1.  Basier Mono
     -   website: https://www.atipofoundry.com/fonts/basier-mono
@@ -157,7 +157,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   license: https://www.atipofoundry.com/license
 1.  Basis Grotesque mono
     -   website: https://www.colophon-foundry.org/typefaces/basis-grotesque-mono
-    -   $
+    -   cost: $
     -   foundry: Colophon
 1.  Bedstead
     -   website: https://bjh21.me.uk/bedstead/
@@ -215,7 +215,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   based on: APL386
 1.  Bradford Mono
     -   foundry: Lineto
-    -   $
+    -   cost: $
     -   website: https://lineto.com/typefaces/bradford-mono
 1.  Brass Mono
     -   github: https://github.com/fonsecapeter/brass_mono
@@ -233,7 +233,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  Calling Code
     -   fontspring: https://www.fontspring.com/fonts/dharma-type/calling-code
     -   foundry: Dharma Type
-    -   $
+    -   cost: $
     -   license: https://www.fontspring.com/fonts/dharma-type/calling-code#licensing
 1.  Camingo Code
     -   built for coding
@@ -255,13 +255,13 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  Circular Mono
     -   website: https://lineto.com/typefaces/circular-mono
     -   foundry: Lineto
-    -   $
+    -   cost: $
 1.  Code New Roman
     -   designer: Sam Radian
     -   luc devroye: ht
 1.  Code Saver
     -   myfonts: https://www.myfonts.com/collections/code-saver-font-dharma-type
-    -   $
+    -   cost: $
     -   foundry: Dharma Type
     -   designer: Ryoichi Tsunekawa
 1.  Codename Coder 4F
@@ -276,7 +276,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   see also: Proggy
 1.  Colón Mono
     -   myfonts: https://www.myfonts.com/collections/colon-mono-font-tipografiaramis
-    -   $
+    -   cost: $
     -   designer: Ramiz Guseynov
     -   foundry: TipografiaRamis
 1.  Comic Code
@@ -308,9 +308,8 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   designer: Donald Knuth
 1.  Concursico Mono BTN
     -   myfonts: https://www.myfonts.com/products/concursico-mono-btn-concursico-mono-btn-410971
-    -   $
+    -   cost: $
     -   image: <https://cdn.myfonts.net/cdn-cgi/image/width=720%2Cheight=360%2Cfit=contain%2Cformat=auto/images/pim/10000/23958_2e966fefb987e5f215bdca56e653c3e3.png>
-1.  Consola Mono
 1.  ConsolaMono
     -   fontlibrary: https://fontlibrary.org/en/font/consolamonohttps://fontlibrary.org/en/font/consolamono
     -   license: SIL OFL
@@ -376,13 +375,28 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   designer: Vernon Adams
     -   luc devroye: http://luc.devroye.org/fonts-47641.html
 1.  D2 Coding
-    -   github: ht
+    -   github: https://github.com/naver/d2codingfont
     -   license: [SIL OFL 1.1](https://github.com/naver/d2codingfont/wiki/Open-Font-License)
+    -   image: https://user-images.githubusercontent.com/6773678/33355628-997fe52e-d4fb-11e7-9d1a-64c3b2d42de8.png
 1.  DaddyTimeMono
+    -   github: https://github.com/BourgeoisBear/DaddyTimeMono
+    -   license: SIL OFL 1.1
+    -   image: https://github.com/BourgeoisBear/DaddyTimeMono/raw/master/DaddyTimeMono-sample.png
+    -   inspired by: [Corona PPC-400 BIOS font](https://github.com/BourgeoisBear/DaddyTimeMono/raw/master/cordata-font.png)
 1.  Dank Mono
-1.  DEC Terminal
+    -   website: https://philpl.gumroad.com/l/dank-mono
+    -   medium: https://medium.com/@philpl/what-sets-dank-mono-apart-1bbdc1cc3cbd
+    -   image: https://miro.medium.com/v2/resize:fit:720/format:webp/1*i4o1YwnW5OOhMqcwwW547Q.png
+    -   cost: $
+1.  DEC Terminal butmap fonts
+    -   download:
+        -   https://gitlab.freedesktop.org/xorg/font/bitstream-75dpi
+        -   https://gitlab.freedesktop.org/xorg/font/bitstream-100dpi
 1.  DEC Terminal Modern
+    -   dafont: https://www.dafont.com/dec-terminal-modern.font
+    -   based on: VT220
 1.  DEC VT330
+    -   description: a collection of .pcf fonts available on HP systems
 1.  DejaVu Sans Mono
     -   website: https://dejavu-fonts.github.io/
     -   license: https://dejavu-fonts.github.io/License.html
@@ -393,20 +407,65 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   built for coding
     -   DejaVu Sans Code variant
 1.  Decima Mono
+    -   myfonts: https://www.myfonts.com/collections/decima-mono-font-tipografiaramis
+    -   cost: $
+    -   designer: Ramiz Guseynov
+    -   foundry: TipografiaRamis
 1.  Deferral
+    -   github: https://github.com/brianbruggeman/Deferral
+    -   license: MIT or CC-By-4.0 (you choose).
+    -   images:
+        -   https://github.com/brianbruggeman/Deferral/raw/master/bitmaps/Deferral-Square-16-glyphs.png
+        -   https://github.com/brianbruggeman/Deferral/raw/master/bitmaps/Deferral-Regular-16-glyphs.png
 1.  DeluxeFont
+    -   dafont: https://www.dafont.com/deluxefont.font
+    -   NOT A MONOSPACE FONT
 1.  DF Staple Mono
-1.  DIN Monospace
-1.  DIN Mono Pro
+    -   myfonts: https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts
+    -   cost: $33 individual styles; $203 complete family of 10 fonts
+    -   designer: Ko Sliggers
+    -   foundry: Dutchfonts
+1.  DIN Monospace / PF Din Mono
+    -   website: https://parachutefonts.com/typeface/DIN-Monospace
+    -   cost: $
+    -   foundry: Parachute1
 1.  Dina
+    -   website: https://www.dcmembers.com/jibsen/download/61/
+    -   image: https://www.dcmembers.com/jibsen/wp-content/uploads/sites/6/2017/12/dinabordered3.png
 1.  Disket Mono
+    -   website: https://rostype.com/disket/
+    -   image: https://rostype.com/wp-content/uploads/2019/10/rostype-slide_dis.jpg
+    -   not built for coding
 1.  Dispatch Mono
+    -   website: https://occupantfonts.com/fonts/dispatch-mono/
+    -   foundry: Occupant Fonts
+    -   cost: $
 1.  DM Mono
+    -   google fonts: https://fonts.google.com/specimen/DM+Mono
+    -   github: https://github.com/googlefonts/dm-mono
+    -   foundry: Colophon
+    -   license: SIL OFL
 1.  Doire
+    -   myfonts: https://www.myfonts.com/collections/doire-font-evertype
+    -   cost: $40 for complete family of four fonts
+    -   designer: Michael Everson
+    -   foundry: Evertype
+    -   not good for coding
+    -   based on a Royal gaelic manual typewriter
 1.  Dossier
+    -   myfonts: https://www.myfonts.com/collections/dossier-font-tabular-type-foundry
+    -   website: https://tosche.net/blog/tabular-type-foundry
+    -   cost: $15 for complete family of 15 fonts
 1.  DPCustomMono2
+    -   wiki: https://www.pgdp.net/wiki/DPCustomMono2_Font
+    -   replaced by: DP Sans Mono
 1.  DP Sans Mono
+    -   wiki: https://www.pgdp.net/wiki/DP_Sans_Mono
+    -   website: https://www.pgdp.net/c/faq/font_sample.php
+    -   application: proofreading
 1.  Drafting* Mono
+    -   github: https://github.com/indestructible-type/Drafting
+    -   website: https://indestructibletype.com/Drafting/
 1.  Droid Sans Mono
     -   designer: Steve Matteson
     -   foundry: Ascender Corporation
@@ -738,7 +797,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  PTL Notes Tec Mono
 1.  Quadraat Sans Mono
     -   website: https://www.typeby.com/fonts/quadraat-sans-mono
-    -   $
+    -   cost: $
 1.  QuickType Mono
 1.  Quinze
 1.  Raize
