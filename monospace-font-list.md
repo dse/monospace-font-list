@@ -1,5 +1,7 @@
 # The Monospace Typeface List
 
+https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J45z8/edit#gid=60842788
+
 1.  3270font
     -   github: https://github.com/rbanffy/3270font
     -   license: https://github.com/rbanffy/3270font/blob/main/LICENSE.txt
@@ -140,44 +142,105 @@
     -   foundry: Displaay
     -   google fonts: https://fonts.google.com/specimen/Azeret+Mono
 1.  B612 Mono
+    -   website: https://b612-font.com/
+    -   author: Airbus
+    -   github: https://github.com/polarsys/b612
+    -   license: SIL OFL 1.1
 1.  Base Monospace
     -   narrow and wide variants
+    -   website: https://www.emigre.com/Fonts/Base-Monospace
+    -   $
+    -   foundry: Emigre
 1.  Basier Mono
+    -   website: https://www.atipofoundry.com/fonts/basier-mono
+    -   free or $
+    -   license: https://www.atipofoundry.com/license
 1.  Basis Grotesque mono
+    -   website: https://www.colophon-foundry.org/typefaces/basis-grotesque-mono
+    -   $
+    -   foundry: Colophon
 1.  Bedstead
+    -   website: https://bjh21.me.uk/bedstead/
+    -   git: git clone https://bjh21.me.uk/bedstead/.git/
+    -   license: public domain
 1.  Befont
     -   git: https://codeberg.org/Wezl/fonts
+    -   website: https://ermineii.github.io/befont.html
+    -   license: SIL OFL 1.1
 1.  Bergen Mono
     -   via: https://www.designbombs.com/best-monospaced-fonts/
+    -   website: https://elements.envato.com/bergen-mono-942DQ4
+    -   license: https://elements.envato.com/license-term
+    -   foundry: Mindburger Studio
 1.  BigBlue Terminal
+    -   website: https://int10h.org/blog/2015/12/bigblue-terminal-oldschool-fixed-width-font/
+    -   license: [CC Attribution-SharAlike 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/)
 1.  Bino Mono
-1.  Bistro (?)
-    -   via: https://www.designbombs.com/best-monospaced-fonts/
+    -   designer: Neal Fletcher
+    -   luc devroye: http://luc.devroye.org/fonts-54943.html
+    -   image: http://luc.devroye.org/NealFletcher--Bino-2011.png
 1.  Bitstream Vera Sans Mono
+    -   wikipedia: https://en.wikipedia.org/wiki/Bitstream_Vera
     -   notes:
         -   Bitstream Vera, via its primary fork, DejaVu, are the
             origins of numerous FOSS programming typefaces.
     -   author: Bitstream, Inc.
     -   license: https://dejavu-fonts.github.io/License.html
+    -   website: https://web.archive.org/web/20210314185159/https://www.gnome.org/fonts/
+    -   download: https://download.gnome.org/sources/ttf-bitstream-vera/1.10/
     -   built for coding
 1.  Bizcat
+    -   website: https://robey.lag.net/2020/02/09/bizcat-bitmap-font.html
+    -   license: http://creativecommons.org/licenses/by/4.0/
 1.  Bmono
+    -   based on: Iosevka
+    -   github: https://github.com/NNBnh/bmono
+    -   license: SIL OFL 1.1
+    -   image: https://user-images.githubusercontent.com/43980777/115989432-85c1d300-a5e8-11eb-9eb9-974865659754.png
 1.  Borg Sans Mono
+    -   github: https://github.com/marnen/borg-sans-mono
+    -   license: Apache 2.0 License
+    -   image: https://github.com/marnen/borg-sans-mono/blob/master/screenshot.png
 1.  BPmono
+    -   designer: Backpacker
+    -   license: Creative Commons Attribution-No Derivative Works v3.00
+    -   website: https://backpacker.gr/fonts/5
 1.  BPtypewrite
+    -   designer: Backpacker
+    -   website: https://backpacker.gr/fonts/10
 1.  BQN386
     -   APL font
     -   github: https://github.com/dzaima/BQN386
     -   website: https://dzaima.github.io/BQN386/
     -   based on: APL386
 1.  Bradford Mono
+    -   foundry: Lineto
+    -   $
+    -   website: https://lineto.com/typefaces/bradford-mono
 1.  Brass Mono
-1.  Bront (aggregator)
+    -   github: https://github.com/fonsecapeter/brass_mono
+    -   license: SIL OFL 1.1
+    -   image: https://raw.githubusercontent.com/fonsecapeter/brass_mono/master/media/brass_mono.png
 1.  Brutalist Mono
+    -   https://github.com/BRUTALISM/Brutalist
+    -   based on: DejaVu Sans Mono
+    -   license: [Bitstream Vera Fonts Copyright](https://github.com/BRUTALISM/Brutalist/blob/master/LICENSE)
+    -   not for coding
 1.  BSU Kermit
+    -   mentioned: ht
+    -   mentioned: https://www.lowing.org/fonts/
+    -   image: ht
 1.  Calling Code
+    -   fontspring: https://www.fontspring.com/fonts/dharma-type/calling-code
+    -   foundry: Dharma Type
+    -   $
+    -   license: https://www.fontspring.com/fonts/dharma-type/calling-code#licensing
 1.  Camingo Code
     -   built for coding
+    -   website: https://janfromm.de/typefaces/camingocode/
+    -   myfonts: https://www.myfonts.com/collections/camingo-code-font-jan-fromm
+    -   cost: $0
+    -   designer: Jan Fromm
 1.  Cascadia Code
     -   github: https://github.com/microsoft/cascadia-code
     -   license: SIL OFL 1.1
@@ -185,43 +248,136 @@
     -   designer: Aaron Bell
     -   built for coding
 1.  Centima Mono
+    -   myfonts: https://www.myfonts.com/collections/centima-mono-font-tipografiaramis
+    -   designer: Ramiz Guseynov
+    -   foundry: TipografiaRamis
+    -   cost: $
 1.  Circular Mono
+    -   website: https://lineto.com/typefaces/circular-mono
+    -   foundry: Lineto
+    -   $
 1.  Code New Roman
+    -   designer: Sam Radian
+    -   luc devroye: ht
 1.  Code Saver
+    -   myfonts: https://www.myfonts.com/collections/code-saver-font-dharma-type
+    -   $
+    -   foundry: Dharma Type
+    -   designer: Ryoichi Tsunekawa
 1.  Codename Coder 4F
+    -   myfonts: https://www.myfonts.com/products/bold-codename-coder-4f-303196
+    -   cost: $0
+    -   designer: 4th February
+    -   website: http://fonts.4thfebruary.com.ua/codename-coder-4f/
+    -   http://fonts.4thfebruary.com.ua/codename-coder-4f/img/banner1.png
+    -   NOT A MONOSPACE FONT
 1.  Coding Font Tobi
+    -   website: http://www.proggyfonts.net/index.php?menu=download
+    -   see also: Proggy
 1.  Colón Mono
+    -   myfonts: https://www.myfonts.com/collections/colon-mono-font-tipografiaramis
+    -   $
+    -   designer: Ramiz Guseynov
+    -   foundry: TipografiaRamis
 1.  Comic Code
     -   website: https://tosche.net/fonts/comic-code
+    -   built for coding
+    -   buy: https://fonts.ilovetypography.com/fonts/tabular-type-foundry/comic-code
+    -   variants: without and with ligatures
 1.  Comic Mono
-    -   github: https://github.com/shannpersand/comic-shanns
+    -   github: https://github.com/dtinth/comic-mono-font
+    -   based on: Comic Shanns
+    -   license: MIT
+    -   image: https://repository-images.githubusercontent.com/164606802/cd83d680-894c-11e9-83f7-c353c70df1cb
 1.  Comic Shanns
+    -   github: https://github.com/shannpersand/comic-shanns
+    -   images:
+        -   https://user-images.githubusercontent.com/4615568/44279591-c9909780-a206-11e8-9e1d-40db6d6db77e.png
+        -   https://user-images.githubusercontent.com/4615568/44279592-ca292e00-a206-11e8-9278-4a7566425c0c.png
+        -   https://user-images.githubusercontent.com/4615568/44279593-ca292e00-a206-11e8-9b25-a4533b50d471.png
+    -   license: MIT
 1.  Compagnon
+    -   fontsquirrel: https://www.fontsquirrel.com/fonts/compagnon
+    -   website: http://velvetyne.fr/fonts/compagnon/
+    -   designed by: Velvetyne
+    -   not to be confused with:
+        -   myfonts: https://www.myfonts.com/collections/compagnon-font-hanoded
 1.  Computer Modern Typewriter Text
     -   a/k/a CMU Typewriter Text
     -   a/k.a Latin Modern Mono
     -   designer: Donald Knuth
 1.  Concursico Mono BTN
+    -   myfonts: https://www.myfonts.com/products/concursico-mono-btn-concursico-mono-btn-410971
+    -   $
+    -   image: <https://cdn.myfonts.net/cdn-cgi/image/width=720%2Cheight=360%2Cfit=contain%2Cformat=auto/images/pim/10000/23958_2e966fefb987e5f215bdca56e653c3e3.png>
+1.  Consola Mono
 1.  ConsolaMono
+    -   fontlibrary: https://fontlibrary.org/en/font/consolamonohttps://fontlibrary.org/en/font/consolamono
+    -   license: SIL OFL
+    -   1001fonts: https://www.1001fonts.com/consola-mono-font.html
 1.  Consolas
     -   website: https://www.lucasfonts.com/fonts/consolas/
     -   secondary website: https://learn.microsoft.com/en-us/typography/font-list/consolas
     -   author: Microsoft
     -   designer: Luc(as) de Groot
     -   built for coding
-1.  Corbi Mono
+1.  Corbi Mono S
+    -   fontlibrary: https://fontlibrary.org/en/font/corbi-mono-shttps://fontlibrary.org/en/font/corbi-mono-s
+    -   license: SIL OFL
+    -   based on: Libertinus Mono; slashed zero by default
 1.  Comic Sans Neue Mono
+    -   renamed to: Fantasque Sans
 1.  Cousine
+    -   google fonts: https://fonts.google.com/specimen/Cousine
+    -   designer: Steve Matteson
+    -   foundry: Ascender
 1.  Cozette
+    -   github: https://github.com/slavfox/Cozette
+    -   license: MIT
+    -   image: https://github.com/slavfox/Cozette/raw/master/img/sample.png
 1.  CP Mono
+    -   luc devroye: http://luc.devroye.org/fonts-88063.html
+    -   foundry: Liquitype
 1.  CP1250 Terminal Fonts
+    -   via: https://www.lowing.org/fonts/
+    -   download: http://lowing.org/fonts/Free/CP1250.zip
 1.  Creep
+    -   github: https://github.com/romeovs/creep
+    -   license: MIT
+    -   images:
+        -   https://github.com/romeovs/creep/raw/master/screens/logo.png
+        -   https://github.com/romeovs/creep/raw/master/screens/screen.png
+        -   https://github.com/romeovs/creep/raw/master/screens/screen2.png
+        -   https://github.com/romeovs/creep/raw/master/screens/box.png
+        -   https://github.com/romeovs/creep/raw/master/screens/powerline.png
+        -   https://github.com/romeovs/creep/raw/master/screens/istats.png
+        -   https://github.com/romeovs/creep/raw/master/screens/drawille.png
 1.  Creep2
+    -   https://github.com/raymond-w-ko/creep2
+    -   based on: Creep, but with a strict character bounding box
+    -   license: MIT
 1.  Crystal
+    -   via: https://www.lowing.org/fonts/
+    -   image: https://www.lowing.org/fonts/images/showPreview.php?filter=Crystal.gif
+    -   available: Availiable with free Povray software. http://www.povray.org/povlegal.html
 1.  Cubiculum
+    -   myfonts: https://www.myfonts.com/collections/cubiculum-font-johan-winge
+    -   designer: Johan Winge
+    -   cost: $29 for complete family
+    -   built for coding
+    -   images:
+        -   https://cdn.myfonts.net/cdn-cgi/image/width=720%2Cheight=360%2Cfit=contain%2Cformat=auto/images/pim/10000/122723_ddc2d93046a723a88a1f67e6600dc8d9.png
+        -   https://cdn.myfonts.net/cdn-cgi/image/width=720%2Cheight=360%2Cfit=contain%2Cformat=auto/images/pim/10000/122724_fb3d1496eea41112865ec3e70d72bc55.png
 1.  Cumberland
+    -   fontsgeek: https://fontsgeek.com/fonts/cumberland-std-regular
+    -   image: https://media.fontsgeek.com/generated/c/u/cumberland-std-regular-sample.png
 1.  Cutive Mono
+    -   google fonts: https://fonts.google.com/specimen/Cutive+Mono
+    -   designer: Vernon Adams
+    -   luc devroye: http://luc.devroye.org/fonts-47641.html
 1.  D2 Coding
+    -   github: ht
+    -   license: [SIL OFL 1.1](https://github.com/naver/d2codingfont/wiki/Open-Font-License)
 1.  DaddyTimeMono
 1.  Dank Mono
 1.  DEC Terminal
@@ -885,7 +1041,7 @@ About Courier, generally:
 -   Enigma Typewriter (not actually monospace)
     -   via: https://www.designbombs.com/best-monospaced-fonts/
 
-## Aggregators
+## Font Tweakers
 
 -   Nerd Fonts
     -   website: https://www.nerdfonts.com/
@@ -896,6 +1052,8 @@ About Courier, generally:
     -   for: Powerline
         -   github: https://github.com/powerline/powerline
         -   website: https://powerline.readthedocs.io/en/latest/
+-   Bront (aggregator)
+    -   https://github.com/chrismwendt/bront
 
 ## Sources
 
