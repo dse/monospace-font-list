@@ -3,7 +3,7 @@
 https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J45z8/edit#gid=60842788
 
 1.  3270font
-    -   github: https://github.com/rbanffy/3270font
+    -   git: https://github.com/rbanffy/3270font
     -   license: https://github.com/rbanffy/3270font/blob/main/LICENSE.txt
     -   built for coding
 1.  64-SRC
@@ -18,7 +18,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   website: https://garagefonts.com/font/adore-mono
     -   buy: https://www.fontshop.com/families/adore-mono
 1.  Agave
-    -   github: https://github.com/blobject/agave
+    -   git: https://github.com/blobject/agave
     -   license: MIT
     -   author: Type Agaric
     -   website: https://b.agaric.net/page/agave
@@ -52,14 +52,14 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   designer: David Nalle
     -   foundry: Scriptorium
 1.  Anka/Coder
-    -   github: https://github.com/loafer-mka/anka-coder-fonts
+    -   git: https://github.com/loafer-mka/anka-coder-fonts
     -   google code archive: https://code.google.com/archive/p/anka-coder-fonts/
     -   license: SIL OFL 1.1
     -   built for coding
     -   fontlibrary: https://fontlibrary.org/en/font/anka-coder
     -   designer: Andrey Makarov (?)
 1.  Anomaly Mono
-    -   github: https://github.com/benbusby/anomaly-mono
+    -   git: https://github.com/benbusby/anomaly-mono
     -   designer: Ben Busby
     -   license: SIL OFL 1.1
 1.  Anonymous Pro
@@ -144,7 +144,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  B612 Mono
     -   website: https://b612-font.com/
     -   author: Airbus
-    -   github: https://github.com/polarsys/b612
+    -   git: https://github.com/polarsys/b612
     -   license: SIL OFL 1.1
 1.  Base Monospace
     -   narrow and wide variants
@@ -194,11 +194,11 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   license: http://creativecommons.org/licenses/by/4.0/
 1.  Bmono
     -   based on: Iosevka
-    -   github: https://github.com/NNBnh/bmono
+    -   git: https://github.com/NNBnh/bmono
     -   license: SIL OFL 1.1
     -   image: https://user-images.githubusercontent.com/43980777/115989432-85c1d300-a5e8-11eb-9eb9-974865659754.png
 1.  Borg Sans Mono
-    -   github: https://github.com/marnen/borg-sans-mono
+    -   git: https://github.com/marnen/borg-sans-mono
     -   license: Apache 2.0 License
     -   image: https://github.com/marnen/borg-sans-mono/blob/master/screenshot.png
 1.  BPmono
@@ -210,7 +210,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   website: https://backpacker.gr/fonts/10
 1.  BQN386
     -   APL font
-    -   github: https://github.com/dzaima/BQN386
+    -   git: https://github.com/dzaima/BQN386
     -   website: https://dzaima.github.io/BQN386/
     -   based on: APL386
 1.  Bradford Mono
@@ -218,7 +218,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   cost: $
     -   website: https://lineto.com/typefaces/bradford-mono
 1.  Brass Mono
-    -   github: https://github.com/fonsecapeter/brass_mono
+    -   git: https://github.com/fonsecapeter/brass_mono
     -   license: SIL OFL 1.1
     -   image: https://raw.githubusercontent.com/fonsecapeter/brass_mono/master/media/brass_mono.png
 1.  Brutalist Mono
@@ -242,7 +242,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   cost: $0
     -   designer: Jan Fromm
 1.  Cascadia Code
-    -   github: https://github.com/microsoft/cascadia-code
+    -   git: https://github.com/microsoft/cascadia-code
     -   license: SIL OFL 1.1
     -   author: Microsoft
     -   designer: Aaron Bell
@@ -285,12 +285,12 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   buy: https://fonts.ilovetypography.com/fonts/tabular-type-foundry/comic-code
     -   variants: without and with ligatures
 1.  Comic Mono
-    -   github: https://github.com/dtinth/comic-mono-font
+    -   git: https://github.com/dtinth/comic-mono-font
     -   based on: Comic Shanns
     -   license: MIT
     -   image: https://repository-images.githubusercontent.com/164606802/cd83d680-894c-11e9-83f7-c353c70df1cb
 1.  Comic Shanns
-    -   github: https://github.com/shannpersand/comic-shanns
+    -   git: https://github.com/shannpersand/comic-shanns
     -   images:
         -   https://user-images.githubusercontent.com/4615568/44279591-c9909780-a206-11e8-9e1d-40db6d6db77e.png
         -   https://user-images.githubusercontent.com/4615568/44279592-ca292e00-a206-11e8-9278-4a7566425c0c.png
@@ -331,7 +331,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   designer: Steve Matteson
     -   foundry: Ascender
 1.  Cozette
-    -   github: https://github.com/slavfox/Cozette
+    -   git: https://github.com/slavfox/Cozette
     -   license: MIT
     -   image: https://github.com/slavfox/Cozette/raw/master/img/sample.png
 1.  CP Mono
@@ -341,7 +341,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   via: https://www.lowing.org/fonts/
     -   download: http://lowing.org/fonts/Free/CP1250.zip
 1.  Creep
-    -   github: https://github.com/romeovs/creep
+    -   git: https://github.com/romeovs/creep
     -   license: MIT
     -   images:
         -   https://github.com/romeovs/creep/raw/master/screens/logo.png
@@ -375,11 +375,11 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   designer: Vernon Adams
     -   luc devroye: http://luc.devroye.org/fonts-47641.html
 1.  D2 Coding
-    -   github: https://github.com/naver/d2codingfont
+    -   git: https://github.com/naver/d2codingfont
     -   license: [SIL OFL 1.1](https://github.com/naver/d2codingfont/wiki/Open-Font-License)
     -   image: https://user-images.githubusercontent.com/6773678/33355628-997fe52e-d4fb-11e7-9d1a-64c3b2d42de8.png
 1.  DaddyTimeMono
-    -   github: https://github.com/BourgeoisBear/DaddyTimeMono
+    -   git: https://github.com/BourgeoisBear/DaddyTimeMono
     -   license: SIL OFL 1.1
     -   image: https://github.com/BourgeoisBear/DaddyTimeMono/raw/master/DaddyTimeMono-sample.png
     -   inspired by: [Corona PPC-400 BIOS font](https://github.com/BourgeoisBear/DaddyTimeMono/raw/master/cordata-font.png)
@@ -412,7 +412,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   designer: Ramiz Guseynov
     -   foundry: TipografiaRamis
 1.  Deferral
-    -   github: https://github.com/brianbruggeman/Deferral
+    -   git: https://github.com/brianbruggeman/Deferral
     -   license: MIT or CC-By-4.0 (you choose).
     -   images:
         -   https://github.com/brianbruggeman/Deferral/raw/master/bitmaps/Deferral-Square-16-glyphs.png
@@ -442,7 +442,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   cost: $
 1.  DM Mono
     -   google fonts: https://fonts.google.com/specimen/DM+Mono
-    -   github: https://github.com/googlefonts/dm-mono
+    -   git: https://github.com/googlefonts/dm-mono
     -   foundry: Colophon
     -   license: SIL OFL
 1.  Doire
@@ -464,13 +464,13 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   website: https://www.pgdp.net/c/faq/font_sample.php
     -   application: proofreading
 1.  Drafting* Mono
-    -   github: https://github.com/indestructible-type/Drafting
+    -   git: https://github.com/indestructible-type/Drafting
     -   website: https://indestructibletype.com/Drafting/
 1.  Droid Sans Mono
     -   designer: Steve Matteson
     -   foundry: Ascender Corporation
     -   git: https://android.googlesource.com/platform/frameworks/base.git
-    -   github: https://github.com/aosp-mirror/platform_frameworks_base/tree/master/data/fonts
+    -   git: https://github.com/aosp-mirror/platform_frameworks_base/tree/master/data/fonts
     -   license: Apache License 2.0
     -   website: https://damieng.com/blog/2007/11/14/droid-sans-mono-great-coding-font/
     -   variants:
@@ -479,14 +479,14 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  DSE Typewriter
     -   an old-timey typewriter font
     -   website: https://webonastick.com/fonts/dse-typewriter/
-    -   github: https://github.com/dse/dse-typewriter-font
+    -   git: https://github.com/dse/dse-typewriter-font
     -   designer: Darren Embry (yours truly!)
     -   built for coding
     -   best at higher resolutions
     -   license: SIL OFL 1.1
 1.  DSE Typewriter Bitmap
     -   an old-timey typewriter font
-    -   github: https://github.com/dse/dse-typewriter-bitmap-font/
+    -   git: https://github.com/dse/dse-typewriter-bitmap-font/
     -   designer: Darren Embry (yours truly!)
     -   license: SIL OFL 1.1
     -   variants:
@@ -515,7 +515,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  F25 Typewriter Condensed
 1.  Fabrikat Mono
 1.  Fairfax HD
-    -   github: https://github.com/kreativekorp/open-relay/tree/master/FairfaxHD
+    -   git: https://github.com/kreativekorp/open-relay/tree/master/FairfaxHD
     -   website: https://www.kreativekorp.com/software/fonts/fairfaxhd/
     -   built for coding
     -   previous variants:
@@ -535,13 +535,13 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  FF Typestar OCR
 1.  Fifteen
 1.  Fira Code
-    -   github: https://github.com/tonsky/FiraCode
+    -   git: https://github.com/tonsky/FiraCode
     -   author: Nikita Prokopov
     -   based on: Fira Mono
     -   built for coding
 1.  Fira Cousine
 1.  Fira Mono
-    -   github: https://github.com/mozilla/Fira
+    -   git: https://github.com/mozilla/Fira
     -   license: SIL OFL 1.1
     -   website: http://mozilla.github.io/Fira/
 1.  Fixedsys
@@ -551,7 +551,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  Gemeli Mono
 1.  Generic Mono
 1.  Glass TTY VT220
-    -   github: https://github.com/svofski/glasstty
+    -   git: https://github.com/svofski/glasstty
     -   website: http://sensi.org/~svo/glasstty/
     -   VT220 bitmap font
 1.  Glovis
@@ -565,13 +565,13 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  GT Pressura Mono
 1.  GwdTE 437
 1.  Hack
-    -   github: https://github.com/source-foundry/Hack
+    -   git: https://github.com/source-foundry/Hack
     -   license: MIT
     -   modified from: DejaVu Sans Mono
     -   author: Source Foundry
     -   built for coding
 1.  Hasklig
-    -   github: https://github.com/i-tu/Hasklig
+    -   git: https://github.com/i-tu/Hasklig
     -   license: SIL OFL 1.1
     -   based on: Source Code Pro
     -   built for coding
@@ -579,7 +579,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  Heimat Mono
 1.  Hera Mono
 1.  Hermit
-    -   github: https://github.com/pcaro90/hermit
+    -   git: https://github.com/pcaro90/hermit
     -   license: SIL OFL 1.1
     -   designer: Pablo Caro
     -   website: https://pcaro.es/hermit/
@@ -591,7 +591,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   website: https://farsil.github.io/ibmfonts/
 1.  IBM Plex Mono
     -   website: https://www.ibm.com/plex/
-    -   github: https://github.com/IBM/plex
+    -   git: https://github.com/IBM/plex
     -   license: SIL OFL 1.1
 1.  Igoe (?)
     -   via: https://www.designbombs.com/best-monospaced-fonts/
@@ -599,7 +599,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  Inconsolata
     -   website: https://levien.com/type/myfonts/inconsolata.html
     -   google fonts: https://www.google.com/fonts/specimen/Inconsolata
-    -   github: https://github.com/google/fonts/tree/master/ofl/inconsolata
+    -   git: https://github.com/google/fonts/tree/master/ofl/inconsolata
     -   notes:
         -   With design cues from Consolas, Avenir, and Franklin
             Gothic, this humanist monospace typeface has a Letter
@@ -617,7 +617,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  Intimo
 1.  Intimo Two
 1.  Iosevka
-    -   github: https://github.com/be5invis/Iosevka
+    -   git: https://github.com/be5invis/Iosevka
     -   license: SIL OFL 1.1
     -   website: https://typeof.net/Iosevka/
     -   built for coding
@@ -627,7 +627,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   via: http://archive.vector.org.uk/resource/index.htm
 1.  JetBrains Mono
     -   website: https://www.jetbrains.com/lp/mono/
-    -   github: https://github.com/JetBrains/JetBrainsMono
+    -   git: https://github.com/JetBrains/JetBrainsMono
     -   license: SIL OFL 1.1
     -   built for coding
 1.  JetJane Mono
@@ -699,7 +699,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  Monofur
 1.  Monoid
     -   website: https://larsenwork.com/monoid/
-    -   github: https://github.com/larsenwork/monoid
+    -   git: https://github.com/larsenwork/monoid
 1.  Monoist
 1.  MonoLisa
 1.  Mononoki
@@ -725,7 +725,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  NB Typewriter
 1.  Neep
 1.  New Heterodox Mono
-    -   github: https://github.com/hckiang/font-new-heterodox-mono
+    -   git: https://github.com/hckiang/font-new-heterodox-mono
 1.  Nice Weekend
 1.  Nicolatte (?)
     -   via: https://www.designbombs.com/best-monospaced-fonts/
@@ -735,7 +735,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  NotCourierSans
 1.  Noto Sans Mono
     -   google fonts: https://fonts.google.com/noto/specimen/Noto+Sans
-    -   github: https://github.com/notofonts/noto-source
+    -   git: https://github.com/notofonts/noto-source
     -   license: Apache License 2.0
     -   built for coding
 1.  Nova Mono
@@ -746,7 +746,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  Odudo Mono
     -   via: https://www.designbombs.com/best-monospaced-fonts/
 1.  Office Code Pro
-    -   github: https://github.com/nathco/Office-Code-Pro
+    -   git: https://github.com/nathco/Office-Code-Pro
     -   based on: Source Code Pro
     -   license: SIL OFL 1.1
 1.  Oloron Program
@@ -789,7 +789,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  ProFont
     -   website: https://tobiasjung.name/profont/
 1.  Proggy Fonts
-    -   github: https://github.com/bluescan/proggyfonts
+    -   git: https://github.com/bluescan/proggyfonts
     -   license: MIT
     -   website: http://www.proggyfonts.net/
     -   built for coding
@@ -816,10 +816,10 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   google fonts: https://fonts.google.com/specimen/Roboto+Mono
     -   designer: Christian Robertson
     -   license: Apache License 2.0
-    -   github: https://github.com/googlefonts/roboto
+    -   git: https://github.com/googlefonts/roboto
     -   built for coding
 1.  romfont
-    -   github: https://github.com/spacerace/romfont
+    -   git: https://github.com/spacerace/romfont
     -   collection of old PC fonts, and then some.
 1.  Rubik Mono One
 1.  RX100
@@ -856,7 +856,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   via: https://hackingcpp.com/dev/coding_fonts.html
 1.  Sony Misc
 1.  Source Code Pro
-    -   github: https://github.com/adobe-fonts/source-code-pro
+    -   git: https://github.com/adobe-fonts/source-code-pro
     -   designer: Paul D. Hunt
     -   website: http://adobe-fonts.github.io/source-code-pro/
     -   license: SIL OFL 1.1
@@ -869,7 +869,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 1.  Squareshooter Mono
 1.  String Literal 437
 1.  Sudo
-    -   github: https://github.com/jenskutilek/sudo-font
+    -   git: https://github.com/jenskutilek/sudo-font
     -   built for coding
     -   website: https://www.kutilek.de/sudo-font/
 1.  Sun Gallant Demi
@@ -912,7 +912,7 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
     -   an old-timey typewriter font, both clean and grungy variants
     -   website: https://copypaste.wtf/TT2020/docs/
     -   license: SIL OFL 1.1
-    -   github: https://github.com/ctrlcctrlv/TT2020/
+    -   git: https://github.com/ctrlcctrlv/TT2020/
 1.  Tye Paloon
 1.  Typewalk Mono 1915
 1.  Typewriter Condensed
@@ -990,14 +990,14 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
 -   OCR-A
 -   OCR-B
 -   Pragmata Pro
-    -   github: https://github.com/fabrizioschiavi/pragmatapro
+    -   git: https://github.com/fabrizioschiavi/pragmatapro
     -   website: https://fsd.it/shop/fonts/pragmatapro/
 -   Prestige
 -   EF Techno Script
     -   old-timey
     -   myfonts: https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake
     -   foundry: Elsner+Flake
-    -   buy: https://www.fonts4ever.com/product_info.php?products_id=3162
+    -   buy: https://www.fonts4ever.com/search_result.php?f_item_name=Techno+Script&x=0&y=0
 -   FF Elementa
     -   old-timey
     -   foundry: FontFont
@@ -1023,21 +1023,47 @@ domain(?) Courier typeface.  This may or may not be a complete
 list of them.
 
 -   Adobe Courier bitmap fonts
-    -   git: https://gitlab.freedesktop.org/xorg/font/adobe-75dpi/blob/master/COPYING 
-    -   there's a 100dpi version right?
+    -   git:
+        -   https://gitlab.freedesktop.org/xorg/font/adobe-75dpi
+        -   https://gitlab.freedesktop.org/xorg/font/adobe-100dpi
 -   IBM Courier
+    -   git: https://github.com/dse/ibm-courier (TTF)
+    -   ctan: https://ctan.org/tex-archive/obsolete/fonts/psfonts/ibm/courier (Type 1)
+    -   license: https://github.com/dse/ibm-courier/blob/master/COPYRIGHT
 -   Courier New
     -   Courier New is one of Microsoft's Core Fonts for the Web.
 -   Courier Prime
-    -   Courier Prime Code
-    -   Courier Prime Sans
+    -   variants:
+        -   Courier Prime
+            -   git: https://github.com/quoteunquoteapps/CourierPrime
+        -   Courier Prime Code
+            -   based on: Courier Prime Sans
+            -   git: https://github.com/quoteunquoteapps/CourierPrimeCode
+        -   Courier Prime Sans
+            -   git: https://github.com/quoteunquoteapps/CourierPrimeSans
+        -   third party [medium & semi-bold](https://quoteunquoteapps.com/courierprime/downloads/courier-prime-medium-semi-bold.zip)
+    -   google fonts: https://fonts.google.com/specimen/Courier+Prime
+    -   website: https://quoteunquoteapps.com/courierprime/
+    -   notes:
+        -   _It even has italics!_
+    -   license: SIL OFL 1.1
 -   Courier Screenplay
+    -   download: http://www.rolandstroud.com/Fonts/CourierScreenplay.zip
+    -   via: http://www.rolandstroud.com/Fonts-1.html
 -   Courier Final Draft
+    -   mentioned in: http://www.rolandstroud.com/Fonts/CourierFonts.pdf
 -   Dark Courier
+    -   download: http://www.rolandstroud.com/Fonts/DarkCourier.zip
+    -   via: http://www.rolandstroud.com/Fonts-1.html
+    -   foundry: Hewlett-Packard
 -   Courier 10 Pitch BT
     -   foundry: Bitstream
+    -   download: http://www.rolandstroud.com/Fonts/Courier10BT.zip
+    -   via: http://www.rolandstroud.com/Fonts-1.html
 -   Courier Code
-    -   based on: Courier 10 Pitch BT
+    -   based on: Courier 10 Pitch BT, with a dotted zero and a more distinguishable lowercase L.
+    -   luc devroye: http://luc.devroye.org/fonts-75638.html
+    -   fontlibrary: https://fontlibrary.org/en/font/courier-code
 -   Courier Standard
     -   distributed with Adobe Reader 6
 -   Nimbus Mono L
@@ -1048,31 +1074,33 @@ list of them.
 -   FreeMono
     -   based on: Nimbus Mono L
 -   EF Courier B
+    -   fonts.com: https://www.fonts.com/font/elsner-flake/ef-courier-b
+    -   foundry: Elsner+Flake
+    -   buy: https://www.fonts4ever.com/search_result_details.php?f_shops_id=2&selectedFamilyID=262&f_item_name=Courier%20B
 -   Courier Line Draw
+    -   myfonts: https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging
+    -   foundry: Monotype Imaging
 -   Courier M
+    -   myfonts: https://www.myfonts.com/collections/courier-font-urw
+    -   foundry: URW
 -   Courier MM Screenwriter
     -   bundled with Movie Magic Screenwriter 6
     -   apparently based on Courier 10 BT.
+    -   mentioned: http://www.rolandstroud.com/Fonts/CourierFonts.pdf
 -   Courier (ParaType)
     -   myfonts: https://www.myfonts.com/collections/courier-font-paratype
+    -   foundry: Paratype
 -   Courier PS
+    -   linotype.com: https://www.linotype.com/148045/courier-ps-family.html
+    -   foundry: Mojnotype
 -   Courier Sans Mono
+    -   website: https://lineto.com/typefaces/courier-sans-mono
+    -   foundry: Lineto
 -   Courier SB
+    -   myfonts: https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection
+    -   foundry: Scangraphic Digital Type Collection
 -   Average Mono
-
-    -   about:
-    
-        Average Mono is an average of thirteen different fonts which
-        are all derivatives of the public domain “Courier”
-        typeface. Or, rather, a subset of the Western Latin characters
-        in it, minus punctuation, are thus. Everything else is
-        imported wholesale from the GNU Free Mono typeface. It is
-        released under the GNU General Public License, which permits
-        reusing or creating derivative works of this typeface for any
-        purpose, provided that a copy of the full text of the GNU
-        General Public License is provided with every redistribution
-        or derivative work.
-        
+    -   about: an average of thirteen different derivatives of Courier
     -   designer: Richard Alexander Hall
     -   license: GPL
     -   fontlibrary: https://fontlibrary.org/en/font/average-mono
@@ -1090,7 +1118,7 @@ About Courier, generally:
 ## Almost Monospace
 
 1.  Amiri Typewriter
-    -   github: https://github.com/aliftype/amiri-typewriter
+    -   git: https://github.com/aliftype/amiri-typewriter
     -   almost monospace; Arabic
 
 ## Grungy Old Typewriter Fonts
@@ -1105,11 +1133,11 @@ About Courier, generally:
 -   Nerd Fonts
     -   website: https://www.nerdfonts.com/
 -   Codeface
-    -   github: https://github.com/chrissimpkins/codeface
+    -   git: https://github.com/chrissimpkins/codeface
 -   Powerline Fonts
-    -   github: https://github.com/powerline/fonts
+    -   git: https://github.com/powerline/fonts
     -   for: Powerline
-        -   github: https://github.com/powerline/powerline
+        -   git: https://github.com/powerline/powerline
         -   website: https://powerline.readthedocs.io/en/latest/
 -   Bront (aggregator)
     -   https://github.com/chrismwendt/bront
@@ -1125,3 +1153,38 @@ About Courier, generally:
 -   http://luc.devroye.org/
 -   bunch of APL fonts: https://aplwiki.com/wiki/Fonts
     -   downloads: http://archive.vector.org.uk/resource/index.htm
+
+## Collections of Fonts
+
+-   X.org Bitmap Fonts
+    -   third party: https://www.math.utah.edu/~beebe/fonts/X-Window-System-fonts.html
+    -   git: https://gitlab.freedesktop.org/xorg/font
+        -   Adobe Courier Bitmap Fonts from X.org
+            -   git:
+                -   https://gitlab.freedesktop.org/xorg/font/adobe-75dpi
+                -   https://gitlab.freedesktop.org/xorg/font/adobe-100dpi
+        -   B&H Lucida Typewriter Bitmap Fonts from X.org
+            -   git:
+                -   https://gitlab.freedesktop.org/xorg/font/bh-lucidatypewriter-75dpi
+                -   https://gitlab.freedesktop.org/xorg/font/bh-lucidatypewriter-100dpi
+            -   foundry: Bigelow & Holmes
+        -   DEC Terminal Bitmap Fonts from X.org
+            -   git:
+                -   https://gitlab.freedesktop.org/xorg/font/bitstream-75dpi
+                -   https://gitlab.freedesktop.org/xorg/font/bitstream-100dpi
+        -   Misc Fixed Bitmap Fonts from X.org
+            -   git: https://gitlab.freedesktop.org/xorg/font/misc-misc
+        -   Sony Misc Bitmap Fonts from X.org
+            -   git: https://gitlab.freedesktop.org/xorg/font/sony-misc
+        -   IBM Courier Type 1 Fonts from X.org
+            -   git: https://gitlab.freedesktop.org/xorg/font/ibm-type1
+        -   there's others...
+    -   third party conversions and whatnots:
+        -   https://github.com/masaeedu/bitmap-fonts
+        -   https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html
+        -   
+
+## TODO
+
+-   https://ctan.org/pkg/cm-super
+-   https://ctan.org/pkg/luximono
