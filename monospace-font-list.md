@@ -494,73 +494,168 @@ https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J4
         -   old-style numerals
     -   built for coding
 1.  EB Jessica
+    -   myfonts: https://www.myfonts.com/collections/eb-jessica-font-erik-bertell
+    -   cost: $19.95 for complete family of 2 fonts
+    -   designer: Erik Bertell
+    -   not for coding
 1.  Eco Coding
+    -   myfonts: https://www.myfonts.com/collections/eco-coding-font-s-core
+    -   cost: $
+    -   foundry: S-Core
+    -   built for coding
 1.  Edlo
-1.  EF Cash
+    -   git: https://github.com/ehamiter/Edlo
+    -   based on: Aurulent Sans
+    -   license: SIL OFL 1.1
+    -   built for coding
+1.  EF Cash Monospaced
+    -   website: https://www.fonts.com/font/elsner-flake/ef-cash/monospaced
+    -   cost: $35
 1.  Effects Eighty
-1.  Electronic Font Open Laboratory
+    -   fontlibrary: https://fontlibrary.org/en/font/effects-eighty
+    -   dot matrix printer font
+    -   designer: Peter Hull
 1.  Envy Code R
     -   website: https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released
+    -   designer: damieng
+    -   built for coding
 1.  EnvyPN
+    -   git: https://github.com/hicolour/envypn-font
+    -   designed by [Yponse](https://ywstd.fr/)
 1.  Erica Type
+    -   dafont: https://www.dafont.com/erika-type.font
+    -   APPARENTLY NOT A MONOSPACE if dafont is any indication
+    -   designer: [Peter Wiegel](http://www.peter-wiegel.de/)
 1.  Espresso Mono
+    -   website: https://eng.m.fontke.com/font/16258123/
+    -   designed by: fontke
 1.  Everson Mono
+    -   website: https://www.evertype.com/emono/
+    -   cost: 25 EUR, shareware
 1.  Excalibur Monospace
+    -   fonts2u: https://fonts2u.com/excalibur-monospace.font
 1.  F25 Artisan12
+    -   website: http://f25.cc/?F25_Fonts:Monospaced
 1.  F25 Bank Printer
+    -   website: http://f25.cc/?F25_Fonts:Monospaced
 1.  F25 Blackletter Typewriter
+    -   website: http://f25.cc/?F25_Fonts:Monospaced
 1.  F25 Cella
+    -   website: http://f25.cc/?F25_Fonts:Monospaced
 1.  F25 Daisy Wheel
+    -   website: http://f25.cc/?F25_Fonts:Monospaced
 1.  F25 Telegraphem
+    -   website: http://f25.cc/?F25_Fonts:Monospaced
 1.  F25 Typewriter Condensed
+    -   website: http://f25.cc/?F25_Fonts:Monospaced
+1.  F25 Executive
+    -   website: http://f25.cc/?F25_Fonts:Monospaced
 1.  Fabrikat Mono
+    -   myfonts: https://www.myfonts.com/collections/fabrikat-mono-font-hvd-fonts
+    -   foundry: HVD Fonts
+    -   https://www.hvdfonts.com/fonts/fabrikat-mono
 1.  Fairfax HD
     -   git: https://github.com/kreativekorp/open-relay/tree/master/FairfaxHD
     -   website: https://www.kreativekorp.com/software/fonts/fairfaxhd/
     -   built for coding
     -   previous variants:
         -   Fairfax
-1.  Fairfax Serif
 1.  Fantasque Sans
     -   if you like Comic Sans
+    -   git: https://github.com/belluzj/fantasque-sans
+    -   fka: Cosmic Sans Neue Mono
+    -   license: SIL OFL 1.1
+    -   images:
+        -   https://raw.githubusercontent.com/belluzj/fantasque-sans/master/Specimen/urxvt13.png
+        -   https://raw.githubusercontent.com/belluzj/fantasque-sans/master/Specimen/kdevelop11.png
+        -   https://raw.githubusercontent.com/belluzj/fantasque-sans/master/Specimen/sublime11.png
+        -   https://raw.githubusercontent.com/belluzj/fantasque-sans/master/Specimen/vim21.png
+        -   https://raw.githubusercontent.com/belluzj/fantasque-sans/master/Specimen/noloopk.png
+        -   https://raw.githubusercontent.com/belluzj/fantasque-sans/master/Specimen/Specimen.png
 1.  Feggolite Mono
-1.  Felt Pen
+    -   fonts.com: https://www.fonts.com/font/ingrimayne-type/feggolite-mono
+    -   foundry: Ingrimayne Type
+    -   cost: $16.95
+    -   via: http://www.cfcl.com/vlb/h/fontmono.html
 1.  FF Attribute Mono
+    -   foundry: FontFont
+    -   myfonts: https://www.myfonts.com/collections/ff-attribute-mono-font-fontfont
 1.  FF Elementa
+    -   foundry: FontFont
+    -   myfonts: https://www.myfonts.com/collections/elementa-pro-font-fontfont
 1.  FF Fago Monospaced
-1.  FF Gateway
+    -   foundry: FontFont
+    -   myfonts: https://www.myfonts.com/collections/fago-monospace-font-fontfont
+1.  FF Gateway (no longer available)
+    -   foundry: FontFont
 1.  FF Magda Clean Mono
-1.  FF Nexus Typewriter
+    -   foundry: FontFont
+    -   myfonts: https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont
+1.  FF Nexus Typewriter (no longer available)
+    -   foundry: FontFont
 1.  FF Trixie
+    -   foundry: FontFont
+    -   myfonts: https://www.myfonts.com/collections/ff-trixie-font-fontfont
+    -   GRUNGY AND ROUGH
 1.  FF Typestar OCR
+    -   foundry: FontFont
+    -   myfonts: https://www.myfonts.com/collections/ff-typestar-ocr-font-fontfont
 1.  Fifteen
+    -   fontlibrary: https://fontlibrary.org/en/font/fifteen
+    -   see also: Quinze
+    -   designer: Zeimusu
+1.  Quinze
+    -   fontlibrary: https://fontlibrary.org/en/font/quinze
+    -   see also: Fifteen
+    -   designer: Zeimusu
 1.  Fira Code
     -   git: https://github.com/tonsky/FiraCode
     -   author: Nikita Prokopov
     -   based on: Fira Mono
     -   built for coding
 1.  Fira Cousine
+    -   git: https://github.com/macduy/FiraCousine
+    -   based on: Cousine, adding Fira Code's punctuation marks and ligatures
+    -   license: GPL 3.0
 1.  Fira Mono
     -   git: https://github.com/mozilla/Fira
     -   license: SIL OFL 1.1
     -   website: http://mozilla.github.io/Fira/
 1.  Fixedsys
+    -   wikipedia: https://en.wikipedia.org/wiki/Fixedsys
 1.  Fixedsys Excelsior
+    -   git: https://github.com/kika/fixedsys
 1.  Flexi IBM VGA
+    -   website: https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/
 1.  Galexica Mono
+    -   myfonts: https://www.myfonts.com/collections/galexicamono-font-ingrimayne-type
 1.  Gemeli Mono
+    -   website: https://www.productiontype.com/family/gemeli_mono
+    -   foundry: Production Type
 1.  Generic Mono
+    -   luc devroye: http://luc.devroye.org/fonts-75172.html
 1.  Glass TTY VT220
     -   git: https://github.com/svofski/glasstty
     -   website: http://sensi.org/~svo/glasstty/
     -   VT220 bitmap font
 1.  Glovis
-1.  Gohu
+    -   https://fontsempire.com/font/glovis-download/
+    -   italic old-timey style typeface
+1.  Gohufont
+    -   https://font.gohu.org/
+    -   license: [WTFPL](http://www.wtfpl.net/about/)
 1.  Go Mono
+    -   website: https://go.dev/blog/go-fonts
+    -   foundry: Bigelow & Holmes
 1.  Google Sans Mono
+    -   mentioned: https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/
+    -   third-party: https://github.com/mehant-kr/Google-Sans-Mono
 1.  Greenwood Pro
+    -   myfonts: https://www.myfonts.com/collections/greenwood-font-protimient
 1.  Grid15
 1.  GT Alpina Typewriter
+    -   website: https://www.grillitype.com/typeface/gt-alpina
+    -   note: I first saw this in a Clickhole ad.
 1.  GT America Mono
 1.  GT Pressura Mono
 1.  GwdTE 437
@@ -1184,7 +1279,24 @@ About Courier, generally:
         -   https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html
         -   
 
+## Miscellany
+
+-   [Electronic Font Open Laboratory](http://openlab.ring.gr.jp/efont/index.html.en)
+
 ## TODO
 
 -   https://ctan.org/pkg/cm-super
 -   https://ctan.org/pkg/luximono
+-   https://fontsgeek.com/fonts/Excalibur-Monospace-Regular
+    scroll down to similar fonts
+-   https://www.kreativekorp.com/software/fonts/fairfax/
+    look at all the other fonts and make sure they're listed in here.
+-   https://www.fonts.com/font/ingrimayne-type has numerous fonts
+-   http://www.ingrimayne.com/fonts2/typewriter.htm contains the ones that are monospace.
+-   words for distressed:
+    -   photocopied
+    -   misprinted
+    -   aged
+    -   rough
+    -   grungy
+    
