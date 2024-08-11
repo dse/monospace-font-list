@@ -2,14 +2,224 @@
 
 Some are paid; some are free; some are for coding; others not so much.
 
+-   A+
+    -   via: http://archive.vector.org.uk/resource/index.htm
+-   Adore Mono
+    -   designer: Pieter van Rosmalen
+    -   foundry: GarageFonts
+    -   website: https://garagefonts.com/font/adore-mono
+    -   buy: https://www.fontshop.com/families/adore-mono
+-   Ahamono
+    -   myfonts: https://www.myfonts.com/collections/ahamono-font-hanken-design-co
+    -   foundry: Hanken Design Co.
+    -   designer: Alfredo Marco Pradil
+    -   website: https://hanken.co/collections/monospaced/products/ahamono
+    -   cost: $
+-   Akkurat Mono
+    -   foundry: Lineto
+    -   website: https://lineto.com/typefaces/akkurat-mono
+    -   cost: $
+-   Alma Mono
+    -   website: https://www.almamono.com/
+    -   myfonts: https://www.myfonts.com/collections/alma-mono-font-great-scott
+    -   via: https://www.designbombs.com/best-monospaced-fonts/
+-   Andale Mono
+    -   learn: https://learn.microsoft.com/en-us/typography/font-list/andale-mono
+    -   designer: Steven R. Matteson
+    -   foundry: Agfa Monotype
+-   Andale Teletext
+    -   myfonts: https://www.myfonts.com/collections/andale-teletext-font-monotype-imaging
+    -   designer: Microsoft
+    -   foundry: Monotype
+-   Angelus III
+    -   myfonts: https://www.myfonts.com/collections/angelus-iii-font-scriptorium
+    -   designer: David Nalle
+    -   foundry: Scriptorium
+-   Antikor Mono
+    -   designer: Taner Ardali
+    -   website: https://tanerardali.com/project/antikor (parked)
+-   Aperçu Mono
+    -   foundry: Colophon
+    -   website: https://www.colophon-foundry.org/typefaces/apercu
+    -   cost: $
+-   Archive Mono
+    -   website: https://www.colophon-foundry.org/typefaces/archive-mono
+    -   foundry: Colophon
+    -   cost: $
+-   Arial Monospaced
+    -   designers: Robin Nicholas, Patricia Saunders
+    -   foundry: Monotype
+    -   fonts.com: https://www.fonts.com/font/monotype/arial/monospaced
+-   Arkibal Mono (?)
+    -   NOT A MONOSPACE
+    -   via: https://www.designbombs.com/best-monospaced-fonts/
+-   Arev
+    -   modified from: DejaVu Sans Mono
+    -   website: http://tavmjong.free.fr/FONTS/
+    -   license: http://tavmjong.free.fr/FONTS/ArevCopyright.txt
+-   Ascender Sans Mono
+    -   myfonts: https://www.myfonts.com/collections/ascender-sans-mono-font-ascender-corp
+    -   designer: Steve Matteson
+    -   foundry: Ascender
+    -   cost: $
+-   ASM
+    -   myfonts: https://www.myfonts.com/collections/asm-font-textaxis
+    -   designer: Íñigo Jerez
+    -   foundry: Extratype
+    -   cost: $
+-   Atlas Typewriter
+    -   foundry: Commercial Type
+    -   designers:
+        -   Susana Carvalho
+        -   Kai Bernau
+        -   Ilya Ruderman
+        -   Irene Vlachou
+    -   website: https://commercialtype.com/catalog/atlas_typewriter
+    -   cost: $
+-   Audimat Mono
+    -   designer: SMeltery
+    -   fontsquirrel: https://www.fontsquirrel.com/fonts/audimat-mono
+    -   website: http://www.smeltery.net/en/fonts/dead
+        -   lists Audimat Mono as a dead font
+-   Autocode
+    -   myfonts: https://www.myfonts.com/collections/autocode-font-avp
+    -   designer: Nicholas Garner
+    -   foundry: AVP
+    -   cost: $
+-   Autoscape
+    -   foundry: Lineto
+    -   website: https://lineto.com/typefaces/autoscape
+    -   cost: $
+-   Azaret Mono
+    -   website: https://displaay.net/typeface/azeret/azeret-mono/
+    -   foundry: Displaay
+    -   google fonts: https://fonts.google.com/specimen/Azeret+Mono
+-   B612 Mono
+    -   website: https://b612-font.com/
+    -   author: Airbus
+    -   git: https://github.com/polarsys/b612
+    -   license: SIL OFL 1.1
+-   Base Monospace
+    -   narrow and wide variants
+    -   website: https://www.emigre.com/Fonts/Base-Monospace
+    -   cost: $
+    -   foundry: Emigre
+-   Basier Mono
+    -   website: https://www.atipofoundry.com/fonts/basier-mono
+    -   free or $
+    -   license: https://www.atipofoundry.com/license
+-   Basis Grotesque mono
+    -   website: https://www.colophon-foundry.org/typefaces/basis-grotesque-mono
+    -   cost: $
+    -   foundry: Colophon
+-   Bedstead
+    -   website: https://bjh21.me.uk/bedstead/
+    -   git: git clone https://bjh21.me.uk/bedstead/.git/
+    -   license: public domain
+-   Befont
+    -   git: https://codeberg.org/Wezl/fonts
+    -   website: https://ermineii.github.io/befont.html
+    -   license: SIL OFL 1.1
+-   Bergen Mono
+    -   via: https://www.designbombs.com/best-monospaced-fonts/
+    -   website: https://elements.envato.com/bergen-mono-942DQ4
+    -   license: https://elements.envato.com/license-term
+    -   foundry: Mindburger Studio
+-   BigBlue Terminal
+    -   website: https://int10h.org/blog/2015/12/bigblue-terminal-oldschool-fixed-width-font/
+    -   license: [CC Attribution-SharAlike 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/)
+-   Bino Mono
+    -   designer: Neal Fletcher
+    -   luc devroye: http://luc.devroye.org/fonts-54943.html
+    -   image: http://luc.devroye.org/NealFletcher--Bino-2011.png
+-   Bitstream Pica 10 Pitch
+    -   old-timey
+    -   myfonts: https://www.myfonts.com/collections/pica-10-pitch-font-bitstream
+    -   foundry: Bitstream
+-   BQN386
+    -   APL font
+    -   git: https://github.com/dzaima/BQN386
+    -   website: https://dzaima.github.io/BQN386/
+    -   based on: APL386
+-   Bradford Mono
+    -   foundry: Lineto
+    -   cost: $
+    -   website: https://lineto.com/typefaces/bradford-mono
 -   [BSU Kermit]
     -   BSU Kermit
         -   mentioned: ht
         -   mentioned: https://www.lowing.org/fonts/
         -   image: ht
+-   Centima Mono
+    -   myfonts: https://www.myfonts.com/collections/centima-mono-font-tipografiaramis
+    -   designer: Ramiz Guseynov
+    -   foundry: TipografiaRamis
+    -   cost: $
+-   Circular Mono
+    -   website: https://lineto.com/typefaces/circular-mono
+    -   foundry: Lineto
+    -   cost: $
+-   Coding Font Tobi
+    -   website: http://www.proggyfonts.net/index.php?menu=download
+    -   see also: Proggy
+-   Colón Mono
+    -   myfonts: https://www.myfonts.com/collections/colon-mono-font-tipografiaramis
+    -   cost: $
+    -   designer: Ramiz Guseynov
+    -   foundry: TipografiaRamis
+-   Comic Code
+    -   website: https://tosche.net/fonts/comic-code
+    -   built for coding
+    -   buy: https://fonts.ilovetypography.com/fonts/tabular-type-foundry/comic-code
+    -   variants: without and with ligatures
+-   Concursico Mono BTN
+    -   myfonts: https://www.myfonts.com/products/concursico-mono-btn-concursico-mono-btn-410971
+    -   cost: $
+    -   image: <https://cdn.myfonts.net/cdn-cgi/image/width=720%2Cheight=360%2Cfit=contain%2Cformat=auto/images/pim/10000/23958_2e966fefb987e5f215bdca56e653c3e3.png>
+-   Consolas
+    -   website: https://www.lucasfonts.com/fonts/consolas/
+    -   secondary website: https://learn.microsoft.com/en-us/typography/font-list/consolas
+    -   author: Microsoft
+    -   designer: Luc(as) de Groot
+    -   built for coding
+-   CP1250 Terminal Fonts
+    -   via: https://www.lowing.org/fonts/
+    -   download: http://lowing.org/fonts/Free/CP1250.zip
+-   Crystal
+    -   via: https://www.lowing.org/fonts/
+    -   image: https://www.lowing.org/fonts/images/showPreview.php?filter=Crystal.gif
+    -   available: Availiable with free Povray software. http://www.povray.org/povlegal.html
+-   Cubiculum
+    -   myfonts: https://www.myfonts.com/collections/cubiculum-font-johan-winge
+    -   designer: Johan Winge
+    -   cost: $29 for complete family
+    -   built for coding
+    -   images:
+        -   https://cdn.myfonts.net/cdn-cgi/image/width=720%2Cheight=360%2Cfit=contain%2Cformat=auto/images/pim/10000/122723_ddc2d93046a723a88a1f67e6600dc8d9.png
+        -   https://cdn.myfonts.net/cdn-cgi/image/width=720%2Cheight=360%2Cfit=contain%2Cformat=auto/images/pim/10000/122724_fb3d1496eea41112865ec3e70d72bc55.png
+-   Cumberland
+    -   fontsgeek: https://fontsgeek.com/fonts/cumberland-std-regular
+    -   image: https://media.fontsgeek.com/generated/c/u/cumberland-std-regular-sample.png
+-   Cutive Mono
+    -   google fonts: https://fonts.google.com/specimen/Cutive+Mono
+    -   designer: Vernon Adams
+    -   luc devroye: http://luc.devroye.org/fonts-47641.html
 -   [DEC VT330]
     -   DEC VT330
         -   description: a collection of .pcf fonts available on HP systems
+-   Decima Mono
+    -   myfonts: https://www.myfonts.com/collections/decima-mono-font-tipografiaramis
+    -   cost: $
+    -   designer: Ramiz Guseynov
+    -   foundry: TipografiaRamis
+-   DeluxeFont
+    -   dafont: https://www.dafont.com/deluxefont.font
+    -   NOT A MONOSPACE FONT
+-   DF Staple Mono
+    -   myfonts: https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts
+    -   cost: $33 individual styles; $203 complete family of 10 fonts
+    -   designer: Ko Sliggers
+    -   foundry: Dutchfonts
 -   [DIN Monospace]
     -   DIN Monospace / PF Din Mono
         -   website: https://parachutefonts.com/typeface/DIN-Monospace
@@ -69,6 +279,10 @@ Some are paid; some are free; some are for coding; others not so much.
         -   website: https://www.fonts.com/font/elsner-flake/ef-cash/monospaced
         -   cost: $35
 -   [EF Techno Script]
+    -   old-timey
+    -   myfonts: https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake
+    -   foundry: Elsner+Flake
+    -   buy: https://www.fonts4ever.com/search_result.php?f_item_name=Techno+Script&x=0&y=0
 -   [Effects Eighty]
     -   Effects Eighty
         -   fontlibrary: https://fontlibrary.org/en/font/effects-eighty
@@ -145,6 +359,9 @@ Some are paid; some are free; some are for coding; others not so much.
     -   FF Elementa
         -   foundry: FontFont
         -   myfonts: https://www.myfonts.com/collections/elementa-pro-font-fontfont
+    -   old-timey
+    -   foundry: FontFont
+    -   myfonts: https://www.myfonts.com/collections/elementa-pro-font-fontfont
 -   [FF Fago Monospaced]
     -   FF Fago Monospaced
         -   foundry: FontFont
@@ -220,6 +437,10 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Hyperfont]
 -   [iA Writer Duospace]
 -   [iA Writer Mono]
+-   IBM Fonts
+    -   website: https://farsil.github.io/ibmfonts/
+-   Igoe (?)
+    -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [Illusion]
 -   [Inconsolata-LGC]
 -   [Inconsolata-dz]
@@ -230,7 +451,13 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Intimo Two]
 -   [Iosevka Slab]
 -   [Italian Typewriter]
+    -   old-timey
+    -   foundry: Flanker
+    -   myfonts: https://www.myfonts.com/collections/italian-typewriter-font-flanker
+    -   website: https://www.studiodilena.com/en/italian_typewriter.html
 -   [JetJane Mono]
+-   JSans J
+    -   via: http://archive.vector.org.uk/resource/index.htm
 -   [jxyahei]
 -   [Karen]
 -   [Karben 105 Mono]
@@ -244,6 +471,8 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [KongText]
 -   [KP Monospaced]
 -   [Larabiefont]
+-   Laser (?)
+    -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [League Mono]
 -   [Lekton]
 -   [Less Perfect DOS VGA]
@@ -257,7 +486,14 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Linux Console Fonts for Windows]
 -   [Linux Libertine Mono]
 -   [LispM]
+-   Looper (?)
+    -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [Lotion]
+-   LTC Remington Typewriter Pro
+    -   old-timey
+    -   myfonts: https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company
+    -   foundry: Lanston Type Co.
+    -   designer: Frederic W. Goudy
 -   [Lucida Console]
 -   [Lucida Typewriter]
 -   [Lucida Typewriter EF]
@@ -270,6 +506,8 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Manaspace]
 -   [Marista]
 -   [Menlo]
+    -   based on: DejaVu Sans Mono
+    -   built for coding
 -   [Mensch]
 -   [Meslo LG]
 -   [Metrickal]
@@ -278,18 +516,22 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Mitigate]
 -   [Modd]
 -   [Monaco]
--   [Mono]
--   [Mono Condensed]
+-   Mono (Lineto)
+-   Mono Condensed (ParaType)
 -   [Mono LH]
 -   [Mono Spatial]
 -   [Monocto]
 -   [Monoela]
+-   Monoflow
 -   [Monofur]
 -   [Monoist]
+-   MonoLisa
 -   [MonoOne]
 -   [Monospace]
--   [Monospace 821]
+-   [Monospace 821 BT]
 -   [MonosapceTypewriter]
+-   [Monosapce Typewriter]
+-   MonoSpatial
 -   [Monosten]
 -   [Monostep]
 -   [Monotype Typewriter]
@@ -302,12 +544,14 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [MVB Fantabular Sans]
 -   [Name Mono]
 -   [Nanum Gothic Coding (Korean)]
--   [Native]
+-   Native (fontfoundry.com)
 -   [NB Architekt]
 -   [NB Typewriter]
 -   [Necto Mono]
 -   [Neep]
 -   [Nice Weekend]
+-   Nicolatte (?)
+    -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [Nitti]
 -   [Normafixed]
 -   [NotCourierSans]
@@ -316,6 +560,8 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Occupy Monospace]
 -   [OCRJ]
 -   [Odisseia]
+-   Odudo Mono
+    -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [Office Code Pro]
 -   [Oloron Program]
 -   [Olympiad]
@@ -336,15 +582,22 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [PCMyungjo]
 -   [Perfect DOS VGA 437]
 -   [Pet Me]
+    -   Pete Me
 -   [PF Din Mono]
 -   [PF Typeroom Mono]
 -   [Pico]
+-   Pine (?)
+    -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [Pitch]
+    -   old-timey
+    -   website: https://klim.co.nz/retail-fonts/pitch/
 -   [Pixel Carnage]
 -   [PixSymbols Courex]
 -   [Platelet]
 -   [Plotter Mono]
 -   [Polli Sans Mono]
+-   PoulTre
+    -   git: https://codeberg.org/Wezl/fonts
 -   [Powerline Fonts]
 -   [Print Char 21]
 -   [Press Start]
@@ -354,8 +607,13 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [PT Mono]
 -   [PTL Notes Tec Mono]
 -   [Quadraat Sans Mono]
+    -   website: https://www.typeby.com/fonts/quadraat-sans-mono
+    -   cost: $
 -   [QuickType Mono]
 -   [Quinze]
+    -   fontlibrary: https://fontlibrary.org/en/font/quinze
+    -   see also: Fifteen
+    -   designer: Zeimusu
 -   [Raize]
 -   [Range Mono]
 -   [Rational TW]
@@ -365,21 +623,41 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Replica Mono]
 -   [Resolution]
 -   [retro fonts]
+-   Retro Type 3 PostScript Fonts
+    -   website: https://unifoundry.com/retro/index.html
 -   [RF Rostin]
--   [Roboto Mono]
--   [romfont]
+-   Roboto Mono
+    -   google fonts: https://fonts.google.com/specimen/Roboto+Mono
+    -   designer: Christian Robertson
+    -   license: Apache License 2.0
+    -   git: https://github.com/googlefonts/roboto
+    -   built for coding
+-   romfont
+    -   git: https://github.com/spacerace/romfont
+    -   collection of old PC fonts, and then some.
 -   [Rubik Mono One]
 -   [RX100]
 -   [Sabir Mono]
 -   [Sarasa Gothic]
+-   SAX2
+    -   APL font
+    -   website: https://abrudz.github.io/SAX2/
 -   [SaxMono (\"Tile\")]
 -   [Sauna Mono Pro]
--   [Schumaker Misc]
+-   Schumaker Misc
+    -   git: https://gitlab.freedesktop.org/xorg/font/schumacher-misc
+-   Screenwriter's Typewriter Fonts Pro
+    -   old-timey
+    -   old website: http://www.vintagetype.com/screenwriters/ (archive.org)
 -   [Script 12 Pitch]
 -   [Segoe UI Mono]
 -   [Selectric]
 -   [SF Mono]
+    -   useful for coding
 -   [Sheldon]
+-   SImPL
+    -   APL font
+    -   website: http://archive.vector.org.uk/art10002160
 -   [Simple]
 -   [SK Modernist Mono]
 -   [Skurier]
@@ -388,28 +666,43 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Smith Premier NF]
 -   [Sometype Mono]
 -   [Space Mono]
+    -   an abomination on mankind
 -   [Speedy]
+-   Spleen
 -   [Spot Mono]
 -   [Squareshooter Mono]
 -   [String Literal 437]
 -   [Sudo]
+    -   git: https://github.com/jenskutilek/sudo-font
+    -   built for coding
+    -   website: https://www.kutilek.de/sudo-font/
 -   [Superstudio]
 -   [SV Basic Manual]
 -   [Sweet16Font]
+-   Symbol Neu
 -   [Syne Mono]
+-   System Code (?)
+    -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [Tabular]
 -   [Tamsyn-Modified] => look at spreadsheet file
 -   [Teamhair]
+-   Teeny Tiny Pixls 
+    -   website: https://chequered.ink/
 -   [Telegrama]
 -   [Telegrama Raw]
 -   [Telegramo]
 -   [Tenpo]
--   [Terminal/VGA Font]
+-   Terminal
+    -   foundry: Microsoft
+    -   wikipedia: https://en.wikipedia.org/wiki/Terminal_%28typeface%29
+-   Terminal/VGA Font
+    -   via: http://www.lowing.org/fonts/
 -   [Terminex]
 -   [Termsyn]
 -   [Tewi]
 -   [Thermo]
 -   [TI92PlusPC]
+-   Tinos
 -   [Tired of Courier]
 -   [Topaz-8]
 -   [Triplicate]
@@ -418,12 +711,23 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [TXTT]
 -   [Tye Paloon]
 -   [Typewalk Mono 1915]
+-   Typist Slab Mono
+    -   myfonts: https://www.myfonts.com/collections/typist-slab-font-vanderkeur
+    -   foundry: VanderKeur
+    -   sort of old-timey
 -   [Monotype Typewriter]
 -   [Typewriter Condensed]
+    -   download: https://fontsarena.com/wp-content/uploads/2018/11/typewriter_condensed.zip
 -   [Ubuntu Monospace]
+    -   website: https://design.ubuntu.com/font
+    -   designer: Dalton Maag
 -   [Ume Gothic]
 -   [Ume Mincho]
 -   [Unica77 Mono]
+-   Unifont
+    -   website: https://unifoundry.com/unifont/index.html
+    -   built for coding
+-   Univers Next Typewriter
 -   [Unix-originated terminal fonts for Windows]
 -   [UnixPC]
 -   [Unotype]
@@ -434,9 +738,13 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Verily Serif Mono]
 -   [Vidilex]
 -   [Vin Mono Pro]
+-   Vintama (?)
+    -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [Vivala Code]
 -   [VLNL TP Kurier Callig Regular]
 -   [VT323]
+-   Walter (?)
+    -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [WenQuanYi Zen Hei Mono]
 -   [WenQuanYi Micro Hei Mono]
 -   [Whois Mono]
