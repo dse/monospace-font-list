@@ -1,13 +1,9 @@
 # monospace-font-list
 
-## MOVED
-
-[**Go Here.  It's a Google Sheets document now.**](https://docs.google.com/spreadsheets/d/14t6XU4H9fcrSUAIa3Pa3LL-BMZ88HonD3d-FI3J45z8/edit?usp=sharing)
-
 ## About
 
-My goal is to create a complete list of monospace fonts, to the extent
-I can. Primarily for the fun of it, but sometimes I like to use fonts
+My goal is to create the most exhaustive list of monospace fonts I
+can.  Primarily for the fun of it, but sometimes I like to use fonts
 that are not focused on coding.
 
 I've found a few lists here and there of coding-focused monospace
@@ -15,37 +11,12 @@ fonts, but none of them are exhaustive, and I also haven't seen any
 lists that include fonts that are not necessarily focused on coding.
 Namely, those inspired by or sourced from 20th-century typewriters.
 
-Send an email to dse AT SIGN webonastick PERIOD com if you know of any
-I've missed.  Or submit a patch, pull request, whatever---after all,
-this *is* a github repository.
+Send an email to dsembry AT SIGN gmail PERIOD com if you know of any
+I've missed.  Or submit a patch or pull request.
 
-I might include images of screenshots, specimens, etc. in the future,
-but for now this is a text-only list.
+## Caveats
 
-## Criteria
-
-The only criteria for inclusion in this list are as follows:
-
--   That a font has to be monospace, and
-
--   that it (likely) has to have existed in a computerized format.
-
-Other things that are not restrictions:
-
--   I accept free and open source fonts as well as commercial ones.
-
--   I accept programmer friendly fonts as well as fonts without
-    programmer-friendly features.
-
-If there are characters missing from the font I may or may not still
-accept it for inclusion, possibly with a caveat.
-
-If there are important characters, such as spaces or punctuation, that
-are *not* the same width as other characters, I am likely to not
-include it, or to include it in this list with a caveat.
-
-Also I may or may not list all the grungy/rough/distressed fonts I can
-find.
+-   I'm not going to include "grungy" typewriter fonts.
 
 ## Other Lists of Fonts
 
