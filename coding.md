@@ -94,6 +94,7 @@
 -   [Proggy Fonts](https://github.com/bluescan/proggyfonts)
 -   [Recursive](https://www.recursive.design/)
 -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
+-   [Server Mono](https://servermono.com/)
 -   [SGI Screen](https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/)
     -   also [bitmaps](https://www.gnome-look.org/p/998527/)
     -   also https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
@@ -147,8 +148,7 @@
 
 -   [KreativeKorp](https://www.kreativekorp.com/software/fonts/index.shtml) - Apple II, Commodore, TRS-80, and other fonts
 
-## For Emacs
-
+<!-- ** For Emacs ** -->
 <!-- Local Variables: -->
 <!-- fill-column: 132 -->
 <!-- End: -->
