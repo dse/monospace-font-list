@@ -39,11 +39,12 @@
 -   [Codo Mono](https://wearecolt.com/product/codo-mono/)
 -   [Colón Mono](http://www.tipografiaramis.com/coloacuten-mono.html)
 -   [Concursico Mono BTN](https://www.youworkforthem.com/font/19425/concursico-mono-btn)
--   [Cubiculum](https://www.myfonts.com/collections/cubiculum-font-johan-winge) [paid]
--   [Cumberland](https://www.myfonts.com/collections/cumberland-font-monotype-imaging) [paid]
--   [Decima Mono](http://www.tipografiaramis.com/decima-mono.html) [paid]
--   [Decima Mono Pro](http://www.tipografiaramis.com/decima-mono-pro.html) [paid]
--   [Decima Mono Round](http://www.tipografiaramis.com/decima-mono-round.html) [paid]
+-   [Cubiculum](https://www.myfonts.com/collections/cubiculum-font-johan-winge)
+-   [Cumberland](https://www.myfonts.com/collections/cumberland-font-monotype-imaging)
+-   [Decima Mono](http://www.tipografiaramis.com/decima-mono.html)
+-   [Decima Mono Pro](http://www.tipografiaramis.com/decima-mono-pro.html)
+-   [Decima Mono Round](http://www.tipografiaramis.com/decima-mono-round.html)
+-   [DF Staple Mono](https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts)
 
 ## Monospaced Versions of Proportional Typefaces
 

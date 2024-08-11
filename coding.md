@@ -138,6 +138,7 @@
 -   [Calling Code](https://dharmatype.com/calling-code)
 -   [Codename Coder 4F](http://fonts.4thfebruary.com.ua/codename-coder-4f/)
 -   [Dank Mono](https://philpl.gumroad.com/l/dank-mono) [paid] [coding]
+-   [Eco Coding](https://www.myfonts.com/collections/eco-coding-font-s-core)
 
 ## Enhancements
 
