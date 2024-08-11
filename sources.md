@@ -49,8 +49,7 @@ computerized.
 
 -   [pp. 582–584](https://archive.org/details/specimensoftypeb00amer/page/582) of the [ATF's 1897 Handy Specimen Book](https://archive.org/details/specimensoftypeb00amer)
 
-## For Emacs
-
+<!-- ** For Emacs ** -->
 <!-- Local Variables: -->
 <!-- fill-column: 132 -->
 <!-- End: -->

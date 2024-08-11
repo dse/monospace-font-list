@@ -407,8 +407,7 @@
 -   [xnufont]
 -   [Zolan Mono]
 
-## For Emacs
-
+<!-- ** For Emacs ** -->
 <!-- Local Variables: -->
 <!-- fill-column: 132 -->
 <!-- End: -->
