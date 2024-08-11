@@ -1,4 +1,4 @@
-# Sources of Typefaces
+## Sources of Typefaces
 
 -   [Google Fonts](https://fonts.google.com/)
 -   [fontlibrary.org](https://fontlibrary.org/)
@@ -7,7 +7,7 @@
 -   http://int10h.org/oldschool-pc-fonts/fontlist/
 -   https://github.com/Tecate/bitmap-fonts
 
-# Sources of Information
+## Sources of Information
 
 -   [https://damieng.com/typography/](https://damieng.com/typography/)
 -   [luc devroye's font info](http://luc.devroye.org/fonts.html)
@@ -21,6 +21,10 @@
 -   [cfcl.com](http://www.cfcl.com/vlb/h/fontmono.html)
 -   https://app.programmingfonts.org/
 -   https://awesomeopensource.com/projects/monospace-font **perusing**
+
+## Other
+
+-   [Electronic Font Open Laboratory]
 
 ## Reddit Threads
 

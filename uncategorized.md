@@ -2,226 +2,55 @@
 
 Some are paid; some are free; some are for coding; others not so much.
 
--   [Andale Mono]
-    -   learn: https://learn.microsoft.com/en-us/typography/font-list/andale-mono
-    -   designer: Steven R. Matteson
-    -   foundry: Agfa Monotype
--   [Antikor Mono]
-    -   designer: Taner Ardali
-    -   website: https://tanerardali.com/project/antikor (parked)
--   [Arkibal Mono (?)]
-    -   NOT A MONOSPACE
-    -   via: https://www.designbombs.com/best-monospaced-fonts/
--   [Arev]
-    -   modified from: DejaVu Sans Mono
-    -   website: http://tavmjong.free.fr/FONTS/
-    -   license: http://tavmjong.free.fr/FONTS/ArevCopyright.txt
--   [Autocode]
-    -   myfonts: https://www.myfonts.com/collections/autocode-font-avp
-    -   designer: Nicholas Garner
-    -   foundry: AVP
-    -   cost: $
--   [Autoscape]
-    -   foundry: Lineto
-    -   website: https://lineto.com/typefaces/autoscape
-    -   cost: $
--   [Azaret Mono]
-    -   website: https://displaay.net/typeface/azeret/azeret-mono/
-    -   foundry: Displaay
-    -   google fonts: https://fonts.google.com/specimen/Azeret+Mono
--   [B612 Mono]
-    -   website: https://b612-font.com/
-    -   author: Airbus
-    -   git: https://github.com/polarsys/b612
-    -   license: SIL OFL 1.1
--   [Basier Mono]
-    -   website: https://www.atipofoundry.com/fonts/basier-mono
-    -   free or $
-    -   license: https://www.atipofoundry.com/license
--   [Bedstead]
-    -   website: https://bjh21.me.uk/bedstead/
-    -   git: git clone https://bjh21.me.uk/bedstead/.git/
-    -   license: public domain
--   [Befont]
-    -   git: https://codeberg.org/Wezl/fonts
-    -   website: https://ermineii.github.io/befont.html
-    -   license: SIL OFL 1.1
--   [Bergen Mono]
-    -   via: https://www.designbombs.com/best-monospaced-fonts/
-    -   website: https://elements.envato.com/bergen-mono-942DQ4
-    -   license: https://elements.envato.com/license-term
-    -   foundry: Mindburger Studio
--   [BigBlue Terminal]
-    -   website: https://int10h.org/blog/2015/12/bigblue-terminal-oldschool-fixed-width-font/
-    -   license: [CC Attribution-SharAlike 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/)
--   [Bino Mono]
-    -   designer: Neal Fletcher
-    -   luc devroye: http://luc.devroye.org/fonts-54943.html
-    -   image: http://luc.devroye.org/NealFletcher--Bino-2011.png
--   [Bitstream Pica 10 Pitch]
-    -   old-timey
-    -   myfonts: https://www.myfonts.com/collections/pica-10-pitch-font-bitstream
-    -   foundry: Bitstream
--   [BQN386]
-    -   APL font
-    -   git: https://github.com/dzaima/BQN386
-    -   website: https://dzaima.github.io/BQN386/
-    -   based on: APL386
--   [BSU Kermit]
-    -   BSU Kermit
-        -   mentioned: ht
-        -   mentioned: https://www.lowing.org/fonts/
-        -   image: ht
--   [Comic Code]
-    -   website: https://tosche.net/fonts/comic-code
-    -   built for coding
-    -   buy: https://fonts.ilovetypography.com/fonts/tabular-type-foundry/comic-code
-    -   variants: without and with ligatures
--   [Consolas]
-    -   website: https://www.lucasfonts.com/fonts/consolas/
-    -   secondary website: https://learn.microsoft.com/en-us/typography/font-list/consolas
-    -   author: Microsoft
-    -   designer: Luc(as) de Groot
-    -   built for coding
--   [CP1250 Terminal Fonts]
-    -   via: https://www.lowing.org/fonts/
-    -   download: http://lowing.org/fonts/Free/CP1250.zip
--   [Crystal]
-    -   via: https://www.lowing.org/fonts/
-    -   image: https://www.lowing.org/fonts/images/showPreview.php?filter=Crystal.gif
-    -   available: Availiable with free Povray software. http://www.povray.org/povlegal.html
--   [Cumberland]
-    -   fontsgeek: https://fontsgeek.com/fonts/cumberland-std-regular
-    -   image: https://media.fontsgeek.com/generated/c/u/cumberland-std-regular-sample.png
--   [Cutive Mono]
-    -   google fonts: https://fonts.google.com/specimen/Cutive+Mono
-    -   designer: Vernon Adams
-    -   luc devroye: http://luc.devroye.org/fonts-47641.html
--   [DEC VT330]
-    -   DEC VT330
-        -   description: a collection of .pcf fonts available on HP systems
--   [Decima Mono]
-    -   myfonts: https://www.myfonts.com/collections/decima-mono-font-tipografiaramis
-    -   cost: $
-    -   designer: Ramiz Guseynov
-    -   foundry: TipografiaRamis
--   [DeluxeFont]
-    -   dafont: https://www.dafont.com/deluxefont.font
-    -   NOT A MONOSPACE FONT
--   [DF Staple Mono]
-    -   myfonts: https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts
-    -   cost: $33 individual styles; $203 complete family of 10 fonts
-    -   designer: Ko Sliggers
-    -   foundry: Dutchfonts
--   [DIN Monospace]
-    -   DIN Monospace / PF Din Mono
-        -   website: https://parachutefonts.com/typeface/DIN-Monospace
-        -   cost: $
-        -   foundry: Parachute1
+-   [Antikor Mono](https://www.taf-studio.com/retail-fonts/antikor/) [paid]
+-   [Arkibal Mono](https://elements.envato.com/arkibal-mono-F98DXM) [paid]
+-   [Arev](http://tavmjong.free.fr/FONTS/) - a fork of DejaVu Sans Mono [free] [coding]
+-   [Azaret Mono](https://displaay.net/typeface/azeret/azeret-mono/) [free]
+-   [Basier Mono](https://www.atipofoundry.com/fonts/basier-mono) [pay-what-you-want]
+-   [Bedstead](https://bjh21.me.uk/bedstead/) [free]
+-   [SpiderWire](https://codeberg.org/Wezl/fonts)
+-   [Befont](https://codeberg.org/Wezl/fonts)
+    -   [Befunge](https://ermineii.github.io/befont.html) [free]
+-   [PoultreMono](https://codeberg.org/Wezl/fonts)
+-   [Bergen Mono](https://elements.envato.com/bergen-mono-942DQ4)
+-   [Bino Mono](http://luc.devroye.org/fonts-54943.html) [not available]
+-   [Bitstream Pica 10 Pitch](https://www.myfonts.com/collections/pica-10-pitch-font-bitstream) [paid] [old]
+-   [BQN386](https://dzaima.github.io/BQN386/) [free] [apl]
+-   [BSU Kermit](https://www.lowing.org/fonts/) [not available]
+-   [Comic Code](https://tosche.net/fonts/comic-code) [paid] [coding]
+-   [Codelia](https://tosche.net/fonts/codelia) [paid] [coding]
+-   [Dossier](https://tosche.net/fonts/dossier) [paid]
+-   [Tabulamore Script](https://tosche.net/fonts/tabulamore-script) [paid]
+-   [Belinsky](https://tosche.net/fonts/belinsky) [paid]
+-   [Cruft]() [unknown source]
+-   [Crystal](http://www.povray.org/povlegal.html) (via <https://www.lowing.org/fonts/>) [free]
+-   [Cumberland](https://www.myfonts.com/collections/cumberland-font-monotype-imaging) [paid]
+-   [Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono) [free]
+-   [Decima Mono](https://www.myfonts.com/collections/decima-mono-font-tipografiaramis) [paid]
 -   [DIN Mono Pro]
--   [Dina]
-    -   Dina
-        -   website: https://www.dcmembers.com/jibsen/download/61/
-        -   image: https://www.dcmembers.com/jibsen/wp-content/uploads/sites/6/2017/12/dinabordered3.png
--   [Disket Mono]
-    -   Disket Mono
-        -   website: https://rostype.com/disket/
-        -   image: https://rostype.com/wp-content/uploads/2019/10/rostype-slide_dis.jpg
-        -   not built for coding
--   [Dispatch Mono]
-    -   Dispatch Mono
-        -   website: https://occupantfonts.com/fonts/dispatch-mono/
-        -   foundry: Occupant Fonts
-        -   cost: $
--   [DM Mono]
-    -   DM Mono
-        -   google fonts: https://fonts.google.com/specimen/DM+Mono
-        -   git: https://github.com/googlefonts/dm-mono
-        -   foundry: Colophon
-        -   license: SIL OFL
--   [Doire]
-    -   Doire
-        -   myfonts: https://www.myfonts.com/collections/doire-font-evertype
-        -   cost: $40 for complete family of four fonts
-        -   designer: Michael Everson
-        -   foundry: Evertype
-        -   not good for coding
-        -   based on a Royal gaelic manual typewriter
--   [Dossier]
-    -   Dossier
-        -   myfonts: https://www.myfonts.com/collections/dossier-font-tabular-type-foundry
-        -   website: https://tosche.net/blog/tabular-type-foundry
-        -   cost: $15 for complete family of 15 fonts
--   [DPCustomMono2]
-    -   DPCustomMono2
-        -   wiki: https://www.pgdp.net/wiki/DPCustomMono2_Font
-        -   replaced by: DP Sans Mono
--   [DP Sans Mono]
-    -   DP Sans Mono
-        -   wiki: https://www.pgdp.net/wiki/DP_Sans_Mono
-        -   website: https://www.pgdp.net/c/faq/font_sample.php
-        -   application: proofreading
--   [EB Jessica]
-    -   EB Jessica
-        -   myfonts: https://www.myfonts.com/collections/eb-jessica-font-erik-bertell
-        -   cost: $19.95 for complete family of 2 fonts
-        -   designer: Erik Bertell
-        -   not for coding
--   [EF Cash]
-    -   EF Cash Monospaced
-        -   website: https://www.fonts.com/font/elsner-flake/ef-cash/monospaced
-        -   cost: $35
--   [EF Techno Script]
-    -   old-timey
-    -   myfonts: https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake
-    -   foundry: Elsner+Flake
-    -   buy: https://www.fonts4ever.com/search_result.php?f_item_name=Techno+Script&x=0&y=0
--   [Effects Eighty]
-    -   Effects Eighty
-        -   fontlibrary: https://fontlibrary.org/en/font/effects-eighty
-        -   dot matrix printer font
-        -   designer: Peter Hull
--   [Electronic Font Open Laboratory]
--   [EnvyPN]
-    -   EnvyPN
-        -   git: https://github.com/hicolour/envypn-font
-        -   designed by [Yponse](https://ywstd.fr/)
--   [Erica Type]
-    -   Erica Type
-        -   dafont: https://www.dafont.com/erika-type.font
-        -   APPARENTLY NOT A MONOSPACE if dafont is any indication
-        -   designer: [Peter Wiegel](http://www.peter-wiegel.de/)
--   [Espresso Mono]
-    -   Espresso Mono
-        -   website: https://eng.m.fontke.com/font/16258123/
-        -   designed by: fontke
--   [Excalibur Monospace]
-    -   Excalibur Monospace
-        -   fonts2u: https://fonts2u.com/excalibur-monospace.font
--   [Excellent]
--   [F25 Artisan12]
-    -   F25 Artisan12
-        -   website: http://f25.cc/?F25_Fonts:Monospaced
--   [F25 Bank Printer]
-    -   F25 Bank Printer
-        -   website: http://f25.cc/?F25_Fonts:Monospaced
--   [F25 Cella]
-    -   F25 Cella
-        -   website: http://f25.cc/?F25_Fonts:Monospaced
--   [F25 Typewriter Condensed]
-    -   F25 Typewriter Condensed
-        -   website: http://f25.cc/?F25_Fonts:Monospaced
--   [F25 Blackletter Typewriter]
-    -   F25 Blackletter Typewriter
-        -   website: http://f25.cc/?F25_Fonts:Monospaced
--   [F25 Telegraphem]
-    -   F25 Telegraphem
-        -   website: http://f25.cc/?F25_Fonts:Monospaced
--   [F25 DaisyWheel]
-    -   F25 Daisy Wheel
-        -   website: http://f25.cc/?F25_Fonts:Monospaced
--   [F25 Executive]
-    -   website: http://f25.cc/?F25_Fonts:Monospaced
+-   [Dina Font TTF](https://github.com/zshoals/Dina-Font-TTF-Remastered) [free] [coding]
+-   [Dina Bitmap](https://www.dcmembers.com/jibsen/download/61/) [free] [bitmap] [coding]
+-   [Disket Mono](https://rostype.com/disket/) [display] [free]
+-   [Dispatch Mono](https://occupantfonts.com/fonts/dispatch-mono/) [paid] [coding]
+-   [DM Mono](https://github.com/googlefonts/dm-mono)
+-   [Doire](https://www.myfonts.com/collections/doire-font-evertype) [paid] [oh definitely not for c0ding]
+-   [DP Sans Mono](https://www.pgdp.net/wiki/DP_Sans_Mono) [free]
+-   [EB Jessica](https://www.myfonts.com/collections/eb-jessica-font-erik-bertell) [display] [paid]
+-   [EF Cash](https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake) [paid]
+-   [EF Techno Script](https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake) [paid] [old-ish]
+-   [Effects Eighty](https://fontlibrary.org/th/font/effects-eighty) [free] [dot-matrix printer]
+-   [EnvyPN](https://github.com/hicolour/envypn-font) [free] [bdf]
+-   [Espresso Mono](https://github.com/jmazzi/dotfiles/tree/master/.fonts) [unknown source]
+-   [Excalibur Monospace](https://fonts2u.com/excalibur-monospace.font)
+-   [Excellent](https://lineto.com/typefaces/excellent) [paid]
+-   [F25 Bank Printer](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Bank_Printer) [free] [private use]
+-   [F25 Artisan12](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Artisan12) [free] [private use]
+-   [F25 Typewriter Condensed](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Typewriter_Condensed) [free] [private use]
+-   [F25 Telegraphem](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Telegraphem) [not available]
+-   [F25 Blackletter Typewriter](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Blackletter_Typewriter) [free] [private use]
+-   [F25 Cella](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Cella) [free] [private use]
+-   [F25 DaisyWheel](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_DaisyWheel) [free] [private use]
+
 -   [Fabrikat Mono]
     -   Fabrikat Mono
         -   myfonts: https://www.myfonts.com/collections/fabrikat-mono-font-hvd-fonts

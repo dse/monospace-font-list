@@ -29,7 +29,6 @@
 -   [Ascender Sans Mono](https://www.myfonts.com/collections/ascender-sans-mono-font-ascender-corp)
 -   [ASM](https://extratype.com/fonts/asm)
 -   [Atlas Typewriter](https://commercialtype.com/catalog/atlas_typewriter)
--   [Autocode](https://www.myfonts.com/collections/autocode-font-avp)
 -   [Autoscape](https://lineto.com/typefaces/autoscape)
 -   [Base Monospace](https://www.emigre.com/Fonts/Base-Monospace)
 -   [Basis Grotesque Mono](https://www.colophon-foundry.org/typefaces/basis-grotesque-mono)
@@ -49,6 +48,7 @@
 
 -   [Arial Pro Monospaced](https://www.myfonts.com/collections/arial-font-monotype-imaging?tab=individualStyles)
 -   [Century Schoolbook Monospace](https://www.myfonts.com/products/century-schoolbook-monospaced-10058-century-schoolbook-435037)
+-   [PF DIN Monospaced](https://parachutefonts.com/typeface/DIN-Monospace) [paid] [coding]
 -   [Helvetica Monospaced]
 -   [ITC Souvenir Monospaced]
 -   [Univers Next Typewriter]

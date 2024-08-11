@@ -130,6 +130,8 @@
 
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
 -   [64-SRC](https://www.myfonts.com/fonts/ilott-type/64-src/)
+-   [Autocode](https://www.myfonts.com/collections/autocode-font-avp)
+-   [Autoscape](https://lineto.com/typefaces/autoscape)
 -   [Best Choice](https://dharmatype.com/best-choice)
 -   [Calling Code](https://dharmatype.com/calling-code)
 -   [Code Saver](https://dharmatype.com/code-saver)
