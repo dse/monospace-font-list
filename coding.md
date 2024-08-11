@@ -3,6 +3,7 @@
 ## Freely Available
 
 -   [3270font](https://github.com/rbanffy/3270font)
+-   [A+](http://archive.vector.org.uk/resource/index.htm)
 -   [Agave](https://b.agaric.net/page/agave)
 -   [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) - damieng's bitmap font, not related to Thiemich's paid Alto Mono
 -   [Anka/Coder](https://usemodify.com/fonts/anka-coder/)
@@ -133,6 +134,7 @@
 -   [Calling Code](https://dharmatype.com/calling-code)
 -   [Code Saver](https://dharmatype.com/code-saver)
 -   [Codename Coder 4F](http://fonts.4thfebruary.com.ua/codename-coder-4f/)
+-   [Cubiculum](https://www.myfonts.com/collections/cubiculum-font-johan-winge)
 -   [Dank Mono](https://philpl.gumroad.com/l/dank-mono)
 -   [Debugger](https://dharmatype.com/debugger)
 -   [Eco Coding](https://www.myfonts.com/collections/eco-coding-font-s-core)
