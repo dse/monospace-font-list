@@ -84,8 +84,9 @@
 -   [Monego](https://github.com/cseelus/monego) - monaco with bold and italic variants
 -   [Monoid](https://larsenwork.com/monoid/)
 -   [Mononoki](https://madmalik.github.io/mononoki/)
+-   [New Heterodox Mono](https://github.com/hckiang/font-new-heterodox-mono)
 -   [NK57 Monospace](https://www.dafont.com/nk57-monospace.font)
--   [Noto Fonts](https://github.com/notofonts) - includes a mono variant
+-   [Noto Fonts](https://github.com/notofonts) - includes Noto Sans Mono
 -   [Old School PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
 -   [Openstep Mono](https://fontstruct.com/fontstructions/show/918633/openstep_mono)
 -   [Overpass](https://overpassfont.org/)
@@ -112,6 +113,7 @@
 -   [TRS-80 Fonts](https://www.kreativekorp.com/software/fonts/trs80/)
 -   [TT2020](https://copypaste.wtf/TT2020/docs/)
 -   [Victor Mono](https://github.com/rubjo/victor-mono)
+-   [VT323](https://github.com/phoikoi/VT323)
 -   [Writer](https://github.com/tonsky/font-writer)
 -   [Wumpus Mono](https://github.com/vaughantype/wumpus-mono/)
 -   [X11 Fonts](https://gitlab.freedesktop.org/xorg/font) - among which are some good bitmap coding fonts:
@@ -127,18 +129,19 @@
 
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
 -   [64-SRC](https://www.myfonts.com/fonts/ilott-type/64-src/)
+-   [Best Choice](https://dharmatype.com/best-choice)
+-   [Calling Code](https://dharmatype.com/calling-code)
+-   [Code Saver](https://dharmatype.com/code-saver)
+-   [Codename Coder 4F](http://fonts.4thfebruary.com.ua/codename-coder-4f/)
+-   [Dank Mono](https://philpl.gumroad.com/l/dank-mono)
+-   [Debugger](https://dharmatype.com/debugger)
+-   [Eco Coding](https://www.myfonts.com/collections/eco-coding-font-s-core)
 -   [Monolisa](https://www.monolisa.dev/)
 -   [Operator Mono](https://typography.com/blog/introducing-operator)
 -   [Pragmata Pro](https://fsd.it/shop/fonts/pragmatapro/)
--   [Triplicate](https://mbtype.com/fonts/triplicate/)
--   [Debugger](https://dharmatype.com/debugger)
 -   [Senpai Coder](https://dharmatype.com/senpai-coder)
--   [Best Choice](https://dharmatype.com/best-choice)
--   [Code Saver](https://dharmatype.com/code-saver)
--   [Calling Code](https://dharmatype.com/calling-code)
--   [Codename Coder 4F](http://fonts.4thfebruary.com.ua/codename-coder-4f/)
--   [Dank Mono](https://philpl.gumroad.com/l/dank-mono) [paid] [coding]
--   [Eco Coding](https://www.myfonts.com/collections/eco-coding-font-s-core)
+-   [TheSansMono](https://www.lucasfonts.com/fonts/the-sans-mono) - used in some O'Reilly & Associates books
+-   [Triplicate](https://mbtype.com/fonts/triplicate/)
 
 ## Enhancements
 

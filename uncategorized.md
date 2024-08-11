@@ -3,65 +3,214 @@
 Some are paid; some are free; some are for coding; others not so much.
 
 -   [BSU Kermit]
+    -   BSU Kermit
+        -   mentioned: ht
+        -   mentioned: https://www.lowing.org/fonts/
+        -   image: ht
 -   [DEC VT330]
+    -   DEC VT330
+        -   description: a collection of .pcf fonts available on HP systems
 -   [DIN Monospace]
+    -   DIN Monospace / PF Din Mono
+        -   website: https://parachutefonts.com/typeface/DIN-Monospace
+        -   cost: $
+        -   foundry: Parachute1
 -   [DIN Mono Pro]
 -   [Dina]
+    -   Dina
+        -   website: https://www.dcmembers.com/jibsen/download/61/
+        -   image: https://www.dcmembers.com/jibsen/wp-content/uploads/sites/6/2017/12/dinabordered3.png
 -   [Disket Mono]
+    -   Disket Mono
+        -   website: https://rostype.com/disket/
+        -   image: https://rostype.com/wp-content/uploads/2019/10/rostype-slide_dis.jpg
+        -   not built for coding
 -   [Dispatch Mono]
+    -   Dispatch Mono
+        -   website: https://occupantfonts.com/fonts/dispatch-mono/
+        -   foundry: Occupant Fonts
+        -   cost: $
 -   [DM Mono]
+    -   DM Mono
+        -   google fonts: https://fonts.google.com/specimen/DM+Mono
+        -   git: https://github.com/googlefonts/dm-mono
+        -   foundry: Colophon
+        -   license: SIL OFL
 -   [Doire]
+    -   Doire
+        -   myfonts: https://www.myfonts.com/collections/doire-font-evertype
+        -   cost: $40 for complete family of four fonts
+        -   designer: Michael Everson
+        -   foundry: Evertype
+        -   not good for coding
+        -   based on a Royal gaelic manual typewriter
 -   [Dossier]
+    -   Dossier
+        -   myfonts: https://www.myfonts.com/collections/dossier-font-tabular-type-foundry
+        -   website: https://tosche.net/blog/tabular-type-foundry
+        -   cost: $15 for complete family of 15 fonts
 -   [DPCustomMono2]
+    -   DPCustomMono2
+        -   wiki: https://www.pgdp.net/wiki/DPCustomMono2_Font
+        -   replaced by: DP Sans Mono
 -   [DP Sans Mono]
+    -   DP Sans Mono
+        -   wiki: https://www.pgdp.net/wiki/DP_Sans_Mono
+        -   website: https://www.pgdp.net/c/faq/font_sample.php
+        -   application: proofreading
 -   [EB Jessica]
+    -   EB Jessica
+        -   myfonts: https://www.myfonts.com/collections/eb-jessica-font-erik-bertell
+        -   cost: $19.95 for complete family of 2 fonts
+        -   designer: Erik Bertell
+        -   not for coding
 -   [EF Cash]
+    -   EF Cash Monospaced
+        -   website: https://www.fonts.com/font/elsner-flake/ef-cash/monospaced
+        -   cost: $35
 -   [EF Techno Script]
 -   [Effects Eighty]
+    -   Effects Eighty
+        -   fontlibrary: https://fontlibrary.org/en/font/effects-eighty
+        -   dot matrix printer font
+        -   designer: Peter Hull
 -   [Electronic Font Open Laboratory]
 -   [EnvyPN]
+    -   EnvyPN
+        -   git: https://github.com/hicolour/envypn-font
+        -   designed by [Yponse](https://ywstd.fr/)
 -   [Erica Type]
+    -   Erica Type
+        -   dafont: https://www.dafont.com/erika-type.font
+        -   APPARENTLY NOT A MONOSPACE if dafont is any indication
+        -   designer: [Peter Wiegel](http://www.peter-wiegel.de/)
 -   [Espresso Mono]
+    -   Espresso Mono
+        -   website: https://eng.m.fontke.com/font/16258123/
+        -   designed by: fontke
 -   [Excalibur Monospace]
+    -   Excalibur Monospace
+        -   fonts2u: https://fonts2u.com/excalibur-monospace.font
 -   [Excellent]
--   [F25 Bank Printer]
--   [F25 Cella]
--   [F25 Typewriter Condensed]
--   [F25 Blackletter Typewriter]
--   [F25 Telegraphem]
 -   [F25 Artisan12]
+    -   F25 Artisan12
+        -   website: http://f25.cc/?F25_Fonts:Monospaced
+-   [F25 Bank Printer]
+    -   F25 Bank Printer
+        -   website: http://f25.cc/?F25_Fonts:Monospaced
+-   [F25 Cella]
+    -   F25 Cella
+        -   website: http://f25.cc/?F25_Fonts:Monospaced
+-   [F25 Typewriter Condensed]
+    -   F25 Typewriter Condensed
+        -   website: http://f25.cc/?F25_Fonts:Monospaced
+-   [F25 Blackletter Typewriter]
+    -   F25 Blackletter Typewriter
+        -   website: http://f25.cc/?F25_Fonts:Monospaced
+-   [F25 Telegraphem]
+    -   F25 Telegraphem
+        -   website: http://f25.cc/?F25_Fonts:Monospaced
 -   [F25 DaisyWheel]
+    -   F25 Daisy Wheel
+        -   website: http://f25.cc/?F25_Fonts:Monospaced
+-   [F25 Executive]
+    -   website: http://f25.cc/?F25_Fonts:Monospaced
 -   [Fabrikat Mono]
+    -   Fabrikat Mono
+        -   myfonts: https://www.myfonts.com/collections/fabrikat-mono-font-hvd-fonts
+        -   foundry: HVD Fonts
+        -   https://www.hvdfonts.com/fonts/fabrikat-mono
 -   [Fairfax]
 -   [Fairfax HD]
+    -   Fairfax HD
+        -   git: https://github.com/kreativekorp/open-relay/tree/master/FairfaxHD
+        -   website: https://www.kreativekorp.com/software/fonts/fairfaxhd/
+        -   built for coding
+        -   previous variants:
+            -   Fairfax
 -   [Fairfax Serif]
 -   [Fakt Mono]
 -   [Feggolite Mono]
+    -   Feggolite Mono
+        -   fonts.com: https://www.fonts.com/font/ingrimayne-type/feggolite-mono
+        -   foundry: Ingrimayne Type
+        -   cost: $16.95
+        -   via: http://www.cfcl.com/vlb/h/fontmono.html
 -   [Felt Pen]
 -   [FF Attribute Mono]
+    -   FF Attribute Mono
+        -   foundry: FontFont
+        -   myfonts: https://www.myfonts.com/collections/ff-attribute-mono-font-fontfont
 -   [FF Elementa]
+    -   FF Elementa
+        -   foundry: FontFont
+        -   myfonts: https://www.myfonts.com/collections/elementa-pro-font-fontfont
 -   [FF Fago Monospaced]
+    -   FF Fago Monospaced
+        -   foundry: FontFont
+        -   myfonts: https://www.myfonts.com/collections/fago-monospace-font-fontfont
 -   [FF Gateway]
+    -   FF Gateway (no longer available)
+        -   foundry: FontFont
 -   [FF Magda Clean Mono]
+    -   FF Magda Clean Mono
+        -   foundry: FontFont
+        -   myfonts: https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont
 -   [FF Nexus Typewriter]
+    -   FF Nexus Typewriter (no longer available)
+        -   foundry: FontFont
 -   [FF Trixie]
+    -   FF Trixie
+        -   foundry: FontFont
+        -   myfonts: https://www.myfonts.com/collections/ff-trixie-font-fontfont
+        -   GRUNGY AND ROUGH
 -   [FF Typestar OCR]
+    -   FF Typestar OCR
+        -   foundry: FontFont
+        -   myfonts: https://www.myfonts.com/collections/ff-typestar-ocr-font-fontfont
 -   [Fifteen]
--   [Fira Code]
+    -   Fifteen
+        -   fontlibrary: https://fontlibrary.org/en/font/fifteen
+        -   see also: Quinze
+        -   designer: Zeimusu
 -   [Fira Cousine]
--   [Fira Mono]
+    -   Fira Cousine
+        -   git: https://github.com/macduy/FiraCousine
+        -   based on: Cousine, adding Fira Code's punctuation marks and ligatures
+        -   license: GPL 3.0
 -   [Fixedsys]
--   [Fixedsys Excelsior with Ligatures]
+    -   Fixedsys
+        -   wikipedia: https://en.wikipedia.org/wiki/Fixedsys
 -   [Flexi IBM VGA]
+    -   Flexi IBM VGA
+        -   website: https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/
 -   [Galexica Mono (novelty)]
+    -   Galexica Mono
+        -   myfonts: https://www.myfonts.com/collections/galexicamono-font-ingrimayne-type
 -   [Gemeli Mono]
+    -   Gemeli Mono
+        -   website: https://www.productiontype.com/family/gemeli_mono
+        -   foundry: Production Type
 -   [Generic Mono]
+    -   Generic Mono
+        -   luc devroye: http://luc.devroye.org/fonts-75172.html
 -   [Glovis]
+    -   Glovis
+        -   https://fontsempire.com/font/glovis-download/
+        -   italic old-timey style typeface
 -   [GNUTypewriter]
 -   [Google Sans Mono]
+    -   Google Sans Mono
+        -   mentioned: https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/
+        -   third-party: https://github.com/mehant-kr/Google-Sans-Mono
 -   [Greenwood Pro]
+    -   Greenwood Pro
+        -   myfonts: https://www.myfonts.com/collections/greenwood-font-protimient
 -   [Grid15]
 -   [GT Alpina Typewriter]
+    -   GT Alpina Typewriter
+        -   website: https://www.grillitype.com/typeface/gt-alpina
+        -   note: I first saw this in a Clickhole ad.
 -   [GT America Mono]
 -   [GT Pressura Mono]
 -   [GwdTE 437]
@@ -95,7 +244,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [KongText]
 -   [KP Monospaced]
 -   [Larabiefont]
--   [Latin Modern Mono]
 -   [League Mono]
 -   [Lekton]
 -   [Less Perfect DOS VGA]
@@ -159,17 +307,13 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [NB Typewriter]
 -   [Necto Mono]
 -   [Neep]
--   [New Heterodox Mono]
 -   [Nice Weekend]
--   [Nimbus Mono L (URW)]
 -   [Nitti]
 -   [Normafixed]
 -   [NotCourierSans]
 -   [Nova Mono]
 -   [NuSans Mono]
 -   [Occupy Monospace]
--   [OCR-A]
--   [OCR-B]
 -   [OCRJ]
 -   [Odisseia]
 -   [Office Code Pro]
@@ -183,7 +327,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [OPS Favorite]
 -   [OPS Placard]
 -   [Opti]
--   [Orator]
 -   [Osaka Regular-Mono]
 -   [Oxygen Mono]
 -   [Panama Monospace]
@@ -207,7 +350,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Press Start]
 -   [Press Start 2P]
 -   [Press Start K]
--   [Prestige (Elite)]
 -   [Print Out]
 -   [PT Mono]
 -   [PTL Notes Tec Mono]
@@ -233,7 +375,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [SaxMono (\"Tile\")]
 -   [Sauna Mono Pro]
 -   [Schumaker Misc]
--   [Screenwriter\'s Typewriter Fonts Pro]
 -   [Script 12 Pitch]
 -   [Segoe UI Mono]
 -   [Selectric]
@@ -246,7 +387,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Small Type Writing]
 -   [Smith Premier NF]
 -   [Sometype Mono]
--   [Sony Misc]
 -   [Space Mono]
 -   [Speedy]
 -   [Spot Mono]
@@ -269,7 +409,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Termsyn]
 -   [Tewi]
 -   [Thermo]
--   [TheSansMono]
 -   [TI92PlusPC]
 -   [Tired of Courier]
 -   [Topaz-8]
