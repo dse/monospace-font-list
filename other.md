@@ -95,32 +95,38 @@ preceding typewriter since _c._ 1880.
 The Courier name and typeface design are essentially in the public
 domain, thanks to which numerous clones are available.
 
--   [Average Mono](https://fontlibrary.org/en/font/average-mono) - an "average" of 13 variants of Courier.
--   [Courier 10 Pitch BT]
--   [Courier Code]
--   [Courier Final Draft]
--   [Courier Line Draw]
--   [Courier MM Screenwriter]
--   [Courier M]
--   [Courier New]
--   [Courier PS]
--   [Courier Prime Code]
--   [Courier Prime Sans]
--   [Courier Prime]
--   [Courier SB]
--   [Courier Sans Mono]
--   [Courier Screenplay]
--   [Courier Standard]
--   [Courier]
--   [Dark Courier]
--   [EF Courier B]
--   [FreeMono]
--   [Nimbus Mono L (URW)]
--   [TeX Gyre Cursor]
+1.  [Average Mono](https://fontlibrary.org/en/font/average-mono) - an "average" of 13 variants of Courier.
+1.  [IBM Courier](https://gitlab.freedesktop.org/xorg/font/ibm-type1), distributed in Type 1 format with X11.
+1.  [Bitstream Courier 10 Pitch](https://gitlab.freedesktop.org/xorg/font/bitstream-type1), distributed in Type 1 format with X11.
+    -   [Courier Code](https://fontlibrary.org/en/font/courier-code), which modifies Courier 10 Pitch BT to make the lower case L and digit 0 more distinguishable
+1.  [Courier Final Draft], distributed with Final Draft software
+1.  [Courier Screenplay], distributed with Fade In, professional screenwriting software
+1.  [Courier Standard], distributed with Adobe Reader 6
+1.  [Dark Courier], developed by HP as a thicker alternative
+1.  [Courier New], one of Microsoft's Core Fonts for the Web
+1.  [Courier Prime](https://quoteunquoteapps.com/courierprime/), a variant with an italic designed for screenwriters
+    -   Courier Prime Sans is a sans-serif variant.
+    -   Courier Prime Code, a sans-serif variant with coding features.
+1.  [Nimbus Mono L](https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree) is URW++'s Courier clone, distributed with Ghostscript.
+    -   [TeX Gyre Cursor](https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html) adds Vietnamese glyphs, etc. to Nimbus Mono.
+    -   [GNU FreeFont](https://www.gnu.org/software/freefont/) Mono is also derived from Nimbus Mono.
+1.  [Courier Sans Mono](https://lineto.com/typefaces/courier-sans-mono) from Lineto.
+1.  [Courier Line Draw](https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging) from Monotype.
+1.  [Courier MM Screenwriter], distributed with Movie Magic Screenwriter.
+1.  [Courier M](https://www.myfonts.com/collections/courier-font-urw) by URW.
+1.  [Courier PS](https://www.myfonts.com/collections/courier-ps-font-monotype-imaging) by Monotype.
+1.  [Courier SB](https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection) by Scangraphic Digital
+1.  [Courier EF](https://www.myfonts.com/collections/courier-b-font-elsner-flake) by Elsner+Flake.
+1.  [distributed by the Thai Linux Working Group](https://github.com/tlwg/fonts-tlwg/tree/master/tlwg):
+    -   TlwgMono
+    -   Tlwg Typewriter
+    -   Tlwg Typist
+    -   Tlwg Typo
 
 ## Classic Monospace Fonts
 
 -   [Letter Gothic]
+    -   [URW](https://ctan.org/tex-archive/fonts/urw/lettergothic/?lang=en)
 -   [Orator]
 -   [Prestige]
 -   [OCR-A]
