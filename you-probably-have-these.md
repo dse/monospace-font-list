@@ -2,7 +2,7 @@
 
 -   [Andalé Mono](https://learn.microsoft.com/en-us/typography/font-list/andale-mono)
 -   Consolas
--   Courier New
+-   Courier
 -   Monaco
 -   Menlo
 -   [Fixedsys](https://en.wikipedia.org/wiki/Fixedsys)

@@ -83,11 +83,17 @@
     -   [Monospace 821](https://www.myfonts.com/collections/monospace-821-font-bitstream)
 -   [Unica77 Mono](https://lineto.com/typefaces/unica77-mono)
 
-## The Couriers
+## Courier
 
 Typewriter manufacturer IBM commissioned a new monospace typeface,
-Courier; it was first released to the public in 1956.  The Courier
-name and typeface are essentially in the public domain.
+Courier; it was first released to the public in 1956.
+
+Courier was one of the first monospace typefaces to break away from
+the "old-timey" slab serif style exhibited by pretty much every
+preceding typewriter since _c._ 1880.
+
+The Courier name and typeface design are essentially in the public
+domain, thanks to which numerous clones are available.
 
 -   [Average Mono](https://fontlibrary.org/en/font/average-mono) - an "average" of 13 variants of Courier.
 -   [Courier 10 Pitch BT]
