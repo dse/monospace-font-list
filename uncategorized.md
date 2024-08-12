@@ -56,8 +56,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Quinze](https://fontlibrary.org/en/font/quinze) [free] [coding] - see also Fifteen
 -   [Fira Cousine](https://github.com/macduy/FiraCousine) [free] [coding] - Cousine + Fira Code's punct marks and ligatures
 -   [Flexi IBM VGA](https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/) - scalable version of IBM VGA font
--   [Google Sans Mono](https://github.com/mehant-kr/Google-Sans-Mono)
-    -   via: https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/
 -   [Typist Slab Mono](https://www.myfonts.com/collections/typist-slab-font-vanderkeur) [old-ish] [paid]
 
 -   [Gemeli Mono]

@@ -76,6 +76,8 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [GNU Unifont](https://unifoundry.com/unifont/)
 -   [Go Mono](https://go.dev/blog/go-fonts)
 -   [Gohu](https://font.gohu.org/)
+-   [Google Sans Mono](https://github.com/mehant-kr/Google-Sans-Mono) a/k/a Product Sans Mono
+    -   via: https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/
 -   [Haskplex](https://github.com/huytd/haskplex-font) - Hasklig + IBM Plex Mono
 -   [Hermit](https://pcaro.es/hermit/)
 -   [IBM Fonts](https://farsil.github.io/ibmfonts/) in BDF format
