@@ -5,9 +5,11 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   U+0030 DIGIT ZERO and U+004F LATIN CAPITAL LETTER O
     -   `0`
     -   `O`
--   U+0031 DIGIT ONE and U+006C LATIN SMALL LETTER L
+-   U+0031 DIGIT ONE, U+0049 LATIN CAPITAL LETTER I, U+006C LATIN SMALL LETTER L, and U+007C VERTICAL LINE
     -   `1`
+    -   `I`
     -   `l`
+    -   `|`
 
 ## Freely Available
 
