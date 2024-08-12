@@ -83,55 +83,53 @@
     -   [Monospace 821](https://www.myfonts.com/collections/monospace-821-font-bitstream)
 -   [Unica77 Mono](https://lineto.com/typefaces/unica77-mono)
 
-## Unclassified
-
-
 ## The Couriers
 
--   [Average Mono](https://fontlibrary.org/en/font/average-mono) - an "average" of 13 variants of Courier.
+Typewriter manufacturer IBM commissioned a new monospace typeface,
+Courier; it was first released to the public in 1956.  The Courier
+name and typeface are essentially in the public domain.
 
-## Classic Typewriter Fonts
+-   [Average Mono](https://fontlibrary.org/en/font/average-mono) - an "average" of 13 variants of Courier.
+-   [Courier 10 Pitch BT]
+-   [Courier Code]
+-   [Courier Final Draft]
+-   [Courier Line Draw]
+-   [Courier MM Screenwriter]
+-   [Courier M]
+-   [Courier New]
+-   [Courier PS]
+-   [Courier Prime Code]
+-   [Courier Prime Sans]
+-   [Courier Prime]
+-   [Courier SB]
+-   [Courier Sans Mono]
+-   [Courier Screenplay]
+-   [Courier Standard]
+-   [Courier]
+-   [Dark Courier]
+-   [EF Courier B]
+-   [FreeMono]
+-   [Nimbus Mono L (URW)]
+-   [TeX Gyre Cursor]
+
+## Classic Monospace Fonts
 
 -   [Letter Gothic]
 -   [Orator]
 -   [Prestige]
-
--   [LTC Remington Typewriter](https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company)
--   [Screenwriter\'s Typewriter Fonts Pro]
--   [Bitstream Pica 10 Pitch](https://www.myfonts.com/collections/pica-10-pitch-font-bitstream)
--   [Monotype Typewriter](https://www.myfonts.com/products/typewriter-complete-family-pack-package-432181)
--   [Italian Typewriter](https://www.studiodilena.com/en/italian_typewriter.html)
--   [Pitch](https://klim.co.nz/retail-fonts/pitch/) [old typewriter inspired]
-
-## Other Classic Monospace Typefaces
-
 -   [OCR-A]
 -   [OCR-B]
 
-## Courier
+## The Old-Timeys
 
--   [Courier]
--   [Courier 10 Pitch BT]
--   [EF Courier B]
--   [Courier Code]
--   [Courier Final Draft]
--   [Courier Line Draw]
--   [Courier M]
--   [Courier MM Screenwriter]
--   [Courier New]
--   [Courier Prime]
--   [Courier Prime Code]
--   [Courier Prime Sans]
--   [Courier PS]
--   [FreeMono]
--   [Courier Sans Mono]
--   [Courier SB]
--   [Courier Screenplay]
--   [Courier Standard]
--   [Dark Courier]
--   [TeX Gyre Cursor]
--   [Average Mono]
--   [Nimbus Mono L (URW)]
+-   [LTC Remington Typewriter](https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company)
+-   [Bitstream Pica 10 Pitch](https://www.myfonts.com/collections/pica-10-pitch-font-bitstream)
+-   [Monotype Typewriter](https://www.myfonts.com/products/typewriter-complete-family-pack-package-432181)
+-   [Italian Typewriter](https://www.studiodilena.com/en/italian_typewriter.html)
+
+### Old-Timey Inspired
+
+-   [Pitch](https://klim.co.nz/retail-fonts/pitch/) [old typewriter inspired]
 
 <!-- ** For Emacs ** -->
 <!-- Local Variables: -->
