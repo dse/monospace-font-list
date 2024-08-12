@@ -44,7 +44,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Fabrikat Mono](https://www.hvdfonts.com/fonts/fabrikat-mono) [paid] [not for coding]
 -   [Fairfax Serif](https://fonts2u.com/fairfax-serif.font) [free] [coding]
 -   [Fakt Mono](https://www.typeby.com/fonts/fakt-mono) [paid] [coding]
--   [Feggolite Mono](https://www.myfonts.com/products/feggolite-mono-feggolitemono-220905) [paid] [not for coding]
 
 -   [Felt Pen]
 -   [FF Attribute Mono](https://viktornuebel.com/retail-fonts/attribute/) [paid]
@@ -61,12 +60,6 @@ Some are paid; some are free; some are for coding; others not so much.
     -   via: https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/
 -   [Typist Slab Mono](https://www.myfonts.com/collections/typist-slab-font-vanderkeur) [old-ish] [paid]
 
--   [Fixedsys]
-    -   Fixedsys
-        -   wikipedia: https://en.wikipedia.org/wiki/Fixedsys
--   [Galexica Mono (novelty)]
-    -   Galexica Mono
-        -   myfonts: https://www.myfonts.com/collections/galexicamono-font-ingrimayne-type
 -   [Gemeli Mono]
     -   Gemeli Mono
         -   website: https://www.productiontype.com/family/gemeli_mono
@@ -87,8 +80,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Hyperfont]
 -   [iA Writer Duospace]
 -   [iA Writer Mono]
--   [IBM Fonts]
-    -   website: https://farsil.github.io/ibmfonts/
 -   [Igoe (?)]
     -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [Illusion]
@@ -97,10 +88,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Inconsolata-g]
 -   [Inconsolata Hellenic]
 -   [Ingrid Mono]
--   [Intimo]
--   [Intimo Two]
-    -   website: https://www.studiodilena.com/en/italian_typewriter.html
--   [JetJane Mono]
 -   [JSans J]
     -   via: http://archive.vector.org.uk/resource/index.htm
 -   [jxyahei]
@@ -127,7 +114,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Lettera Mono]
 -   [LH Mono Slab]
 -   [Linefeed]
--   [Linux Console Fonts for Windows]
 -   [Linux Libertine Mono]
 -   [LispM]
 -   [Looper (?)]
@@ -144,10 +130,7 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Major Mono Display]
 -   [Manaspace]
 -   [Marista]
--   [Mensch]
--   [Meslo LG]
 -   [Metrickal]
--   [Meyrin CERN]
 -   [Mingray Mono]
 -   [Mitigate]
 -   [Modd]
@@ -164,7 +147,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [MonoLisa]
 -   [MonoOne]
 -   [Monospace]
--   [Monospace 821 BT]
 -   [MonosapceTypewriter]
 -   [Monosapce Typewriter]
 -   [MonoSpatial]
@@ -176,7 +158,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [MVB Fantabular]
 -   [MVB Fantabular Sans]
 -   [Name Mono]
--   [Nanum Gothic Coding (Korean)]
 -   [Native (fontfoundry.com)]
 -   [NB Architekt]
 -   [NB Typewriter]
@@ -201,7 +182,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Onuava]
 -   [OpenDyslexic]
 -   [OpenGenera fonts]
--   [Operator Mono]
 -   [OPS Cubic]
 -   [OPS Favorite]
 -   [OPS Placard]
@@ -217,15 +197,10 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Pico]
 -   [Pine (?)]
     -   via: https://www.designbombs.com/best-monospaced-fonts/
--   [Pitch]
-    -   old-timey
-    -   website: https://klim.co.nz/retail-fonts/pitch/
 -   [Pixel Carnage]
 -   [PixSymbols Courex]
 -   [Platelet]
 -   [Plotter Mono]
--   [PoulTre]
-    -   git: https://codeberg.org/Wezl/fonts
 -   [Print Char 21]
 -   [Press Start]
 -   [Press Start 2P]
@@ -247,12 +222,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Resolution]
 -   [retro fonts]
 -   [RF Rostin]
--   [Roboto Mono]
-    -   google fonts: https://fonts.google.com/specimen/Roboto+Mono
-    -   designer: Christian Robertson
-    -   license: Apache License 2.0
-    -   git: https://github.com/googlefonts/roboto
-    -   built for coding
 -   [romfont]
     -   git: https://github.com/spacerace/romfont
     -   collection of old PC fonts, and then some.
@@ -260,9 +229,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [RX100]
 -   [Sabir Mono]
 -   [Sarasa Gothic]
--   [SAX2]
-    -   APL font
-    -   website: https://abrudz.github.io/SAX2/
 -   [Sauna Mono Pro]
 -   [Schumaker Misc]
     -   git: https://gitlab.freedesktop.org/xorg/font/schumacher-misc
@@ -272,9 +238,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [SF Mono]
     -   useful for coding
 -   [Sheldon]
--   [SImPL]
-    -   APL font
-    -   website: http://archive.vector.org.uk/art10002160
 -   [Simple]
 -   [SK Modernist Mono]
 -   [Skurier]
@@ -307,11 +270,9 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Terminal/VGA Font]
     -   via: http://www.lowing.org/fonts/
 -   [Terminex]
--   [Termsyn]
 -   [Tewi]
 -   [Thermo]
 -   [Tinos]
--   [Tired of Courier]
 -   [Topaz-8]
 -   [Triplicate]
 -   [Triskweline]

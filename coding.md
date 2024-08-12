@@ -80,17 +80,22 @@
 -   [Letter Gothic Code](https://github.com/jamesxmcintosh/LetterGothicCode)
 -   [Liberation Fonts](https://github.com/liberationfonts) - among which, Liberation Mono
 -   [Lilex](https://github.com/mishamyrt/Lilex)
+-   [Linux Console Fonts for Windows](http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/) in .TTF and .FON
 -   [Luculent](https://usemodify.com/fonts/luculent/)
 -   [M+](https://mplusfonts.github.io/)
+-   [Mensch](https://www.losttype.com/font/?name=mensch) [pay what you want]
+-   [Meyrin CERN](https://github.com/optional-is/Meyrin)
 -   [mnicmp](https://fontlibrary.org/en/font/mnicmp) - based on the 7-pin DECwriter II printer
 -   [Monaspace](https://monaspace.githubnext.com/) - superfamily
 -   [Monego](https://github.com/cseelus/monego) - monaco with bold and italic variants
 -   [Monoid](https://larsenwork.com/monoid/)
 -   [Mononoki](https://madmalik.github.io/mononoki/)
+-   [Nanum Gothic Coding](https://github.com/emersion/nanum-gothic-coding)
 -   [New Heterodox Mono](https://github.com/hckiang/font-new-heterodox-mono)
 -   [NK57 Monospace](https://www.dafont.com/nk57-monospace.font)
 -   [Noto Fonts](https://github.com/notofonts) - includes Noto Sans Mono
 -   [Old School PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
+    -   from which is derived [IBM Fonts](https://farsil.github.io/ibmfonts/)
 -   [Openstep Mono](https://fontstruct.com/fontstructions/show/918633/openstep_mono)
 -   [Overpass](https://overpassfont.org/)
 -   [Oxygen Mono](https://fonts.google.com/specimen/Oxygen+Mono)
@@ -103,6 +108,8 @@
 -   [Proggy Fonts](https://github.com/bluescan/proggyfonts)
 -   [Recursive](https://www.recursive.design/)
 -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
+-   [Roboto Mono](https://github.com/googlefonts/roboto)
+-   [SAX2 APL font](https://abrudz.github.io/SAX2/)
 -   [Server Mono](https://servermono.com/)
 -   [SGI Screen](https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/) - if this is a Unix system and you know this
     -   also [bitmaps](https://www.gnome-look.org/p/998527/)
@@ -120,11 +127,14 @@
 -   [Tamsyn](http://www.fial.com/~scott/tamsyn-font/) - bitmap-only
 -   [Tamzen](https://github.com/sunaku/tamzen-font) - tamsyn in ttf, other formats
 -   [Terminus](https://terminus-font.sourceforge.net/)
+-   [Termsyn](https://sourceforge.net/projects/termsyn/) - based on Terminus and Tamsyn/Tamzen
 -   [ti92plus](https://github.com/sterpe/ti92plus) - TI92PLUSPC.TTF with encoding fixes
     -   based on [Ti92Pluspc](https://fontsgeek.com/fonts/Ti92Pluspc-Regular)
 -   [TRS-80 Fonts](https://www.kreativekorp.com/software/fonts/trs80/)
 -   [TT2020](https://copypaste.wtf/TT2020/docs/)
 -   [Ubuntu Monospace](https://design.ubuntu.com/font)
+-   [Unix-originated terminal fonts for Windows](http://christian.lestrade.free.fr/fonts.html)
+    -   Includes some of the X fonts and some VGA fonts.  Also apparently includes VT330?
 -   [Unix PC 3B1](https://github.com/brandon-rhodes/unixpc-font-bdf)
 -   [UNSCII](http://viznut.fi/unscii/)
 -   [Verily Serif Mono](https://usemodify.com/fonts/verily-serif-mono/)
@@ -152,8 +162,9 @@ A scourge on humanity (in my opinion), though readable.  It's the basis for nume
         -   [Arev](http://tavmjong.free.fr/FONTS/) - a fork of DejaVu Sans Mono
         -   [Brutalist Mono](https://github.com/BRUTALISM/Brutalist) - another Deja Vu fork
         -   [Hack](https://sourcefoundry.org/hack/) - based on dejavu sans mono
-        -   [Hasklig](https://github.com/i-tu/Hasklig) - hack with ligatures
+            -   [Hasklig](https://github.com/i-tu/Hasklig) - hack with ligatures
         -   Menlo - bundled with macOS
+            -   [Meslo](https://github.com/andreberg/Meslo-Font) - Menlo with some tweaks
 
 ## Paid
 

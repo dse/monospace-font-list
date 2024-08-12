@@ -26,11 +26,11 @@
 -   [Akkurat Mono](https://lineto.com/typefaces/akkurat-mono)
 -   [Alto Mono](https://www.typeby.com/fonts/alto-mono) - Thiemich's typeface
     -   not related to damieng's free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
+-   [ASM](https://extratype.com/fonts/asm)
 -   [Andale Teletext](https://www.myfonts.com/collections/andale-teletext-font-monotype-imaging)
 -   [Aperçu Mono](https://www.colophon-foundry.org/typefaces/apercu-mono)
 -   [Archive Mono](https://www.colophon-foundry.org/typefaces/archive-mono)
 -   [Ascender Sans Mono](https://www.myfonts.com/collections/ascender-sans-mono-font-ascender-corp)
--   [ASM](https://extratype.com/fonts/asm)
 -   [Atlas Typewriter](https://commercialtype.com/catalog/atlas_typewriter)
 -   [Autoscape](https://lineto.com/typefaces/autoscape)
 -   [Base Monospace](https://www.emigre.com/Fonts/Base-Monospace)
@@ -42,15 +42,28 @@
 -   [Colón Mono](http://www.tipografiaramis.com/coloacuten-mono.html)
 -   [Concursico Mono BTN](https://www.youworkforthem.com/font/19425/concursico-mono-btn)
 -   [Cumberland](https://www.myfonts.com/collections/cumberland-font-monotype-imaging)
--   [Decima Mono](http://www.tipografiaramis.com/decima-mono.html)
+-   [DF Staple Mono](https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts)
 -   [Decima Mono Pro](http://www.tipografiaramis.com/decima-mono-pro.html)
 -   [Decima Mono Round](http://www.tipografiaramis.com/decima-mono-round.html)
--   [DF Staple Mono](https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts)
+-   [Decima Mono](http://www.tipografiaramis.com/decima-mono.html)
+-   [Dottie](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Feggolite Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [GT Alpina Typewriter](https://www.grillitype.com/typeface/gt-alpina)
 -   [GT America Mono](https://www.grillitype.com/typeface/gt-america)
 -   [GT Pressura Mono](https://www.grillitype.com/typeface/gt-pressura)
+-   [Galexica Mono](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [HeartMatrixed](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Heimat Mono](https://www.myfonts.com/collections/heimat-mono-font-atlasfontfoundry)
+-   [Heptagroan](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Intimo](https://www.myfonts.com/collections/intimo-font-alias-collection)
+-   [Irritation](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [JetJane Mono](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Karlisbad](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Polli Sans Mono](https://www.myfonts.com/collections/polli-sans-font-will-albin-clark)
+-   [Sanduski Mono](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Skagwae Mono](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Tired of Courier](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [WatchMaker](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Wire Type Mono](https://www.myfonts.com/collections/wire-type-mono-font-thomas-kading)
 
 ## Monospaced Versions of Proportional Typefaces
@@ -93,6 +106,7 @@
 -   [Bitstream Pica 10 Pitch](https://www.myfonts.com/collections/pica-10-pitch-font-bitstream)
 -   [Monotype Typewriter](https://www.myfonts.com/products/typewriter-complete-family-pack-package-432181)
 -   [Italian Typewriter](https://www.studiodilena.com/en/italian_typewriter.html)
+-   [Pitch](https://klim.co.nz/retail-fonts/pitch/) [old typewriter inspired]
 
 ## Other Classic Monospace Typefaces
 
