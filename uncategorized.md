@@ -4,7 +4,6 @@ Some are paid; some are free; some are for coding; others not so much.
 
 -   [Antikor Mono](https://www.taf-studio.com/retail-fonts/antikor/) [paid]
 -   [Arkibal Mono](https://elements.envato.com/arkibal-mono-F98DXM) [paid]
--   [Arev](http://tavmjong.free.fr/FONTS/) - a fork of DejaVu Sans Mono [free] [coding]
 -   [Azaret Mono](https://displaay.net/typeface/azeret/azeret-mono/) [free]
 -   [Basier Mono](https://www.atipofoundry.com/fonts/basier-mono) [pay-what-you-want]
 -   [Bedstead](https://bjh21.me.uk/bedstead/) [free]
@@ -14,11 +13,7 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [PoultreMono](https://codeberg.org/Wezl/fonts)
 -   [Bergen Mono](https://elements.envato.com/bergen-mono-942DQ4)
 -   [Bino Mono](http://luc.devroye.org/fonts-54943.html) [not available]
--   [Bitstream Pica 10 Pitch](https://www.myfonts.com/collections/pica-10-pitch-font-bitstream) [paid] [old]
 -   [BQN386](https://dzaima.github.io/BQN386/) [free] [apl]
--   [BSU Kermit](https://www.lowing.org/fonts/) [not available]
--   [Comic Code](https://tosche.net/fonts/comic-code) [paid] [coding]
--   [Codelia](https://tosche.net/fonts/codelia) [paid] [coding]
 -   [Dossier](https://tosche.net/fonts/dossier) [paid]
 -   [Tabulamore Script](https://tosche.net/fonts/tabulamore-script) [paid]
 -   [Belinsky](https://tosche.net/fonts/belinsky) [paid]
@@ -28,10 +23,7 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono) [free]
 -   [Decima Mono](https://www.myfonts.com/collections/decima-mono-font-tipografiaramis) [paid]
 -   [DIN Mono Pro]
--   [Dina Font TTF](https://github.com/zshoals/Dina-Font-TTF-Remastered) [free] [coding]
--   [Dina Bitmap](https://www.dcmembers.com/jibsen/download/61/) [free] [bitmap] [coding]
 -   [Disket Mono](https://rostype.com/disket/) [display] [free]
--   [Dispatch Mono](https://occupantfonts.com/fonts/dispatch-mono/) [paid] [coding]
 -   [DM Mono](https://github.com/googlefonts/dm-mono)
 -   [Doire](https://www.myfonts.com/collections/doire-font-evertype) [paid] [oh definitely not for c0ding]
 -   [DP Sans Mono](https://www.pgdp.net/wiki/DP_Sans_Mono) [free]
@@ -46,7 +38,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [F25 Bank Printer](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Bank_Printer) [free] [private use]
 -   [F25 Artisan12](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Artisan12) [free] [private use]
 -   [F25 Typewriter Condensed](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Typewriter_Condensed) [free] [private use]
--   [F25 Telegraphem](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Telegraphem) [not available]
 -   [F25 Blackletter Typewriter](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Blackletter_Typewriter) [free] [private use]
 -   [F25 Cella](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Cella) [free] [private use]
 -   [F25 DaisyWheel](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_DaisyWheel) [free] [private use]
@@ -56,14 +47,6 @@ Some are paid; some are free; some are for coding; others not so much.
         -   myfonts: https://www.myfonts.com/collections/fabrikat-mono-font-hvd-fonts
         -   foundry: HVD Fonts
         -   https://www.hvdfonts.com/fonts/fabrikat-mono
--   [Fairfax]
--   [Fairfax HD]
-    -   Fairfax HD
-        -   git: https://github.com/kreativekorp/open-relay/tree/master/FairfaxHD
-        -   website: https://www.kreativekorp.com/software/fonts/fairfaxhd/
-        -   built for coding
-        -   previous variants:
-            -   Fairfax
 -   [Fairfax Serif]
 -   [Fakt Mono]
 -   [Feggolite Mono]
@@ -227,9 +210,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Major Mono Display]
 -   [Manaspace]
 -   [Marista]
--   [Menlo]
-    -   based on: DejaVu Sans Mono
-    -   built for coding
 -   [Mensch]
 -   [Meslo LG]
 -   [Metrickal]
@@ -446,9 +426,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Ume Gothic]
 -   [Ume Mincho]
 -   [Unica77 Mono]
--   [Unifont]
-    -   website: https://unifoundry.com/unifont/index.html
-    -   built for coding
 -   [Univers Next Typewriter]
 -   [Unix-originated terminal fonts for Windows]
 -   [UnixPC]

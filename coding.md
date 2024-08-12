@@ -43,6 +43,8 @@
 -   [DaddyTimeMono](https://github.com/BourgeoisBear/DaddyTimeMono)
 -   [DEC Terminal Modern](https://www.dafont.com/dec-terminal-modern.font)
 -   [Deferral](https://github.com/brianbruggeman/Deferral) - work in progress
+-   [Dina Bitmap](https://www.dcmembers.com/jibsen/download/61/)
+-   [Dina Font TTF](https://github.com/zshoals/Dina-Font-TTF-Remastered)
 -   [Drafting* Mono](https://indestructibletype.com/Drafting/)
 -   [Droid Sans Mono](https://damieng.com/blog/2007/11/14/droid-sans-mono-great-coding-font/)
     -   [dotted and slashed zero variants](https://www.cosmix.org/software/)
@@ -133,10 +135,12 @@ A scourge on humanity (in my opinion), though readable.  It's the basis for nume
 -   [Bitstream Vera Fonts](https://download.gnome.org/sources/ttf-bitstream-vera/1.10/)
     -   [Deja Vu Fonts](https://dejavu-fonts.github.io/)
         -   [Deja Vu Sans Code](https://github.com/SSNikolaevich/DejaVuSansCode) - adds ligatures to Deja Vu Sans Mono
+        -   [Arev](http://tavmjong.free.fr/FONTS/) - a fork of DejaVu Sans Mono
         -   [Brutalist Mono](https://github.com/BRUTALISM/Brutalist) - another Deja Vu fork
         -   [Hack](https://sourcefoundry.org/hack/) - based on dejavu sans mono
         -   [Hasklig](https://github.com/i-tu/Hasklig) - hack with ligatures
-        
+        -   Menlo - bundled with macOS
+
 ## Paid
 
 -   [1403 Vintage Mono](https://1403.slantedhall.com/) - line printer inspired
@@ -147,10 +151,13 @@ A scourge on humanity (in my opinion), though readable.  It's the basis for nume
 -   [Best Choice](https://dharmatype.com/best-choice)
 -   [Calling Code](https://dharmatype.com/calling-code)
 -   [Code Saver](https://dharmatype.com/code-saver)
+-   [Codelia](https://tosche.net/fonts/codelia)
 -   [Codename Coder 4F](http://fonts.4thfebruary.com.ua/codename-coder-4f/)
+-   [Comic Code](https://tosche.net/fonts/comic-code)
 -   [Cubiculum](https://www.myfonts.com/collections/cubiculum-font-johan-winge)
 -   [Dank Mono](https://philpl.gumroad.com/l/dank-mono)
 -   [Debugger](https://dharmatype.com/debugger)
+-   [Dispatch Mono](https://occupantfonts.com/fonts/dispatch-mono/)
 -   [Eco Coding](https://www.myfonts.com/collections/eco-coding-font-s-core)
 -   [Monolisa](https://www.monolisa.dev/)
 -   [Operator Mono](https://typography.com/blog/introducing-operator)
