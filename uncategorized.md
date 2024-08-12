@@ -2,6 +2,7 @@
 
 Some are paid; some are free; some are for coding; others not so much.
 
+-   [Adore Mono](https://www.fontshop.com/families/adore-mono)
 -   [Antikor Mono](https://www.taf-studio.com/retail-fonts/antikor/) [paid]
 -   [Arkibal Mono](https://elements.envato.com/arkibal-mono-F98DXM) [paid]
 -   [Azaret Mono](https://displaay.net/typeface/azeret/azeret-mono/) [free]

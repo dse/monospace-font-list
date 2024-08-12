@@ -83,13 +83,8 @@
     -   [Monospace 821](https://www.myfonts.com/collections/monospace-821-font-bitstream)
 -   [Unica77 Mono](https://lineto.com/typefaces/unica77-mono)
 
-## You Probably Have These
-
--   [Andalé Mono](https://docs.microsoft.com/en-us/typography/font-list/andale-mono)
-
 ## Unclassified
 
--   [Adore Mono](https://www.fontshop.com/families/adore-mono)
 
 ## The Couriers
 
