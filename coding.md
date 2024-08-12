@@ -82,6 +82,7 @@
 -   [Lilex](https://github.com/mishamyrt/Lilex)
 -   [Luculent](https://usemodify.com/fonts/luculent/)
 -   [M+](https://mplusfonts.github.io/)
+-   [mnicmp](https://fontlibrary.org/en/font/mnicmp) - based on the 7-pin DECwriter II printer
 -   [Monaspace](https://monaspace.githubnext.com/) - superfamily
 -   [Monego](https://github.com/cseelus/monego) - monaco with bold and italic variants
 -   [Monoid](https://larsenwork.com/monoid/)
@@ -93,7 +94,9 @@
 -   [Openstep Mono](https://fontstruct.com/fontstructions/show/918633/openstep_mono)
 -   [Overpass](https://overpassfont.org/)
 -   [Oxygen Mono](https://fonts.google.com/specimen/Oxygen+Mono)
+-   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
 -   [Pet Me](https://www.kreativekorp.com/software/fonts/c64/), the Commodore VIC-20, C64, and C128 font family
+-   [Perfect DOS VGA fonts](https://laemeur.sdf.org/fonts/) - Less Perfect, More Perfect, and Perfect
 -   [Pointfree](https://www.dafont.com/pointfree.font) - if you like Comic Sans and are not a hater
 -   [Print Char 21 and PR Number 3](https://www.kreativekorp.com/software/fonts/apple2/), the Apple II fonts
 -   [Profont](https://tobiasjung.name/profont/)
@@ -110,6 +113,7 @@
 -   [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - from adobe
     -   [Office Code Pro](https://github.com/nathco/Office-Code-Pro)
 -   [Spleen](https://www.cambus.net/spleen-monospaced-bitmap-fonts/)
+-   [Sudo](https://www.kutilek.de/sudo-font/)
 -   [Sun Gallant Demi](https://github.com/dim13/gallant)
     -   [ttf](https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf)
 -   [Tamsyn](http://www.fial.com/~scott/tamsyn-font/) - bitmap-only
@@ -118,6 +122,8 @@
 -   [TRS-80 Fonts](https://www.kreativekorp.com/software/fonts/trs80/)
 -   [TT2020](https://copypaste.wtf/TT2020/docs/)
 -   [Ubuntu Monospace](https://design.ubuntu.com/font)
+-   [Unix PC 3B1](https://github.com/brandon-rhodes/unixpc-font-bdf)
+-   [UNSCII](http://viznut.fi/unscii/)
 -   [Verily Serif Mono](https://usemodify.com/fonts/verily-serif-mono/)
 -   [Victor Mono](https://github.com/rubjo/victor-mono)
 -   [VT323](https://github.com/phoikoi/VT323)

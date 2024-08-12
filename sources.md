@@ -21,6 +21,7 @@
 -   [cfcl.com](http://www.cfcl.com/vlb/h/fontmono.html)
 -   https://app.programmingfonts.org/
 -   https://awesomeopensource.com/projects/monospace-font **perusing**
+-   https://venam.net/blog/unix/2017/06/04/fonts-on-unix.html
 
 ## Other
 

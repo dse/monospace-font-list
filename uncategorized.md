@@ -135,7 +135,6 @@ Some are paid; some are free; some are for coding; others not so much.
     -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [League Mono]
 -   [Lekton]
--   [Less Perfect DOS VGA]
 -   [Letter Gothic]
 -   [QT Letter Goth]
 -   [Letter Gothic (CTAN)]
@@ -189,7 +188,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Monotype Typewriter]
 -   [Monotype Typewriter Elite]
 -   [Monte Carlo]
--   [More Perfect DOS VGA]
 -   [MS Gothic]
 -   [MS Mincho]
 -   [MVB Fantabular]
@@ -231,7 +229,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Panic Sans]
 -   [Parse Grotesk Mono]
 -   [PCMyungjo]
--   [Perfect DOS VGA 437]
 -   [PF Din Mono]
 -   [PF Typeroom Mono]
 -   [Pico]
@@ -247,7 +244,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Polli Sans Mono]
 -   [PoulTre]
     -   git: https://codeberg.org/Wezl/fonts
--   [Powerline Fonts]
 -   [Print Char 21]
 -   [Press Start]
 -   [Press Start 2P]
@@ -289,13 +285,9 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [SAX2]
     -   APL font
     -   website: https://abrudz.github.io/SAX2/
--   [SaxMono (\"Tile\")]
 -   [Sauna Mono Pro]
 -   [Schumaker Misc]
     -   git: https://gitlab.freedesktop.org/xorg/font/schumacher-misc
--   [Screenwriter's Typewriter Fonts Pro]
-    -   old-timey
-    -   old website: http://www.vintagetype.com/screenwriters/ (archive.org)
 -   [Script 12 Pitch]
 -   [Segoe UI Mono]
 -   [Selectric]
@@ -319,10 +311,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Spot Mono]
 -   [Squareshooter Mono]
 -   [String Literal 437]
--   [Sudo]
-    -   git: https://github.com/jenskutilek/sudo-font
-    -   built for coding
-    -   website: https://www.kutilek.de/sudo-font/
 -   [Superstudio]
 -   [SV Basic Manual]
 -   [Sweet16Font]
@@ -339,9 +327,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Telegrama Raw]
 -   [Telegramo]
 -   [Tenpo]
--   [Terminal]
-    -   foundry: Microsoft
-    -   wikipedia: https://en.wikipedia.org/wiki/Terminal_%28typeface%29
 -   [Terminal/VGA Font]
     -   via: http://www.lowing.org/fonts/
 -   [Terminex]
@@ -369,9 +354,7 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Ume Mincho]
 -   [Unica77 Mono]
 -   [Unix-originated terminal fonts for Windows]
--   [UnixPC]
 -   [Unotype]
--   [UNSCII]
 -   [Valentine]
 -   [VardanPro]
 -   [VCR OSD Mono]
@@ -381,7 +364,6 @@ Some are paid; some are free; some are for coding; others not so much.
     -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [Vivala Code]
 -   [VLNL TP Kurier Callig Regular]
--   [VT323]
 -   [Walter (?)]
     -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [WenQuanYi Zen Hei Mono]
