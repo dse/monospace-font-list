@@ -12,7 +12,7 @@
 -   [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 -   [Another Man's Treasure](https://www.kreativekorp.com/software/fonts/trs80/), the TRS-80 font family
 -   [APL2741](https://apl385.com/fonts/)
--   [APL386](https://abrudz.github.io/APL386/)
+-   [APL386](https://abrudz.github.io/APL386/) - slight Comic Sans vibe
     -   based on [APL385](https://apl385.com/fonts/)
 -   [APLX](https://www.dyalog.com/aplx.htm)
 -   [Apple II Fonts](https://www.kreativekorp.com/software/fonts/apple2/)
@@ -29,9 +29,8 @@
 -   [Camingo Code](https://janfromm.de/typefaces/camingocode/)
 -   [Cascadia Code](https://github.com/microsoft/cascadia-code) - from microsoft
 -   [Code New Roman](https://www.dafont.com/code-new-roman.font)
--   [Comic Mono](https://dtinth.github.io/comic-mono-font/)
+-   [Comic Mono](https://dtinth.github.io/comic-mono-font/) - if you like Comic Sans
     -   forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
--   [Commodore Fonts](https://www.kreativekorp.com/software/fonts/c64/)
 -   [Compagnon](https://velvetyne.fr/fonts/compagnon/)
 -   [Consola Mono](https://fontlibrary.org/en/font/consolamono)
 -   [Corbi Mono S](https://fontlibrary.org/fr/font/corbi-mono-s) - Libertinus Mono with a slashed zero by default
@@ -57,8 +56,8 @@
 -   [Everson Mono](https://www.evertype.com/emono/) - shareware
 -   [Fairfax](https://www.kreativekorp.com/software/fonts/fairfax/) bitmap font, huge Unicode repertoire
 -   [Fairfax HD](https://www.kreativekorp.com/software/fonts/fairfaxhd/) scalable vector font, huge Unicode repertoire
--   [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) - if you like Comic Sans and are not a hater - f/k/a Cosmic
-    Sans Neue Mono
+-   [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) - if you like Comic Sans and are not a hater
+    -   f/k/a Cosmic Sans Neue Mono
 -   [Fira Code](https://github.com/tonsky/FiraCode) - has ligatures
 -   [Fira Mono](https://github.com/mozilla/Fira) - from mozilla
 -   [Fixedsys Excelsior](https://github.com/kika/fixedsys)
@@ -75,7 +74,7 @@
 -   [IBM Plex](https://www.ibm.com/plex/) - includes a mono variant
 -   [Inconsolata](https://levien.com/type/myfonts/inconsolata.html)
 -   [Input Mono](https://input.djr.com/) - personal use free, public-facing use paid
--   [Intel One Mono](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html)
+-   [Intel One Mono](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html) - line printer vibe
 -   [Iosevka](https://typeof.net/Iosevka/)
 -   [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
 -   [Julia Mono](https://juliamono.netlify.app/)
@@ -97,7 +96,7 @@
 -   [Openstep Mono](https://fontstruct.com/fontstructions/show/918633/openstep_mono)
 -   [Overpass](https://overpassfont.org/)
 -   [Pet Me](https://www.kreativekorp.com/software/fonts/c64/), the Commodore VIC-20, C64, and C128 font family
--   [Pointfree](https://www.dafont.com/pointfree.font) - if you like comic sans and are not a hater
+-   [Pointfree](https://www.dafont.com/pointfree.font) - if you like Comic Sans and are not a hater
 -   [Print Char 21 and PR Number 3](https://www.kreativekorp.com/software/fonts/apple2/), the Apple II fonts
 -   [Profont](https://tobiasjung.name/profont/)
 -   [Proggy Fonts](https://github.com/bluescan/proggyfonts)
@@ -135,11 +134,11 @@
 
 ## Paid
 
--   [1403 Vintage Mono](https://1403.slantedhall.com/)
+-   [1403 Vintage Mono](https://1403.slantedhall.com/) - line printer inspired
 -   [64-SRC](https://www.myfonts.com/fonts/ilott-type/64-src/)
 -   [Autocode](https://www.myfonts.com/collections/autocode-font-avp)
 -   [Autoscape](https://lineto.com/typefaces/autoscape)
--   [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/)
+-   [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/) - OCR-B inspired
 -   [Best Choice](https://dharmatype.com/best-choice)
 -   [Calling Code](https://dharmatype.com/calling-code)
 -   [Code Saver](https://dharmatype.com/code-saver)
