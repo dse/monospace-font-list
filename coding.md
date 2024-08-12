@@ -1,5 +1,14 @@
 # Monospace Typefaces Designed for Coding
 
+At a bare minimum, the following sets of characters need to be distinguishable from one another:
+
+-   U+0030 DIGIT ZERO and U+004F LATIN CAPITAL LETTER O
+    -   `0`
+    -   `O`
+-   U+0031 DIGIT ONE and U+006C LATIN SMALL LETTER L
+    -   `1`
+    -   `l`
+
 ## Freely Available
 
 -   [3270font](https://github.com/rbanffy/3270font)
