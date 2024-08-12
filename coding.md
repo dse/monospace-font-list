@@ -18,14 +18,12 @@
 -   [Apple II Fonts](https://www.kreativekorp.com/software/fonts/apple2/)
 -   [Atarist](https://github.com/ntwk/atarist-font)
 -   [Aurulent Sans Mono](https://www.dafont.com/aurulent-sans-mono.font)
--   [Bitstream Vera](https://download.gnome.org/sources/ttf-bitstream-vera/1.10/) - includes a mono variant
 -   [Bizcat](https://robey.lag.net/2020/02/09/bizcat-bitmap-font.html)
 -   [Bmono](https://github.com/NNBnh/bmono)
 -   [Borg Sans Mono](https://github.com/marnen/borg-sans-mono) - Droid Sans Mono with ligatures and slashed zero
 -   [BPmono](https://backpacker.gr/fonts/5)
 -   [BPtypewrite](https://backpacker.gr/fonts/10)
 -   [Brass Mono](https://github.com/fonsecapeter/brass_mono)
--   [Brutalist Mono](https://github.com/BRUTALISM/Brutalist) - another Deja Vu fork
 -   [Camingo Code](https://janfromm.de/typefaces/camingocode/)
 -   [Cascadia Code](https://github.com/microsoft/cascadia-code) - from microsoft
 -   [Code New Roman](https://www.dafont.com/code-new-roman.font)
@@ -45,8 +43,6 @@
 -   [DaddyTimeMono](https://github.com/BourgeoisBear/DaddyTimeMono)
 -   [DEC Terminal Modern](https://www.dafont.com/dec-terminal-modern.font)
 -   [Deferral](https://github.com/brianbruggeman/Deferral) - work in progress
--   [Deja Vu Fonts](https://dejavu-fonts.github.io/) - includes a mono variant
--   [Deja Vu Sans Code](https://github.com/SSNikolaevich/DejaVuSansCode) - adds ligatures to Deja Vu Sans Mono
 -   [Drafting* Mono](https://indestructibletype.com/Drafting/)
 -   [Droid Sans Mono](https://damieng.com/blog/2007/11/14/droid-sans-mono-great-coding-font/)
     -   [dotted and slashed zero variants](https://www.cosmix.org/software/)
@@ -67,8 +63,6 @@
 -   [GNU Unifont](https://unifoundry.com/unifont/)
 -   [Go Mono](https://go.dev/blog/go-fonts)
 -   [Gohu](https://font.gohu.org/)
--   [Hack](https://sourcefoundry.org/hack/) - based on dejavu sans mono
--   [Hasklig](https://github.com/i-tu/Hasklig) - hack with ligatures
 -   [Hermit](https://pcaro.es/hermit/)
 -   [IBM Fonts](https://farsil.github.io/ibmfonts/) in BDF format
 -   [IBM Plex](https://www.ibm.com/plex/) - includes a mono variant
@@ -131,7 +125,18 @@
     -   Misc Fixed
     -   Sony Fixed
     -   Type 1 of Bitstream Courier
+    
+## Bitstream Vera Sans Mono
 
+A scourge on humanity (in my opinion), though readable.  It's the basis for numerous coding fonts.
+
+-   [Bitstream Vera Fonts](https://download.gnome.org/sources/ttf-bitstream-vera/1.10/)
+    -   [Deja Vu Fonts](https://dejavu-fonts.github.io/)
+        -   [Deja Vu Sans Code](https://github.com/SSNikolaevich/DejaVuSansCode) - adds ligatures to Deja Vu Sans Mono
+        -   [Brutalist Mono](https://github.com/BRUTALISM/Brutalist) - another Deja Vu fork
+        -   [Hack](https://sourcefoundry.org/hack/) - based on dejavu sans mono
+        -   [Hasklig](https://github.com/i-tu/Hasklig) - hack with ligatures
+        
 ## Paid
 
 -   [1403 Vintage Mono](https://1403.slantedhall.com/) - line printer inspired
