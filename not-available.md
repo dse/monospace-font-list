@@ -6,3 +6,4 @@
 -   [Alma Mono](https://almamono.com/)
 -   [F25 Telegraphem](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Telegraphem)
 -   [BSU Kermit](https://www.lowing.org/fonts/)
+-   FF Gateway

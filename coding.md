@@ -65,6 +65,7 @@
 -   [GNU Unifont](https://unifoundry.com/unifont/)
 -   [Go Mono](https://go.dev/blog/go-fonts)
 -   [Gohu](https://font.gohu.org/)
+-   [Haskplex](https://github.com/huytd/haskplex-font) - Hasklig + IBM Plex Mono
 -   [Hermit](https://pcaro.es/hermit/)
 -   [IBM Fonts](https://farsil.github.io/ibmfonts/) in BDF format
 -   [IBM Plex](https://www.ibm.com/plex/) - includes a mono variant
@@ -91,6 +92,7 @@
 -   [Old School PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
 -   [Openstep Mono](https://fontstruct.com/fontstructions/show/918633/openstep_mono)
 -   [Overpass](https://overpassfont.org/)
+-   [Oxygen Mono](https://fonts.google.com/specimen/Oxygen+Mono)
 -   [Pet Me](https://www.kreativekorp.com/software/fonts/c64/), the Commodore VIC-20, C64, and C128 font family
 -   [Pointfree](https://www.dafont.com/pointfree.font) - if you like Comic Sans and are not a hater
 -   [Print Char 21 and PR Number 3](https://www.kreativekorp.com/software/fonts/apple2/), the Apple II fonts
@@ -115,8 +117,11 @@
 -   [Terminus](https://terminus-font.sourceforge.net/)
 -   [TRS-80 Fonts](https://www.kreativekorp.com/software/fonts/trs80/)
 -   [TT2020](https://copypaste.wtf/TT2020/docs/)
+-   [Ubuntu Monospace](https://design.ubuntu.com/font)
+-   [Verily Serif Mono](https://usemodify.com/fonts/verily-serif-mono/)
 -   [Victor Mono](https://github.com/rubjo/victor-mono)
 -   [VT323](https://github.com/phoikoi/VT323)
+-   [Whois mono](https://github.com/raphaelbastide/Whois-mono)
 -   [Writer](https://github.com/tonsky/font-writer)
 -   [Wumpus Mono](https://github.com/vaughantype/wumpus-mono/)
 -   [X11 Fonts](https://gitlab.freedesktop.org/xorg/font) - among which are some good bitmap coding fonts:

@@ -44,15 +44,26 @@
 -   [Decima Mono Pro](http://www.tipografiaramis.com/decima-mono-pro.html)
 -   [Decima Mono Round](http://www.tipografiaramis.com/decima-mono-round.html)
 -   [DF Staple Mono](https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts)
+-   [GT Alpina Typewriter](https://www.grillitype.com/typeface/gt-alpina)
+-   [GT America Mono](https://www.grillitype.com/typeface/gt-america)
+-   [GT Pressura Mono](https://www.grillitype.com/typeface/gt-pressura)
+-   [Heimat Mono](https://www.myfonts.com/collections/heimat-mono-font-atlasfontfoundry)
 
 ## Monospaced Versions of Proportional Typefaces
 
--   [Arial Pro Monospaced](https://www.myfonts.com/collections/arial-font-monotype-imaging?tab=individualStyles)
+-   [Arial Monospaced](https://www.myfonts.com/collections/arial-font-monotype-imaging)
 -   [Century Schoolbook Monospace](https://www.myfonts.com/products/century-schoolbook-monospaced-10058-century-schoolbook-435037)
--   [PF DIN Monospaced](https://parachutefonts.com/typeface/DIN-Monospace) [paid] [coding]
--   [Helvetica Monospaced]
--   [ITC Souvenir Monospaced]
--   [Univers Next Typewriter]
+-   [PF DIN Monospaced](https://parachutefonts.com/typeface/DIN-Monospace)
+-   [ITC Souvenir Monospaced](https://www.myfonts.com/collections/souvenir-monospaced-font-itc)
+-   Univers Next Typewriter
+    -   [430 Regular](https://www.myfonts.com/products/typewriter-pro-430-regular-3-univers-next-356583)
+    -   [431 Italic](https://www.myfonts.com/products/pro-431-typewriter-italic-univers-next-356590)
+    -   [630 Bold](https://www.myfonts.com/products/pro-630-typewriter-bold-univers-next-356596)
+    -   [631 Bold Italic](https://www.myfonts.com/products/pro-631-typewriter-bold-italic-univers-next-356600)
+-   Helvetica
+    -   [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono) - based on URW Nimbus Sans, a Helvetica clone [free]
+    -   [Helvetica Monospaced](https://www.myfonts.com/collections/helvetica-monospaced-font-linotype)
+    -   [Monospace 821](https://www.myfonts.com/collections/monospace-821-font-bitstream)
 
 ## You Probably Have These
 
@@ -68,12 +79,15 @@
 
 ## Classic Typewriter Fonts
 
--   [Bitstream Pica 10 Pitch](https://www.myfonts.com/collections/pica-10-pitch-font-bitstream)
 -   [Letter Gothic]
 -   [Orator]
--   [LTC Remington Typewriter]
--   [Screenwriter\'s Typewriter Fonts Pro]
 -   [Prestige]
+
+-   [LTC Remington Typewriter](https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company)
+-   [Screenwriter\'s Typewriter Fonts Pro]
+-   [Bitstream Pica 10 Pitch](https://www.myfonts.com/collections/pica-10-pitch-font-bitstream)
+-   [Monotype Typewriter](https://www.myfonts.com/products/typewriter-complete-family-pack-package-432181)
+-   [Italian Typewriter](https://www.studiodilena.com/en/italian_typewriter.html)
 
 ## Other Classic Monospace Typefaces
 

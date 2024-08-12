@@ -41,51 +41,17 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [F25 Blackletter Typewriter](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Blackletter_Typewriter) [free] [private use]
 -   [F25 Cella](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Cella) [free] [private use]
 -   [F25 DaisyWheel](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_DaisyWheel) [free] [private use]
+-   [Fabrikat Mono](https://www.hvdfonts.com/fonts/fabrikat-mono) [paid] [not for coding]
+-   [Fairfax Serif](https://fonts2u.com/fairfax-serif.font) [free] [coding]
+-   [Fakt Mono](https://www.typeby.com/fonts/fakt-mono) [paid] [coding]
+-   [Feggolite Mono](https://www.myfonts.com/products/feggolite-mono-feggolitemono-220905) [paid] [not for coding]
 
--   [Fabrikat Mono]
-    -   Fabrikat Mono
-        -   myfonts: https://www.myfonts.com/collections/fabrikat-mono-font-hvd-fonts
-        -   foundry: HVD Fonts
-        -   https://www.hvdfonts.com/fonts/fabrikat-mono
--   [Fairfax Serif]
--   [Fakt Mono]
--   [Feggolite Mono]
-    -   Feggolite Mono
-        -   fonts.com: https://www.fonts.com/font/ingrimayne-type/feggolite-mono
-        -   foundry: Ingrimayne Type
-        -   cost: $16.95
-        -   via: http://www.cfcl.com/vlb/h/fontmono.html
 -   [Felt Pen]
--   [FF Attribute Mono]
-    -   FF Attribute Mono
-        -   foundry: FontFont
-        -   myfonts: https://www.myfonts.com/collections/ff-attribute-mono-font-fontfont
--   [FF Elementa]
-    -   FF Elementa
-        -   foundry: FontFont
-        -   myfonts: https://www.myfonts.com/collections/elementa-pro-font-fontfont
-    -   old-timey
-    -   foundry: FontFont
-    -   myfonts: https://www.myfonts.com/collections/elementa-pro-font-fontfont
--   [FF Fago Monospaced]
-    -   FF Fago Monospaced
-        -   foundry: FontFont
-        -   myfonts: https://www.myfonts.com/collections/fago-monospace-font-fontfont
--   [FF Gateway]
-    -   FF Gateway (no longer available)
-        -   foundry: FontFont
--   [FF Magda Clean Mono]
-    -   FF Magda Clean Mono
-        -   foundry: FontFont
-        -   myfonts: https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont
--   [FF Nexus Typewriter]
-    -   FF Nexus Typewriter (no longer available)
-        -   foundry: FontFont
--   [FF Trixie]
-    -   FF Trixie
-        -   foundry: FontFont
-        -   myfonts: https://www.myfonts.com/collections/ff-trixie-font-fontfont
-        -   GRUNGY AND ROUGH
+-   [FF Attribute Mono](https://viktornuebel.com/retail-fonts/attribute/) [paid]
+-   [FF Elementa](https://www.myfonts.com/collections/elementa-pro-font-fontfont) [old] [paid]
+-   [FF Fago Monospaced](https://www.myfonts.com/collections/fago-monospace-font-fontfont) [paid] [not for coding]
+-   [FF Magda Clean Mono](https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont) [paid]
+-   [FF Nexus Typewriter](https://www.myfonts.com/collections/nexus-typewriter-pro-font-martin-majoor) [paid]
 -   [FF Typestar OCR]
     -   FF Typestar OCR
         -   foundry: FontFont
@@ -120,7 +86,6 @@ Some are paid; some are free; some are for coding; others not so much.
     -   Glovis
         -   https://fontsempire.com/font/glovis-download/
         -   italic old-timey style typeface
--   [GNUTypewriter]
 -   [Google Sans Mono]
     -   Google Sans Mono
         -   mentioned: https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/
@@ -129,15 +94,10 @@ Some are paid; some are free; some are for coding; others not so much.
     -   Greenwood Pro
         -   myfonts: https://www.myfonts.com/collections/greenwood-font-protimient
 -   [Grid15]
--   [GT Alpina Typewriter]
     -   GT Alpina Typewriter
         -   website: https://www.grillitype.com/typeface/gt-alpina
         -   note: I first saw this in a Clickhole ad.
--   [GT America Mono]
--   [GT Pressura Mono]
 -   [GwdTE 437]
--   [Haskplex]
--   [Heimat Mono]
 -   [Hera Mono]
 -   [Hyperfont]
 -   [iA Writer Duospace]
@@ -154,11 +114,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Ingrid Mono]
 -   [Intimo]
 -   [Intimo Two]
--   [Iosevka Slab]
--   [Italian Typewriter]
-    -   old-timey
-    -   foundry: Flanker
-    -   myfonts: https://www.myfonts.com/collections/italian-typewriter-font-flanker
     -   website: https://www.studiodilena.com/en/italian_typewriter.html
 -   [JetJane Mono]
 -   [JSans J]
@@ -194,11 +149,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Looper (?)]
     -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [Lotion]
--   [LTC Remington Typewriter Pro]
-    -   old-timey
-    -   myfonts: https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company
-    -   foundry: Lanston Type Co.
-    -   designer: Frederic W. Goudy
 -   [Lucida Console]
 -   [Lucida Typewriter]
 -   [Lucida Typewriter EF]
@@ -276,15 +226,12 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [OPS Placard]
 -   [Opti]
 -   [Osaka Regular-Mono]
--   [Oxygen Mono]
 -   [Panama Monospace]
 -   [Pandora Single Pitch]
 -   [Panic Sans]
 -   [Parse Grotesk Mono]
 -   [PCMyungjo]
 -   [Perfect DOS VGA 437]
--   [Pet Me]
-    -   Pete Me
 -   [PF Din Mono]
 -   [PF Typeroom Mono]
 -   [Pico]
@@ -420,13 +367,9 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Monotype Typewriter]
 -   [Typewriter Condensed]
     -   download: https://fontsarena.com/wp-content/uploads/2018/11/typewriter_condensed.zip
--   [Ubuntu Monospace]
-    -   website: https://design.ubuntu.com/font
-    -   designer: Dalton Maag
 -   [Ume Gothic]
 -   [Ume Mincho]
 -   [Unica77 Mono]
--   [Univers Next Typewriter]
 -   [Unix-originated terminal fonts for Windows]
 -   [UnixPC]
 -   [Unotype]
@@ -434,7 +377,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Valentine]
 -   [VardanPro]
 -   [VCR OSD Mono]
--   [Verily Serif Mono]
 -   [Vidilex]
 -   [Vin Mono Pro]
 -   [Vintama (?)]
@@ -446,7 +388,6 @@ Some are paid; some are free; some are for coding; others not so much.
     -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [WenQuanYi Zen Hei Mono]
 -   [WenQuanYi Micro Hei Mono]
--   [Whois Mono]
 -   [WikisourceMono]
 -   [Wire Type Mono]
 -   [Wudoo]
