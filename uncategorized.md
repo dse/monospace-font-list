@@ -272,8 +272,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Replica Mono]
 -   [Resolution]
 -   [retro fonts]
--   [Retro Type 3 PostScript Fonts]
-    -   website: https://unifoundry.com/retro/index.html
 -   [RF Rostin]
 -   [Roboto Mono]
     -   google fonts: https://fonts.google.com/specimen/Roboto+Mono

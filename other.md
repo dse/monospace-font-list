@@ -14,8 +14,9 @@
 -   [Computer Modern Typewriter](https://en.wikipedia.org/wiki/Computer_Modern)
     -   [CMU Typewriter](https://fontlibrary.org/en/font/cmu-typewriter)
     -   [Latin Modern Mono] (GUST e-foundry)
--   [Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono) [free]
--   [DeluxeFont](https://zone38.net/font/#deluxefont) [retro] [free]
+-   [Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono)
+-   [DeluxeFont](https://zone38.net/font/#deluxefont) [retro]
+-   [Retro Type 3 PostScript Fonts](https://unifoundry.com/retro/index.html) - dot-matrix printer fonts
 
 ## Paid
 
