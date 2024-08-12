@@ -5,8 +5,8 @@
 -   [3270font](https://github.com/rbanffy/3270font)
 -   [A+](http://archive.vector.org.uk/resource/index.htm)
 -   [Agave](https://b.agaric.net/page/agave)
--   [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) - damieng's bitmap font, not
-    related to Thiemich's paid Alto Mono
+-   [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) - damieng's bitmap font
+    -   not related to Thiemich's paid [Alto Mono](https://www.typeby.com/fonts/alto-mono)
 -   [Anka/Coder](https://usemodify.com/fonts/anka-coder/)
 -   [Anomaly Mono](https://github.com/benbusby/anomaly-mono)
 -   [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
@@ -103,7 +103,7 @@
 -   [Recursive](https://www.recursive.design/)
 -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
 -   [Server Mono](https://servermono.com/)
--   [SGI Screen](https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/)
+-   [SGI Screen](https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/) - if this is a Unix system and you know this
     -   also [bitmaps](https://www.gnome-look.org/p/998527/)
     -   also https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
 -   [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono)

@@ -22,7 +22,8 @@
 -   [Adore Mono](https://garagefonts.com/font/adore-mono)
 -   [Ahamono](https://hanken.co/products/ahamono)
 -   [Akkurat Mono](https://lineto.com/typefaces/akkurat-mono)
--   [Alto Mono](https://www.typeby.com/fonts/alto-mono) - Thiemich's typeface, not related to damieng's free Alto Mono bitmap font
+-   [Alto Mono](https://www.typeby.com/fonts/alto-mono) - Thiemich's typeface
+    -   not related to damieng's free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
 -   [Andale Teletext](https://www.myfonts.com/collections/andale-teletext-font-monotype-imaging)
 -   [Aperçu Mono](https://www.colophon-foundry.org/typefaces/apercu-mono)
 -   [Archive Mono](https://www.colophon-foundry.org/typefaces/archive-mono)
