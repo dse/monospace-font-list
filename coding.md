@@ -5,10 +5,12 @@
 -   [3270font](https://github.com/rbanffy/3270font)
 -   [A+](http://archive.vector.org.uk/resource/index.htm)
 -   [Agave](https://b.agaric.net/page/agave)
--   [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) - damieng's bitmap font, not related to Thiemich's paid Alto Mono
+-   [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) - damieng's bitmap font, not
+    related to Thiemich's paid Alto Mono
 -   [Anka/Coder](https://usemodify.com/fonts/anka-coder/)
 -   [Anomaly Mono](https://github.com/benbusby/anomaly-mono)
 -   [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
+-   [Another Man's Treasure](https://www.kreativekorp.com/software/fonts/trs80/), the TRS-80 font family
 -   [APL2741](https://apl385.com/fonts/)
 -   [APL386](https://abrudz.github.io/APL386/)
     -   based on [APL385](https://apl385.com/fonts/)
@@ -53,7 +55,10 @@
 -   [Edlo](https://github.com/ehamiter/Edlo)
 -   [Envy Code R](https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released/)
 -   [Everson Mono](https://www.evertype.com/emono/) - shareware
--   [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) - if you like Comic Sans and are not a hater - f/k/a Cosmic Sans Neue Mono
+-   [Fairfax](https://www.kreativekorp.com/software/fonts/fairfax/) bitmap font, huge Unicode repertoire
+-   [Fairfax HD](https://www.kreativekorp.com/software/fonts/fairfaxhd/) scalable vector font, huge Unicode repertoire
+-   [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) - if you like Comic Sans and are not a hater - f/k/a Cosmic
+    Sans Neue Mono
 -   [Fira Code](https://github.com/tonsky/FiraCode) - has ligatures
 -   [Fira Mono](https://github.com/mozilla/Fira) - from mozilla
 -   [Fixedsys Excelsior](https://github.com/kika/fixedsys)
@@ -91,7 +96,9 @@
 -   [Old School PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
 -   [Openstep Mono](https://fontstruct.com/fontstructions/show/918633/openstep_mono)
 -   [Overpass](https://overpassfont.org/)
+-   [Pet Me](https://www.kreativekorp.com/software/fonts/c64/), the Commodore VIC-20, C64, and C128 font family
 -   [Pointfree](https://www.dafont.com/pointfree.font) - if you like comic sans and are not a hater
+-   [Print Char 21 and PR Number 3](https://www.kreativekorp.com/software/fonts/apple2/), the Apple II fonts
 -   [Profont](https://tobiasjung.name/profont/)
 -   [Proggy Fonts](https://github.com/bluescan/proggyfonts)
 -   [Recursive](https://www.recursive.design/)
@@ -132,6 +139,7 @@
 -   [64-SRC](https://www.myfonts.com/fonts/ilott-type/64-src/)
 -   [Autocode](https://www.myfonts.com/collections/autocode-font-avp)
 -   [Autoscape](https://lineto.com/typefaces/autoscape)
+-   [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/)
 -   [Best Choice](https://dharmatype.com/best-choice)
 -   [Calling Code](https://dharmatype.com/calling-code)
 -   [Code Saver](https://dharmatype.com/code-saver)
@@ -155,6 +163,12 @@
 ## Collections
 
 -   [KreativeKorp](https://www.kreativekorp.com/software/fonts/index.shtml) - Apple II, Commodore, TRS-80, and other fonts
+    -   [Fairfax](https://www.kreativekorp.com/software/fonts/fairfax/) bitmap font, huge Unicode repertoire
+    -   [Fairfax HD](https://www.kreativekorp.com/software/fonts/fairfaxhd/) scalable vector font, huge Unicode repertoire
+    -   [Print Char 21 and PR Number 3](https://www.kreativekorp.com/software/fonts/apple2/), the Apple II fonts
+    -   [Pet Me](https://www.kreativekorp.com/software/fonts/c64/), the Commodore VIC-20, C64, and C128 font family
+    -   [Another Man's Treasure](https://www.kreativekorp.com/software/fonts/trs80/), the TRS-80 font family
+    -   Numerous other fonts are available; too many to personally inspect to determine whether or not they're monospace.
 
 <!-- ** For Emacs ** -->
 <!-- Local Variables: -->
