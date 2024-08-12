@@ -113,12 +113,15 @@
 -   [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - from adobe
     -   [Office Code Pro](https://github.com/nathco/Office-Code-Pro)
 -   [Spleen](https://www.cambus.net/spleen-monospaced-bitmap-fonts/)
+-   [String Literal 437](https://fonts2u.com/string-literal-437-medium.font)
 -   [Sudo](https://www.kutilek.de/sudo-font/)
 -   [Sun Gallant Demi](https://github.com/dim13/gallant)
     -   [ttf](https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf)
 -   [Tamsyn](http://www.fial.com/~scott/tamsyn-font/) - bitmap-only
 -   [Tamzen](https://github.com/sunaku/tamzen-font) - tamsyn in ttf, other formats
 -   [Terminus](https://terminus-font.sourceforge.net/)
+-   [ti92plus](https://github.com/sterpe/ti92plus) - TI92PLUSPC.TTF with encoding fixes
+    -   based on [Ti92Pluspc](https://fontsgeek.com/fonts/Ti92Pluspc-Regular)
 -   [TRS-80 Fonts](https://www.kreativekorp.com/software/fonts/trs80/)
 -   [TT2020](https://copypaste.wtf/TT2020/docs/)
 -   [Ubuntu Monospace](https://design.ubuntu.com/font)

@@ -52,26 +52,18 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [FF Fago Monospaced](https://www.myfonts.com/collections/fago-monospace-font-fontfont) [paid] [not for coding]
 -   [FF Magda Clean Mono](https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont) [paid]
 -   [FF Nexus Typewriter](https://www.myfonts.com/collections/nexus-typewriter-pro-font-martin-majoor) [paid]
--   [FF Typestar OCR]
-    -   FF Typestar OCR
-        -   foundry: FontFont
-        -   myfonts: https://www.myfonts.com/collections/ff-typestar-ocr-font-fontfont
--   [Fifteen]
-    -   Fifteen
-        -   fontlibrary: https://fontlibrary.org/en/font/fifteen
-        -   see also: Quinze
-        -   designer: Zeimusu
--   [Fira Cousine]
-    -   Fira Cousine
-        -   git: https://github.com/macduy/FiraCousine
-        -   based on: Cousine, adding Fira Code's punctuation marks and ligatures
-        -   license: GPL 3.0
+-   [FF Typestar OCR](https://www.myfonts.com/collections/ff-typestar-ocr-font-fontfont) [paid]
+-   [Fifteen](https://fontlibrary.org/en/font/fifteen) [free] [coding] - see also Quinze
+-   [Quinze](https://fontlibrary.org/en/font/quinze) [free] [coding] - see also Fifteen
+-   [Fira Cousine](https://github.com/macduy/FiraCousine) [free] [coding] - Cousine + Fira Code's punct marks and ligatures
+-   [Flexi IBM VGA](https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/) - scalable version of IBM VGA font
+-   [Google Sans Mono](https://github.com/mehant-kr/Google-Sans-Mono)
+    -   via: https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/
+-   [Typist Slab Mono](https://www.myfonts.com/collections/typist-slab-font-vanderkeur) [old-ish] [paid]
+
 -   [Fixedsys]
     -   Fixedsys
         -   wikipedia: https://en.wikipedia.org/wiki/Fixedsys
--   [Flexi IBM VGA]
-    -   Flexi IBM VGA
-        -   website: https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/
 -   [Galexica Mono (novelty)]
     -   Galexica Mono
         -   myfonts: https://www.myfonts.com/collections/galexicamono-font-ingrimayne-type
@@ -86,17 +78,10 @@ Some are paid; some are free; some are for coding; others not so much.
     -   Glovis
         -   https://fontsempire.com/font/glovis-download/
         -   italic old-timey style typeface
--   [Google Sans Mono]
-    -   Google Sans Mono
-        -   mentioned: https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/
-        -   third-party: https://github.com/mehant-kr/Google-Sans-Mono
 -   [Greenwood Pro]
     -   Greenwood Pro
         -   myfonts: https://www.myfonts.com/collections/greenwood-font-protimient
 -   [Grid15]
-    -   GT Alpina Typewriter
-        -   website: https://www.grillitype.com/typeface/gt-alpina
-        -   note: I first saw this in a Clickhole ad.
 -   [GwdTE 437]
 -   [Hera Mono]
 -   [Hyperfont]
@@ -185,8 +170,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [MonoSpatial]
 -   [Monosten]
 -   [Monostep]
--   [Monotype Typewriter]
--   [Monotype Typewriter Elite]
 -   [Monte Carlo]
 -   [MS Gothic]
 -   [MS Mincho]
@@ -241,7 +224,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [PixSymbols Courex]
 -   [Platelet]
 -   [Plotter Mono]
--   [Polli Sans Mono]
 -   [PoulTre]
     -   git: https://codeberg.org/Wezl/fonts
 -   [Print Char 21]
@@ -255,10 +237,6 @@ Some are paid; some are free; some are for coding; others not so much.
     -   website: https://www.typeby.com/fonts/quadraat-sans-mono
     -   cost: $
 -   [QuickType Mono]
--   [Quinze]
-    -   fontlibrary: https://fontlibrary.org/en/font/quinze
-    -   see also: Fifteen
-    -   designer: Zeimusu
 -   [Raize]
 -   [Range Mono]
 -   [Rational TW]
@@ -310,7 +288,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Spleen]
 -   [Spot Mono]
 -   [Squareshooter Mono]
--   [String Literal 437]
 -   [Superstudio]
 -   [SV Basic Manual]
 -   [Sweet16Font]
@@ -333,7 +310,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Termsyn]
 -   [Tewi]
 -   [Thermo]
--   [TI92PlusPC]
 -   [Tinos]
 -   [Tired of Courier]
 -   [Topaz-8]
@@ -343,16 +319,8 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [TXTT]
 -   [Tye Paloon]
 -   [Typewalk Mono 1915]
--   [Typist Slab Mono]
-    -   myfonts: https://www.myfonts.com/collections/typist-slab-font-vanderkeur
-    -   foundry: VanderKeur
-    -   sort of old-timey
--   [Monotype Typewriter]
--   [Typewriter Condensed]
-    -   download: https://fontsarena.com/wp-content/uploads/2018/11/typewriter_condensed.zip
 -   [Ume Gothic]
 -   [Ume Mincho]
--   [Unica77 Mono]
 -   [Unix-originated terminal fonts for Windows]
 -   [Unotype]
 -   [Valentine]
@@ -369,7 +337,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [WenQuanYi Zen Hei Mono]
 -   [WenQuanYi Micro Hei Mono]
 -   [WikisourceMono]
--   [Wire Type Mono]
 -   [Wudoo]
 -   [Xanh Mono]
 -   [xnufont]

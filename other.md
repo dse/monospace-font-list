@@ -50,6 +50,8 @@
 -   [GT America Mono](https://www.grillitype.com/typeface/gt-america)
 -   [GT Pressura Mono](https://www.grillitype.com/typeface/gt-pressura)
 -   [Heimat Mono](https://www.myfonts.com/collections/heimat-mono-font-atlasfontfoundry)
+-   [Polli Sans Mono](https://www.myfonts.com/collections/polli-sans-font-will-albin-clark)
+-   [Wire Type Mono](https://www.myfonts.com/collections/wire-type-mono-font-thomas-kading)
 
 ## Monospaced Versions of Proportional Typefaces
 
@@ -66,6 +68,7 @@
     -   [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono) - based on URW Nimbus Sans, a Helvetica clone [free]
     -   [Helvetica Monospaced](https://www.myfonts.com/collections/helvetica-monospaced-font-linotype)
     -   [Monospace 821](https://www.myfonts.com/collections/monospace-821-font-bitstream)
+-   [Unica77 Mono](https://lineto.com/typefaces/unica77-mono)
 
 ## You Probably Have These
 
