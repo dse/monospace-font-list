@@ -2,9 +2,6 @@
 
 Some are paid; some are free; some are for coding; others not so much.
 
--   [Adore Mono](https://www.fontshop.com/families/adore-mono)
--   [Antikor Mono](https://www.taf-studio.com/retail-fonts/antikor/) [paid]
--   [Arkibal Mono](https://elements.envato.com/arkibal-mono-F98DXM) [paid]
 -   [Azaret Mono](https://displaay.net/typeface/azeret/azeret-mono/) [free]
 -   [Basier Mono](https://www.atipofoundry.com/fonts/basier-mono) [pay-what-you-want]
 -   [Bedstead](https://bjh21.me.uk/bedstead/) [free]
@@ -15,9 +12,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Bergen Mono](https://elements.envato.com/bergen-mono-942DQ4)
 -   [Bino Mono](http://luc.devroye.org/fonts-54943.html) [not available]
 -   [BQN386](https://dzaima.github.io/BQN386/) [free] [apl]
--   [Dossier](https://tosche.net/fonts/dossier) [paid]
--   [Tabulamore Script](https://tosche.net/fonts/tabulamore-script) [paid]
--   [Belinsky](https://tosche.net/fonts/belinsky) [paid]
 -   [Cruft]() [unknown source]
 -   [Crystal](http://www.povray.org/povlegal.html) (via <https://www.lowing.org/fonts/>) [free]
 -   [Cumberland](https://www.myfonts.com/collections/cumberland-font-monotype-imaging) [paid]
@@ -26,43 +20,23 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [DIN Mono Pro]
 -   [Disket Mono](https://rostype.com/disket/) [display] [free]
 -   [DM Mono](https://github.com/googlefonts/dm-mono)
--   [Doire](https://www.myfonts.com/collections/doire-font-evertype) [paid] [oh definitely not for c0ding]
 -   [DP Sans Mono](https://www.pgdp.net/wiki/DP_Sans_Mono) [free]
--   [EB Jessica](https://www.myfonts.com/collections/eb-jessica-font-erik-bertell) [display] [paid]
--   [EF Cash](https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake) [paid]
--   [EF Techno Script](https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake) [paid] [old-ish]
 -   [Effects Eighty](https://fontlibrary.org/th/font/effects-eighty) [free] [dot-matrix printer]
 -   [EnvyPN](https://github.com/hicolour/envypn-font) [free] [bdf]
 -   [Espresso Mono](https://github.com/jmazzi/dotfiles/tree/master/.fonts) [unknown source]
 -   [Excalibur Monospace](https://fonts2u.com/excalibur-monospace.font)
--   [Excellent](https://lineto.com/typefaces/excellent) [paid]
 -   [F25 Bank Printer](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Bank_Printer) [free] [private use]
 -   [F25 Artisan12](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Artisan12) [free] [private use]
 -   [F25 Typewriter Condensed](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Typewriter_Condensed) [free] [private use]
 -   [F25 Blackletter Typewriter](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Blackletter_Typewriter) [free] [private use]
 -   [F25 Cella](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Cella) [free] [private use]
 -   [F25 DaisyWheel](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_DaisyWheel) [free] [private use]
--   [Fabrikat Mono](https://www.hvdfonts.com/fonts/fabrikat-mono) [paid] [not for coding]
--   [Fairfax Serif](https://fonts2u.com/fairfax-serif.font) [free] [coding]
--   [Fakt Mono](https://www.typeby.com/fonts/fakt-mono) [paid] [coding]
 
 -   [Felt Pen]
--   [FF Attribute Mono](https://viktornuebel.com/retail-fonts/attribute/) [paid]
--   [FF Elementa](https://www.myfonts.com/collections/elementa-pro-font-fontfont) [old] [paid]
--   [FF Fago Monospaced](https://www.myfonts.com/collections/fago-monospace-font-fontfont) [paid] [not for coding]
--   [FF Magda Clean Mono](https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont) [paid]
--   [FF Nexus Typewriter](https://www.myfonts.com/collections/nexus-typewriter-pro-font-martin-majoor) [paid]
--   [FF Typestar OCR](https://www.myfonts.com/collections/ff-typestar-ocr-font-fontfont) [paid]
 -   [Fifteen](https://fontlibrary.org/en/font/fifteen) [free] [coding] - see also Quinze
 -   [Quinze](https://fontlibrary.org/en/font/quinze) [free] [coding] - see also Fifteen
--   [Fira Cousine](https://github.com/macduy/FiraCousine) [free] [coding] - Cousine + Fira Code's punct marks and ligatures
 -   [Flexi IBM VGA](https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/) - scalable version of IBM VGA font
--   [Typist Slab Mono](https://www.myfonts.com/collections/typist-slab-font-vanderkeur) [old-ish] [paid]
 
--   [Gemeli Mono]
-    -   Gemeli Mono
-        -   website: https://www.productiontype.com/family/gemeli_mono
-        -   foundry: Production Type
 -   [Generic Mono]
     -   Generic Mono
         -   luc devroye: http://luc.devroye.org/fonts-75172.html

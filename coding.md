@@ -65,9 +65,11 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Everson Mono](https://www.evertype.com/emono/) - shareware
 -   [Fairfax](https://www.kreativekorp.com/software/fonts/fairfax/) bitmap font, huge Unicode repertoire
 -   [Fairfax HD](https://www.kreativekorp.com/software/fonts/fairfaxhd/) scalable vector font, huge Unicode repertoire
+-   [Fairfax Serif](https://fonts2u.com/fairfax-serif.font)
 -   [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) - if you like Comic Sans and are not a hater
     -   f/k/a Cosmic Sans Neue Mono
 -   [Fira Code](https://github.com/tonsky/FiraCode) - has ligatures
+-   [Fira Cousine](https://github.com/macduy/FiraCousine) - Cousine + Fira Code's punct marks and ligatures
 -   [Fira Mono](https://github.com/mozilla/Fira) - from mozilla
 -   [Fixedsys Excelsior](https://github.com/kika/fixedsys)
 -   [Geist](https://vercel.com/font) - includes a mono variant
@@ -83,6 +85,7 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [IBM Fonts](https://farsil.github.io/ibmfonts/) in BDF format
 -   [IBM Plex](https://www.ibm.com/plex/) - includes a mono variant
 -   [Inconsolata](https://levien.com/type/myfonts/inconsolata.html)
+    -   [Inconsolata Light](https://github.com/googlefonts/Inconsolata/blob/main/fonts/ttf/Inconsolata-Light.ttf)
 -   [Input Mono](https://input.djr.com/) - personal use free, public-facing use paid
 -   [Intel One Mono](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html) - line printer vibe
 -   [Iosevka](https://typeof.net/Iosevka/)
@@ -178,6 +181,7 @@ A scourge on humanity (in my opinion), though readable.  It's the basis for nume
             -   [Hasklig](https://github.com/i-tu/Hasklig) - hack with ligatures
         -   Menlo - bundled with macOS
             -   [Meslo](https://github.com/andreberg/Meslo-Font) - Menlo with some tweaks
+                -   [MesloLGS NF](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts)
 
 ## Paid
 
@@ -197,6 +201,8 @@ A scourge on humanity (in my opinion), though readable.  It's the basis for nume
 -   [Debugger](https://dharmatype.com/debugger)
 -   [Dispatch Mono](https://occupantfonts.com/fonts/dispatch-mono/)
 -   [Eco Coding](https://www.myfonts.com/collections/eco-coding-font-s-core)
+-   [Fakt Mono](https://www.typeby.com/fonts/fakt-mono)
+-   [Gemeli Mono](https://productiontype.com/font/gemeli/gemeli-mono)
 -   [Monolisa](https://www.monolisa.dev/)
 -   [Operator Mono](https://typography.com/blog/introducing-operator)
 -   [Pragmata Pro](https://fsd.it/shop/fonts/pragmatapro/)

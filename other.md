@@ -26,6 +26,8 @@
 -   [Akkurat Mono](https://lineto.com/typefaces/akkurat-mono)
 -   [Alto Mono](https://www.typeby.com/fonts/alto-mono) - Thiemich's typeface
     -   not related to damieng's free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
+-   [Antikor Mono](https://www.taf-studio.com/retail-fonts/antikor/) [paid]
+-   [Arkibal Mono](https://elements.envato.com/arkibal-mono-F98DXM) [paid]
 -   [ASM](https://extratype.com/fonts/asm)
 -   [Andale Teletext](https://www.myfonts.com/collections/andale-teletext-font-monotype-imaging)
 -   [Aperçu Mono](https://www.colophon-foundry.org/typefaces/apercu-mono)
@@ -35,6 +37,7 @@
 -   [Autoscape](https://lineto.com/typefaces/autoscape)
 -   [Base Monospace](https://www.emigre.com/Fonts/Base-Monospace)
 -   [Basis Grotesque Mono](https://www.colophon-foundry.org/typefaces/basis-grotesque-mono)
+-   [Belinsky](https://tosche.net/fonts/belinsky) [paid]
 -   [Bradford Mono](https://lineto.com/typefaces/bradford-mono)
 -   [Centima Mono](http://www.tipografiaramis.com/centima-mono.html)
 -   [Circular Mono](https://lineto.com/typefaces/circular-mono)
@@ -46,8 +49,19 @@
 -   [Decima Mono Pro](http://www.tipografiaramis.com/decima-mono-pro.html)
 -   [Decima Mono Round](http://www.tipografiaramis.com/decima-mono-round.html)
 -   [Decima Mono](http://www.tipografiaramis.com/decima-mono.html)
+-   [Doire](https://www.myfonts.com/collections/doire-font-evertype) [paid] [oh definitely not for c0ding]
+-   [Dossier](https://tosche.net/fonts/dossier) [paid]
 -   [Dottie](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [EB Jessica](https://www.myfonts.com/collections/eb-jessica-font-erik-bertell) [display] [paid]
+-   [EF Cash](https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake) [paid]
+-   [Excellent](https://lineto.com/typefaces/excellent) [paid]
+-   [Fabrikat Mono](https://www.hvdfonts.com/fonts/fabrikat-mono) [paid] [not for coding]
 -   [Feggolite Mono](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [FF Attribute Mono](https://viktornuebel.com/retail-fonts/attribute/) [paid]
+-   [FF Fago Monospaced](https://www.myfonts.com/collections/fago-monospace-font-fontfont) [paid] [not for coding]
+-   [FF Magda Clean Mono](https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont) [paid]
+-   [FF Nexus Typewriter](https://www.myfonts.com/collections/nexus-typewriter-pro-font-martin-majoor) [paid]
+-   [FF Typestar OCR](https://www.myfonts.com/collections/ff-typestar-ocr-font-fontfont) [paid]
 -   [GT Alpina Typewriter](https://www.grillitype.com/typeface/gt-alpina)
 -   [GT America Mono](https://www.grillitype.com/typeface/gt-america)
 -   [GT Pressura Mono](https://www.grillitype.com/typeface/gt-pressura)
@@ -62,6 +76,7 @@
 -   [Polli Sans Mono](https://www.myfonts.com/collections/polli-sans-font-will-albin-clark)
 -   [Sanduski Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Skagwae Mono](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Tabulamore Script](https://tosche.net/fonts/tabulamore-script) [paid]
 -   [Tired of Courier](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [WatchMaker](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Wire Type Mono](https://www.myfonts.com/collections/wire-type-mono-font-thomas-kading)
@@ -142,6 +157,9 @@ domain, thanks to which numerous clones are available.
 ### Old-Timey Inspired
 
 -   [Pitch](https://klim.co.nz/retail-fonts/pitch/) [old typewriter inspired]
+-   [EF Techno Script](https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake) [paid] [old-ish]
+-   [FF Elementa](https://www.myfonts.com/collections/elementa-pro-font-fontfont) [old] [paid]
+-   [Typist Slab Mono](https://www.myfonts.com/collections/typist-slab-font-vanderkeur) [old-ish] [paid]
 
 <!-- ** For Emacs ** -->
 <!-- Local Variables: -->

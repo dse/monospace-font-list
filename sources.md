@@ -7,9 +7,13 @@
 -   http://int10h.org/oldschool-pc-fonts/fontlist/
 -   https://github.com/Tecate/bitmap-fonts
 -   [APL fonts](https://aplwiki.com/wiki/Fonts)
+-   https://github.com/organicplanning/hackedfonts
+-   https://github.com/juanaguillon/fonts-programming
 
 ## Sources of Information
 
+-   https://news.ycombinator.com/item?id=34777325
+-   https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace
 -   [https://damieng.com/typography/](https://damieng.com/typography/)
 -   [luc devroye's font info](http://luc.devroye.org/fonts.html)
     -   [Programming Fonts](http://luc.devroye.org/programming-index.html)
