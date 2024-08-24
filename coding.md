@@ -72,7 +72,9 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Fira Cousine](https://github.com/macduy/FiraCousine) - Cousine + Fira Code's punct marks and ligatures
 -   [Fira Mono](https://github.com/mozilla/Fira) - from mozilla
 -   [Fixedsys Excelsior](https://github.com/kika/fixedsys)
+-   [Flexi IBM VGA](https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/) - scalable version of IBM VGA font
 -   [Geist](https://vercel.com/font) - includes a mono variant
+-   [Generic Mono II](https://github.com/organicplanning/hackedfonts)
 -   [Gintronic](https://markfromberg.com/projects/gintronic)
 -   [Glass TTY](https://caglrc.cc/glasstty/) - vt220
 -   [GNU Unifont](https://unifoundry.com/unifont/)
@@ -80,10 +82,13 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Gohu](https://font.gohu.org/)
 -   [Google Sans Mono](https://github.com/mehant-kr/Google-Sans-Mono) a/k/a Product Sans Mono
     -   via: https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/
+-   [Grid15](https://typedrawers.com/discussion/964/grid15-futuristic-geometric-monospace) - work in progress
 -   [Haskplex](https://github.com/huytd/haskplex-font) - Hasklig + IBM Plex Mono
+-   [Hera Mono](https://github.com/sayyadirfanali/Hera) - mixture of glyphs from other monospace fonts
 -   [Hermit](https://pcaro.es/hermit/)
 -   [IBM Fonts](https://farsil.github.io/ibmfonts/) in BDF format
 -   [IBM Plex](https://www.ibm.com/plex/) - includes a mono variant
+    -   [iA Writer Mono](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono)
 -   [Inconsolata](https://levien.com/type/myfonts/inconsolata.html)
     -   [Inconsolata Light](https://github.com/googlefonts/Inconsolata/blob/main/fonts/ttf/Inconsolata-Light.ttf)
 -   [Input Mono](https://input.djr.com/) - personal use free, public-facing use paid

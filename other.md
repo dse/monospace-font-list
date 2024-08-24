@@ -4,20 +4,40 @@
 
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter) - Arabic typewriter typeface
 -   [Angelus III](https://www.myfonts.com/collections/angelus-iii-font-scriptorium)
--   [B612 Mono](https://b612-font.com/) - cockpit screen font
--   [Telerysm Mono 2](https://www.smeltery.net/en/fonts/telerysm-mono-2)
 -   [Audimat Mono](https://www.fontsquirrel.com/fonts/audimat-mono) - NOTE: its designer [discourages](https://www.smeltery.net/en/fonts/dead) its use
 -   [Azeret Mono](https://displaay.net/typeface/azeret/azeret-mono/)
+-   [B612 Mono](https://b612-font.com/) - cockpit screen font
 -   [Basier Mono](https://www.atipofoundry.com/fonts/basier-mono) - pay what you want
 -   [Bedstead](https://bjh21.me.uk/bedstead/)
+-   [Befont](https://codeberg.org/Wezl/fonts)
+    -   [Befunge](https://ermineii.github.io/befont.html) [free]
 -   [Bino Mono](https://www.fontyukle.net/font/Bino-Mono)
+-   [BQN386](https://dzaima.github.io/BQN386/) [free] [apl]
 -   [Computer Modern Typewriter](https://en.wikipedia.org/wiki/Computer_Modern)
     -   [CMU Typewriter](https://fontlibrary.org/en/font/cmu-typewriter)
     -   [Latin Modern Mono] (GUST e-foundry)
+-   [Crystal](http://www.povray.org/povlegal.html) (via <https://www.lowing.org/fonts/>) [free]
 -   [Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono)
 -   [DeluxeFont](https://zone38.net/font/#deluxefont) [retro]
+-   [Disket Mono](https://rostype.com/disket/) [display] [free]
+-   [DM Mono](https://github.com/googlefonts/dm-mono)
+-   [DP Sans Mono](https://www.pgdp.net/wiki/DP_Sans_Mono) [free]
+-   [Effects Eighty](https://fontlibrary.org/th/font/effects-eighty) [free] [dot-matrix printer]
+-   [EnvyPN](https://github.com/hicolour/envypn-font) [free] [bdf]
+-   [Espresso Mono](https://github.com/jmazzi/dotfiles/tree/master/.fonts) [unknown source]
+-   [Excalibur Monospace](https://fonts2u.com/excalibur-monospace.font)
+-   [F25 Bank Printer](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Bank_Printer) [free] [private use]
+-   [F25 Artisan12](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Artisan12) [free] [private use]
+-   [F25 Typewriter Condensed](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Typewriter_Condensed) [free] [private use]
+-   [F25 Blackletter Typewriter](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Blackletter_Typewriter) [free] [private use]
+-   [F25 Cella](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Cella) [free] [private use]
+-   [F25 DaisyWheel](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_DaisyWheel) [free] [private use]
+-   [Fifteen](https://fontlibrary.org/en/font/fifteen) [free] [coding] - see also Quinze
+-   [Glovis](https://fontsempire.com/font/glovis-download/) - italic old-timey
+-   [Quinze](https://fontlibrary.org/en/font/quinze) [free] [coding] - see also Fifteen
 -   [Retro Type 3 PostScript Fonts](https://unifoundry.com/retro/index.html) - dot-matrix printer fonts
 -   [SaxMono](https://www.dafont.com/saxmono.font)
+-   [Telerysm Mono 2](https://www.smeltery.net/en/fonts/telerysm-mono-2)
 
 ## Paid
 
@@ -38,6 +58,7 @@
 -   [Base Monospace](https://www.emigre.com/Fonts/Base-Monospace)
 -   [Basis Grotesque Mono](https://www.colophon-foundry.org/typefaces/basis-grotesque-mono)
 -   [Belinsky](https://tosche.net/fonts/belinsky) [paid]
+-   [Bergen Mono](https://elements.envato.com/bergen-mono-942DQ4)
 -   [Bradford Mono](https://lineto.com/typefaces/bradford-mono)
 -   [Centima Mono](http://www.tipografiaramis.com/centima-mono.html)
 -   [Circular Mono](https://lineto.com/typefaces/circular-mono)
@@ -66,9 +87,13 @@
 -   [GT America Mono](https://www.grillitype.com/typeface/gt-america)
 -   [GT Pressura Mono](https://www.grillitype.com/typeface/gt-pressura)
 -   [Galexica Mono](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Greenwood](https://www.myfonts.com/collections/greenwood-font-protimient)
 -   [HeartMatrixed](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Heimat Mono](https://www.myfonts.com/collections/heimat-mono-font-atlasfontfoundry)
 -   [Heptagroan](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Hyperfont](https://en.wikipedia.org/wiki/HyperFont) distributed with HyperTerminal
+-   [Igoe](https://www.myfonts.com/collections/igoe-font-linecreative)
+-   [Ingrid Mono](https://www.myfonts.com/collections/ingrid-mono-font-jorg-schmitt)
 -   [Intimo](https://www.myfonts.com/collections/intimo-font-alias-collection)
 -   [Irritation](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [JetJane Mono](http://ingrimayne.com/fonts2/typewriter.htm)

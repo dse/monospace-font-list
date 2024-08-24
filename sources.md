@@ -12,9 +12,11 @@
 
 ## Sources of Information
 
+-   https://hackingcpp.com/dev/coding_fonts.html#metrickal
+-   https://github.com/zhenruyan/codefont/blob/master/README.md
 -   https://news.ycombinator.com/item?id=34777325
 -   https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace
--   [https://damieng.com/typography/](https://damieng.com/typography/)
+-   https://damieng.com/typography/
 -   [luc devroye's font info](http://luc.devroye.org/fonts.html)
     -   [Programming Fonts](http://luc.devroye.org/programming-index.html)
     -   [Monospace](http://luc.devroye.org/mono.html)
