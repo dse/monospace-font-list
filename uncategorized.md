@@ -101,75 +101,73 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Onuava](https://www.dafont.com/onuava.font) [free]
 -   [OpenDyslexic](https://opendyslexic.org/) [free] has a monospace variant
 -   [OpenGenera fonts]
--   [OPS Cubic]
--   [OPS Favorite]
--   [OPS Placard]
+-   [OPS Cubic](http://www.ourpolitesocietytype.net/fonts/ops-cubic/) [paid]
+-   [OPS Favorite](http://www.ourpolitesocietytype.net/fonts/ops-favorite/) [paid]
+-   [OPS Placard](http://www.ourpolitesocietytype.net/fonts/ops-placard/) [paid]
 -   [Opti]
--   [Osaka Regular-Mono]
--   [Panama Monospace]
--   [Pandora Single Pitch]
--   [Panic Sans]
--   [Parse Grotesk Mono]
--   [PCMyungjo]
--   [PF Din Mono]
+-   [Panama Monospace](https://www.featuredtype.com/typefaces/panama) [paid]
+-   [Pandora Single Pitch](https://www.tug.org/FontCatalogue/pandorasinglepitch/) [free]
+-   [Panic Sans](https://eng.fontke.com/family/904560/style/) [free] [appears to be based on DejaVu]
+-   [Parse Grotesk Mono](https://archetype-foundry.com/parse-grotesk-mono) [paid]
+-   [Functor Mono](https://archetype-foundry.com/functor-mono) [paid]
+-   [Struct Mono](https://archetype-foundry.com/struct-mono) [paid]
+-   [PF Das Grot Mono](https://parachutefonts.com/typeface/Das-Grot-Mono)
+
 -   [PF Typeroom Mono]
 -   [Pico]
 -   [Pine (?)] - via: https://www.designbombs.com/best-monospaced-fonts/
--   [Pixel Carnage]
+-   [Pixel Carnage](https://www.dafont.com/pixelcarnage.d870) [free] [coding]
 -   [PixSymbols Courex]
--   [Platelet]
--   [Plotter Mono]
+-   [Platelet](https://www.emigre.com/Fonts/Platelet) [paid]
+-   [Plotter Mono](https://www.typotheque.com/fonts/plotter-mono) [paid]
 -   [PoultreMono](https://codeberg.org/Wezl/fonts)
--   [Print Char 21]
 -   [Press Start]
--   [Press Start 2P]
+-   [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P)
 -   [Press Start K]
 -   [Print Out]
--   [PT Mono]
--   [PTL Notes Tec Mono]
--   [Quadraat Sans Mono]
-    -   website: https://www.typeby.com/fonts/quadraat-sans-mono
-    -   cost: $
--   [QuickType Mono]
--   [Raize]
--   [Range Mono]
--   [Rational TW]
+-   [PT Mono](https://fonts.google.com/specimen/PT+Mono) [free] [coding]
+-   [PTL Notes Tec Mono](https://www.myfonts.com/collections/notes-tec-mono-font-primetype) [paid]
+-   [Quadraat Sans Mono](https://www.typeby.com/fonts/quadraat-sans-mono) [paid]
+-   [QuickType Mono](https://fontsgeek.com/fonts/QuickType-Mono-Regular)
+-   [QuickType II Mono](https://fontsgeek.com/fonts/QuickType-II-Mono-Regular)
+-   [Raize](https://www.softpedia.com/get/Others/Font-Utils/Raize-Font.shtml)
+-   [Range Mono](https://www.monolithfoundry.com/fonts/range-mono) [free?]
+-   [Rational TW](https://www.myfonts.com/collections/rational-tw-font-rene-bieder)
 -   [Rebel]
--   [Relative Mono]
--   [Relaxed Typing Mono JP]
--   [Replica Mono]
+-   [Relative Mono](https://www.colophon-foundry.org/typefaces/relative-mono/opentype) [paid]
+-   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp) [free]
+    -   derived from Source Code Pro and Noto Sans JP.
+    -   No significant changes other than mixing.
+-   [Replica Mono](https://lineto.com/typefaces/replica-mono) [paid]
 -   [Resolution]
 -   [retro fonts]
--   [RF Rostin]
--   [romfont]
-    -   git: https://github.com/spacerace/romfont
-    -   collection of old PC fonts, and then some.
--   [Rubik Mono One]
--   [RX100]
--   [Sabir Mono]
--   [Sarasa Gothic]
--   [Sauna Mono Pro]
+-   [RF Rostin](https://www.myfonts.com/products/rf-rostin-complete-family-package-291433) [paid]
+-   [romfont](https://github.com/spacerace/romfont) [free] [coding] collection of PC ROM fonts
+-   [Rubik Mono One](https://fonts.google.com/specimen/Rubik+Mono+One) [free] [display]
+-   [RX100](https://www.fontshare.com/fonts/rx-100) [free]
+-   [Sabir Mono](https://github.com/mateobrt/Sabir-Mono) [free] [demo](https://localfonts.eu/freefonts/traditional-cyrillic-free-fonts/sabir-mono/)
+-   [Sarasa Gothic Mono](https://picaq.github.io/sarasa/) - derived from Source Han Sans and Iosevka
+-   [Sauna Mono Pro](https://www.myfonts.com/collections/sauna-mono-pro-font-underware) [paid]
 -   [Schumaker Misc]
     -   git: https://gitlab.freedesktop.org/xorg/font/schumacher-misc
--   [Script 12 Pitch]
+-   [Script 12 Pitch](https://www.myfonts.com/collections/script-12-pitch-font-bitstream) [paid] - old script typewriter font
 -   [Segoe UI Mono]
--   [Selectric]
--   [SF Mono]
+-   [Selectric](https://github.com/atelierBek/selectric) [free] [demo](https://usemodify.com/fonts/selectric/)
+-   [SF Mono](https://developer.apple.com/fonts/) [free-ish]
     -   useful for coding
--   [Sheldon]
--   [Simple]
--   [SK Modernist Mono]
--   [Skurier]
--   [Skyhook Mono]
--   [Small Type Writing]
--   [Smith Premier NF]
--   [Sometype Mono]
--   [Space Mono]
-    -   an abomination on mankind
--   [Speedy]
+-   [Sheldon] (profont?)
+-   [Simple](https://font.download/font/simple) [free for personal use]
+-   [SK Modernist Mono](https://seankanedesign.gumroad.com/l/sk-modernist) [paid]
+-   [Skurier](https://www.myfonts.com/collections/skurier-font-grin3) [paid]
+-   [Skyhook Mono](https://www.fontsquirrel.com/fonts/skyhook-mono) [free]
+-   [SmallType Writing](https://www.dafont.com/smalltypewriting-medium.font) [free]
+-   [Smith Premier NF](https://www.myfonts.com/collections/smith-premier-nf-font-nicks-fonts) [paid] [old timey]
+-   [Sometype Mono](https://github.com/dharmatype/Sometype-Mono) [free] [coding]
+-   [Space Mono](https://fonts.google.com/specimen/Space+Mono) [free] [coding]
+-   [Speedy] is one of the ProggyFonts
 -   [SpiderWire](https://codeberg.org/Wezl/fonts)
--   [Spleen]
--   [Spot Mono]
+-   [Spleen](https://www.cambus.net/spleen-monospaced-bitmap-fonts/) [free] [coding]
+-   [Spot Mono](https://www.schick-toikka.com/spot-mono) [paid] [coding]
 -   [Squareshooter Mono]
 -   [Superstudio]
 -   [SV Basic Manual]

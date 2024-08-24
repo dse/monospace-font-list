@@ -10,31 +10,31 @@
 -   [Basier Mono](https://www.atipofoundry.com/fonts/basier-mono) - pay what you want
 -   [Bedstead](https://bjh21.me.uk/bedstead/)
 -   [Befont](https://codeberg.org/Wezl/fonts)
-    -   [Befunge](https://ermineii.github.io/befont.html) [free]
+    -   [Befunge](https://ermineii.github.io/befont.html)
 -   [Bino Mono](https://www.fontyukle.net/font/Bino-Mono)
--   [BQN386](https://dzaima.github.io/BQN386/) [free] [apl]
+-   [BQN386](https://dzaima.github.io/BQN386/) [apl]
 -   [Computer Modern Typewriter](https://en.wikipedia.org/wiki/Computer_Modern)
     -   [CMU Typewriter](https://fontlibrary.org/en/font/cmu-typewriter)
     -   [Latin Modern Mono] (GUST e-foundry)
--   [Crystal](http://www.povray.org/povlegal.html) (via <https://www.lowing.org/fonts/>) [free]
+-   [Crystal](http://www.povray.org/povlegal.html) (via <https://www.lowing.org/fonts/>)
 -   [Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono)
 -   [DeluxeFont](https://zone38.net/font/#deluxefont) [retro]
--   [Disket Mono](https://rostype.com/disket/) [display] [free]
+-   [Disket Mono](https://rostype.com/disket/) [display]
 -   [DM Mono](https://github.com/googlefonts/dm-mono)
--   [DP Sans Mono](https://www.pgdp.net/wiki/DP_Sans_Mono) [free]
--   [Effects Eighty](https://fontlibrary.org/th/font/effects-eighty) [free] [dot-matrix printer]
--   [EnvyPN](https://github.com/hicolour/envypn-font) [free] [bdf]
+-   [DP Sans Mono](https://www.pgdp.net/wiki/DP_Sans_Mono)
+-   [Effects Eighty](https://fontlibrary.org/th/font/effects-eighty) [dot-matrix printer]
+-   [EnvyPN](https://github.com/hicolour/envypn-font) [bdf]
 -   [Espresso Mono](https://github.com/jmazzi/dotfiles/tree/master/.fonts) [unknown source]
 -   [Excalibur Monospace](https://fonts2u.com/excalibur-monospace.font)
--   [F25 Bank Printer](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Bank_Printer) [free] [private use]
--   [F25 Artisan12](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Artisan12) [free] [private use]
--   [F25 Typewriter Condensed](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Typewriter_Condensed) [free] [private use]
--   [F25 Blackletter Typewriter](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Blackletter_Typewriter) [free] [private use]
--   [F25 Cella](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Cella) [free] [private use]
--   [F25 DaisyWheel](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_DaisyWheel) [free] [private use]
--   [Fifteen](https://fontlibrary.org/en/font/fifteen) [free] [coding] - see also Quinze
+-   [F25 Bank Printer](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Bank_Printer) [private use]
+-   [F25 Artisan12](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Artisan12) [private use]
+-   [F25 Typewriter Condensed](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Typewriter_Condensed) [private use]
+-   [F25 Blackletter Typewriter](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Blackletter_Typewriter) [private use]
+-   [F25 Cella](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Cella) [private use]
+-   [F25 DaisyWheel](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_DaisyWheel) [private use]
+-   [Fifteen](https://fontlibrary.org/en/font/fifteen) [coding] - see also Quinze
 -   [Glovis](https://fontsempire.com/font/glovis-download/) - italic old-timey
--   [Quinze](https://fontlibrary.org/en/font/quinze) [free] [coding] - see also Fifteen
+-   [Quinze](https://fontlibrary.org/en/font/quinze) [coding] - see also Fifteen
 -   [Retro Type 3 PostScript Fonts](https://unifoundry.com/retro/index.html) - dot-matrix printer fonts
 -   [SaxMono](https://www.dafont.com/saxmono.font)
 -   [Telerysm Mono 2](https://www.smeltery.net/en/fonts/telerysm-mono-2)
@@ -46,8 +46,8 @@
 -   [Akkurat Mono](https://lineto.com/typefaces/akkurat-mono)
 -   [Alto Mono](https://www.typeby.com/fonts/alto-mono) - Thiemich's typeface
     -   not related to damieng's free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
--   [Antikor Mono](https://www.taf-studio.com/retail-fonts/antikor/) [paid]
--   [Arkibal Mono](https://elements.envato.com/arkibal-mono-F98DXM) [paid]
+-   [Antikor Mono](https://www.taf-studio.com/retail-fonts/antikor/)
+-   [Arkibal Mono](https://elements.envato.com/arkibal-mono-F98DXM)
 -   [ASM](https://extratype.com/fonts/asm)
 -   [Andale Teletext](https://www.myfonts.com/collections/andale-teletext-font-monotype-imaging)
 -   [Aperçu Mono](https://www.colophon-foundry.org/typefaces/apercu-mono)
@@ -57,7 +57,7 @@
 -   [Autoscape](https://lineto.com/typefaces/autoscape)
 -   [Base Monospace](https://www.emigre.com/Fonts/Base-Monospace)
 -   [Basis Grotesque Mono](https://www.colophon-foundry.org/typefaces/basis-grotesque-mono)
--   [Belinsky](https://tosche.net/fonts/belinsky) [paid]
+-   [Belinsky](https://tosche.net/fonts/belinsky)
 -   [Bergen Mono](https://elements.envato.com/bergen-mono-942DQ4)
 -   [Bradford Mono](https://lineto.com/typefaces/bradford-mono)
 -   [Centima Mono](http://www.tipografiaramis.com/centima-mono.html)
@@ -70,19 +70,20 @@
 -   [Decima Mono Pro](http://www.tipografiaramis.com/decima-mono-pro.html)
 -   [Decima Mono Round](http://www.tipografiaramis.com/decima-mono-round.html)
 -   [Decima Mono](http://www.tipografiaramis.com/decima-mono.html)
--   [Doire](https://www.myfonts.com/collections/doire-font-evertype) [paid] [oh definitely not for c0ding]
--   [Dossier](https://tosche.net/fonts/dossier) [paid]
+-   [Doire](https://www.myfonts.com/collections/doire-font-evertype) [oh definitely not for c0ding]
+-   [Dossier](https://tosche.net/fonts/dossier)
 -   [Dottie](http://ingrimayne.com/fonts2/typewriter.htm)
--   [EB Jessica](https://www.myfonts.com/collections/eb-jessica-font-erik-bertell) [display] [paid]
--   [EF Cash](https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake) [paid]
--   [Excellent](https://lineto.com/typefaces/excellent) [paid]
--   [Fabrikat Mono](https://www.hvdfonts.com/fonts/fabrikat-mono) [paid] [not for coding]
+-   [EB Jessica](https://www.myfonts.com/collections/eb-jessica-font-erik-bertell) [display]
+-   [EF Cash](https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake)
+-   [Excellent](https://lineto.com/typefaces/excellent)
+-   [Fabrikat Mono](https://www.hvdfonts.com/fonts/fabrikat-mono) [not for coding]
 -   [Feggolite Mono](http://ingrimayne.com/fonts2/typewriter.htm)
--   [FF Attribute Mono](https://viktornuebel.com/retail-fonts/attribute/) [paid]
--   [FF Fago Monospaced](https://www.myfonts.com/collections/fago-monospace-font-fontfont) [paid] [not for coding]
--   [FF Magda Clean Mono](https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont) [paid]
--   [FF Nexus Typewriter](https://www.myfonts.com/collections/nexus-typewriter-pro-font-martin-majoor) [paid]
--   [FF Typestar OCR](https://www.myfonts.com/collections/ff-typestar-ocr-font-fontfont) [paid]
+-   [FF Attribute Mono](https://viktornuebel.com/retail-fonts/attribute/)
+-   [FF Fago Monospaced](https://www.myfonts.com/collections/fago-monospace-font-fontfont) [not for coding]
+-   [FF Magda Clean Mono](https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont)
+-   [FF Nexus Typewriter](https://www.myfonts.com/collections/nexus-typewriter-pro-font-martin-majoor)
+-   [FF Typestar OCR](https://www.myfonts.com/collections/ff-typestar-ocr-font-fontfont)
+-   [Founders Grotesk Mono](https://klim.co.nz/retail-fonts/founders-grotesk-mono/)
 -   [GT Alpina Typewriter](https://www.grillitype.com/typeface/gt-alpina)
 -   [GT America Mono](https://www.grillitype.com/typeface/gt-america)
 -   [GT Pressura Mono](https://www.grillitype.com/typeface/gt-pressura)
@@ -94,6 +95,7 @@
 -   [Hyperfont](https://en.wikipedia.org/wiki/HyperFont) distributed with HyperTerminal
 -   [Igoe](https://www.myfonts.com/collections/igoe-font-linecreative)
 -   [Ingrid Mono](https://www.myfonts.com/collections/ingrid-mono-font-jorg-schmitt)
+-   [Interstate Mono](https://fonts.adobe.com/fonts/interstate-mono)
 -   [Intimo](https://www.myfonts.com/collections/intimo-font-alias-collection)
 -   [Irritation](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [JetJane Mono](http://ingrimayne.com/fonts2/typewriter.htm)
@@ -101,7 +103,7 @@
 -   [Polli Sans Mono](https://www.myfonts.com/collections/polli-sans-font-will-albin-clark)
 -   [Sanduski Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Skagwae Mono](http://ingrimayne.com/fonts2/typewriter.htm)
--   [Tabulamore Script](https://tosche.net/fonts/tabulamore-script) [paid]
+-   [Tabulamore Script](https://tosche.net/fonts/tabulamore-script)
 -   [Tired of Courier](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [WatchMaker](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Wire Type Mono](https://www.myfonts.com/collections/wire-type-mono-font-thomas-kading)
