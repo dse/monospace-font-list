@@ -212,6 +212,7 @@ A scourge on humanity (in my opinion), though readable.  It's the basis for nume
 -   [Monolisa](https://www.monolisa.dev/)
 -   [Operator Mono](https://typography.com/blog/introducing-operator)
 -   [Pragmata Pro](https://fsd.it/shop/fonts/pragmatapro/)
+-   [Right Grotesk Mono](https://pangrampangram.com/products/right-grotesk-mono)
 -   [Right Serif Mono](https://pangrampangram.com/products/right-serif-mono)
 -   [Senpai Coder](https://dharmatype.com/senpai-coder)
 -   [TheSansMono](https://www.lucasfonts.com/fonts/the-sans-mono) - used in some O'Reilly & Associates books
