@@ -5,8 +5,6 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Cruft]() [unknown source]
 -   [DIN Mono Pro] (not available)
 -   [Felt Pen]
-    -   Generic Mono
-        -   luc devroye: http://luc.devroye.org/fonts-75172.html
 -   [GwdTE 437]
 -   [Illusion]
 -   [Inconsolata-LGC]
@@ -14,8 +12,7 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Inconsolata-g]
 -   [Inconsolata Hellenic]
 -   [Ingrid Mono]
--   [JSans J]
-    -   via: http://archive.vector.org.uk/resource/index.htm
+-   [JSans J] - via: http://archive.vector.org.uk/resource/index.htm
 -   [jxyahei]
 -   [Karen]
 -   [Karben 105 Mono](https://www.myfonts.com/collections/karben-105-mono-font-talbot-type) [$]
@@ -29,8 +26,7 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [KongText]
 -   [KP Monospaced](https://tug.org/FontCatalogue/kpmonospaced/) [free]
 -   [Larabiefont](https://typodermicfonts.com/larabiefont/) [$ but regular is free]
--   [Laser (?)]
-    -   via: https://www.designbombs.com/best-monospaced-fonts/
+-   [Laser (?)] - via: https://www.designbombs.com/best-monospaced-fonts/
 -   [League Mono](https://www.theleagueofmoveabletype.com/league-mono) [free coding]
 -   [Lekton](fonts.google.com/specimen/Lekton) [free]
 -   [Letter Gothic]
@@ -41,8 +37,7 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Linefeed](https://typodermicfonts.com/linefeed/) [$, line printer inspired]
 -   [Linux Libertine Mono](https://sourceforge.net/projects/linuxlibertine/) [free]
 -   [LispM](https://github.com/unjordy/LispM-Font) [free, coding]
--   [Looper (?)]
-    -   via: https://www.designbombs.com/best-monospaced-fonts/
+-   [Looper (?)] - via: https://www.designbombs.com/best-monospaced-fonts/
 -   [Lotion](https://font.nina.coffee/) [free, coding]
 -   [Lucida Console]
 -   [Lucida Typewriter]
@@ -58,7 +53,7 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [Metrickal](https://github.com/davelab6/metrickal-typeface) [free, coding]
 -   [Mingray Mono](https://www.myfonts.com/collections/mingray-mono-font-rekord) [paid]
 -   [Mitigate](https://typodermicfonts.com/mitigate/) [paid]
--   [Modd]
+-   [Modd](http://nikolas.us.to/jmkfonts/) [free]
 -   [Monaco]
 -   [Mono (Lineto)]
 -   [Mono Condensed (ParaType)]
@@ -79,32 +74,32 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [MonteCarlo (programmer font)](https://www.bok.net/MonteCarlo/) [free, coding]
 -   [MS Gothic]
 -   [MS Mincho]
--   [MVB Fantabular]
--   [MVB Fantabular Sans]
--   [Name Mono]
--   [Native (fontfoundry.com)]
--   [NB Architekt]
--   [NB Typewriter]
--   [Necto Mono]
--   [Neep]
--   [Nice Weekend]
--   [Nicolatte (?)]
-    -   via: https://www.designbombs.com/best-monospaced-fonts/
--   [Nitti]
--   [Normafixed]
--   [NotCourierSans]
--   [Nova Mono]
--   [NuSans Mono]
--   [Occupy Monospace]
--   [OCRJ]
--   [Odisseia]
--   [Odudo Mono]
-    -   via: https://www.designbombs.com/best-monospaced-fonts/
--   [Office Code Pro]
+-   [MVB Fantabular](https://www.myfonts.com/collections/mvb-fantabular-font-mvb) [paid]
+-   [MVB Fantabular Sans](https://www.myfonts.com/collections/mvb-fantabular-sans-font-mvb) [paid]
+-   [Name Mono](https://www.arrowtype.com/name-mono) [paid] [coding]
+-   [Native (fortfoundry.com)](https://fortfoundry.com/fonts/native) [paid] [regular weight is free] [coding]
+-   NB Architekt [paid]
+    -   [NB Architekt R](https://neubauberlin.com/project/nb-architekt-otf-std/) [paid]
+    -   [NB Architekt Std & Neue](https://neubauberlin.com/project/nb-architekt-std-neue-edition/) [paid]
+    -   [NB Architekt MMXX](https://neubauberlin.com/project/nb-architekt-mmxx-edition/) [paid]
+-   [NB Typewriter](https://neubauladen.com/product/nb-typewriter-pro-edition/) [paid]
+-   [Necto Mono](https://www.collletttivo.it/typefaces/necto-mono) [free]
+-   [Neep](http://nikolas.us.to/jmkfonts/) [free]
+-   [Nice Weekend](https://www.myfonts.com/collections/nice-weekend-font-garagefonts) [paid]
+-   [Nicolatte (?)] -   via: https://www.designbombs.com/best-monospaced-fonts/
+-   [Nitti](https://www.boldmonday.com/typeface/nitti/) [paid]
+-   [Normafixed](https://www.dafont.com/normafixed.font) [free]
+-   [NotCourierSans](https://usemodify.com/fonts/notcouriersans/) [free]
+-   [Nova Mono](https://fonts.google.com/specimen/Nova+Mono) [free]
+-   [NuSans Mono](https://www.urbanfonts.com/fonts/Nu_Sans_Mono.font) [free] - digits are bitmaps; everything else is smooth
+-   [Occupy Monospace](https://typolitic.com/occupy-monospace/) [not available that I can find]
+-   [OCRJ](https://www.myfonts.com/collections/ocrj-font-test-pilot-collective) [paid]
+-   [Odisseia](https://www.myfonts.com/collections/odisseia-font-niramekko) [paid]
+-   [Odudo Mono] - via: https://www.designbombs.com/best-monospaced-fonts/
 -   [Oloron Program]
--   [Olympiad]
--   [Onuava]
--   [OpenDyslexic]
+-   [Olympiad](https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/) [free] - IBM internal prototype fonts 
+-   [Onuava](https://www.dafont.com/onuava.font) [free]
+-   [OpenDyslexic](https://opendyslexic.org/) [free] has a monospace variant
 -   [OpenGenera fonts]
 -   [OPS Cubic]
 -   [OPS Favorite]
@@ -119,8 +114,7 @@ Some are paid; some are free; some are for coding; others not so much.
 -   [PF Din Mono]
 -   [PF Typeroom Mono]
 -   [Pico]
--   [Pine (?)]
-    -   via: https://www.designbombs.com/best-monospaced-fonts/
+-   [Pine (?)] - via: https://www.designbombs.com/best-monospaced-fonts/
 -   [Pixel Carnage]
 -   [PixSymbols Courex]
 -   [Platelet]
