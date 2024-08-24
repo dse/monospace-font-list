@@ -1,3 +1,12 @@
+-   Courier Final Draft	https://store.finaldraft.com/final-draft-11.html
+	-   https://web.archive.org/web/20180704043252/http://kb.finaldraft.com/article/1001/5328/Download-the-updated-Courier-Final-Draft-font
+	-   https://finaldraft.box.com/shared/static/714ubyxzjd937ntsxqdmvij7clvgzfer.dmg
+	-   https://finaldraft.app.box.com/s/8c5nx8bkyxpfxl9jsv41bsqif9rt5b58
+-   Courier MMS	https://techsupport.screenplay.com/hc/en-us/articles/115001114651-I-have-selected-Courier-MM-Screenwriter-for-my-title-page-but-it-keeps-changing-the-font-
+	-   Bundled with Movie Magic Screenwriter
+-   Courier Screenplay	https://www.fadeinpro.com/page.pl?content=download
+	-   http://www.rolandstroud.com/Fonts-1.html
+
 <https://walkerart.org/magazine/typewriter-typefaces>
 
 <http://christian.lestrade.free.fr/fonts.html>
