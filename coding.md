@@ -27,6 +27,7 @@ At a bare minimum, the following sets of characters need to be distinguishable f
     -   based on [APL385](https://apl385.com/fonts/)
 -   [APLX](https://www.dyalog.com/aplx.htm)
 -   [Apple II Fonts](https://www.kreativekorp.com/software/fonts/apple2/)
+-   [Astigmata](https://medium.com/codex/astigmata-my-monospace-programming-font-b28ccfa9b025)
 -   [Atarist](https://github.com/ntwk/atarist-font)
 -   [Aurulent Sans Mono](https://www.dafont.com/aurulent-sans-mono.font)
 -   [Bizcat](https://robey.lag.net/2020/02/09/bizcat-bitmap-font.html)
@@ -211,6 +212,7 @@ A scourge on humanity (in my opinion), though readable.  It's the basis for nume
 -   [Monolisa](https://www.monolisa.dev/)
 -   [Operator Mono](https://typography.com/blog/introducing-operator)
 -   [Pragmata Pro](https://fsd.it/shop/fonts/pragmatapro/)
+-   [Right Serif Mono](https://pangrampangram.com/products/right-serif-mono)
 -   [Senpai Coder](https://dharmatype.com/senpai-coder)
 -   [TheSansMono](https://www.lucasfonts.com/fonts/the-sans-mono) - used in some O'Reilly & Associates books
 -   [Triplicate](https://mbtype.com/fonts/triplicate/)
