@@ -95,6 +95,7 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Input Mono](https://input.djr.com/) - personal use free, public-facing use paid
 -   [Intel One Mono](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html) - line printer vibe
 -   [Iosevka](https://typeof.net/Iosevka/)
+    -   [Iosevka VardanPro](https://github.com/varp/VardanPro-Fonts) [free] [coding]
 -   [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
 -   [Julia Mono](https://juliamono.netlify.app/)
 -   [Lab Mono](https://github.com/hatsumatsu/Lab-Mono)
@@ -103,15 +104,20 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Liberation Fonts](https://github.com/liberationfonts) - among which, Liberation Mono
 -   [Lilex](https://github.com/mishamyrt/Lilex)
 -   [Linux Console Fonts for Windows](http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/) in .TTF and .FON
+-   [LispM](https://github.com/unjordy/LispM-Font) [free] [coding]
+-   [Lotion](https://font.nina.coffee/) [free] [coding]
 -   [Luculent](https://usemodify.com/fonts/luculent/)
 -   [M+](https://mplusfonts.github.io/)
 -   [Mensch](https://www.losttype.com/font/?name=mensch) [pay what you want]
+-   [Metrickal](https://github.com/davelab6/metrickal-typeface) [free] [coding]
 -   [Meyrin CERN](https://github.com/optional-is/Meyrin)
 -   [mnicmp](https://fontlibrary.org/en/font/mnicmp) - based on the 7-pin DECwriter II printer
 -   [Monaspace](https://monaspace.githubnext.com/) - superfamily
 -   [Monego](https://github.com/cseelus/monego) - monaco with bold and italic variants
 -   [Monoid](https://larsenwork.com/monoid/)
 -   [Mononoki](https://madmalik.github.io/mononoki/)
+-   [MonoOne](https://github.com/zlsa/monoOne) [free] [coding]
+-   [MonteCarlo (programmer font)](https://www.bok.net/MonteCarlo/) [free] [coding]
 -   [Nanum Gothic Coding](https://github.com/emersion/nanum-gothic-coding)
 -   [New Heterodox Mono](https://github.com/hckiang/font-new-heterodox-mono)
 -   [NK57 Monospace](https://www.dafont.com/nk57-monospace.font)
@@ -124,23 +130,30 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
 -   [Pet Me](https://www.kreativekorp.com/software/fonts/c64/), the Commodore VIC-20, C64, and C128 font family
 -   [Perfect DOS VGA fonts](https://laemeur.sdf.org/fonts/) - Less Perfect, More Perfect, and Perfect
+-   [Pixel Carnage](https://www.dafont.com/pixelcarnage.d870) [free] [coding]
 -   [Pointfree](https://www.dafont.com/pointfree.font) - if you like Comic Sans and are not a hater
 -   [Print Char 21 and PR Number 3](https://www.kreativekorp.com/software/fonts/apple2/), the Apple II fonts
 -   [Profont](https://tobiasjung.name/profont/)
 -   [Proggy Fonts](https://github.com/bluescan/proggyfonts)
+-   [PT Mono](https://fonts.google.com/specimen/PT+Mono) [free] [coding]
 -   [Recursive](https://www.recursive.design/)
 -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
 -   [Roboto Mono](https://github.com/googlefonts/roboto)
+-   [romfont](https://github.com/spacerace/romfont) [free] [coding] collection of PC ROM fonts
 -   [SAX2 APL font](https://abrudz.github.io/SAX2/)
 -   [Server Mono](https://servermono.com/)
 -   [SGI Screen](https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/) - if this is a Unix system and you know this
     -   also [bitmaps](https://www.gnome-look.org/p/998527/)
     -   also https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
 -   [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono)
--   [Sometype Mono](https://monospacedfont.com/)
+-   [Sometype Mono](https://monospacedfont.com/) ([github](https://github.com/dharmatype/Sometype-Mono))
 -   [Sono](https://usemodify.com/fonts/sono/)
 -   [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - from adobe
     -   [Office Code Pro](https://github.com/nathco/Office-Code-Pro)
+    -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp) [free]
+        -   derived from Source Code Pro and Noto Sans JP.
+        -   No significant changes other than mixing.
+-   [Space Mono](https://fonts.google.com/specimen/Space+Mono) [free] [coding]
 -   [Spleen](https://www.cambus.net/spleen-monospaced-bitmap-fonts/)
 -   [String Literal 437](https://fonts2u.com/string-literal-437-medium.font)
 -   [Sudo](https://www.kutilek.de/sudo-font/)
@@ -152,16 +165,20 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Termsyn](https://sourceforge.net/projects/termsyn/) - based on Terminus and Tamsyn/Tamzen
 -   [ti92plus](https://github.com/sterpe/ti92plus) - TI92PLUSPC.TTF with encoding fixes
     -   based on [Ti92Pluspc](https://fontsgeek.com/fonts/Ti92Pluspc-Regular)
+-   [Triskweline](https://www.netalive.org/tinkering/triskweline/) [free] [coding]
 -   [TRS-80 Fonts](https://www.kreativekorp.com/software/fonts/trs80/)
 -   [TT2020](https://copypaste.wtf/TT2020/docs/)
+-   [TXTT](https://tug.org/FontCatalogue/txtt/) [free] [coding]
 -   [Ubuntu Monospace](https://design.ubuntu.com/font)
 -   [Unix-originated terminal fonts for Windows](http://christian.lestrade.free.fr/fonts.html)
     -   Includes some of the X fonts and some VGA fonts.  Also apparently includes VT330?
 -   [Unix PC 3B1](https://github.com/brandon-rhodes/unixpc-font-bdf)
 -   [UNSCII](http://viznut.fi/unscii/)
+-   [VCR OSD Mono](https://www.dafont.com/vcr-osd-mono.font) [free] [coding]
 -   [Verily Serif Mono](https://usemodify.com/fonts/verily-serif-mono/)
 -   [Victor Mono](https://github.com/rubjo/victor-mono)
 -   [VT323](https://github.com/phoikoi/VT323)
+-   [WenQuanYi Black](http://wenq.org/wqy2/index.cgi?FontGuide#_4) [free] [chinese] [coding]
 -   [Whois mono](https://github.com/raphaelbastide/Whois-mono)
 -   [Writer](https://github.com/tonsky/font-writer)
 -   [Wumpus Mono](https://github.com/vaughantype/wumpus-mono/)
@@ -173,7 +190,7 @@ At a bare minimum, the following sets of characters need to be distinguishable f
     -   Misc Fixed
     -   Sony Fixed
     -   Type 1 of Bitstream Courier
-    
+
 ## Bitstream Vera Sans Mono
 
 A scourge on humanity (in my opinion), though readable.  It's the basis for numerous coding fonts.

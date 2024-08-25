@@ -18,26 +18,75 @@
     -   [Latin Modern Mono] (GUST e-foundry)
 -   [Crystal](http://www.povray.org/povlegal.html) (via <https://www.lowing.org/fonts/>)
 -   [Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono)
--   [DeluxeFont](https://zone38.net/font/#deluxefont) [retro]
--   [Disket Mono](https://rostype.com/disket/) [display]
 -   [DM Mono](https://github.com/googlefonts/dm-mono)
 -   [DP Sans Mono](https://www.pgdp.net/wiki/DP_Sans_Mono)
+-   [DeluxeFont](https://zone38.net/font/#deluxefont) [retro]
+-   [Disket Mono](https://rostype.com/disket/) [display]
 -   [Effects Eighty](https://fontlibrary.org/th/font/effects-eighty) [dot-matrix printer]
 -   [EnvyPN](https://github.com/hicolour/envypn-font) [bdf]
 -   [Espresso Mono](https://github.com/jmazzi/dotfiles/tree/master/.fonts) [unknown source]
 -   [Excalibur Monospace](https://fonts2u.com/excalibur-monospace.font)
--   [F25 Bank Printer](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Bank_Printer) [private use]
 -   [F25 Artisan12](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Artisan12) [private use]
--   [F25 Typewriter Condensed](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Typewriter_Condensed) [private use]
+-   [F25 Bank Printer](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Bank_Printer) [private use]
 -   [F25 Blackletter Typewriter](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Blackletter_Typewriter) [private use]
 -   [F25 Cella](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Cella) [private use]
 -   [F25 DaisyWheel](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_DaisyWheel) [private use]
+-   [F25 Typewriter Condensed](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Typewriter_Condensed) [private use]
 -   [Fifteen](https://fontlibrary.org/en/font/fifteen) [coding] - see also Quinze
 -   [Glovis](https://fontsempire.com/font/glovis-download/) - italic old-timey
+-   [KP Monospaced](https://tug.org/FontCatalogue/kpmonospaced/) [free]
+-   [Kawkab Mono](https://makkuk.com/kawkab-mono/) - Arabic monospace typeface - not coding? [free]
+-   [Kepler-452b](https://github.com/weirdoonthebus/Kepler-452b) - not coding [free]
+-   [Lekton](fonts.google.com/specimen/Lekton) [free]
+-   [Linux Libertine Mono](https://sourceforge.net/projects/linuxlibertine/) [free]
+-   [Major Mono Display](https://www.emreparlak.com/major/) [free]
+-   [Manaspace](https://www.zone38.net/font/) [free]
+-   [Marista](https://calculatedimages.blogspot.com/2013/07/marista-my-second-professional-font.html) [free]
+-   [Modd](http://nikolas.us.to/jmkfonts/) [free]
+-   [Mono Spatial](https://www.dafont.com/mono-spatial.font) [free]
+-   [Monocto](https://www.myfonts.com/collections/monocto-font-lafonts) [free]
+-   [Monofur](https://www.dafont.com/monofur.font) [free]
+-   [Necto Mono](https://www.collletttivo.it/typefaces/necto-mono) [free]
+-   [Neep](http://nikolas.us.to/jmkfonts/) [free]
+-   [Normafixed](https://www.dafont.com/normafixed.font) [free]
+-   [NotCourierSans](https://usemodify.com/fonts/notcouriersans/) [free]
+-   [Nova Mono](https://fonts.google.com/specimen/Nova+Mono) [free]
+-   [NuSans Mono](https://www.urbanfonts.com/fonts/Nu_Sans_Mono.font) [free] - digits are bitmaps; everything else is smooth
+-   [Olympiad](https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/) [free] - IBM internal prototype fonts 
+-   [Onuava](https://www.dafont.com/onuava.font) [free]
+-   [OpenDyslexic](https://opendyslexic.org/) [free] has a monospace variant
+-   [Pandora Single Pitch](https://www.tug.org/FontCatalogue/pandorasinglepitch/) [free]
+-   [Panic Sans](https://eng.fontke.com/family/904560/style/) [free] [appears to be based on DejaVu]
+-   [QT Letter Goth](https://www.tug.org/FontCatalogue/qtlettergoth/) [free]
 -   [Quinze](https://fontlibrary.org/en/font/quinze) [coding] - see also Fifteen
+-   [RX100](https://www.fontshare.com/fonts/rx-100) [free]
+-   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp) [free]
 -   [Retro Type 3 PostScript Fonts](https://unifoundry.com/retro/index.html) - dot-matrix printer fonts
+-   [Rubik Mono One](https://fonts.google.com/specimen/Rubik+Mono+One) [free] [display]
+-   [SV Basic Manual](https://www.dafont.com/sv-basic-manual.font) [free]
+-   [Sabir Mono](https://github.com/mateobrt/Sabir-Mono) [free] [demo](https://localfonts.eu/freefonts/traditional-cyrillic-free-fonts/sabir-mono/)
 -   [SaxMono](https://www.dafont.com/saxmono.font)
+-   [Selectric](https://github.com/atelierBek/selectric) [free] [demo](https://usemodify.com/fonts/selectric/)
+-   [Skyhook Mono](https://www.fontsquirrel.com/fonts/skyhook-mono) [free]
+-   [SmallType Writing](https://www.dafont.com/smalltypewriting-medium.font) [free]
+-   [Squareshooter Mono](https://fontsgeek.com/fonts/SquareShooter-Mono-Regular) [free]
+-   [Sweet16Font](https://github.com/kmar/Sweet16Font/tree/master) [free]
+-   [Syne Mono](https://fonts.google.com/specimen/Syne+Mono) [free] [display]
+-   [Teeny Tiny Pixls](https://www.fontspace.com/teeny-tiny-pixls-font-f30095) [free]
+-   [Telegrama](https://www.fontsquirrel.com/fonts/telegrama) [free]
 -   [Telerysm Mono 2](https://www.smeltery.net/en/fonts/telerysm-mono-2)
+-   [Terminex](https://github.com/vsalvino/terminex) [free] derived from IBM Plex Mono
+-   [Tewi](https://github.com/lucy/tewi-font) [free]
+-   [Thermo](https://lineto.com/typefaces/thermo) [free] [display]
+-   [Topaz-8](https://fonts2u.com/topaz-8.font) - recreation of an Amiga font [free]
+-   [Toren aka Tenpo](https://github.com/eliheuer/tenpo) [free] [work in progress]
+-   [Tye Paloon](https://online-fonts.com/fonts/tye-paloon) [free] [display]
+-   [Ume Gothic](https://usemodify.com/fonts/ume-fonts/) [free]
+-   [Ume Mincho](https://usemodify.com/fonts/ume-fonts/) [free]
+-   [WikisourceMono](https://en.wikisource.org/wiki/Wikisource:WikisourceMono) [free] [proofreading]
+-   [Xanh Mono](https://fonts.google.com/specimen/Xanh+Mono) [free]
+-   [xnufont](https://github.com/vladkorotnev/xnufont) [free]
+-   [Zolan Mono BTN](https://fontzone.net/font-details/zolan-mono-btn-bold) [free]
 
 ## Paid
 
@@ -100,6 +149,10 @@
 -   [Irritation](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [JetJane Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Karlisbad](http://ingrimayne.com/fonts2/typewriter.htm)
+-   NB Architekt [paid]
+    -   [NB Architekt R](https://neubauberlin.com/project/nb-architekt-otf-std/) [paid]
+    -   [NB Architekt Std & Neue](https://neubauberlin.com/project/nb-architekt-std-neue-edition/) [paid]
+    -   [NB Architekt MMXX](https://neubauberlin.com/project/nb-architekt-mmxx-edition/) [paid]
 -   [Polli Sans Mono](https://www.myfonts.com/collections/polli-sans-font-will-albin-clark)
 -   [Sanduski Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Skagwae Mono](http://ingrimayne.com/fonts2/typewriter.htm)
