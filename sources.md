@@ -1,5 +1,6 @@
 ## Disorganized Sources of Typefaces and Information
 
+-   http://archive.vector.org.uk/resource/index.htm
 -   http://zone38.net/font/
 -   https://www.lowing.org/fonts/Free/
 -   https://blog.codinghorror.com/progamming-fonts/

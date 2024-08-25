@@ -91,6 +91,8 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [IBM Fonts](https://farsil.github.io/ibmfonts/) in BDF format
 -   [IBM Plex](https://www.ibm.com/plex/) - includes a mono variant
     -   [iA Writer Mono](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono)
+    -   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
+    -   [Terminex](https://github.com/vsalvino/terminex) [free] derived from IBM Plex Mono
 -   [Illusion](https://github.com/tomonic-x/Illusion) [japanese]
 -   [Inconsolata](https://levien.com/type/myfonts/inconsolata.html)
     -   [Inconsolata Light](https://github.com/googlefonts/Inconsolata/blob/main/fonts/ttf/Inconsolata-Light.ttf)
@@ -130,10 +132,12 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Noto Fonts](https://github.com/notofonts) - includes Noto Sans Mono
 -   [Old School PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
     -   from which is derived [IBM Fonts](https://farsil.github.io/ibmfonts/)
+-   [OpenGenera fonts](https://archive.org/download/SymblicsOpenGenera)
+    -   look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
+    -   [github](https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera)
 -   [Openstep Mono](https://fontstruct.com/fontstructions/show/918633/openstep_mono)
 -   [Overpass](https://overpassfont.org/)
 -   [Oxygen Mono](https://fonts.google.com/specimen/Oxygen+Mono)
--   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
 -   [Pet Me](https://www.kreativekorp.com/software/fonts/c64/), the Commodore VIC-20, C64, and C128 font family
 -   [Perfect DOS VGA fonts](https://laemeur.sdf.org/fonts/) - Less Perfect, More Perfect, and Perfect
 -   [Pixel Carnage](https://www.dafont.com/pixelcarnage.d870)
@@ -145,10 +149,13 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Quinze](https://fontlibrary.org/en/font/quinze) - see also Fifteen
 -   [Recursive](https://www.recursive.design/)
 -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
+-   [retro fonts](http://www.modelb.bbcmicro.com/retro-fonts.html) [free] - teletext and Atari ST fonts
 -   [Roboto Mono](https://github.com/googlefonts/roboto)
 -   [romfont](https://github.com/spacerace/romfont) collection of PC ROM fonts
+-   [Sarasa Gothic Mono](https://picaq.github.io/sarasa/) - derived from Source Han Sans and Iosevka
 -   [SAX2 APL font](https://abrudz.github.io/SAX2/)
 -   [Server Mono](https://servermono.com/)
+-   [SF Mono](https://developer.apple.com/fonts/) [free]
 -   [SGI Screen](https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/) - if this is a Unix system and you know this
     -   also [bitmaps](https://www.gnome-look.org/p/998527/)
     -   also https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
