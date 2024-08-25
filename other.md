@@ -57,6 +57,7 @@
 -   [OpenDyslexic](https://opendyslexic.org/) [free] has a monospace variant
 -   [Pandora Single Pitch](https://www.tug.org/FontCatalogue/pandorasinglepitch/) [free]
 -   [Panic Sans](https://eng.fontke.com/family/904560/style/) [free] [appears to be based on DejaVu]
+-   [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P) [free] [retro]
 -   [QT Letter Goth](https://www.tug.org/FontCatalogue/qtlettergoth/) [free]
 -   [RX100](https://www.fontshare.com/fonts/rx-100) [free]
 -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp) [free]
