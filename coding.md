@@ -26,7 +26,6 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [APL386](https://abrudz.github.io/APL386/) - slight Comic Sans vibe
     -   based on [APL385](https://apl385.com/fonts/)
 -   [APLX](https://www.dyalog.com/aplx.htm)
--   [Apple II Fonts](https://www.kreativekorp.com/software/fonts/apple2/)
 -   [Astigmata](https://medium.com/codex/astigmata-my-monospace-programming-font-b28ccfa9b025)
 -   [Atarist](https://github.com/ntwk/atarist-font)
 -   [Aurulent Sans Mono](https://www.dafont.com/aurulent-sans-mono.font)
@@ -180,7 +179,6 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [ti92plus](https://github.com/sterpe/ti92plus) - TI92PLUSPC.TTF with encoding fixes
     -   based on [Ti92Pluspc](https://fontsgeek.com/fonts/Ti92Pluspc-Regular)
 -   [Triskweline](https://www.netalive.org/tinkering/triskweline/)
--   [TRS-80 Fonts](https://www.kreativekorp.com/software/fonts/trs80/)
 -   [TT2020](https://copypaste.wtf/TT2020/docs/)
 -   [TXTT](https://tug.org/FontCatalogue/txtt/)
 -   [Ubuntu Monospace](https://design.ubuntu.com/font)
@@ -206,8 +204,6 @@ At a bare minimum, the following sets of characters need to be distinguishable f
     -   Type 1 of Bitstream Courier
 
 ## Bitstream Vera Sans Mono
-
-A scourge on humanity (in my opinion), though readable.  It's the basis for numerous coding fonts.
 
 -   [Bitstream Vera Fonts](https://download.gnome.org/sources/ttf-bitstream-vera/1.10/)
     -   [Deja Vu Fonts](https://dejavu-fonts.github.io/)
@@ -263,16 +259,6 @@ A scourge on humanity (in my opinion), though readable.  It's the basis for nume
 
 -   [Powerline Fonts](https://github.com/powerline/fonts) - for shell prompts and status lines
 -   [Nerd Fonts](https://www.nerdfonts.com/) - aggregates icon fonts like fontawesome
-
-## Collections
-
--   [KreativeKorp](https://www.kreativekorp.com/software/fonts/index.shtml) - Apple II, Commodore, TRS-80, and other fonts
-    -   [Fairfax](https://www.kreativekorp.com/software/fonts/fairfax/) bitmap font, huge Unicode repertoire
-    -   [Fairfax HD](https://www.kreativekorp.com/software/fonts/fairfaxhd/) scalable vector font, huge Unicode repertoire
-    -   [Print Char 21 and PR Number 3](https://www.kreativekorp.com/software/fonts/apple2/), the Apple II fonts
-    -   [Pet Me](https://www.kreativekorp.com/software/fonts/c64/), the Commodore VIC-20, C64, and C128 font family
-    -   [Another Man's Treasure](https://www.kreativekorp.com/software/fonts/trs80/), the TRS-80 font family
-    -   Numerous other fonts are available; too many to personally inspect to determine whether or not they're monospace.
 
 <!-- ** For Emacs ** -->
 <!-- Local Variables: -->
