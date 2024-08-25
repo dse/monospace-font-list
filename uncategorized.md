@@ -1,85 +1,44 @@
-# Uncategorized
+# Uncategorized A
 
-Some are paid; some are free; some are for coding; others not so much.
+-   [Lufthamn Mono Slab aka LH Mono Slab](https://coliss.com/articles/freebies/freebies-font-by-lufthamn-studio.html) [free?]
+-   [Occupy Monospace](https://typolitic.com/occupy-monospace/) [not available that I can find]
+-   ARCHIVE: [Oloron Program](https://web.archive.org/web/20230609014333/http://www.fontmenu.com/site/_program.html)
+-   [Range Mono](https://www.monolithfoundry.com/fonts/range-mono) [free?]
+-   [Schumaker Misc](https://gitlab.freedesktop.org/xorg/font/schumacher-misc)
+-   [PF Typeroom Mono], in use on https://www.typeroom.eu/
+-   [Pico-8.ttf](https://www.lexaloffle.com/bbs/?tid=3760)
+-   [Tabular], from the Indian Type Foundry
+
+# Uncategorized B
 
 -   [Cruft]() [unknown source]
--   [DIN Mono Pro] (not available)
 -   [Felt Pen]
 -   [GwdTE 437]
 -   [Inconsolata-LGC]
 -   [Inconsolata-dz]
 -   [Inconsolata-g]
 -   [Inconsolata Hellenic]
--   [JSans J] - via: http://archive.vector.org.uk/resource/index.htm
 -   [Kolibri]
 -   [KongText]
--   [Laser (?)] - via: https://www.designbombs.com/best-monospaced-fonts/
 -   [Letter Gothic]
--   [Lufthamn Mono Slab aka LH Mono Slab](https://coliss.com/articles/freebies/freebies-font-by-lufthamn-studio.html) [free?]
--   [Looper (?)] - via: https://www.designbombs.com/best-monospaced-fonts/
 -   [Lucida Typewriter]
 -   [Lucida Typewriter EF]
 -   [Lucida Sans Typewriter]
 -   [Lunchtime Doubly So!]
 -   [Monaco]
 -   [Mono (Lineto)]
--   [Mono Condensed](https://www.myfonts.com/collections/mono-condensed-font-paratype) [paid]
--   [Mono LH] not a mono lol
--   [Monoflow](https://finaltype.de/en/projects/monoflow) [paid with one weight free]
--   [Monoist](https://hanken.co/products/monoist) [paid but CHEAP]
--   [Monospace](https://www.fontspace.com/monospace-font-f13274) 
--   [MonosapceTypewriter](https://www.fontsquirrel.com/fonts/MonospaceTypewriter) not a monospace
 -   [Monosapce Typewriter]
--   [Monostep](https://www.myfonts.com/collections/monostep-font-yokkmokk?srsltid=AfmBOoqno5fgZH1DJ4LtsgSkZpVWq9gatAHeaurM7x4If7sG4OoDpGsl) [paid but at least one weight available free]
 -   [MS Gothic]
 -   [MS Mincho]
--   [Nicolatte (?)] -   via: https://www.designbombs.com/best-monospaced-fonts/
--   [Occupy Monospace](https://typolitic.com/occupy-monospace/) [not available that I can find]
--   [Odudo Mono] - via: https://www.designbombs.com/best-monospaced-fonts/
--   ARCHIVE: [Oloron Program](https://web.archive.org/web/20230609014333/http://www.fontmenu.com/site/_program.html)
--   [OpenGenera fonts](https://archive.org/download/SymblicsOpenGenera)
-    -   look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
-    -   [github](https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera)
--   [Opti] proggy
--   [PF Das Grot Mono](https://parachutefonts.com/typeface/Das-Grot-Mono)
--   [PF Typeroom Mono], in use on https://www.typeroom.eu/
--   [Pico-8.ttf](https://www.lexaloffle.com/bbs/?tid=3760)
--   [Pine (?)] - via: https://www.designbombs.com/best-monospaced-fonts/
 -   [PixSymbols Courex]
--   [PoultreMono](https://codeberg.org/Wezl/fonts)
 -   [Press Start]
 -   [Press Start K]
 -   [Print Out]
--   [QuickType Mono](https://fontsgeek.com/fonts/QuickType-Mono-Regular) [free]
--   [QuickType II Mono](https://fontsgeek.com/fonts/QuickType-II-Mono-Regular) [free]
--   [Raize](https://www.softpedia.com/get/Others/Font-Utils/Raize-Font.shtml) [free]
--   [Range Mono](https://www.monolithfoundry.com/fonts/range-mono) [free?]
--   [Rational TW](https://www.myfonts.com/collections/rational-tw-font-rene-bieder) [paid but [demos](https://www.myfonts.com/collections/rational-tw-font-rene-bieder?tab=individualStyles) available]
 -   [Rebel]
--   [retro fonts](http://www.modelb.bbcmicro.com/retro-fonts.html) [free] - teletext and Atari ST fonts
--   [Sarasa Gothic Mono](https://picaq.github.io/sarasa/) - derived from Source Han Sans and Iosevka
--   [Schumaker Misc]
-    -   git: https://gitlab.freedesktop.org/xorg/font/schumacher-misc
 -   [Segoe UI Mono]
--   [SF Mono](https://developer.apple.com/fonts/) [free]
 -   [Sheldon] (profont?)
--   [Simple](https://font.download/font/simple) [free for personal use]
--   [Speedy] is one of the ProggyFonts
--   [SpiderWire](https://codeberg.org/Wezl/fonts)
--   [Symbol Neu] no
--   [System Code (?)]
-    -   via: https://www.designbombs.com/best-monospaced-fonts/
--   [Tabular], from the Indian Type Foundry
 -   [Tamsyn-Modified] => look at spreadsheet file
--   [Terminal/VGA Font]
-    -   via: http://www.lowing.org/fonts/
--   [Tinos] not a mono
 -   [Triumph Durabel]
--   [Unix-originated terminal fonts for Windows](http://christian.lestrade.free.fr/fonts.html) [free] - some VGA and DEC terminal fonts
--   [Vintama (?)] it's not a monospace lol.
-    -   via: https://www.designbombs.com/best-monospaced-fonts/
--   [Walter (?)] not a monospace lol
-    -   via: https://www.designbombs.com/best-monospaced-fonts/
 -   [WenQuanYi Zen Hei Mono]
 -   [WenQuanYi Micro Hei Mono]
 
