@@ -1,4 +1,4 @@
-# Monospace Typefaces Designed for Coding
+# Monospace Typefaces Designed or Good for Coding
 
 At a bare minimum, the following sets of characters need to be distinguishable from one another:
 
