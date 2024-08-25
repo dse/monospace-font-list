@@ -91,6 +91,7 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [IBM Fonts](https://farsil.github.io/ibmfonts/) in BDF format
 -   [IBM Plex](https://www.ibm.com/plex/) - includes a mono variant
     -   [iA Writer Mono](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono)
+-   [Illusion](https://github.com/tomonic-x/Illusion) [japanese] [free] [coding]
 -   [Inconsolata](https://levien.com/type/myfonts/inconsolata.html)
     -   [Inconsolata Light](https://github.com/googlefonts/Inconsolata/blob/main/fonts/ttf/Inconsolata-Light.ttf)
 -   [Input Mono](https://input.djr.com/) - personal use free, public-facing use paid
@@ -99,8 +100,11 @@ At a bare minimum, the following sets of characters need to be distinguishable f
     -   [Iosevka VardanPro](https://github.com/varp/VardanPro-Fonts) [free] [coding]
 -   [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
 -   [Julia Mono](https://juliamono.netlify.app/)
+-   [jxyahei](https://github.com/zhenruyan/codefont/blob/master/readme_en.md) [free]
+-   [Karen](https://github.com/amaya382/karen) [free] [coding]
 -   [Lab Mono](https://github.com/hatsumatsu/Lab-Mono)
 -   [Lavender](https://github.com/hirigaray/lavender-font)
+-   [League Mono](https://www.theleagueofmoveabletype.com/league-mono) [free] [coding]
 -   [Letter Gothic Code](https://github.com/jamesxmcintosh/LetterGothicCode)
 -   [Liberation Fonts](https://github.com/liberationfonts) - among which, Liberation Mono
 -   [Lilex](https://github.com/mishamyrt/Lilex)
@@ -108,6 +112,7 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [LispM](https://github.com/unjordy/LispM-Font) [free] [coding]
 -   [Lotion](https://font.nina.coffee/) [free] [coding]
 -   [Luculent](https://usemodify.com/fonts/luculent/)
+-   [Luxi Mono](https://en.wikipedia.org/wiki/Luxi_fonts) (download link on that page)
 -   [M+](https://mplusfonts.github.io/)
 -   [Mensch](https://www.losttype.com/font/?name=mensch) [pay what you want]
 -   [Metrickal](https://github.com/davelab6/metrickal-typeface) [free] [coding]
@@ -228,6 +233,8 @@ A scourge on humanity (in my opinion), though readable.  It's the basis for nume
 -   [Eco Coding](https://www.myfonts.com/collections/eco-coding-font-s-core)
 -   [Fakt Mono](https://www.typeby.com/fonts/fakt-mono)
 -   [Gemeli Mono](https://productiontype.com/font/gemeli/gemeli-mono)
+-   [Larabiefont](https://typodermicfonts.com/larabiefont/) [paid but regular is free]
+-   [Lucida Console](https://lucidafonts.com/collections/lucida-console) [paid] [but shipped with windows]
 -   [Maison Mono](https://www.myfonts.com/products/maison-mono-pack-package-944927) [paid] [coding]
 -   [Maison Neue Mono](https://www.myfonts.com/products/maison-neue-mono-pack-package-616078) [paid] [coding]
 -   [Monolisa](https://www.monolisa.dev/)
@@ -235,12 +242,13 @@ A scourge on humanity (in my opinion), though readable.  It's the basis for nume
 -   [Native (fortfoundry.com)](https://fortfoundry.com/fonts/native) [paid] [regular weight is free] [coding]
 -   [Operator Mono](https://typography.com/blog/introducing-operator)
 -   [Pragmata Pro](https://fsd.it/shop/fonts/pragmatapro/)
+-   [Resolution](https://www.myfonts.com/collections/resolution-font-emil-kozole) [paid] [coding]
 -   [Right Grotesk Mono](https://pangrampangram.com/products/right-grotesk-mono)
 -   [Right Serif Mono](https://pangrampangram.com/products/right-serif-mono)
 -   [Senpai Coder](https://dharmatype.com/senpai-coder)
 -   [Spot Mono](https://www.schick-toikka.com/spot-mono) [paid] [coding]
 -   [TheSansMono](https://www.lucasfonts.com/fonts/the-sans-mono) - used in some O'Reilly & Associates books
--   [Triplicate](https://mbtype.com/fonts/triplicate/)
+-   [Triplicate](https://mbtype.com/fonts/triplicate/) - includes a coding variant
 -   [Vivala Code](https://www.myfonts.com/collections/vivala-code-font-johannes-hoffmann) [paid] [coding]
 -   [VLNL TP Kurier Callig Regular](https://www.myfonts.com/products/callig-regular-vlnl-tp-kurier-134527) [paid] [coding]
 
