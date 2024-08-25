@@ -32,11 +32,11 @@
 -   [F25 Cella](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Cella) [private use]
 -   [F25 DaisyWheel](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_DaisyWheel) [private use]
 -   [F25 Typewriter Condensed](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Typewriter_Condensed) [private use]
--   [Fifteen](https://fontlibrary.org/en/font/fifteen) [coding] - see also Quinze
+-   [Functor Mono](https://archetype-foundry.com/functor-mono) [paid]
 -   [Glovis](https://fontsempire.com/font/glovis-download/) - italic old-timey
 -   [KP Monospaced](https://tug.org/FontCatalogue/kpmonospaced/) [free]
--   [Kawkab Mono](https://makkuk.com/kawkab-mono/) - Arabic monospace typeface - not coding? [free]
--   [Kepler-452b](https://github.com/weirdoonthebus/Kepler-452b) - not coding [free]
+-   [Kawkab Mono](https://makkuk.com/kawkab-mono/) - Arabic monospace typeface - [free]
+-   [Kepler-452b](https://github.com/weirdoonthebus/Kepler-452b) - [free]
 -   [Lekton](fonts.google.com/specimen/Lekton) [free]
 -   [Linux Libertine Mono](https://sourceforge.net/projects/linuxlibertine/) [free]
 -   [Major Mono Display](https://www.emreparlak.com/major/) [free]
@@ -58,11 +58,11 @@
 -   [Pandora Single Pitch](https://www.tug.org/FontCatalogue/pandorasinglepitch/) [free]
 -   [Panic Sans](https://eng.fontke.com/family/904560/style/) [free] [appears to be based on DejaVu]
 -   [QT Letter Goth](https://www.tug.org/FontCatalogue/qtlettergoth/) [free]
--   [Quinze](https://fontlibrary.org/en/font/quinze) [coding] - see also Fifteen
 -   [RX100](https://www.fontshare.com/fonts/rx-100) [free]
 -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp) [free]
 -   [Retro Type 3 PostScript Fonts](https://unifoundry.com/retro/index.html) - dot-matrix printer fonts
 -   [Rubik Mono One](https://fonts.google.com/specimen/Rubik+Mono+One) [free] [display]
+-   [Struct Mono](https://archetype-foundry.com/struct-mono) [paid]
 -   [SV Basic Manual](https://www.dafont.com/sv-basic-manual.font) [free]
 -   [Sabir Mono](https://github.com/mateobrt/Sabir-Mono) [free] [demo](https://localfonts.eu/freefonts/traditional-cyrillic-free-fonts/sabir-mono/)
 -   [SaxMono](https://www.dafont.com/saxmono.font)
@@ -125,10 +125,10 @@
 -   [EB Jessica](https://www.myfonts.com/collections/eb-jessica-font-erik-bertell) [display]
 -   [EF Cash](https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake)
 -   [Excellent](https://lineto.com/typefaces/excellent)
--   [Fabrikat Mono](https://www.hvdfonts.com/fonts/fabrikat-mono) [not for coding]
+-   [Fabrikat Mono](https://www.hvdfonts.com/fonts/fabrikat-mono)
 -   [Feggolite Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [FF Attribute Mono](https://viktornuebel.com/retail-fonts/attribute/)
--   [FF Fago Monospaced](https://www.myfonts.com/collections/fago-monospace-font-fontfont) [not for coding]
+-   [FF Fago Monospaced](https://www.myfonts.com/collections/fago-monospace-font-fontfont)
 -   [FF Magda Clean Mono](https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont)
 -   [FF Nexus Typewriter](https://www.myfonts.com/collections/nexus-typewriter-pro-font-martin-majoor)
 -   [FF Typestar OCR](https://www.myfonts.com/collections/ff-typestar-ocr-font-fontfont)
@@ -148,18 +148,63 @@
 -   [Intimo](https://www.myfonts.com/collections/intimo-font-alias-collection)
 -   [Irritation](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [JetJane Mono](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Karben 105 Mono](https://www.myfonts.com/collections/karben-105-mono-font-talbot-type) [paid]
+-   [Karben 205 Mono](https://www.myfonts.com/collections/karben-205-mono-font-talbot-type) [paid]
 -   [Karlisbad](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Kettler](https://processtypefoundry.com/fonts/kettler/) [paid]
+-   [Klartext Mono](https://www.myfonts.com/collections/klartext-mono-font-fonts-with-love) [paid] [one weight freely available]
+-   [Knif Mono](https://aisforfonts.com/knif) [paid]
+-   [Lettera Mono](https://lineto.com/typefaces/lettera-mono) [paid]
+-   [Linefeed](https://typodermicfonts.com/linefeed/) [paid] [line printer inspired]
+-   [Mingray Mono](https://www.myfonts.com/collections/mingray-mono-font-rekord) [paid]
+-   [Mitigate](https://typodermicfonts.com/mitigate/) [paid]
+-   [Monoela](https://www.myfonts.com/collections/monoela-font-interfont) [paid]
+-   [Monosten](https://www.colophon-foundry.org/typefaces/monosten) [paid]
+-   [MVB Fantabular](https://www.myfonts.com/collections/mvb-fantabular-font-mvb) [paid]
+-   [MVB Fantabular Sans](https://www.myfonts.com/collections/mvb-fantabular-sans-font-mvb) [paid]
 -   NB Architekt [paid]
     -   [NB Architekt R](https://neubauberlin.com/project/nb-architekt-otf-std/) [paid]
     -   [NB Architekt Std & Neue](https://neubauberlin.com/project/nb-architekt-std-neue-edition/) [paid]
     -   [NB Architekt MMXX](https://neubauberlin.com/project/nb-architekt-mmxx-edition/) [paid]
+-   [NB Typewriter](https://neubauladen.com/product/nb-typewriter-pro-edition/) [paid]
+-   [Neue Montreal Mono](https://pangrampangram.com/products/neue-montreal-mono) [paid]
+-   [Nice Weekend](https://www.myfonts.com/collections/nice-weekend-font-garagefonts) [paid]
+-   [Nitti](https://www.boldmonday.com/typeface/nitti/) [paid]
+-   [OCRJ](https://www.myfonts.com/collections/ocrj-font-test-pilot-collective) [paid]
+-   [Odisseia](https://www.myfonts.com/collections/odisseia-font-niramekko) [paid]
+-   [OPS Cubic](http://www.ourpolitesocietytype.net/fonts/ops-cubic/) [paid]
+-   [OPS Favorite](http://www.ourpolitesocietytype.net/fonts/ops-favorite/) [paid]
+-   [OPS Placard](http://www.ourpolitesocietytype.net/fonts/ops-placard/) [paid]
+-   [Panama Monospace](https://www.featuredtype.com/typefaces/panama) [paid]
+-   [Parse Grotesk Mono](https://archetype-foundry.com/parse-grotesk-mono) [paid]
+-   [Platelet](https://www.emigre.com/Fonts/Platelet) [paid]
+-   [Plotter Mono](https://www.typotheque.com/fonts/plotter-mono) [paid]
 -   [Polli Sans Mono](https://www.myfonts.com/collections/polli-sans-font-will-albin-clark)
+-   [PTL Notes Tec Mono](https://www.myfonts.com/collections/notes-tec-mono-font-primetype) [paid]
+-   [Quadraat Sans Mono](https://www.typeby.com/fonts/quadraat-sans-mono) [paid]
+-   [Relative Mono](https://www.colophon-foundry.org/typefaces/relative-mono/opentype) [paid]
+-   [Replica Mono](https://lineto.com/typefaces/replica-mono) [paid]
+-   [RF Rostin](https://www.myfonts.com/products/rf-rostin-complete-family-package-291433) [paid]
 -   [Sanduski Mono](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Sauna Mono Pro](https://www.myfonts.com/collections/sauna-mono-pro-font-underware) [paid]
+-   [Script 12 Pitch](https://www.myfonts.com/collections/script-12-pitch-font-bitstream) [paid] - old script typewriter font
+-   [SK Modernist Mono](https://seankanedesign.gumroad.com/l/sk-modernist) [paid]
 -   [Skagwae Mono](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Skurier](https://www.myfonts.com/collections/skurier-font-grin3) [paid]
+-   [Smith Premier NF](https://www.myfonts.com/collections/smith-premier-nf-font-nicks-fonts) [paid] [old timey]
+-   [Superstudio](https://lineto.com/typefaces/superstudio) includes a monospace variant [paid]
 -   [Tabulamore Script](https://tosche.net/fonts/tabulamore-script)
+-   [Teamhair](https://www.myfonts.com/collections/teamhair-font-evertype) [paid] [display]
+-   [Telegramo](https://www.myfonts.com/collections/telegramo-font-volcano) [paid]
 -   [Tired of Courier](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Typewalk Mono 1915](https://www.myfonts.com/collections/typewalk-mono-1915-font-typocalypse) [paid]
+-   [Unotype](https://www.myfonts.com/collections/unotype-font-monotype-imaging) [paid]
+-   [Valentine](https://legacy.lineto.com/The+Fonts/Font+Categories/Monospaced+Fonts/Valentine/) [paid]
+-   [Vidilex](https://www.myfonts.com/collections/vidilex-font-scriptorium) [paid]
+-   [Vin Mono Pro](https://www.myfonts.com/collections/vin-mono-pro-font-mint-type) [paid]
 -   [WatchMaker](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Wire Type Mono](https://www.myfonts.com/collections/wire-type-mono-font-thomas-kading)
+-   [Wudoo Mono](https://www.myfonts.com/collections/wudoo-font-vishnu-sathyan) [paid]
 
 ## Monospaced Versions of Proportional Typefaces
 

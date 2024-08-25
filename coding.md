@@ -69,6 +69,7 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Fairfax Serif](https://fonts2u.com/fairfax-serif.font)
 -   [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) - if you like Comic Sans and are not a hater
     -   f/k/a Cosmic Sans Neue Mono
+-   [Fifteen](https://fontlibrary.org/en/font/fifteen) [coding] - see also Quinze
 -   [Fira Code](https://github.com/tonsky/FiraCode) - has ligatures
 -   [Fira Cousine](https://github.com/macduy/FiraCousine) - Cousine + Fira Code's punct marks and ligatures
 -   [Fira Mono](https://github.com/mozilla/Fira) - from mozilla
@@ -136,6 +137,7 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Profont](https://tobiasjung.name/profont/)
 -   [Proggy Fonts](https://github.com/bluescan/proggyfonts)
 -   [PT Mono](https://fonts.google.com/specimen/PT+Mono) [free] [coding]
+-   [Quinze](https://fontlibrary.org/en/font/quinze) [coding] - see also Fifteen
 -   [Recursive](https://www.recursive.design/)
 -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
 -   [Roboto Mono](https://github.com/googlefonts/roboto)
@@ -226,14 +228,21 @@ A scourge on humanity (in my opinion), though readable.  It's the basis for nume
 -   [Eco Coding](https://www.myfonts.com/collections/eco-coding-font-s-core)
 -   [Fakt Mono](https://www.typeby.com/fonts/fakt-mono)
 -   [Gemeli Mono](https://productiontype.com/font/gemeli/gemeli-mono)
+-   [Maison Mono](https://www.myfonts.com/products/maison-mono-pack-package-944927) [paid] [coding]
+-   [Maison Neue Mono](https://www.myfonts.com/products/maison-neue-mono-pack-package-616078) [paid] [coding]
 -   [Monolisa](https://www.monolisa.dev/)
+-   [Name Mono](https://www.arrowtype.com/name-mono) [paid] [coding]
+-   [Native (fortfoundry.com)](https://fortfoundry.com/fonts/native) [paid] [regular weight is free] [coding]
 -   [Operator Mono](https://typography.com/blog/introducing-operator)
 -   [Pragmata Pro](https://fsd.it/shop/fonts/pragmatapro/)
 -   [Right Grotesk Mono](https://pangrampangram.com/products/right-grotesk-mono)
 -   [Right Serif Mono](https://pangrampangram.com/products/right-serif-mono)
 -   [Senpai Coder](https://dharmatype.com/senpai-coder)
+-   [Spot Mono](https://www.schick-toikka.com/spot-mono) [paid] [coding]
 -   [TheSansMono](https://www.lucasfonts.com/fonts/the-sans-mono) - used in some O'Reilly & Associates books
 -   [Triplicate](https://mbtype.com/fonts/triplicate/)
+-   [Vivala Code](https://www.myfonts.com/collections/vivala-code-font-johannes-hoffmann) [paid] [coding]
+-   [VLNL TP Kurier Callig Regular](https://www.myfonts.com/products/callig-regular-vlnl-tp-kurier-134527) [paid] [coding]
 
 ## Enhancements
 

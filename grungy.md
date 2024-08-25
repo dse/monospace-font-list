@@ -14,3 +14,10 @@ most important ones.
 
 -   [GNU Typewriter](https://fontlibrary.org/en/font/gnutypewriter) is
     OFL-SIL-licensed.
+
+Words for Grungy
+
+-   distressed
+
+-   textured
+
