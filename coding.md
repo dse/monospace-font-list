@@ -1,19 +1,8 @@
-# Monospace Typefaces Designed or Good for Coding
-
-At a bare minimum, the following sets of characters need to be distinguishable from one another:
-
--   U+0030 DIGIT ZERO and U+004F LATIN CAPITAL LETTER O
-    -   `0` (digit zero)
-    -   `O` (Latin uppercase letter O)
--   U+0031 DIGIT ONE, U+0049 LATIN CAPITAL LETTER I, U+006C LATIN SMALL LETTER L, and U+007C VERTICAL LINE
-    -   `1` (digit one)
-    -   `I` (Latin capital letter I)
-    -   `l` (Latin small letter L)
-    -   `|` (vertical line)
+# Monospace Typefaces For Coding
 
 ## Freely Available
 
--   [3270font](https://github.com/rbanffy/3270font)
+-   [**3270font**](https://github.com/rbanffy/3270font)
 -   [A+](http://archive.vector.org.uk/resource/index.htm)
 -   [Agave](https://b.agaric.net/page/agave)
 -   [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) - damieng's bitmap font
@@ -23,9 +12,10 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 -   [Another Man's Treasure](https://www.kreativekorp.com/software/fonts/trs80/), the TRS-80 font family
 -   [APL2741](https://apl385.com/fonts/)
--   [APL386](https://abrudz.github.io/APL386/) - slight Comic Sans vibe
+-   [**APL386**](https://abrudz.github.io/APL386/) - slight Comic Sans vibe
     -   based on [APL385](https://apl385.com/fonts/)
 -   [APLX](https://www.dyalog.com/aplx.htm)
+-   [Arev](http://tavmjong.free.fr/FONTS/) - derived from Deja Vu Sans Mono
 -   [Astigmata](https://medium.com/codex/astigmata-my-monospace-programming-font-b28ccfa9b025)
 -   [Atarist](https://github.com/ntwk/atarist-font)
 -   [Aurulent Sans Mono](https://www.dafont.com/aurulent-sans-mono.font)
@@ -35,6 +25,7 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [BPmono](https://backpacker.gr/fonts/5)
 -   [BPtypewrite](https://backpacker.gr/fonts/10)
 -   [Brass Mono](https://github.com/fonsecapeter/brass_mono)
+-   [Brutalist Mono](https://github.com/BRUTALISM/Brutalist) - derived from Deja Vu Sans Mono
 -   [Camingo Code](https://janfromm.de/typefaces/camingocode/)
 -   [Cascadia Code](https://github.com/microsoft/cascadia-code) - from microsoft
 -   [Code New Roman](https://www.dafont.com/code-new-roman.font)
@@ -44,7 +35,7 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Consola Mono](https://fontlibrary.org/en/font/consolamono)
 -   [Corbi Mono S](https://fontlibrary.org/fr/font/corbi-mono-s) - Libertinus Mono with a slashed zero by default
 -   [Courier Code](https://fontlibrary.org/en/font/courier-code) - based on Bitstream Courier 10 Pitch v2.0
--   [Courier Prime](https://quoteunquoteapps.com/courierprime/)
+-   [**Courier Prime**](https://quoteunquoteapps.com/courierprime/) includes Courier Prime Code, a sans-serif with coding features
 -   [Cousine](https://fonts.google.com/specimen/Cousine)
 -   [Cozette](https://github.com/slavfox/Cozette)
 -   [CP Mono](https://github.com/chrissimpkins/codeface/tree/master/fonts/cp-mono)
@@ -54,9 +45,12 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [DaddyTimeMono](https://github.com/BourgeoisBear/DaddyTimeMono)
 -   [DEC Terminal Modern](https://www.dafont.com/dec-terminal-modern.font)
 -   [Deferral](https://github.com/brianbruggeman/Deferral) - work in progress
+-   [Deja Vu Sans Code](https://github.com/SSNikolaevich/DejaVuSansCode) - derived from Deja Vu Sans Mono
+-   [**Deja Vu Sans Mono**](https://dejavu-fonts.github.io/)
+    -   based on [Bitstream Vera Fonts](https://download.gnome.org/sources/ttf-bitstream-vera/1.10/)
 -   [Dina Bitmap](https://www.dcmembers.com/jibsen/download/61/)
 -   [Dina Font TTF](https://github.com/zshoals/Dina-Font-TTF-Remastered)
--   [Drafting* Mono](https://indestructibletype.com/Drafting/)
+-   [Drafting\* Mono](https://indestructibletype.com/Drafting/)
 -   [Droid Sans Mono](https://damieng.com/blog/2007/11/14/droid-sans-mono-great-coding-font/)
     -   [dotted and slashed zero variants](https://www.cosmix.org/software/)
     -   [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
@@ -66,60 +60,66 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Fairfax](https://www.kreativekorp.com/software/fonts/fairfax/) bitmap font, huge Unicode repertoire
 -   [Fairfax HD](https://www.kreativekorp.com/software/fonts/fairfaxhd/) scalable vector font, huge Unicode repertoire
 -   [Fairfax Serif](https://fonts2u.com/fairfax-serif.font)
--   [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) - if you like Comic Sans and are not a hater
+-   [**Fantasque Sans Mono**](https://github.com/belluzj/fantasque-sans) - if you like Comic Sans and are not a hater
     -   f/k/a Cosmic Sans Neue Mono
 -   [Fifteen](https://fontlibrary.org/en/font/fifteen) - see also Quinze
--   [Fira Code](https://github.com/tonsky/FiraCode) - has ligatures
+-   [**Fira Code**](https://github.com/tonsky/FiraCode) - has ligatures
 -   [Fira Cousine](https://github.com/macduy/FiraCousine) - Cousine + Fira Code's punct marks and ligatures
--   [Fira Mono](https://github.com/mozilla/Fira) - from mozilla
+-   [**Fira Mono**](https://github.com/mozilla/Fira) - from mozilla
 -   [Fixedsys Excelsior](https://github.com/kika/fixedsys)
 -   [Flexi IBM VGA](https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/) - scalable version of IBM VGA font
 -   [Geist](https://vercel.com/font) - includes a mono variant
 -   [Generic Mono II](https://github.com/organicplanning/hackedfonts)
 -   [Gintronic](https://markfromberg.com/projects/gintronic)
--   [Glass TTY](https://caglrc.cc/glasstty/) - vt220
--   [GNU Unifont](https://unifoundry.com/unifont/)
+-   [**Glass TTY**](https://caglrc.cc/glasstty/) - vt220
+-   [**GNU Unifont**](https://unifoundry.com/unifont/)
 -   [Go Mono](https://go.dev/blog/go-fonts)
 -   [Gohu](https://font.gohu.org/)
 -   [Google Sans Mono](https://github.com/mehant-kr/Google-Sans-Mono) a/k/a Product Sans Mono
     -   via: https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/
 -   [Grid15](https://typedrawers.com/discussion/964/grid15-futuristic-geometric-monospace) - work in progress
+-   [**Hack**](https://sourcefoundry.org/hack/) - derived from Deja Vu Sans Mono
+-   [Hasklig](https://github.com/i-tu/Hasklig) - adds ligatures to Deja Vu derived typeface Hack
 -   [Haskplex](https://github.com/huytd/haskplex-font) - Hasklig + IBM Plex Mono
 -   [Hera Mono](https://github.com/sayyadirfanali/Hera) - mixture of glyphs from other monospace fonts
--   [Hermit](https://pcaro.es/hermit/)
--   [IBM Fonts](https://farsil.github.io/ibmfonts/) in BDF format
--   [IBM Plex](https://www.ibm.com/plex/) - includes a mono variant
+-   [**Hermit**](https://pcaro.es/hermit/)
+-   [IBM Fonts](https://farsil.github.io/ibmfonts/) - IBM system fonts in BDF format, derived from the [PX Plus](https://int10h.org/oldschool-pc-fonts/fontlist/) fonts
+-   [IBM Plex](https://www.ibm.com/plex/) - includes a mono variant, **IBM Plex Mono**
     -   [iA Writer Mono](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono)
     -   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
     -   [Terminex](https://github.com/vsalvino/terminex) [free] derived from IBM Plex Mono
 -   [Illusion](https://github.com/tomonic-x/Illusion) [japanese]
--   [Inconsolata](https://levien.com/type/myfonts/inconsolata.html)
+-   [**Inconsolata**](https://levien.com/type/myfonts/inconsolata.html)
     -   [Inconsolata Light](https://github.com/googlefonts/Inconsolata/blob/main/fonts/ttf/Inconsolata-Light.ttf)
--   [Input Mono](https://input.djr.com/) - personal use free, public-facing use paid
--   [Intel One Mono](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html) - line printer vibe
--   [Iosevka](https://typeof.net/Iosevka/)
+-   [**Input Mono**](https://input.djr.com/) - personal use free, public-facing use paid
+-   [**Intel One Mono**](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html) - line printer vibe
+-   [**Iosevka**](https://typeof.net/Iosevka/)
     -   [Iosevka VardanPro](https://github.com/varp/VardanPro-Fonts)
--   [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
+-   [**Jetbrains Mono**](https://www.jetbrains.com/lp/mono/)
 -   [Julia Mono](https://juliamono.netlify.app/)
 -   [jxyahei](https://github.com/zhenruyan/codefont/blob/master/readme_en.md)
 -   [Karen](https://github.com/amaya382/karen)
 -   [Lab Mono](https://github.com/hatsumatsu/Lab-Mono)
 -   [Lavender](https://github.com/hirigaray/lavender-font)
 -   [League Mono](https://www.theleagueofmoveabletype.com/league-mono)
--   [Letter Gothic Code](https://github.com/jamesxmcintosh/LetterGothicCode)
+-   [**Letter Gothic Code**](https://github.com/jamesxmcintosh/LetterGothicCode)
 -   [Liberation Fonts](https://github.com/liberationfonts) - among which, Liberation Mono
 -   [Lilex](https://github.com/mishamyrt/Lilex)
 -   [Linux Console Fonts for Windows](http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/) in .TTF and .FON
+-   [Linux Libertine](https://sourceforge.net/projects/linuxlibertine/) includes a mono variant
 -   [LispM](https://github.com/unjordy/LispM-Font)
 -   [Lotion](https://font.nina.coffee/)
 -   [Luculent](https://usemodify.com/fonts/luculent/)
 -   [Luxi Mono](https://en.wikipedia.org/wiki/Luxi_fonts) (download link on that page)
--   [M+](https://mplusfonts.github.io/)
+-   [**M+ Fonts**](https://mplusfonts.github.io/)
+-   Menlo - bundled with macOS, derived from Deja Vu
 -   [Mensch](https://www.losttype.com/font/?name=mensch) [pay what you want]
+-   [Meslo](https://github.com/andreberg/Meslo-Font) - Menlo (derived from Deja Vu) with some tweaks
+<!-- [MesloLGS NF](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts) -->
 -   [Metrickal](https://github.com/davelab6/metrickal-typeface)
 -   [Meyrin CERN](https://github.com/optional-is/Meyrin)
 -   [mnicmp](https://fontlibrary.org/en/font/mnicmp) - based on the 7-pin DECwriter II printer
--   [Monaspace](https://monaspace.githubnext.com/) - superfamily
+-   [**Monaspace**](https://monaspace.githubnext.com/) - superfamily
 -   [Monego](https://github.com/cseelus/monego) - monaco with bold and italic variants
 -   [Monoid](https://larsenwork.com/monoid/)
 -   [Mononoki](https://madmalik.github.io/mononoki/)
@@ -129,7 +129,11 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [New Heterodox Mono](https://github.com/hckiang/font-new-heterodox-mono)
 -   [NK57 Monospace](https://www.dafont.com/nk57-monospace.font)
 -   [Noto Fonts](https://github.com/notofonts) - includes Noto Sans Mono
--   [Old School PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
+-   [**Office Code Pro**](https://github.com/nathco/Office-Code-Pro) - derived from Source Code Pro
+    -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
+        -   derived from Source Code Pro and Noto Sans JP.
+        -   No significant changes other than mixing.
+-   [**Old School PC Fonts**](https://int10h.org/oldschool-pc-fonts/fontlist/)
     -   from which is derived [IBM Fonts](https://farsil.github.io/ibmfonts/)
 -   [OpenGenera fonts](https://archive.org/download/SymblicsOpenGenera)
     -   look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
@@ -140,32 +144,28 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Pet Me](https://www.kreativekorp.com/software/fonts/c64/), the Commodore VIC-20, C64, and C128 font family
 -   [Perfect DOS VGA fonts](https://laemeur.sdf.org/fonts/) - Less Perfect, More Perfect, and Perfect
 -   [Pixel Carnage](https://www.dafont.com/pixelcarnage.d870)
--   [Pointfree](https://www.dafont.com/pointfree.font) - if you like Comic Sans and are not a hater
+-   [**Pointfree**](https://www.dafont.com/pointfree.font) - if you like Comic Sans and are not a hater
 -   [Print Char 21 and PR Number 3](https://www.kreativekorp.com/software/fonts/apple2/), the Apple II fonts
 -   [Profont](https://tobiasjung.name/profont/)
--   [Proggy Fonts](https://github.com/bluescan/proggyfonts)
+-   [**Proggy Fonts**](https://github.com/bluescan/proggyfonts)
 -   [PT Mono](https://fonts.google.com/specimen/PT+Mono)
 -   [Quinze](https://fontlibrary.org/en/font/quinze) - see also Fifteen
--   [Recursive](https://www.recursive.design/)
--   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
+-   [**Recursive**](https://www.recursive.design/)
+    -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
 -   [retro fonts](http://www.modelb.bbcmicro.com/retro-fonts.html) [free] - teletext and Atari ST fonts
 -   [Roboto Mono](https://github.com/googlefonts/roboto)
 -   [romfont](https://github.com/spacerace/romfont) collection of PC ROM fonts
 -   [Sarasa Gothic Mono](https://picaq.github.io/sarasa/) - derived from Source Han Sans and Iosevka
 -   [SAX2 APL font](https://abrudz.github.io/SAX2/)
 -   [Server Mono](https://servermono.com/)
--   [SF Mono](https://developer.apple.com/fonts/) [free]
+-   [**SF Mono**](https://developer.apple.com/fonts/) [free]
 -   [SGI Screen](https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/) - if this is a Unix system and you know this
     -   also [bitmaps](https://www.gnome-look.org/p/998527/)
     -   also https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
 -   [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono)
 -   [Sometype Mono](https://monospacedfont.com/) ([github](https://github.com/dharmatype/Sometype-Mono))
 -   [Sono](https://usemodify.com/fonts/sono/)
--   [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - from adobe
-    -   [Office Code Pro](https://github.com/nathco/Office-Code-Pro)
-    -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
-        -   derived from Source Code Pro and Noto Sans JP.
-        -   No significant changes other than mixing.
+-   [**Source Code Pro**](https://github.com/adobe-fonts/source-code-pro) - from adobe
 -   [Space Mono](https://fonts.google.com/specimen/Space+Mono)
 -   [Spleen](https://www.cambus.net/spleen-monospaced-bitmap-fonts/)
 -   [String Literal 437](https://fonts2u.com/string-literal-437-medium.font)
@@ -179,9 +179,9 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [ti92plus](https://github.com/sterpe/ti92plus) - TI92PLUSPC.TTF with encoding fixes
     -   based on [Ti92Pluspc](https://fontsgeek.com/fonts/Ti92Pluspc-Regular)
 -   [Triskweline](https://www.netalive.org/tinkering/triskweline/)
--   [TT2020](https://copypaste.wtf/TT2020/docs/)
+-   [**TT2020**](https://copypaste.wtf/TT2020/docs/)
 -   [TXTT](https://tug.org/FontCatalogue/txtt/)
--   [Ubuntu Monospace](https://design.ubuntu.com/font)
+-   [**Ubuntu Monospace**](https://design.ubuntu.com/font)
 -   [Unix-originated terminal fonts for Windows](http://christian.lestrade.free.fr/fonts.html)
     -   Includes some of the X fonts and some VGA fonts.  Also apparently includes VT330?
 -   [Unix PC 3B1](https://github.com/brandon-rhodes/unixpc-font-bdf)
@@ -203,19 +203,6 @@ At a bare minimum, the following sets of characters need to be distinguishable f
     -   Sony Fixed
     -   Type 1 of Bitstream Courier
 
-## Bitstream Vera Sans Mono
-
--   [Bitstream Vera Fonts](https://download.gnome.org/sources/ttf-bitstream-vera/1.10/)
-    -   [Deja Vu Fonts](https://dejavu-fonts.github.io/)
-        -   [Deja Vu Sans Code](https://github.com/SSNikolaevich/DejaVuSansCode) - adds ligatures to Deja Vu Sans Mono
-        -   [Arev](http://tavmjong.free.fr/FONTS/) - a fork of DejaVu Sans Mono
-        -   [Brutalist Mono](https://github.com/BRUTALISM/Brutalist) - another Deja Vu fork
-        -   [Hack](https://sourcefoundry.org/hack/) - based on dejavu sans mono
-            -   [Hasklig](https://github.com/i-tu/Hasklig) - hack with ligatures
-        -   Menlo - bundled with macOS
-            -   [Meslo](https://github.com/andreberg/Meslo-Font) - Menlo with some tweaks
-                -   [MesloLGS NF](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts)
-
 ## Paid
 
 -   [1403 Vintage Mono](https://1403.slantedhall.com/) - line printer inspired
@@ -232,28 +219,18 @@ At a bare minimum, the following sets of characters need to be distinguishable f
 -   [Cubiculum](https://www.myfonts.com/collections/cubiculum-font-johan-winge)
 -   [Dank Mono](https://philpl.gumroad.com/l/dank-mono)
 -   [Debugger](https://dharmatype.com/debugger)
--   [Dispatch Mono](https://occupantfonts.com/fonts/dispatch-mono/)
 -   [Eco Coding](https://www.myfonts.com/collections/eco-coding-font-s-core)
 -   [Fakt Mono](https://www.typeby.com/fonts/fakt-mono)
--   [Gemeli Mono](https://productiontype.com/font/gemeli/gemeli-mono)
--   [Larabiefont](https://typodermicfonts.com/larabiefont/) [paid but regular is free]
 -   [Lucida Console](https://lucidafonts.com/collections/lucida-console) [but shipped with windows]
--   [Maison Mono](https://www.myfonts.com/products/maison-mono-pack-package-944927)
--   [Maison Neue Mono](https://www.myfonts.com/products/maison-neue-mono-pack-package-616078)
 -   [Monolisa](https://www.monolisa.dev/)
--   [Name Mono](https://www.arrowtype.com/name-mono)
 -   [Native (fortfoundry.com)](https://fortfoundry.com/fonts/native) [regular weight is free]
 -   [Operator Mono](https://typography.com/blog/introducing-operator)
 -   [Pragmata Pro](https://fsd.it/shop/fonts/pragmatapro/)
 -   [Resolution](https://www.myfonts.com/collections/resolution-font-emil-kozole)
--   [Right Grotesk Mono](https://pangrampangram.com/products/right-grotesk-mono)
--   [Right Serif Mono](https://pangrampangram.com/products/right-serif-mono)
 -   [Senpai Coder](https://dharmatype.com/senpai-coder)
--   [Spot Mono](https://www.schick-toikka.com/spot-mono)
 -   [TheSansMono](https://www.lucasfonts.com/fonts/the-sans-mono) - used in some O'Reilly & Associates books
 -   [Triplicate](https://mbtype.com/fonts/triplicate/) - includes a coding variant
 -   [Vivala Code](https://www.myfonts.com/collections/vivala-code-font-johannes-hoffmann)
--   [VLNL TP Kurier Callig Regular](https://www.myfonts.com/products/callig-regular-vlnl-tp-kurier-134527)
 
 ## Enhancements
 

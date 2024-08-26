@@ -63,7 +63,6 @@
 -   [QuickType Mono](https://fontsgeek.com/fonts/QuickType-Mono-Regular) [free]
 -   [QuickType II Mono](https://fontsgeek.com/fonts/QuickType-II-Mono-Regular) [free]
 -   [Raize](https://www.softpedia.com/get/Others/Font-Utils/Raize-Font.shtml) [free]
--   [Rational TW](https://www.myfonts.com/collections/rational-tw-font-rene-bieder) [paid but [demos](https://www.myfonts.com/collections/rational-tw-font-rene-bieder?tab=individualStyles) available]
 -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
 -   [Retro Type 3 PostScript Fonts](https://unifoundry.com/retro/index.html) - dot-matrix printer fonts
 -   [Rubik Mono One](https://fonts.google.com/specimen/Rubik+Mono+One) [display]
@@ -125,6 +124,7 @@
 -   [Decima Mono Pro](http://www.tipografiaramis.com/decima-mono-pro.html)
 -   [Decima Mono Round](http://www.tipografiaramis.com/decima-mono-round.html)
 -   [Decima Mono](http://www.tipografiaramis.com/decima-mono.html)
+-   [Dispatch Mono](https://occupantfonts.com/fonts/dispatch-mono/)
 -   [Doire](https://www.myfonts.com/collections/doire-font-evertype) [oh definitely not for c0ding]
 -   [Dossier](https://tosche.net/fonts/dossier)
 -   [Dottie](http://ingrimayne.com/fonts2/typewriter.htm)
@@ -144,6 +144,7 @@
 -   [GT America Mono](https://www.grillitype.com/typeface/gt-america)
 -   [GT Pressura Mono](https://www.grillitype.com/typeface/gt-pressura)
 -   [Galexica Mono](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Gemeli Mono](https://productiontype.com/font/gemeli/gemeli-mono)
 -   [Greenwood](https://www.myfonts.com/collections/greenwood-font-protimient)
 -   [HeartMatrixed](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Heimat Mono](https://www.myfonts.com/collections/heimat-mono-font-atlasfontfoundry)
@@ -161,8 +162,11 @@
 -   [Kettler](https://processtypefoundry.com/fonts/kettler/)
 -   [Klartext Mono](https://www.myfonts.com/collections/klartext-mono-font-fonts-with-love) [one weight freely available]
 -   [Knif Mono](https://aisforfonts.com/knif)
+-   [Larabiefont](https://typodermicfonts.com/larabiefont/) [paid but regular is free]
 -   [Lettera Mono](https://lineto.com/typefaces/lettera-mono)
 -   [Linefeed](https://typodermicfonts.com/linefeed/) [line printer inspired]
+-   [Maison Mono](https://www.myfonts.com/products/maison-mono-pack-package-944927)
+-   [Maison Neue Mono](https://www.myfonts.com/products/maison-neue-mono-pack-package-616078)
 -   [Mingray Mono](https://www.myfonts.com/collections/mingray-mono-font-rekord)
 -   [Mitigate](https://typodermicfonts.com/mitigate/)
 -   [Mono Condensed](https://www.myfonts.com/collections/mono-condensed-font-paratype)
@@ -178,6 +182,7 @@
     -   [NB Architekt Std & Neue](https://neubauberlin.com/project/nb-architekt-std-neue-edition/)
     -   [NB Architekt MMXX](https://neubauberlin.com/project/nb-architekt-mmxx-edition/)
 -   [NB Typewriter](https://neubauladen.com/product/nb-typewriter-pro-edition/)
+-   [Name Mono](https://www.arrowtype.com/name-mono)
 -   [Neue Montreal Mono](https://pangrampangram.com/products/neue-montreal-mono)
 -   [Nice Weekend](https://www.myfonts.com/collections/nice-weekend-font-garagefonts)
 -   [Nitti](https://www.boldmonday.com/typeface/nitti/)
@@ -194,9 +199,12 @@
 -   [Polli Sans Mono](https://www.myfonts.com/collections/polli-sans-font-will-albin-clark)
 -   [PTL Notes Tec Mono](https://www.myfonts.com/collections/notes-tec-mono-font-primetype)
 -   [Quadraat Sans Mono](https://www.typeby.com/fonts/quadraat-sans-mono)
+-   [Rational TW](https://www.myfonts.com/collections/rational-tw-font-rene-bieder) [paid but [demos](https://www.myfonts.com/collections/rational-tw-font-rene-bieder?tab=individualStyles) available]
 -   [Relative Mono](https://www.colophon-foundry.org/typefaces/relative-mono/opentype)
 -   [Replica Mono](https://lineto.com/typefaces/replica-mono)
 -   [RF Rostin](https://www.myfonts.com/products/rf-rostin-complete-family-package-291433)
+-   [Right Grotesk Mono](https://pangrampangram.com/products/right-grotesk-mono)
+-   [Right Serif Mono](https://pangrampangram.com/products/right-serif-mono)
 -   [Sanduski Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Sauna Mono Pro](https://www.myfonts.com/collections/sauna-mono-pro-font-underware)
 -   [Script 12 Pitch](https://www.myfonts.com/collections/script-12-pitch-font-bitstream) - old script typewriter font
@@ -204,6 +212,7 @@
 -   [Skagwae Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Skurier](https://www.myfonts.com/collections/skurier-font-grin3)
 -   [Smith Premier NF](https://www.myfonts.com/collections/smith-premier-nf-font-nicks-fonts) [old timey]
+-   [Spot Mono](https://www.schick-toikka.com/spot-mono)
 -   [Struct Mono](https://archetype-foundry.com/struct-mono)
 -   [Superstudio](https://lineto.com/typefaces/superstudio) includes a monospace variant
 -   [Tabulamore Script](https://tosche.net/fonts/tabulamore-script)
@@ -218,6 +227,7 @@
 -   [WatchMaker](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Wire Type Mono](https://www.myfonts.com/collections/wire-type-mono-font-thomas-kading)
 -   [Wudoo Mono](https://www.myfonts.com/collections/wudoo-font-vishnu-sathyan)
+-   [VLNL TP Kurier](https://www.myfonts.com/collections/vlnl-tp-kurier-font-vetteletters)
 
 ## Monospaced Versions of Proportional Typefaces
 
