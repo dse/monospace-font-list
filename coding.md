@@ -28,6 +28,7 @@
 -   [Brutalist Mono](https://github.com/BRUTALISM/Brutalist) - derived from Deja Vu Sans Mono
 -   [Camingo Code](https://janfromm.de/typefaces/camingocode/)
 -   [Cascadia Code](https://github.com/microsoft/cascadia-code) - from microsoft
+-   [Chivo Mono](https://github.com/namesmt/chivo) - you probably want the Nerd Font linked from therein.
 -   [Code New Roman](https://www.dafont.com/code-new-roman.font)
 -   [Comic Mono](https://dtinth.github.io/comic-mono-font/) - if you like Comic Sans
     -   forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
@@ -237,6 +238,7 @@
 
 -   [Powerline Fonts](https://github.com/powerline/fonts) - for shell prompts and status lines
 -   [Nerd Fonts](https://www.nerdfonts.com/) - aggregates icon fonts like fontawesome
+    -   NOTE: some fonts are renamed, possibly due to font name restrictions à la Computer Modern Roman
 
 <!-- ** For Emacs ** -->
 <!-- Local Variables: -->
