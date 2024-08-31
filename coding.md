@@ -2,11 +2,15 @@
 
 ## Freely Available
 
+-   [0xProto](https://github.com/0xType/0xProto)
 -   [**3270font**](https://github.com/rbanffy/3270font)
 -   [A+](http://archive.vector.org.uk/resource/index.htm)
 -   [Agave](https://b.agaric.net/page/agave)
 -   [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) - damieng's bitmap font
     -   not related to Thiemich's paid [Alto Mono](https://www.typeby.com/fonts/alto-mono)
+-   [Amazon Ember Mono](https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography) - a
+    variant of Amazon's corporate typeface.  To get Amazon Ember Mono, download the font bundle.  One of the files in the .zip file
+    is `amazon_typography_all.zip`; you will find Amazon Ember Mono there.
 -   [Anka/Coder](https://usemodify.com/fonts/anka-coder/)
 -   [Anomaly Mono](https://github.com/benbusby/anomaly-mono)
 -   [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
@@ -18,7 +22,10 @@
 -   [Arev](http://tavmjong.free.fr/FONTS/) - derived from Deja Vu Sans Mono
 -   [Astigmata](https://medium.com/codex/astigmata-my-monospace-programming-font-b28ccfa9b025)
 -   [Atarist](https://github.com/ntwk/atarist-font)
+-   [AudioLink Mono](https://audiolink.dev/) and AudioLink Console
 -   [Aurulent Sans Mono](https://www.dafont.com/aurulent-sans-mono.font)
+-   [Basically A Mono](https://uncut.wtf/monospace/basically-a-mono/)
+-   [Binchotan](https://rvklein.me/proj/binchotan/)
 -   [Bizcat](https://robey.lag.net/2020/02/09/bizcat-bitmap-font.html)
 -   [Bmono](https://github.com/NNBnh/bmono)
 -   [Borg Sans Mono](https://github.com/marnen/borg-sans-mono) - Droid Sans Mono with ligatures and slashed zero
@@ -32,7 +39,7 @@
 -   [Code New Roman](https://www.dafont.com/code-new-roman.font)
 -   [Comic Mono](https://dtinth.github.io/comic-mono-font/) - if you like Comic Sans
     -   forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
--   [Compagnon](https://velvetyne.fr/fonts/compagnon/)
+-   [Commit Mono](https://commitmono.com/)
 -   [Consola Mono](https://fontlibrary.org/en/font/consolamono)
 -   [Corbi Mono S](https://fontlibrary.org/fr/font/corbi-mono-s) - Libertinus Mono with a slashed zero by default
 -   [Courier Code](https://fontlibrary.org/en/font/courier-code) - based on Bitstream Courier 10 Pitch v2.0
@@ -56,6 +63,7 @@
     -   [dotted and slashed zero variants](https://www.cosmix.org/software/)
     -   [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
 -   [Edlo](https://github.com/ehamiter/Edlo)
+-   [Envy Code B](https://damieng.com/blog/2006/11/06/envy-code-b-font-available-in-ttf-format/)
 -   [Envy Code R](https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released/)
 -   [Everson Mono](https://www.evertype.com/emono/) - shareware
 -   [Fairfax](https://www.kreativekorp.com/software/fonts/fairfax/) bitmap font, huge Unicode repertoire
@@ -69,6 +77,7 @@
 -   [**Fira Mono**](https://github.com/mozilla/Fira) - from mozilla
 -   [Fixedsys Excelsior](https://github.com/kika/fixedsys)
 -   [Flexi IBM VGA](https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/) - scalable version of IBM VGA font
+-   [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono) - based on URW Nimbus Sans, a Helvetica clone
 -   [Geist](https://vercel.com/font) - includes a mono variant
 -   [Generic Mono II](https://github.com/organicplanning/hackedfonts)
 -   [Gintronic](https://markfromberg.com/projects/gintronic)
@@ -89,9 +98,13 @@
     -   [iA Writer Mono](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono)
     -   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
     -   [Terminex](https://github.com/vsalvino/terminex) [free] derived from IBM Plex Mono
+-   [Illinois Mono](https://github.com/MadSimple/illinois-mono) - based on an interesting project called [Lexend](https://www.lexend.com/)
 -   [Illusion](https://github.com/tomonic-x/Illusion) [japanese]
 -   [**Inconsolata**](https://levien.com/type/myfonts/inconsolata.html)
     -   [Inconsolata Light](https://github.com/googlefonts/Inconsolata/blob/main/fonts/ttf/Inconsolata-Light.ttf)
+    -   [Inconsolata-g](https://leonardo-m.livejournal.com/77079.html), Inconsolata with some changes
+    -   [Inconsolata-dz](https://nodnod.net/posts/inconsolata-dz/), another altered Inconsolata
+    -   [Inconsolata Go](https://levien.com/type/myfonts/inconsolata/), Inconsolata author's alteration with straight quotes
 -   [**Input Mono**](https://input.djr.com/) - personal use free, public-facing use paid
 -   [**Intel One Mono**](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html) - line printer vibe
 -   [**Iosevka**](https://typeof.net/Iosevka/)
@@ -123,14 +136,17 @@
 -   [mnicmp](https://fontlibrary.org/en/font/mnicmp) - based on the 7-pin DECwriter II printer
 -   [**Monaspace**](https://monaspace.githubnext.com/) - superfamily
 -   [Monego](https://github.com/cseelus/monego) - monaco with bold and italic variants
+-   [Monocraft](https://github.com/IdreesInc/Monocraft) - do you like Minecraft?
 -   [Monoid](https://larsenwork.com/monoid/)
 -   [Mononoki](https://madmalik.github.io/mononoki/)
 -   [MonoOne](https://github.com/zlsa/monoOne)
 -   [MonteCarlo (programmer font)](https://www.bok.net/MonteCarlo/)
 -   [Nanum Gothic Coding](https://github.com/emersion/nanum-gothic-coding)
+-   [Necto Mono](https://uncut.wtf/monospace/necto-mono/)
 -   [New Heterodox Mono](https://github.com/hckiang/font-new-heterodox-mono)
 -   [NK57 Monospace](https://www.dafont.com/nk57-monospace.font)
 -   [Noto Fonts](https://github.com/notofonts) - includes Noto Sans Mono
+-   [Ocodo Mono](https://github.com/ocodo/ocodo-mono) - early work in progress
 -   [**Office Code Pro**](https://github.com/nathco/Office-Code-Pro) - derived from Source Code Pro
     -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
         -   derived from Source Code Pro and Noto Sans JP.
@@ -159,6 +175,7 @@
 -   [romfont](https://github.com/spacerace/romfont) collection of PC ROM fonts
 -   [Sarasa Gothic Mono](https://picaq.github.io/sarasa/) - derived from Source Han Sans and Iosevka
 -   [SAX2 APL font](https://abrudz.github.io/SAX2/)
+-   [Serious Shaans](https://kabeech.github.io/serious-shanns/) - if you like Comic Sans
 -   [Server Mono](https://servermono.com/)
 -   [**SF Mono**](https://developer.apple.com/fonts/) [free]
 -   [SGI Screen](https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/) - if this is a Unix system and you know this
@@ -193,7 +210,7 @@
 -   [Victor Mono](https://github.com/rubjo/victor-mono)
 -   [VT323](https://github.com/phoikoi/VT323)
 -   [WenQuanYi Black](http://wenq.org/wqy2/index.cgi?FontGuide#_4) [chinese]
--   [Whois mono](https://github.com/raphaelbastide/Whois-mono)
+-   [Whois Mono](https://uncut.wtf/monospace/whois/) [github](https://github.com/raphaelbastide/Whois-mono)
 -   [Writer](https://github.com/tonsky/font-writer)
 -   [Wumpus Mono](https://github.com/vaughantype/wumpus-mono/)
 -   [X11 Fonts](https://gitlab.freedesktop.org/xorg/font) - among which are some good bitmap coding fonts:
@@ -214,6 +231,7 @@
 -   [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/) - OCR-B inspired
 -   [Best Choice](https://dharmatype.com/best-choice)
 -   [Calling Code](https://dharmatype.com/calling-code)
+-   [Cartograph CF](https://connary.com/cartograph.html)
 -   [Code Saver](https://dharmatype.com/code-saver)
 -   [Codelia](https://tosche.net/fonts/codelia)
 -   [Codename Coder 4F](http://fonts.4thfebruary.com.ua/codename-coder-4f/)
@@ -222,6 +240,7 @@
 -   [Dank Mono](https://philpl.gumroad.com/l/dank-mono)
 -   [Debugger](https://dharmatype.com/debugger)
 -   [Eco Coding](https://www.myfonts.com/collections/eco-coding-font-s-core)
+-   [Ellograph](https://connary.com/ellograph.html)
 -   [Fakt Mono](https://www.typeby.com/fonts/fakt-mono)
 -   [Lucida Console](https://lucidafonts.com/collections/lucida-console) [but shipped with windows]
 -   [Monolisa](https://www.monolisa.dev/)

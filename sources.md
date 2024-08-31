@@ -1,8 +1,12 @@
 ## Disorganized Sources of Typefaces and Information
 
+-   https://www.nerdfonts.com/font-downloads
+-   https://github.com/cancng/fonts
+-   https://velvetyne.fr/fonts/compagnon/
+-   http://www.tipografiaramis.com/sans.html but also serifs
+-   https://zone38.net/font/
 -   http://archive.vector.org.uk/resource/index.htm
--   http://zone38.net/font/
--   https://www.lowing.org/fonts/Free/
+-   https://lowing.org/fonts/ - https://www.lowing.org/fonts/Free/
 -   https://blog.codinghorror.com/progamming-fonts/
 -   [PICO-8 Programming Fonts](https://juanitogan.itch.io/p8-programming-fonts)
 -   https://www.tug.org/FontCatalogue/typewriterfonts.html

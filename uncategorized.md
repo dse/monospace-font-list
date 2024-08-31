@@ -42,6 +42,11 @@
 -   [WenQuanYi Zen Hei Mono]
 -   [WenQuanYi Micro Hei Mono]
 
+# Works In Progress
+
+-   [Smol Typo](https://old.reddit.com/r/typography/comments/1f2qpdq/my_first_font_a_family_pack_smol_typo_font/)
+
+
 <!-- ** For Emacs ** -->
 <!-- Local Variables: -->
 <!-- fill-column: 132 -->
