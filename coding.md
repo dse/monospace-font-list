@@ -112,6 +112,7 @@
 -   [Luculent](https://usemodify.com/fonts/luculent/)
 -   [Luxi Mono](https://en.wikipedia.org/wiki/Luxi_fonts) (download link on that page)
 -   [**M+ Fonts**](https://mplusfonts.github.io/)
+-   [Maple Font](https://github.com/subframe7536/maple-font)
 -   Menlo - bundled with macOS, derived from Deja Vu
 -   [Mensch](https://www.losttype.com/font/?name=mensch) [pay what you want]
 -   [Meslo](https://github.com/andreberg/Meslo-Font) - Menlo (derived from Deja Vu) with some tweaks
