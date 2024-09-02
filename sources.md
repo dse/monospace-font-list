@@ -2,10 +2,50 @@
 
 -   https://lowing.org/fonts/ - a selection of programmer's fonts.
 
+    -   [Bitstream Vera Sans Mono]
+    -   [ti92pluspc](https://web.archive.org/web/20061113161554/https://www.tamuk.edu/math/scott/stars/tutorial.htm)
+    -   [Crystal](https://github.com/POV-Ray/povray/blob/3.7-stable/distribution/include/crystal.ttf)
+    -   [Monaco](https://web.archive.org/web/20060715190341/http://hellocity.net/~iolo/files/fonts/)
+    -   [Anonymous]
+    -   [Andale Mono]
+    -   [Raize](https://web.archive.org/web/20060104140832/http://www.raize.com/DevTools/Tools/RzFont.zip)
+    -   [ProFontWindows]
+    -   [Sheldon]
+    -   [BSU Kermit](https://web.archive.org/web/20061024133407/http://home.datacomm.ch/privmsg/havoc/mircscript.htm)
+    -   [Lucida Sans Typewriter Regular](https://web.archive.org/web/20050828015412/http://java.sun.com/j2se/1.4.2/download.html)
+    -   [Courier New]
+    -   [Courier]
+    -   [Lucida Console]
+    -   [ProggyTiny]
+    -   [ProggyClean]
+    -   [FixedSys](https://web.archive.org/web/20070110022114/http://fixedsys.moviecorner.de/)
+    -   [Topaz-8]
+    -   [Free Monospaced]
+    -   [MS Mincho]
+    -   [Hyperfont]
+    -   [Squareshooter Mono](https://web.archive.org/web/20060313150333/http://freefonts.fateback.com/hypotypo/)
+
+    looked through 01-SEP-2024
+    
 -   https://blog.codinghorror.com/progamming-fonts/ is another sampling of fonts
 
--   https://hackingcpp.com/dev/coding_fonts.html - a listing and ranking of fonts
+    -   Andale Mono
+    -   Anonymous
+    -   Courier New
+    -   Lucida Console
+    -   Lucida Typewriter
+    -   Monaco
+    -   Pragmata
+    -   ProFont
+    -   Proggy Clean
+    -   Vera Sans Mono
 
+    looked through 01-SEP-2024
+    
+-   https://hackingcpp.com/dev/coding_fonts.html - a huge listing and ranking of fonts
+
+    looked through 01-SEP-2024
+    
 -   [On Snot and Fonts](https://luc.devroye.org/fonts.html)
     is Luc Devroye's massive zettelkasten of typeface info.
     The two categories you probably want:
@@ -17,12 +57,20 @@
 ## Sources of Typefaces
 
 -   [Google Fonts](https://fonts.google.com/)
+    -   [Monospace](https://fonts.google.com/?classification=Monospace)
 
+    looked through 01-SEP-2024
+    
 -   [fontlibrary.org](https://fontlibrary.org/)
+    -   [Monospaced](https://fontlibrary.org/en/search?category=monospaced)
 
+    looked through 01-SEP-2024
+    
 -   [Codeface](https://github.com/chrissimpkins/codeface/tree/master/fonts)
     is someone's big collection of programmer fonts I need to go through.
 
+    looked through 01-SEP-2024
+    
 -   [Programming Fonts](https://github.com/ProgrammingFonts/ProgrammingFonts)
     is someone else's big collection of programmer fonts I need to go through.
 

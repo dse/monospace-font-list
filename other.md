@@ -14,14 +14,17 @@
 -   [Bino Mono](https://www.fontyukle.net/font/Bino-Mono)
 -   [BIZ UDMincho](https://uncut.wtf/monospace/biz-udmincho/)
 -   [BQN386](https://dzaima.github.io/BQN386/) [apl]
+-   [CATV 6x12 9](https://fontlibrary.org/en/font/catv-6x12-9)
 -   [Compagnon](https://velvetyne.fr/fonts/compagnon/) - old-timey inspired
 -   [Computer Modern Typewriter](https://en.wikipedia.org/wiki/Computer_Modern)
     -   [CMU Typewriter](https://fontlibrary.org/en/font/cmu-typewriter)
     -   [Latin Modern Mono] (GUST e-foundry)
+-   [Computer Speak](https://fontlibrary.org/en/font/computer-speak)
 -   [Crystal](http://www.povray.org/povlegal.html) (via <https://www.lowing.org/fonts/>)
 -   [Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono)
 -   [DM Mono](https://github.com/googlefonts/dm-mono)
 -   [DP Sans Mono](https://www.pgdp.net/wiki/DP_Sans_Mono)
+-   [DejaVu Markup](https://fontlibrary.org/en/font/dejavu-markup)
 -   [DeluxeFont](https://zone38.net/font/#deluxefont) [retro]
 -   [Disket Mono](https://rostype.com/disket/) [display]
 -   [Effects Eighty](https://fontlibrary.org/th/font/effects-eighty) [dot-matrix printer]
@@ -34,14 +37,18 @@
 -   [F25 Cella](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Cella) [private use]
 -   [F25 DaisyWheel](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_DaisyWheel) [private use]
 -   [F25 Typewriter Condensed](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Typewriter_Condensed) [private use]
+-   [Fifteen Twenty](https://github.com/scruss/FifteenTwenty)
+-   [Générale Mono](https://fontlibrary.org/en/font/generalemono)
+-   [Générale Station](https://www.tunera.xyz/fonts/generale-station/)
 -   [Glovis](https://fontsempire.com/font/glovis-download/) - italic old-timey
 -   [Heming](https://uncut.wtf/monospace/heming/)
 -   [KP Monospaced](https://tug.org/FontCatalogue/kpmonospaced/)
 -   [Kawkab Mono](https://makkuk.com/kawkab-mono/) - Arabic monospace typeface -
 -   [Kepler-452b](https://github.com/weirdoonthebus/Kepler-452b) -
 -   [Kosugi Maru](https://fonts.google.com/specimen/Kosugi+Maru)
--   [Lekton](fonts.google.com/specimen/Lekton)
+-   [Lekton](https://fonts.google.com/specimen/Lekton)
 -   [Linux Libertine Mono](https://sourceforge.net/projects/linuxlibertine/)
+-   [Lovematrix](https://fontlibrary.org/en/font/dejavu-markup), a hearty version of mnicmp
 -   [LT Superior Mono](https://uncut.wtf/monospace/lt-superior-mono/)
 -   [Major Mono Display](https://www.emreparlak.com/major/)
 -   [Manaspace](https://www.zone38.net/font/)
@@ -68,13 +75,16 @@
 -   [Pantasia](https://counter-forms.com/typefaces/pantasia) - derived from Times New Roman
 -   [PoultreMono](https://codeberg.org/Wezl/fonts#poultremono)
 -   [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P) [retro]
+-   [Putintin](https://fontlibrary.org/en/font/putintin), a font that translates Latin characters into Cyrillic characters and displays both.
 -   [QT Letter Goth](https://www.tug.org/FontCatalogue/qtlettergoth/)
 -   [QuickType Mono](https://fontsgeek.com/fonts/QuickType-Mono-Regular) [free]
 -   [QuickType II Mono](https://fontsgeek.com/fonts/QuickType-II-Mono-Regular) [free]
 -   [Raize](https://www.softpedia.com/get/Others/Font-Utils/Raize-Font.shtml) [free]
 -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
 -   [Retro Type 3 PostScript Fonts](https://unifoundry.com/retro/index.html) - dot-matrix printer fonts
+-   [Retroscape](https://fontlibrary.org/en/font/retroscape)
 -   [Rubik Mono One](https://fonts.google.com/specimen/Rubik+Mono+One) [display]
+-   [Rusrus Compact Mono](https://fontlibrary.org/en/font/rursus-compact-mono)
 -   [RX100](https://www.fontshare.com/fonts/rx-100)
 -   [Sabir Mono](https://github.com/mateobrt/Sabir-Mono) [demo](https://localfonts.eu/freefonts/traditional-cyrillic-free-fonts/sabir-mono/)
 -   [SaxMono](https://www.dafont.com/saxmono.font)
@@ -95,6 +105,7 @@
 -   [Telerysm Mono 2](https://www.smeltery.net/en/fonts/telerysm-mono-2)
 -   [Tewi](https://github.com/lucy/tewi-font)
 -   [Thermo](https://lineto.com/typefaces/thermo) [display]
+-   [ThreeFourTwoTwo](https://fontlibrary.org/en/font/threefourtwotwo) based on an old LED display
 -   [Topaz-8](https://fonts2u.com/topaz-8.font) - recreation of an Amiga font
 -   [Toren aka Tenpo](https://github.com/eliheuer/tenpo) [work in progress]
 -   [Tye Paloon](https://online-fonts.com/fonts/tye-paloon) [display]

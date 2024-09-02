@@ -5,6 +5,8 @@
 -   [0xProto](https://github.com/0xType/0xProto)
 -   [**3270font**](https://github.com/rbanffy/3270font)
 -   [A+](http://archive.vector.org.uk/resource/index.htm)
+-   [Aardvark Fixed](https://fontlibrary.org/en/font/aardvark-sans), a mix of Iosevka, Misc Fixed 6x13, and Office Code Pro
+-   [Avevedo](https://fontlibrary.org/en/font/acevedo)
 -   [Agave](https://b.agaric.net/page/agave)
 -   [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) - damieng's bitmap font
     -   not related to Thiemich's paid [Alto Mono](https://www.typeby.com/fonts/alto-mono)
@@ -74,6 +76,8 @@
 -   [Fifteen](https://fontlibrary.org/en/font/fifteen) - see also Quinze
 -   [**Fira Code**](https://github.com/tonsky/FiraCode) - has ligatures
 -   [Fira Cousine](https://github.com/macduy/FiraCousine) - Cousine + Fira Code's punct marks and ligatures
+-   [Fira Flott](https://github.com/kosimst/FiraFlott)
+    -   Operator Mono alternative based on FiraCode and FlottFlott
 -   [**Fira Mono**](https://github.com/mozilla/Fira) - from mozilla
 -   [Fixedsys Excelsior](https://github.com/kika/fixedsys)
 -   [Flexi IBM VGA](https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/) - scalable version of IBM VGA font
@@ -105,19 +109,23 @@
     -   [Inconsolata-g](https://leonardo-m.livejournal.com/77079.html), Inconsolata with some changes
     -   [Inconsolata-dz](https://nodnod.net/posts/inconsolata-dz/), another altered Inconsolata
     -   [Inconsolata Go](https://levien.com/type/myfonts/inconsolata/), Inconsolata author's alteration with straight quotes
+    -   [Inconsolata LGC](https://github.com/DeLaGuardo/Inconsolata-LGC) - adds Cyrillic alphabet
 -   [**Input Mono**](https://input.djr.com/) - personal use free, public-facing use paid
 -   [**Intel One Mono**](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html) - line printer vibe
 -   [**Iosevka**](https://typeof.net/Iosevka/)
     -   [Iosevka VardanPro](https://github.com/varp/VardanPro-Fonts)
 -   [**Jetbrains Mono**](https://www.jetbrains.com/lp/mono/)
+-   [Jozsika](https://github.com/nilcons/jozsika), a customized version of Iosevka
 -   [Julia Mono](https://juliamono.netlify.app/)
 -   [jxyahei](https://github.com/zhenruyan/codefont/blob/master/readme_en.md)
 -   [Karen](https://github.com/amaya382/karen)
+-   [Kode Mono](https://fonts.google.com/specimen/Kode+Mono)
 -   [Lab Mono](https://github.com/hatsumatsu/Lab-Mono)
 -   [Lavender](https://github.com/hirigaray/lavender-font)
 -   [League Mono](https://www.theleagueofmoveabletype.com/league-mono)
+-   [Lekton Code](https://fontlibrary.org/en/font/lektoncode)
 -   [**Letter Gothic Code**](https://github.com/jamesxmcintosh/LetterGothicCode)
--   [Liberation Fonts](https://github.com/liberationfonts) - among which, Liberation Mono
+-   [Liberation Mono](https://github.com/liberationfonts/liberation-fonts)
 -   [Lilex](https://github.com/mishamyrt/Lilex)
 -   [Linux Console Fonts for Windows](http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/) in .TTF and .FON
 -   [Linux Libertine](https://sourceforge.net/projects/linuxlibertine/) includes a mono variant
@@ -125,6 +133,7 @@
 -   [Lotion](https://font.nina.coffee/)
 -   [Luculent](https://usemodify.com/fonts/luculent/)
 -   [Luxi Mono](https://en.wikipedia.org/wiki/Luxi_fonts) (download link on that page)
+-   [LVC Mono](https://fontlibrary.org/en/font/lvc-mono), a variant of IBM Plex Mono
 -   [**M+ Fonts**](https://mplusfonts.github.io/)
 -   [Maple Font](https://github.com/subframe7536/maple-font)
 -   Menlo - bundled with macOS, derived from Deja Vu
@@ -142,11 +151,14 @@
 -   [MonoOne](https://github.com/zlsa/monoOne)
 -   [MonteCarlo (programmer font)](https://www.bok.net/MonteCarlo/)
 -   [Nanum Gothic Coding](https://github.com/emersion/nanum-gothic-coding)
+-   [Natural Mono](https://fontlibrary.org/en/font/natural-mono) - based on Noto Mono, with alt versions of "i" and "l" (lower case I and L).
 -   [Necto Mono](https://uncut.wtf/monospace/necto-mono/)
+-   [Neomatrix Code](https://fontlibrary.org/en/font/neomatrixcode)
 -   [New Heterodox Mono](https://github.com/hckiang/font-new-heterodox-mono)
 -   [NK57 Monospace](https://www.dafont.com/nk57-monospace.font)
 -   [Noto Fonts](https://github.com/notofonts) - includes Noto Sans Mono
 -   [Ocodo Mono](https://github.com/ocodo/ocodo-mono) - early work in progress
+-   [OCR A Extended](https://www.wfonts.com/font/ocr-a-extended)
 -   [**Office Code Pro**](https://github.com/nathco/Office-Code-Pro) - derived from Source Code Pro
     -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
         -   derived from Source Code Pro and Noto Sans JP.
@@ -166,10 +178,26 @@
 -   [Print Char 21 and PR Number 3](https://www.kreativekorp.com/software/fonts/apple2/), the Apple II fonts
 -   [Profont](https://tobiasjung.name/profont/)
 -   [**Proggy Fonts**](https://github.com/bluescan/proggyfonts)
+    -   Proggy Crossed
+    -   Proggy Dotted
+    -   Proggy Original
+    -   Proggy Vector
+    -   contributed:
+        -   CG Mono
+        -   Coding Font Tobi
+        -   Crisp
+        -   Dina
+        -   Opti
+        -   Pixel Carnage
+        -   Proggy Opti
+        -   Progsole
+        -   Speedy
 -   [PT Mono](https://fonts.google.com/specimen/PT+Mono)
 -   [Quinze](https://fontlibrary.org/en/font/quinze) - see also Fifteen
 -   [**Recursive**](https://www.recursive.design/)
     -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
+-   [Reddit Mono](https://fonts.google.com/specimen/Reddit+Mono)
+-   [Red Hat Mono](https://fonts.google.com/specimen/Red+Hat+Mono)
 -   [retro fonts](http://www.modelb.bbcmicro.com/retro-fonts.html) [free] - teletext and Atari ST fonts
 -   [Roboto Mono](https://github.com/googlefonts/roboto)
 -   [romfont](https://github.com/spacerace/romfont) collection of PC ROM fonts
@@ -187,6 +215,7 @@
 -   [**Source Code Pro**](https://github.com/adobe-fonts/source-code-pro) - from adobe
 -   [Space Mono](https://fonts.google.com/specimen/Space+Mono)
 -   [Spleen](https://www.cambus.net/spleen-monospaced-bitmap-fonts/)
+-   [Spline Sans Mono](https://fonts.google.com/specimen/Spline+Sans+Mono)
 -   [String Literal 437](https://fonts2u.com/string-literal-437-medium.font)
 -   [Sudo](https://www.kutilek.de/sudo-font/)
 -   [Sun Gallant Demi](https://github.com/dim13/gallant)
