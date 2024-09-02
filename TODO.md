@@ -1,2 +1,5 @@
-Include free weights of paid monospace fonts in free section too.
-
+-   Include free weights of paid monospace fonts in free section too.
+-   VL Gothic
+-   [Takao Gothic](https://github.com/ONLYOFFICE/core-fonts/blob/master/takao-gothic/TakaoGothic.ttf)
+-   IPA Gothic
+-   WenQuanYi Zen Hei Mono
