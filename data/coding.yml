@@ -131,8 +131,7 @@
   descr: derived from Deja Vu Sans Mono
 - name: Deja Vu Sans Mono
   url: https://dejavu-fonts.github.io/
-  descr: |-2
-    
+  descr: |-
         -   based on [Bitstream Vera Fonts](https://download.gnome.org/sources/ttf-bitstream-vera/1.10/)
 - name: Dina Bitmap
   url: https://www.dcmembers.com/jibsen/download/61/
@@ -142,8 +141,7 @@
   url: https://indestructibletype.com/Drafting/
 - name: Droid Sans Mono
   url: https://damieng.com/blog/2007/11/14/droid-sans-mono-great-coding-font/
-  descr: |-2
-    
+  descr: |-
         -   [dotted and slashed zero variants](https://www.cosmix.org/software/)
         -   [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
 - name: Edlo
@@ -179,8 +177,7 @@
   descr: Cousine + Fira Code's punct marks and ligatures
 - name: Fira Flott
   github: https://github.com/kosimst/FiraFlott
-  descr: |-2
-    
+  descr: |-
         -   Operator Mono alternative based on FiraCode and FlottFlott
 - name: Fira Mono
   github: https://github.com/mozilla/Fira
@@ -249,8 +246,7 @@
   descr: '[japanese]'
 - name: Inconsolata
   url: https://levien.com/type/myfonts/inconsolata.html
-  descr: |-2
-    
+  descr: |-
         -   [Inconsolata Light](https://github.com/googlefonts/Inconsolata/blob/main/fonts/ttf/Inconsolata-Light.ttf)
         -   [Inconsolata-g](https://leonardo-m.livejournal.com/77079.html), Inconsolata with some changes
         -   [Inconsolata-dz](https://nodnod.net/posts/inconsolata-dz/), another altered Inconsolata
@@ -264,8 +260,7 @@
   descr: line printer vibe
 - name: Iosevka
   url: https://typeof.net/Iosevka/
-  descr: |-2
-    
+  descr: |-
         -   [Iosevka VardanPro](https://github.com/varp/VardanPro-Fonts)
 - name: Jetbrains Mono
   url: https://www.jetbrains.com/lp/mono/
@@ -382,13 +377,11 @@
             -   No significant changes other than mixing.
 - name: Old School PC Fonts
   url: https://int10h.org/oldschool-pc-fonts/fontlist/
-  descr: |-2
-    
+  descr: |-
         -   from which is derived [IBM Fonts](https://farsil.github.io/ibmfonts/)
 - name: OpenGenera fonts
   url: https://archive.org/download/SymblicsOpenGenera
-  descr: |-2
-    
+  descr: |-
         -   look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
         -   [github](https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera)
 - name: Openstep Mono
@@ -415,8 +408,7 @@
   url: https://tobiasjung.name/profont/
 - name: Proggy Fonts
   github: https://github.com/bluescan/proggyfonts
-  descr: |-2
-    
+  descr: |-
         -   Proggy Crossed
         -   Proggy Dotted
         -   Proggy Original
@@ -438,8 +430,7 @@
   descr: see also Fifteen
 - name: Recursive
   url: https://www.recursive.design/
-  descr: |-2
-    
+  descr: |-
         -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
 - name: Reddit Mono
   googlefonts: https://fonts.google.com/specimen/Reddit+Mono
@@ -494,8 +485,7 @@
   url: https://www.kutilek.de/sudo-font/
 - name: Sun Gallant Demi
   github: https://github.com/dim13/gallant
-  descr: |-2
-    
+  descr: |-
         -   [ttf](https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf)
 - name: Tamsyn
   url: http://www.fial.com/~scott/tamsyn-font/
@@ -523,8 +513,7 @@
   url: https://design.ubuntu.com/font
 - name: Unix-originated terminal fonts for Windows
   url: http://christian.lestrade.free.fr/fonts.html
-  descr: |-2
-    
+  descr: |-
         -   Includes some of the X fonts and some VGA fonts.  Also apparently includes VT330?
 - name: Unix PC 3B1
   github: https://github.com/brandon-rhodes/unixpc-font-bdf
