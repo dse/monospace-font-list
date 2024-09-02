@@ -6,7 +6,7 @@
 -   [**3270font**](https://github.com/rbanffy/3270font)
 -   [A+](http://archive.vector.org.uk/resource/index.htm)
 -   [Aardvark Fixed](https://fontlibrary.org/en/font/aardvark-sans), a mix of Iosevka, Misc Fixed 6x13, and Office Code Pro
--   [Avevedo](https://fontlibrary.org/en/font/acevedo)
+-   [Acevedo](https://fontlibrary.org/en/font/acevedo)
 -   [Agave](https://b.agaric.net/page/agave)
 -   [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) - damieng's bitmap font
     -   not related to Thiemich's paid [Alto Mono](https://www.typeby.com/fonts/alto-mono)
