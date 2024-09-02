@@ -276,7 +276,7 @@
 -   [Fakt Mono](https://www.typeby.com/fonts/fakt-mono)
 -   [Lucida Console](https://lucidafonts.com/collections/lucida-console) [but shipped with windows]
 -   [Monolisa](https://www.monolisa.dev/)
--   [Native (fortfoundry.com)](https://fortfoundry.com/fonts/native) [regular weight is free]
+-   [Native](https://fortfoundry.com/fonts/native) [regular weight is free]
 -   [Operator Mono](https://typography.com/blog/introducing-operator)
 -   [Pragmata Pro](https://fsd.it/shop/fonts/pragmatapro/)
 -   [Resolution](https://www.myfonts.com/collections/resolution-font-emil-kozole)
