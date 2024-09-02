@@ -16,13 +16,15 @@
   url: https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/
   descr: |-
     damieng's bitmap font
-        -   not related to Thiemich's paid [Alto Mono](https://www.typeby.com/fonts/alto-mono)
+  notes: |-
+    not related to Thiemich's paid [Alto Mono](https://www.typeby.com/fonts/alto-mono)
 - name: Amazon Ember Mono
   url: https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography
   descr: |-
-    a
-        variant of Amazon's corporate typeface.  To get Amazon Ember Mono, download the font bundle.  One of the files in the .zip file
-        is `amazon_typography_all.zip`; you will find Amazon Ember Mono there.
+    a variant of Amazon's corporate typeface.  To get Amazon Ember
+    Mono, download the font bundle.  One of the files in the .zip file
+    is `amazon_typography_all.zip`; you will find Amazon Ember Mono
+    there.
 - name: Anka/Coder
   url: https://usemodify.com/fonts/anka-coder/
 - name: Anomaly Mono
@@ -59,7 +61,7 @@
   descr: an "average" of 13 variants of Courier.
 - name: Basically A Mono
   url: https://uncut.wtf/monospace/basically-a-mono/
-  descr: '[also](https://experi.mentallydesigned.com/type/bam/)'
+  url_2: https://experi.mentallydesigned.com/type/bam/
 - name: Binchotan
   url: https://rvklein.me/proj/binchotan/
 - name: Bizcat
@@ -92,7 +94,8 @@
   url: https://dtinth.github.io/comic-mono-font/
   descr: |-
     if you like Comic Sans
-        -   forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
+  notes: |-
+    forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
 - name: Commit Mono
   url: https://commitmono.com/
 - name: Consola Mono
@@ -131,8 +134,8 @@
   descr: derived from Deja Vu Sans Mono
 - name: Deja Vu Sans Mono
   url: https://dejavu-fonts.github.io/
-  descr: |-
-        -   based on [Bitstream Vera Fonts](https://download.gnome.org/sources/ttf-bitstream-vera/1.10/)
+  notes: |-
+    based on [Bitstream Vera Fonts](https://download.gnome.org/sources/ttf-bitstream-vera/1.10/)
 - name: Dina Bitmap
   url: https://www.dcmembers.com/jibsen/download/61/
 - name: Dina Font TTF
@@ -141,7 +144,7 @@
   url: https://indestructibletype.com/Drafting/
 - name: Droid Sans Mono
   url: https://damieng.com/blog/2007/11/14/droid-sans-mono-great-coding-font/
-  descr: |-
+  variants: |-
         -   [dotted and slashed zero variants](https://www.cosmix.org/software/)
         -   [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
 - name: Edlo
@@ -165,7 +168,8 @@
   github: https://github.com/belluzj/fantasque-sans
   descr: |-
     if you like Comic Sans and are not a hater
-        -   f/k/a Cosmic Sans Neue Mono
+  notes: |-
+    f/k/a Cosmic Sans Neue Mono
 - name: Fifteen
   fontlibrary: https://fontlibrary.org/en/font/fifteen
   descr: see also Quinze
@@ -178,7 +182,7 @@
 - name: Fira Flott
   github: https://github.com/kosimst/FiraFlott
   descr: |-
-        -   Operator Mono alternative based on FiraCode and FlottFlott
+    Operator Mono alternative based on FiraCode and FlottFlott
 - name: Fira Mono
   github: https://github.com/mozilla/Fira
   descr: from mozilla
@@ -210,7 +214,7 @@
   github: https://github.com/mehant-kr/Google-Sans-Mono
   descr: |-
     a/k/a Product Sans Mono
-        -   via: https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/
+  via: https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/
 - name: Grid15
   url: https://typedrawers.com/discussion/964/grid15-futuristic-geometric-monospace
   descr: work in progress
@@ -235,6 +239,7 @@
   url: https://www.ibm.com/plex/
   descr: |-
     includes a mono variant, **IBM Plex Mono**
+  variants: |-
         -   [iA Writer Mono](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono)
         -   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
         -   [Terminex](https://github.com/vsalvino/terminex) [free] derived from IBM Plex Mono
@@ -246,7 +251,7 @@
   descr: '[japanese]'
 - name: Inconsolata
   url: https://levien.com/type/myfonts/inconsolata.html
-  descr: |-
+  variants: |-
         -   [Inconsolata Light](https://github.com/googlefonts/Inconsolata/blob/main/fonts/ttf/Inconsolata-Light.ttf)
         -   [Inconsolata-g](https://leonardo-m.livejournal.com/77079.html), Inconsolata with some changes
         -   [Inconsolata-dz](https://nodnod.net/posts/inconsolata-dz/), another altered Inconsolata
@@ -260,7 +265,7 @@
   descr: line printer vibe
 - name: Iosevka
   url: https://typeof.net/Iosevka/
-  descr: |-
+  variants: |-
         -   [Iosevka VardanPro](https://github.com/varp/VardanPro-Fonts)
 - name: Jetbrains Mono
   url: https://www.jetbrains.com/lp/mono/
@@ -372,18 +377,19 @@
   github: https://github.com/nathco/Office-Code-Pro
   descr: |-
     derived from Source Code Pro
+  variants: |-
         -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
             -   derived from Source Code Pro and Noto Sans JP.
             -   No significant changes other than mixing.
 - name: Old School PC Fonts
   url: https://int10h.org/oldschool-pc-fonts/fontlist/
-  descr: |-
-        -   from which is derived [IBM Fonts](https://farsil.github.io/ibmfonts/)
+  notes: |-
+    from which is derived [IBM Fonts](https://farsil.github.io/ibmfonts/)
 - name: OpenGenera fonts
   url: https://archive.org/download/SymblicsOpenGenera
-  descr: |-
-        -   look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
-        -   [github](https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera)
+  notes: |-
+    look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
+  url_2: https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera
 - name: Openstep Mono
   url: https://fontstruct.com/fontstructions/show/918633/openstep_mono
 - name: Overpass
@@ -409,20 +415,20 @@
 - name: Proggy Fonts
   github: https://github.com/bluescan/proggyfonts
   descr: |-
-        -   Proggy Crossed
-        -   Proggy Dotted
-        -   Proggy Original
-        -   Proggy Vector
-        -   contributed:
-            -   CG Mono
-            -   Coding Font Tobi
-            -   Crisp
-            -   Dina
-            -   Opti
-            -   Pixel Carnage
-            -   Proggy Opti
-            -   Progsole
-            -   Speedy
+    -   Proggy Crossed
+    -   Proggy Dotted
+    -   Proggy Original
+    -   Proggy Vector
+    -   contributed:
+        -   CG Mono
+        -   Coding Font Tobi
+        -   Crisp
+        -   Dina
+        -   Opti
+        -   Pixel Carnage
+        -   Proggy Opti
+        -   Progsole
+        -   Speedy
 - name: PT Mono
   googlefonts: https://fonts.google.com/specimen/PT+Mono
 - name: Quinze
@@ -430,8 +436,8 @@
   descr: see also Fifteen
 - name: Recursive
   url: https://www.recursive.design/
-  descr: |-
-        -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
+  variants: |-
+    -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
 - name: Reddit Mono
   googlefonts: https://fonts.google.com/specimen/Reddit+Mono
 - name: Red Hat Mono
@@ -461,13 +467,14 @@
   url: https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/
   descr: |-
     if this is a Unix system and you know this
-        -   also [bitmaps](https://www.gnome-look.org/p/998527/)
-        -   also https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
+  variants: |- 
+    -   also [bitmaps](https://www.gnome-look.org/p/998527/)
+    -   also https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
 - name: Share Tech Mono
   googlefonts: https://fonts.google.com/specimen/Share+Tech+Mono
 - name: Sometype Mono
   url: https://monospacedfont.com/
-  descr: '([github](https://github.com/dharmatype/Sometype-Mono))'
+  github: https://github.com/dharmatype/Sometype-Mono
 - name: Sono
   url: https://usemodify.com/fonts/sono/
 - name: Source Code Pro
@@ -485,8 +492,7 @@
   url: https://www.kutilek.de/sudo-font/
 - name: Sun Gallant Demi
   github: https://github.com/dim13/gallant
-  descr: |-
-        -   [ttf](https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf)
+  download_url: https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf
 - name: Tamsyn
   url: http://www.fial.com/~scott/tamsyn-font/
   descr: bitmap-only
@@ -514,7 +520,7 @@
 - name: Unix-originated terminal fonts for Windows
   url: http://christian.lestrade.free.fr/fonts.html
   descr: |-
-        -   Includes some of the X fonts and some VGA fonts.  Also apparently includes VT330?
+    Includes some of the X fonts and some VGA fonts.  Also apparently includes VT330?
 - name: Unix PC 3B1
   github: https://github.com/brandon-rhodes/unixpc-font-bdf
 - name: UNSCII
@@ -532,7 +538,7 @@
   descr: '[chinese]'
 - name: Whois Mono
   url: https://uncut.wtf/monospace/whois/
-  descr: '[github](https://github.com/raphaelbastide/Whois-mono)'
+  github: https://github.com/raphaelbastide/Whois-mono
 - name: Writer
   github: https://github.com/tonsky/font-writer
 - name: Wumpus Mono
@@ -620,5 +626,6 @@
   url: https://www.nerdfonts.com/
   descr: |-
     aggregates icon fonts like fontawesome
-        -   NOTE: some fonts are renamed, possibly due to font name restrictions à la Computer Modern Roman
-            (i.e., Reserved Font Names)
+  notes: |-
+    some Nerd Fonts are renamed due to restrictions on use of their
+    Reserved Font Names.
