@@ -250,6 +250,7 @@
     -   Misc Fixed
     -   Sony Fixed
     -   Type 1 of Bitstream Courier
+-   [Zed Mono](https://github.com/zed-industries/zed-fonts), based on Iosevka
 
 ## Paid
 
