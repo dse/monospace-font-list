@@ -5,6 +5,7 @@
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter) - Arabic typewriter typeface
 -   [Angelus III](https://www.myfonts.com/collections/angelus-iii-font-scriptorium)
 -   [Audimat Mono](https://www.fontsquirrel.com/fonts/audimat-mono) - NOTE: its designer [discourages](https://www.smeltery.net/en/fonts/dead) its use
+-   [Average Mono](https://fontlibrary.org/en/font/average-mono) - an "average" of 13 variants of Courier.
 -   [Azeret Mono](https://uncut.wtf/monospace/azeret-mono/)
 -   [B612 Mono](https://b612-font.com/) - cockpit screen font
 -   [Basier Mono](https://www.atipofoundry.com/fonts/basier-mono) - pay what you want
@@ -12,6 +13,7 @@
 -   [Befont](https://codeberg.org/Wezl/fonts#befont-https-ermineii-github-io-befont-html)
     -   [Befunge](https://ermineii.github.io/befont.html)
 -   [Bino Mono](https://www.fontyukle.net/font/Bino-Mono)
+-   [Bitstream Courier 10 Pitch](https://gitlab.freedesktop.org/xorg/font/bitstream-type1), distributed in Type 1 format with X11.
 -   [BIZ UDMincho](https://uncut.wtf/monospace/biz-udmincho/)
 -   [BQN386](https://dzaima.github.io/BQN386/) [apl]
 -   [CATV 6x12 9](https://fontlibrary.org/en/font/catv-6x12-9)
@@ -20,6 +22,9 @@
     -   [CMU Typewriter](https://fontlibrary.org/en/font/cmu-typewriter)
     -   [Latin Modern Mono] (GUST e-foundry)
 -   [Computer Speak](https://fontlibrary.org/en/font/computer-speak)
+-   [Courier Prime](https://quoteunquoteapps.com/courierprime/), a variant with an italic designed for screenwriters
+    -   Courier Prime Sans is a sans-serif variant.
+    -   Courier Prime Code, a sans-serif variant with coding features.
 -   [Crystal](http://www.povray.org/povlegal.html) (via <https://www.lowing.org/fonts/>)
 -   [Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono)
 -   [DM Mono](https://github.com/googlefonts/dm-mono)
@@ -41,11 +46,14 @@
 -   [Générale Mono](https://fontlibrary.org/en/font/generalemono)
 -   [Générale Station](https://www.tunera.xyz/fonts/generale-station/)
 -   [Glovis](https://fontsempire.com/font/glovis-download/) - italic old-timey
+-   [GNU FreeMono](https://www.gnu.org/software/freefont/) is also derived from Nimbus Mono.
 -   [Heming](https://uncut.wtf/monospace/heming/)
+-   [IBM Courier](https://gitlab.freedesktop.org/xorg/font/ibm-type1), distributed in Type 1 format with X11.
 -   [KP Monospaced](https://tug.org/FontCatalogue/kpmonospaced/)
 -   [Kawkab Mono](https://makkuk.com/kawkab-mono/) - Arabic monospace typeface -
 -   [Kepler-452b](https://github.com/weirdoonthebus/Kepler-452b) -
 -   [Kosugi Maru](https://fonts.google.com/specimen/Kosugi+Maru)
+-   [Larabiefont](https://typodermicfonts.com/larabiefont/) [paid but regular is free]
 -   [Lekton](https://fonts.google.com/specimen/Lekton)
 -   [Linux Libertine Mono](https://sourceforge.net/projects/linuxlibertine/)
 -   [Lovematrix](https://fontlibrary.org/en/font/dejavu-markup), a hearty version of mnicmp
@@ -58,11 +66,14 @@
 -   [Modd](http://nikolas.us.to/jmkfonts/)
 -   [Mono Spatial](https://www.dafont.com/mono-spatial.font)
 -   [Monocto](https://www.myfonts.com/collections/monocto-font-lafonts)
+-   [Monoflow](https://finaltype.de/en/projects/monoflow) [paid with one weight free]
 -   [Monofur](https://www.dafont.com/monofur.font)
 -   [Monor](https://uncut.wtf/monospace/monor/)
 -   [Monospace](https://www.fontspace.com/monospace-font-f13274) 
+-   [Monostep](https://www.myfonts.com/collections/monostep-font-yokkmokk?srsltid=AfmBOoqno5fgZH1DJ4LtsgSkZpVWq9gatAHeaurM7x4If7sG4OoDpGsl) [paid but at least one weight available free]
 -   [Necto Mono](https://www.collletttivo.it/typefaces/necto-mono)
 -   [Neep](http://nikolas.us.to/jmkfonts/)
+-   [Nimbus Mono L](https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree) is URW++'s Courier clone, distributed with Ghostscript.
 -   [Normafixed](https://www.dafont.com/normafixed.font)
 -   [NotCourierSans](https://usemodify.com/fonts/notcouriersans/)
 -   [Nova Mono](https://fonts.google.com/specimen/Nova+Mono)
@@ -104,6 +115,7 @@
 -   [Telegrama](https://www.fontsquirrel.com/fonts/telegrama)
 -   [Telerysm Mono 2](https://www.smeltery.net/en/fonts/telerysm-mono-2)
 -   [Tewi](https://github.com/lucy/tewi-font)
+-   [TeX Gyre Cursor](https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html) adds Vietnamese glyphs, etc. to Nimbus Mono.
 -   [Thermo](https://lineto.com/typefaces/thermo) [display]
 -   [ThreeFourTwoTwo](https://fontlibrary.org/en/font/threefourtwotwo) based on an old LED display
 -   [Topaz-8](https://fonts2u.com/topaz-8.font) - recreation of an Amiga font
@@ -137,12 +149,19 @@
 -   [Basis Grotesque Mono](https://www.colophon-foundry.org/typefaces/basis-grotesque-mono)
 -   [Belinsky](https://tosche.net/fonts/belinsky)
 -   [Bergen Mono](https://elements.envato.com/bergen-mono-942DQ4)
+-   [Bitstream Pica 10 Pitch](https://www.myfonts.com/collections/pica-10-pitch-font-bitstream)
 -   [Bradford Mono](https://lineto.com/typefaces/bradford-mono)
 -   [Centima Mono](http://www.tipografiaramis.com/centima-mono.html)
 -   [Circular Mono](https://lineto.com/typefaces/circular-mono)
 -   [Codo Mono](https://wearecolt.com/product/codo-mono/)
 -   [Colón Mono](http://www.tipografiaramis.com/coloacuten-mono.html)
 -   [Concursico Mono BTN](https://www.youworkforthem.com/font/19425/concursico-mono-btn)
+-   [Courier EF](https://www.myfonts.com/collections/courier-b-font-elsner-flake) by Elsner+Flake.
+-   [Courier Line Draw](https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging) from Monotype.
+-   [Courier M](https://www.myfonts.com/collections/courier-font-urw) by URW.
+-   [Courier PS](https://www.myfonts.com/collections/courier-ps-font-monotype-imaging) by Monotype.
+-   [Courier SB](https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection) by Scangraphic Digital
+-   [Courier Sans Mono](https://lineto.com/typefaces/courier-sans-mono) from Lineto.
 -   [Cumberland](https://www.myfonts.com/collections/cumberland-font-monotype-imaging)
 -   [DF Staple Mono](https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts)
 -   [Decima Mono Pro](http://www.tipografiaramis.com/decima-mono-pro.html)
@@ -154,11 +173,14 @@
 -   [Dottie](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [EB Jessica](https://www.myfonts.com/collections/eb-jessica-font-erik-bertell) [display]
 -   [EF Cash](https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake)
+-   [FF Elementa](https://www.myfonts.com/collections/elementa-pro-font-fontfont) [old]
+-   [EF Techno Script](https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake) [old-ish]
 -   [Euclid Mono](https://www.swisstypefaces.com/lab/#Euclid%20Mono)
 -   [Excellent](https://lineto.com/typefaces/excellent)
 -   [Fabrikat Mono](https://www.hvdfonts.com/fonts/fabrikat-mono)
 -   [Feggolite Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [FF Attribute Mono](https://viktornuebel.com/retail-fonts/attribute/)
+-   [FF Elementa](https://www.myfonts.com/collections/elementa-pro-font-fontfont) [old]
 -   [FF Fago Monospaced](https://www.myfonts.com/collections/fago-monospace-font-fontfont)
 -   [FF Magda Clean Mono](https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont)
 -   [FF Nexus Typewriter](https://www.myfonts.com/collections/nexus-typewriter-pro-font-martin-majoor)
@@ -180,6 +202,7 @@
 -   [Interstate Mono](https://fonts.adobe.com/fonts/interstate-mono)
 -   [Intimo](https://www.myfonts.com/collections/intimo-font-alias-collection)
 -   [Irritation](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Italian Typewriter](https://www.studiodilena.com/en/italian_typewriter.html)
 -   [JetJane Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Karben 105 Mono](https://www.myfonts.com/collections/karben-105-mono-font-talbot-type)
 -   [Karben 205 Mono](https://www.myfonts.com/collections/karben-205-mono-font-talbot-type)
@@ -190,6 +213,7 @@
 -   [Larabiefont](https://typodermicfonts.com/larabiefont/) [paid but regular is free]
 -   [Lettera Mono](https://lineto.com/typefaces/lettera-mono)
 -   [Linefeed](https://typodermicfonts.com/linefeed/) [line printer inspired]
+-   [LTC Remington Typewriter](https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company)
 -   [Maison Mono](https://www.myfonts.com/products/maison-mono-pack-package-944927)
 -   [Maison Neue Mono](https://www.myfonts.com/products/maison-neue-mono-pack-package-616078)
 -   [Mingray Mono](https://www.myfonts.com/collections/mingray-mono-font-rekord)
@@ -200,6 +224,7 @@
 -   [Monoist](https://hanken.co/products/monoist) [paid but CHEAP]
 -   [Monosten](https://www.colophon-foundry.org/typefaces/monosten)
 -   [Monostep](https://www.myfonts.com/collections/monostep-font-yokkmokk?srsltid=AfmBOoqno5fgZH1DJ4LtsgSkZpVWq9gatAHeaurM7x4If7sG4OoDpGsl) [paid but at least one weight available free]
+-   [Monotype Typewriter](https://www.myfonts.com/products/typewriter-complete-family-pack-package-432181)
 -   [MVB Fantabular](https://www.myfonts.com/collections/mvb-fantabular-font-mvb)
 -   [MVB Fantabular Sans](https://www.myfonts.com/collections/mvb-fantabular-sans-font-mvb)
 -   NB Architekt
@@ -219,6 +244,7 @@
 -   [Panama Monospace](https://www.featuredtype.com/typefaces/panama)
 -   [Parse Grotesk Mono](https://archetype-foundry.com/parse-grotesk-mono)
 -   [PF Das Grot Mono](https://parachutefonts.com/typeface/Das-Grot-Mono)
+-   [Pitch](https://klim.co.nz/retail-fonts/pitch/) [old typewriter inspired]
 -   [Platelet](https://www.emigre.com/Fonts/Platelet)
 -   [Plotter Mono](https://www.typotheque.com/fonts/plotter-mono)
 -   [Polli Sans Mono](https://www.myfonts.com/collections/polli-sans-font-will-albin-clark)
@@ -246,6 +272,7 @@
 -   [Telegramo](https://www.myfonts.com/collections/telegramo-font-volcano)
 -   [Tired of Courier](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Typewalk Mono 1915](https://www.myfonts.com/collections/typewalk-mono-1915-font-typocalypse)
+-   [Typist Slab Mono](https://www.myfonts.com/collections/typist-slab-font-vanderkeur) [old-ish]
 -   [Unotype](https://www.myfonts.com/collections/unotype-font-monotype-imaging)
 -   [Valentine](https://legacy.lineto.com/The+Fonts/Font+Categories/Monospaced+Fonts/Valentine/)
 -   [Vidilex](https://www.myfonts.com/collections/vidilex-font-scriptorium)
@@ -284,29 +311,29 @@ preceding typewriter since _c._ 1880.
 The Courier name and typeface design are essentially in the public
 domain, thanks to which numerous clones are available.
 
-1.  [Average Mono](https://fontlibrary.org/en/font/average-mono) - an "average" of 13 variants of Courier.
-1.  [IBM Courier](https://gitlab.freedesktop.org/xorg/font/ibm-type1), distributed in Type 1 format with X11.
-1.  [Bitstream Courier 10 Pitch](https://gitlab.freedesktop.org/xorg/font/bitstream-type1), distributed in Type 1 format with X11.
+-   [Average Mono](https://fontlibrary.org/en/font/average-mono) - an "average" of 13 variants of Courier.
+-   [IBM Courier](https://gitlab.freedesktop.org/xorg/font/ibm-type1), distributed in Type 1 format with X11.
+-   [Bitstream Courier 10 Pitch](https://gitlab.freedesktop.org/xorg/font/bitstream-type1), distributed in Type 1 format with X11.
     -   [Courier Code](https://fontlibrary.org/en/font/courier-code), which modifies Courier 10 Pitch BT to make the lower case L and digit 0 more distinguishable
-1.  [Courier Final Draft], distributed with Final Draft software
-1.  [Courier Screenplay], distributed with Fade In, professional screenwriting software
-1.  [Courier Standard], distributed with Adobe Reader 6
-1.  [Dark Courier], developed by HP as a thicker alternative
-1.  [Courier New], one of Microsoft's Core Fonts for the Web
-1.  [Courier Prime](https://quoteunquoteapps.com/courierprime/), a variant with an italic designed for screenwriters
+-   [Courier Final Draft], distributed with Final Draft software
+-   [Courier Screenplay], distributed with Fade In, professional screenwriting software
+-   [Courier Standard], distributed with Adobe Reader 6
+-   [Dark Courier], developed by HP as a thicker alternative
+-   [Courier New], one of Microsoft's Core Fonts for the Web
+-   [Courier Prime](https://quoteunquoteapps.com/courierprime/), a variant with an italic designed for screenwriters
     -   Courier Prime Sans is a sans-serif variant.
     -   Courier Prime Code, a sans-serif variant with coding features.
-1.  [Nimbus Mono L](https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree) is URW++'s Courier clone, distributed with Ghostscript.
+-   [Nimbus Mono L](https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree) is URW++'s Courier clone, distributed with Ghostscript.
     -   [TeX Gyre Cursor](https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html) adds Vietnamese glyphs, etc. to Nimbus Mono.
     -   [GNU FreeMono](https://www.gnu.org/software/freefont/) is also derived from Nimbus Mono.
-1.  [Courier Sans Mono](https://lineto.com/typefaces/courier-sans-mono) from Lineto.
-1.  [Courier Line Draw](https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging) from Monotype.
-1.  [Courier MM Screenwriter], distributed with Movie Magic Screenwriter.
-1.  [Courier M](https://www.myfonts.com/collections/courier-font-urw) by URW.
-1.  [Courier PS](https://www.myfonts.com/collections/courier-ps-font-monotype-imaging) by Monotype.
-1.  [Courier SB](https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection) by Scangraphic Digital
-1.  [Courier EF](https://www.myfonts.com/collections/courier-b-font-elsner-flake) by Elsner+Flake.
-1.  [distributed by the Thai Linux Working Group](https://github.com/tlwg/fonts-tlwg/tree/master/tlwg):
+-   [Courier Sans Mono](https://lineto.com/typefaces/courier-sans-mono) from Lineto.
+-   [Courier Line Draw](https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging) from Monotype.
+-   [Courier MM Screenwriter], distributed with Movie Magic Screenwriter.
+-   [Courier M](https://www.myfonts.com/collections/courier-font-urw) by URW.
+-   [Courier PS](https://www.myfonts.com/collections/courier-ps-font-monotype-imaging) by Monotype.
+-   [Courier SB](https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection) by Scangraphic Digital
+-   [Courier EF](https://www.myfonts.com/collections/courier-b-font-elsner-flake) by Elsner+Flake.
+-   [distributed by the Thai Linux Working Group](https://github.com/tlwg/fonts-tlwg/tree/master/tlwg):
     -   TlwgMono
     -   Tlwg Typewriter
     -   Tlwg Typist

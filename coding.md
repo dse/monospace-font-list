@@ -26,6 +26,7 @@
 -   [Atarist](https://github.com/ntwk/atarist-font)
 -   [AudioLink Mono](https://audiolink.dev/) and AudioLink Console
 -   [Aurulent Sans Mono](https://www.dafont.com/aurulent-sans-mono.font)
+-   [Average Mono](https://fontlibrary.org/en/font/average-mono) - an "average" of 13 variants of Courier.
 -   [Basically A Mono](https://uncut.wtf/monospace/basically-a-mono/)
 -   [Binchotan](https://rvklein.me/proj/binchotan/)
 -   [Bizcat](https://robey.lag.net/2020/02/09/bizcat-bitmap-font.html)
@@ -151,6 +152,7 @@
 -   [MonoOne](https://github.com/zlsa/monoOne)
 -   [MonteCarlo (programmer font)](https://www.bok.net/MonteCarlo/)
 -   [Nanum Gothic Coding](https://github.com/emersion/nanum-gothic-coding)
+-   [Native](https://fortfoundry.com/fonts/native) - paid typeface with a freely available regular weight
 -   [Natural Mono](https://fontlibrary.org/en/font/natural-mono) - based on Noto Mono, with alt versions of "i" and "l" (lower case I and L).
 -   [Necto Mono](https://uncut.wtf/monospace/necto-mono/)
 -   [Neomatrix Code](https://fontlibrary.org/en/font/neomatrixcode)
@@ -258,7 +260,7 @@
 -   [64-SRC](https://www.myfonts.com/fonts/ilott-type/64-src/)
 -   [Autocode](https://www.myfonts.com/collections/autocode-font-avp)
 -   [Autoscape](https://lineto.com/typefaces/autoscape)
--   [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/) - OCR-B inspired
+n-   [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/) - OCR-B inspired
 -   [Best Choice](https://dharmatype.com/best-choice)
 -   [Calling Code](https://dharmatype.com/calling-code)
 -   [Cartograph CF](https://connary.com/cartograph.html)
