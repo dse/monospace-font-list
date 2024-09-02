@@ -1,16 +1,3 @@
-???: [coding.md:2] 
-???: [coding.md:4] 
-???: [coding.md:140] -   Menlo - bundled with macOS, derived from Deja Vu
-???: [coding.md:143] <!-- [MesloLGS NF](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts) -->
-???: [coding.md:256] 
-???: [coding.md:258] 
-???: [coding.md:287] 
-???: [coding.md:289] 
-???: [coding.md:294] 
-???: [coding.md:295] <!-- ** For Emacs ** -->
-???: [coding.md:296] <!-- Local Variables: -->
-???: [coding.md:297] <!-- fill-column: 132 -->
-???: [coding.md:298] <!-- End: -->
 ---
 - name: 0xProto
   github: https://github.com/0xType/0xProto
@@ -20,7 +7,7 @@
   url: http://archive.vector.org.uk/resource/index.htm
 - name: Aardvark Fixed
   fontlibrary: https://fontlibrary.org/en/font/aardvark-sans
-  descr: ', a mix of Iosevka, Misc Fixed 6x13, and Office Code Pro'
+  descr: 'a mix of Iosevka, Misc Fixed 6x13, and Office Code Pro'
 - name: Acevedo
   fontlibrary: https://fontlibrary.org/en/font/acevedo
 - name: Agave
@@ -44,7 +31,7 @@
   url: https://www.marksimonson.com/fonts/view/anonymous-pro
 - name: Another Man's Treasure
   url: https://www.kreativekorp.com/software/fonts/trs80/
-  descr: ', the TRS-80 font family'
+  descr: 'the TRS-80 font family'
 - name: APL2741
   url: https://apl385.com/fonts/
 - name: APL385
@@ -284,7 +271,7 @@
   url: https://www.jetbrains.com/lp/mono/
 - name: Jozsika
   github: https://github.com/nilcons/jozsika
-  descr: ', a customized version of Iosevka'
+  descr: 'a customized version of Iosevka'
 - name: Julia Mono
   url: https://juliamono.netlify.app/
 - name: jxyahei
@@ -324,11 +311,14 @@
   descr: (download link on that page)
 - name: LVC Mono
   fontlibrary: https://fontlibrary.org/en/font/lvc-mono
-  descr: ', a variant of IBM Plex Mono'
+  descr: 'a variant of IBM Plex Mono'
 - name: M+ Fonts
   url: https://mplusfonts.github.io/
 - name: Maple Font
   github: https://github.com/subframe7536/maple-font
+- name: Menlo
+  description: bundled with macOS, derived from Deja Vu
+  # [MesloLGS NF](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts)
 - name: Mensch
   url: https://www.losttype.com/font/?name=mensch
   descr: '[pay what you want]'
@@ -409,7 +399,7 @@
   googlefonts: https://fonts.google.com/specimen/Oxygen+Mono
 - name: Pet Me
   url: https://www.kreativekorp.com/software/fonts/c64/
-  descr: ', the Commodore VIC-20, C64, and C128 font family'
+  descr: 'the Commodore VIC-20, C64, and C128 font family'
 - name: Perfect DOS VGA fonts
   url: https://laemeur.sdf.org/fonts/
   descr: 'Less Perfect, More Perfect, and Perfect'
@@ -420,7 +410,7 @@
   descr: if you like Comic Sans and are not a hater
 - name: Print Char 21 and PR Number 3
   url: https://www.kreativekorp.com/software/fonts/apple2/
-  descr: ', the Apple II fonts'
+  descr: 'the Apple II fonts'
 - name: Profont
   url: https://tobiasjung.name/profont/
 - name: Proggy Fonts
@@ -571,7 +561,7 @@
         -   Type 1 of Bitstream Courier
 - name: Zed Mono
   github: https://github.com/zed-industries/zed-fonts
-  descr: ', based on Iosevka'
+  descr: 'based on Iosevka'
 - name: 1403 Vintage Mono
   url: https://1403.slantedhall.com/
   descr: line printer inspired
