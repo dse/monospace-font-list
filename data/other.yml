@@ -22,13 +22,13 @@
   url: https://bjh21.me.uk/bedstead/
 - name: Befont
   url: https://codeberg.org/Wezl/fonts#befont-https-ermineii-github-io-befont-html
-  descr: |-
-        -   [Befunge](https://ermineii.github.io/befont.html)
+  notes: |-
+    also known as [Befunge](https://ermineii.github.io/befont.html)
 - name: Bino Mono
   url: https://www.fontyukle.net/font/Bino-Mono
 - name: Bitstream Courier 10 Pitch
   url: https://gitlab.freedesktop.org/xorg/font/bitstream-type1
-  descr: ', distributed in Type 1 format with X11.'
+  descr: 'distributed in Type 1 format with X11.'
 - name: BIZ UDMincho
   url: https://uncut.wtf/monospace/biz-udmincho/
 - name: BQN386
@@ -41,7 +41,7 @@
   descr: old-timey inspired
 - name: Computer Modern Typewriter
   url: https://en.wikipedia.org/wiki/Computer_Modern
-  descr: |-
+  variants: |-
         -   [CMU Typewriter](https://fontlibrary.org/en/font/cmu-typewriter)
         -   [Latin Modern Mono] (GUST e-foundry)
 - name: Computer Speak
@@ -51,8 +51,8 @@
   descr: |-
     a variant with an italic designed for screenwriters
   variants: |-
-        -   Courier Prime Sans is a sans-serif variant.
-        -   Courier Prime Code, a sans-serif variant with coding features.
+    -   Courier Prime Sans is a sans-serif variant.
+    -   Courier Prime Code, a sans-serif variant with coding features.
 - name: Crystal
   url: http://www.povray.org/povlegal.html
   descr: (via <https://www.lowing.org/fonts/>)
@@ -115,7 +115,7 @@
   url: https://uncut.wtf/monospace/heming/
 - name: IBM Courier
   url: https://gitlab.freedesktop.org/xorg/font/ibm-type1
-  descr: ', distributed in Type 1 format with X11.'
+  descr: 'distributed in Type 1 format with X11.'
 - name: KP Monospaced
   url: https://tug.org/FontCatalogue/kpmonospaced/
 - name: Kawkab Mono
@@ -134,7 +134,7 @@
   url: https://sourceforge.net/projects/linuxlibertine/
 - name: Lovematrix
   fontlibrary_url: https://fontlibrary.org/en/font/dejavu-markup
-  descr: ', a hearty version of mnicmp'
+  descr: 'a hearty version of mnicmp'
 - name: LT Superior Mono
   url: https://uncut.wtf/monospace/lt-superior-mono/
 - name: Major Mono Display
@@ -204,7 +204,7 @@
   descr: '[retro]'
 - name: Putintin
   fontlibrary_url: https://fontlibrary.org/en/font/putintin
-  descr: ', a font that translates Latin characters into Cyrillic characters and displays both.'
+  descr: 'a font that translates Latin characters into Cyrillic characters and displays both.'
 - name: QT Letter Goth
   url: https://www.tug.org/FontCatalogue/qtlettergoth/
 - name: QuickType Mono
@@ -515,11 +515,10 @@
   myfonts_url: https://www.myfonts.com/collections/mvb-fantabular-font-mvb
 - name: MVB Fantabular Sans
   myfonts_url: https://www.myfonts.com/collections/mvb-fantabular-sans-font-mvb
-  descr: |-2
-    
-        -   [NB Architekt R](https://neubauberlin.com/project/nb-architekt-otf-std/)
-        -   [NB Architekt Std & Neue](https://neubauberlin.com/project/nb-architekt-std-neue-edition/)
-        -   [NB Architekt MMXX](https://neubauberlin.com/project/nb-architekt-mmxx-edition/)
+  variants: |-
+    -   [NB Architekt R](https://neubauberlin.com/project/nb-architekt-otf-std/)
+    -   [NB Architekt Std & Neue](https://neubauberlin.com/project/nb-architekt-std-neue-edition/)
+    -   [NB Architekt MMXX](https://neubauberlin.com/project/nb-architekt-mmxx-edition/)
 - name: NB Typewriter
   url: https://neubauladen.com/product/nb-typewriter-pro-edition/
 - name: Name Mono
@@ -651,22 +650,25 @@
   descr: an "average" of 13 variants of Courier.
 - name: IBM Courier
   url: https://gitlab.freedesktop.org/xorg/font/ibm-type1
-  descr: ', distributed in Type 1 format with X11.'
+  descr: 'distributed in Type 1 format with X11.'
 - name: Bitstream Courier 10 Pitch
   url: https://gitlab.freedesktop.org/xorg/font/bitstream-type1
   descr: |-
-    , distributed in Type 1 format with X11.
+    distributed in Type 1 format with X11.
+  variants: |-
         -   [Courier Code](https://fontlibrary.org/en/font/courier-code), which modifies Courier 10 Pitch BT to make the lower case L and digit 0 more distinguishable
 - name: Courier Prime
   url: https://quoteunquoteapps.com/courierprime/
   descr: |-
-    , a variant with an italic designed for screenwriters
+    a variant with an italic designed for screenwriters
+  variants: |-
         -   Courier Prime Sans is a sans-serif variant.
         -   Courier Prime Code, a sans-serif variant with coding features.
 - name: Nimbus Mono L
   url: https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree
   descr: |-
     is URW++\'s Courier clone, distributed with Ghostscript.
+  variants: |-
         -   [TeX Gyre Cursor](https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html) adds Vietnamese glyphs, etc. to Nimbus Mono.
         -   [GNU FreeMono](https://www.gnu.org/software/freefont/) is also derived from Nimbus Mono.
 - name: Courier Sans Mono
@@ -690,10 +692,10 @@
 - name: distributed by the Thai Linux Working Group
   github_url: https://github.com/tlwg/fonts-tlwg/tree/master/tlwg
   descr: |-
-        -   TlwgMono
-        -   Tlwg Typewriter
-        -   Tlwg Typist
-        -   Tlwg Typo
+    -   TlwgMono
+    -   Tlwg Typewriter
+    -   Tlwg Typist
+    -   Tlwg Typo
 - name: LTC Remington Typewriter
   myfonts_url: https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company
 - name: Bitstream Pica 10 Pitch
