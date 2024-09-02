@@ -260,7 +260,7 @@
 -   [64-SRC](https://www.myfonts.com/fonts/ilott-type/64-src/)
 -   [Autocode](https://www.myfonts.com/collections/autocode-font-avp)
 -   [Autoscape](https://lineto.com/typefaces/autoscape)
-n-   [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/) - OCR-B inspired
+-   [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/) - OCR-B inspired
 -   [Best Choice](https://dharmatype.com/best-choice)
 -   [Calling Code](https://dharmatype.com/calling-code)
 -   [Cartograph CF](https://connary.com/cartograph.html)
