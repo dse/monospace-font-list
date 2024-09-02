@@ -1,6 +1,5 @@
 # My Monospace Font Projects
 
--   [X11 monospace fonts in TTF](https://github.com/dse/x11-monospace-fonts-ttf)
 -   [DSE Typewriter](https://github.com/dse/dse-typewriter-font)
 -   [DSE Typewriter Bitmap](https://github.com/dse/dse-typewriter-bitmap-font)
 -   [OG Courier (a/k/a IBM Courier)](https://github.com/dse/font-og-courier) - IBM's Type 1 version of Courier as a TTF.
