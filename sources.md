@@ -1,3 +1,13 @@
+## Comparison Shopping
+
+-   https://hackingcpp.com/dev/coding_fonts.html - a huge listing and ranking of fonts
+
+    looked through 01-SEP-2024
+    
+-   [Coding Font](https://www.codingfont.com/) - fight to the death!
+
+-   https://app.programmingfonts.org/
+
 ## Sources of Information
 
 -   https://lowing.org/fonts/ - a selection of programmer's fonts.
@@ -42,10 +52,6 @@
 
     looked through 01-SEP-2024
     
--   https://hackingcpp.com/dev/coding_fonts.html - a huge listing and ranking of fonts
-
-    looked through 01-SEP-2024
-    
 -   [On Snot and Fonts](https://luc.devroye.org/fonts.html)
     is Luc Devroye's massive zettelkasten of typeface info.
     The two categories you probably want:
@@ -53,6 +59,10 @@
     -   [Programming Fonts](https://luc.devroye.org/programming-index.html)
 
     -   [Monospace Fonts](https://luc.devroye.org/mono.html)
+
+-   [roland stroud](http://www.rolandstroud.com/Fonts-1.html)
+
+    -   Older version: https://webonastick.com/roland-stroud/courier-fonts-v1-2009-02-10.pdf
 
 ## Sources of Typefaces
 
@@ -74,8 +84,165 @@
 -   [Programming Fonts](https://github.com/ProgrammingFonts/ProgrammingFonts)
     is someone else's big collection of programmer fonts I need to go through.
 
+    looked through 01-SEP-2024
+    
 -   [FontsHub](https://fontshub.pro/category/monospaced-fonts) is a collection
     I really need to go through.
+
+    -   Aeroport
+    -   Akin
+    -   Anonymous
+    -   Anonymous Pro
+    -   Antarctican Mono
+    -   Apercu
+    -   Apercu Mono Pro
+    -   Associate Mono
+    -   At Hauss Mono
+    -   Aurulent Sans Mono
+    -   Aux Mono
+    -   Azeret Mono
+    -   B612 Mono
+    -   BPmono
+    -   BRASS MONO
+    -   Bale Mono
+    -   Basis Grotesque Mono Pro
+    -   Belwe Mono
+    -   Bitstream Vera Sans Mono
+    -   Bitter
+    -   Blacker Mono
+    -   Boliand
+    -   Boulder Mono
+    -   Cake Mono
+    -   Cake Type
+    -   CamingoCode
+    -   CamingoMono
+    -   CarbonType
+    -   Chivo Mono
+    -   Comfortaa
+    -   Consolas
+    -   Courier 10 Pitch W07
+    -   Courier 10BT
+    -   Courier New
+    -   Cousine
+    -   Crato Mono
+    -   Cubio Mono
+    -   Cutive Mono
+    -   DM Mono
+    -   De Valencia
+    -   Decima Mono Cyr
+    -   Decima Mono X
+    -   Dejavu Sans Mono
+    -   Diplomat Mono
+    -   Domino Mono
+    -   Drafting Mono
+    -   Droid Sans
+    -   Droid Sans Mono
+    -   EA Sports Cruyff Sans
+    -   EK Modena Mono
+    -   Euro Mono
+    -   Fantasque Sans Mono
+    -   Fira Code
+    -   Fira Mono
+    -   Foundation Mono
+    -   Fragment Mono
+    -   G2 TGR
+    -   GNU Free Font
+    -   General Grotesque Mono
+    -   Glitched
+    -   Gopher Mono
+    -   Grabenbach Mono
+    -   HAL Timezone
+    -   Hack
+    -   IBM Plex Mono
+    -   Inconsolata
+    -   Indicate Mono
+    -   Intel One Mono
+    -   Iverse Mono
+    -   JetBrains Mono
+    -   Klarna Text Mono
+    -   Kode Mono
+    -   Koluta
+    -   Kraft Mono
+    -   LFT Etica Mono
+    -   Latin Modern Mono
+    -   Liberation Mono
+    -   Libertad Mono
+    -   Luma Mono
+    -   Luxi Mono
+    -   M PLUS 1 Code
+    -   M PLUS Code Latin
+    -   M+ 1m
+    -   Major Mono Display
+    -   Martha
+    -   Martian Mono
+    -   Matahari Sans Mono
+    -   Menlo
+    -   Messina Sans Mono
+    -   Method Mono
+    -   Mixcoatl Mono
+    -   Monaco
+    -   Mono45 Headline
+    -   Monoela
+    -   Monograf
+    -   MonospaceTypewriter
+    -   Monospasz
+    -   Monument Grotesk
+    -   Nanum Gothic Coding
+    -   Native
+    -   Nimbus Mono
+    -   Nimbus Roman Mono
+    -   Noplato Mono
+    -   NotCourierSans
+    -   Noto Mono
+    -   Noto Sans Mono
+    -   Nova Mono
+    -   Odd Mono
+    -   Office Code Pro
+    -   Overpass Mono
+    -   Oxygen Mono
+    -   PF Din Mono
+    -   PL OCR B
+    -   PT Mono
+    -   Pitch
+    -   Plat Mono
+    -   Postertoaster mono
+    -   Prompt
+    -   Proto Mono
+    -   Qirate Mono
+    -   Queue Mono
+    -   RM Mono
+    -   RX 100
+    -   Rand Mono
+    -   Rational TW
+    -   Red Hat Mono
+    -   Reddit Mono
+    -   Road Radio
+    -   Roboto Condensed
+    -   Roboto Mono
+    -   Rubik Mono One
+    -   Sauna Mono Pro
+    -   Share Tech Mono
+    -   Sicret Mono
+    -   Sometype Mono
+    -   Source Code Pro
+    -   Space Mono
+    -   Tabac Mono
+    -   Tchig Mono
+    -   TeX Gyre Cursor
+    -   Technik Mono
+    -   Trip Sans
+    -   Typewriter Royale
+    -   Uber Move Mono
+    -   Ubuntu Mono
+    -   VT323
+    -   Verily Serif Mono
+    -   Wire Type Mono
+    -   Work Sans
+    -   Wudoo Mono
+    -   Xanh Mono
+    -   Yanone Kaffeesatz
+    -   Zeitung Mono Pro
+    -   iA Writer Duospace
 
 -   [bitmap-fonts](https://github.com/Tecate/bitmap-fonts) is a collection of monospaced bitmap fonts for X11
     that I also need to look through.
@@ -112,12 +279,9 @@
 -   https://news.ycombinator.com/item?id=34777325
 -   https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace
 -   https://damieng.com/typography/
--   [Coding Font](https://www.codingfont.com/) - fight to the death!
 -   [awesome-fonts](https://github.com/brabadu/awesome-fonts)
--   [roland stroud](http://www.rolandstroud.com/Fonts-1.html)
 -   http://consowah.blogspot.com/2007/06/monospacefixed-width-programmers-fonts.html
 -   [cfcl.com](http://www.cfcl.com/vlb/h/fontmono.html)
--   https://app.programmingfonts.org/
 -   https://awesomeopensource.com/projects/monospace-font **perusing**
 -   https://venam.net/blog/unix/2017/06/04/fonts-on-unix.html
 -   [Electronic Font Open Laboratory](http://openlab.ring.gr.jp/efont/index.html.en)
