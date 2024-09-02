@@ -33,7 +33,7 @@
 -   [PixSymbols Courex]
 -   [Press Start]
 -   [Press Start K]
--   [Print Out]
+-   [Print Out](https://www.cs.princeton.edu/~bwk/202/)
 -   [Rebel]
 -   [Segoe UI Mono]
 -   [Sheldon] (profont?)
@@ -45,7 +45,6 @@
 # Works In Progress
 
 -   [Smol Typo](https://old.reddit.com/r/typography/comments/1f2qpdq/my_first_font_a_family_pack_smol_typo_font/)
-
 
 <!-- ** For Emacs ** -->
 <!-- Local Variables: -->
