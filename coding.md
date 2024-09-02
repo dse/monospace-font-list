@@ -18,8 +18,8 @@
 -   [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 -   [Another Man's Treasure](https://www.kreativekorp.com/software/fonts/trs80/), the TRS-80 font family
 -   [APL2741](https://apl385.com/fonts/)
--   [**APL386**](https://abrudz.github.io/APL386/) - slight Comic Sans vibe
-    -   based on [APL385](https://apl385.com/fonts/)
+-   [APL385](https://apl385.com/fonts/) - slight Comic Sans vibe - use APL386 instead
+-   [**APL386**](https://abrudz.github.io/APL386/) - slight Comic Sans vibe - based on APL385
 -   [APLX](https://www.dyalog.com/aplx.htm)
 -   [Arev](http://tavmjong.free.fr/FONTS/) - derived from Deja Vu Sans Mono
 -   [Astigmata](https://medium.com/codex/astigmata-my-monospace-programming-font-b28ccfa9b025)
@@ -27,7 +27,7 @@
 -   [AudioLink Mono](https://audiolink.dev/) and AudioLink Console
 -   [Aurulent Sans Mono](https://www.dafont.com/aurulent-sans-mono.font)
 -   [Average Mono](https://fontlibrary.org/en/font/average-mono) - an "average" of 13 variants of Courier.
--   [Basically A Mono](https://uncut.wtf/monospace/basically-a-mono/)
+-   [Basically A Mono](https://uncut.wtf/monospace/basically-a-mono/) - [also](https://experi.mentallydesigned.com/type/bam/)
 -   [Binchotan](https://rvklein.me/proj/binchotan/)
 -   [Bizcat](https://robey.lag.net/2020/02/09/bizcat-bitmap-font.html)
 -   [Bmono](https://github.com/NNBnh/bmono)
