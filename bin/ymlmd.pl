@@ -8,7 +8,6 @@ local $/ = undef;
 while (<>) {
     my @docs = YAML::Load($_);
     foreach my $doc (@docs) {
-        printf("%s\n", ref($doc));
         if (ref $doc ne 'ARRAY') {
             printf("\n\`\`\`\n%s\n\`\`\`\n\n", YAML::Dump($doc));
             next;
