@@ -145,8 +145,8 @@
 - name: Droid Sans Mono
   url: https://damieng.com/blog/2007/11/14/droid-sans-mono-great-coding-font/
   variants: |-
-        -   [dotted and slashed zero variants](https://www.cosmix.org/software/)
-        -   [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
+    -   [dotted and slashed zero variants](https://www.cosmix.org/software/)
+    -   [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
 - name: Edlo
   github_url: https://github.com/ehamiter/Edlo
 - name: Envy Code B
@@ -240,9 +240,9 @@
   descr: |-
     includes a mono variant, **IBM Plex Mono**
   variants: |-
-        -   [iA Writer Mono](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono)
-        -   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
-        -   [Terminex](https://github.com/vsalvino/terminex) [free] derived from IBM Plex Mono
+    -   [iA Writer Mono](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono)
+    -   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
+    -   [Terminex](https://github.com/vsalvino/terminex) [free] derived from IBM Plex Mono
 - name: Illinois Mono
   github_url: https://github.com/MadSimple/illinois-mono
   descr: 'based on an interesting project called [Lexend](https://www.lexend.com/)'
@@ -252,11 +252,11 @@
 - name: Inconsolata
   url: https://levien.com/type/myfonts/inconsolata.html
   variants: |-
-        -   [Inconsolata Light](https://github.com/googlefonts/Inconsolata/blob/main/fonts/ttf/Inconsolata-Light.ttf)
-        -   [Inconsolata-g](https://leonardo-m.livejournal.com/77079.html), Inconsolata with some changes
-        -   [Inconsolata-dz](https://nodnod.net/posts/inconsolata-dz/), another altered Inconsolata
-        -   [Inconsolata Go](https://levien.com/type/myfonts/inconsolata/), Inconsolata author's alteration with straight quotes
-        -   [Inconsolata LGC](https://github.com/DeLaGuardo/Inconsolata-LGC) - adds Cyrillic alphabet
+    -   [Inconsolata Light](https://github.com/googlefonts/Inconsolata/blob/main/fonts/ttf/Inconsolata-Light.ttf)
+    -   [Inconsolata-g](https://leonardo-m.livejournal.com/77079.html), Inconsolata with some changes
+    -   [Inconsolata-dz](https://nodnod.net/posts/inconsolata-dz/), another altered Inconsolata
+    -   [Inconsolata Go](https://levien.com/type/myfonts/inconsolata/), Inconsolata author's alteration with straight quotes
+    -   [Inconsolata LGC](https://github.com/DeLaGuardo/Inconsolata-LGC) - adds Cyrillic alphabet
 - name: Input Mono
   url: https://input.djr.com/
   descr: 'personal use free, public-facing use paid'
@@ -266,7 +266,7 @@
 - name: Iosevka
   url: https://typeof.net/Iosevka/
   variants: |-
-        -   [Iosevka VardanPro](https://github.com/varp/VardanPro-Fonts)
+    -   [Iosevka VardanPro](https://github.com/varp/VardanPro-Fonts)
 - name: Jetbrains Mono
   url: https://www.jetbrains.com/lp/mono/
 - name: Jozsika
@@ -378,9 +378,9 @@
   descr: |-
     derived from Source Code Pro
   variants: |-
-        -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
-            -   derived from Source Code Pro and Noto Sans JP.
-            -   No significant changes other than mixing.
+    -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
+        -   derived from Source Code Pro and Noto Sans JP.
+        -   No significant changes other than mixing.
 - name: Old School PC Fonts
   url: https://int10h.org/oldschool-pc-fonts/fontlist/
   notes: |-
@@ -508,7 +508,8 @@
   github_url: https://github.com/sterpe/ti92plus
   descr: |-
     TI92PLUSPC.TTF with encoding fixes
-        -   based on [Ti92Pluspc](https://fontsgeek.com/fonts/Ti92Pluspc-Regular)
+  notes: |-
+    based on [Ti92Pluspc](https://fontsgeek.com/fonts/Ti92Pluspc-Regular)
 - name: Triskweline
   url: https://www.netalive.org/tinkering/triskweline/
 - name: TT2020
@@ -547,13 +548,13 @@
   url: https://gitlab.freedesktop.org/xorg/font
   descr: |-
     among which are some good bitmap coding fonts:
-        -   Adobe Courier
-        -   B&H Lucida Typewriter
-        -   Bitstream Terminal
-        -   DEC Terminal
-        -   Misc Fixed
-        -   Sony Fixed
-        -   Type 1 of Bitstream Courier
+    -   Adobe Courier
+    -   B&H Lucida Typewriter
+    -   Bitstream Terminal
+    -   DEC Terminal
+    -   Misc Fixed
+    -   Sony Fixed
+    -   Type 1 of Bitstream Courier
 - name: Zed Mono
   github_url: https://github.com/zed-industries/zed-fonts
   descr: 'based on Iosevka'
