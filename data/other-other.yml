@@ -1,0 +1,72 @@
+---
+- name: Average Mono
+  fontlibrary_url: https://fontlibrary.org/en/font/average-mono
+  descr: an "average" of 13 variants of Courier.
+- name: IBM Courier
+  url: https://gitlab.freedesktop.org/xorg/font/ibm-type1
+  descr: 'distributed in Type 1 format with X11.'
+- name: Bitstream Courier 10 Pitch
+  url: https://gitlab.freedesktop.org/xorg/font/bitstream-type1
+  descr: |-
+    distributed in Type 1 format with X11.
+  variants: |-
+        -   [Courier Code](https://fontlibrary.org/en/font/courier-code), which modifies Courier 10 Pitch BT to make the lower case L and digit 0 more distinguishable
+- name: Courier Prime
+  url: https://quoteunquoteapps.com/courierprime/
+  descr: |-
+    a variant with an italic designed for screenwriters
+  variants: |-
+        -   Courier Prime Sans is a sans-serif variant.
+        -   Courier Prime Code, a sans-serif variant with coding features.
+- name: Nimbus Mono L
+  url: https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree
+  descr: |-
+    is URW++\'s Courier clone, distributed with Ghostscript.
+  variants: |-
+        -   [TeX Gyre Cursor](https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html) adds Vietnamese glyphs, etc. to Nimbus Mono.
+        -   [GNU FreeMono](https://www.gnu.org/software/freefont/) is also derived from Nimbus Mono.
+- name: Courier Sans Mono
+  url: https://lineto.com/typefaces/courier-sans-mono
+  descr: from Lineto.
+- name: Courier Line Draw
+  myfonts_url: https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging
+  descr: from Monotype.
+- name: Courier M
+  myfonts_url: https://www.myfonts.com/collections/courier-font-urw
+  descr: by URW.
+- name: Courier PS
+  myfonts_url: https://www.myfonts.com/collections/courier-ps-font-monotype-imaging
+  descr: by Monotype.
+- name: Courier SB
+  myfonts_url: https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection
+  descr: by Scangraphic Digital
+- name: Courier EF
+  myfonts_url: https://www.myfonts.com/collections/courier-b-font-elsner-flake
+  descr: by Elsner+Flake.
+- name: distributed by the Thai Linux Working Group
+  github_url: https://github.com/tlwg/fonts-tlwg/tree/master/tlwg
+  descr: |-
+    -   TlwgMono
+    -   Tlwg Typewriter
+    -   Tlwg Typist
+    -   Tlwg Typo
+- name: LTC Remington Typewriter
+  myfonts_url: https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company
+- name: Bitstream Pica 10 Pitch
+  myfonts_url: https://www.myfonts.com/collections/pica-10-pitch-font-bitstream
+- name: Monotype Typewriter
+  myfonts_url: https://www.myfonts.com/products/typewriter-complete-family-pack-package-432181
+- name: Italian Typewriter
+  url: https://www.studiodilena.com/en/italian_typewriter.html
+- name: Pitch
+  url: https://klim.co.nz/retail-fonts/pitch/
+  descr: '[old typewriter inspired]'
+- name: EF Techno Script
+  myfonts_url: https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake
+  descr: '[old-ish]'
+- name: FF Elementa
+  myfonts_url: https://www.myfonts.com/collections/elementa-pro-font-fontfont
+  descr: '[old]'
+- name: Typist Slab Mono
+  myfonts_url: https://www.myfonts.com/collections/typist-slab-font-vanderkeur
+  descr: '[old-ish]'
