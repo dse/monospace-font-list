@@ -45,7 +45,8 @@ while (<>) {
             }
             my $variants = delete $item->{variants};
             if (defined $variants) {
-                print(indent(trimnorm($variants), "    -   ", "        "));
+                print("    -   Variants:\n");
+                print(indent(trimnorm($variants), "        ", "        "), "\n");
             }
         }
     }
