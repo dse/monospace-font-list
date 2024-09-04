@@ -43,8 +43,8 @@
 - name: Computer Modern Typewriter
   url: https://en.wikipedia.org/wiki/Computer_Modern
   variants: |-
-        -   [CMU Typewriter](https://fontlibrary.org/en/font/cmu-typewriter)
-        -   [Latin Modern Mono] (GUST e-foundry)
+    -   [CMU Typewriter](https://fontlibrary.org/en/font/cmu-typewriter)
+    -   [Latin Modern Mono] (GUST e-foundry)
 - name: Computer Speak
   fontlibrary_url: https://fontlibrary.org/en/font/computer-speak
 - name: Courier Prime
