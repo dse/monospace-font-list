@@ -175,14 +175,15 @@
 -   [Century Schoolbook Monospace](https://www.myfonts.com/products/century-schoolbook-monospaced-10058-century-schoolbook-435037)
 -   [PF DIN Monospaced](https://parachutefonts.com/typeface/DIN-Monospace)
 -   [ITC Souvenir Monospaced](https://www.myfonts.com/collections/souvenir-monospaced-font-itc)
-    -   
 -   Univers Next Typewriter
-    -   -   [430 Regular](https://www.myfonts.com/products/typewriter-pro-430-regular-3-univers-next-356583)
+    -   includes the following:
+        -   [430 Regular](https://www.myfonts.com/products/typewriter-pro-430-regular-3-univers-next-356583)
         -   [431 Italic](https://www.myfonts.com/products/pro-431-typewriter-italic-univers-next-356590)
         -   [630 Bold](https://www.myfonts.com/products/pro-630-typewriter-bold-univers-next-356596)
         -   [631 Bold Italic](https://www.myfonts.com/products/pro-631-typewriter-bold-italic-univers-next-356600)
 -   Helvetica
-    -   -   [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono) - based on URW Nimbus Sans, a Helvetica clone
+    -   has the following monospace variants:
+        -   [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono) - based on URW Nimbus Sans, a Helvetica clone
         -   [Helvetica Monospaced](https://www.myfonts.com/collections/helvetica-monospaced-font-linotype)
         -   [Monospace 821](https://www.myfonts.com/collections/monospace-821-font-bitstream)
 -   [Unica77 Mono](https://lineto.com/typefaces/unica77-mono)

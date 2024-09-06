@@ -1,11 +1,15 @@
--   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
+-   Amiri Typewriter
     -   Arabic typewriter typeface
+    -   [source](https://github.com/aliftype/amiri-typewriter)
 -   [Angelus III](https://www.myfonts.com/collections/angelus-iii-font-scriptorium)
 -   [Audimat Mono](https://www.fontsquirrel.com/fonts/audimat-mono)
     -   its designer [discourages](https://www.smeltery.net/en/fonts/dead) its use
 -   [Average Mono](https://fontlibrary.org/en/font/average-mono)
     -   an "average" of 13 variants of Courier.
--   [Azeret Mono](https://uncut.wtf/monospace/azeret-mono/)
+-   [Azeret Mono](https://displaay.net/typeface/azeret/azeret-mono/)
+    -   [googlefonts](https://fonts.google.com/specimen/Azeret+Mono)
+    -   [fontshare](https://www.fontshare.com/fonts/azeret-mono)
+    -   [uncut](https://uncut.wtf/monospace/azeret-mono/)
 -   [B612 Mono](https://b612-font.com/)
     -   cockpit screen font
 -   [Basier Mono](https://www.atipofoundry.com/fonts/basier-mono)
@@ -16,7 +20,9 @@
 -   [Bino Mono](https://www.fontyukle.net/font/Bino-Mono)
 -   [Bitstream Courier 10 Pitch](https://gitlab.freedesktop.org/xorg/font/bitstream-type1)
     -   distributed in Type 1 format with X11.
--   [BIZ UDMincho](https://uncut.wtf/monospace/biz-udmincho/)
+-   [BIZ UDMincho](https://fonts.google.com/specimen/BIZ+UDMincho)
+    -   [microsoft](https://learn.microsoft.com/en-us/typography/font-list/biz-udmincho-medium)
+    -   [uncut](https://uncut.wtf/monospace/biz-udmincho/)
 -   [BQN386](https://dzaima.github.io/BQN386/)
     -   [apl]
 -   [CATV 6x12 9](https://fontlibrary.org/en/font/catv-6x12-9)
@@ -35,7 +41,8 @@
 -   [Crystal](http://www.povray.org/povlegal.html)
     -   (via <https://www.lowing.org/fonts/>)
 -   [Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono)
--   [DM Mono](https://github.com/googlefonts/dm-mono)
+-   DM Mono
+    -   [source](https://github.com/googlefonts/dm-mono)
 -   [DP Sans Mono](https://www.pgdp.net/wiki/DP_Sans_Mono)
 -   [DejaVu Markup](https://fontlibrary.org/en/font/dejavu-markup)
 -   [DeluxeFont](https://zone38.net/font/#deluxefont)
@@ -44,10 +51,12 @@
     -   [display]
 -   [Effects Eighty](https://fontlibrary.org/th/font/effects-eighty)
     -   [dot-matrix printer]
--   [EnvyPN](https://github.com/hicolour/envypn-font)
+-   EnvyPN
     -   [bdf]
--   [Espresso Mono](https://github.com/jmazzi/dotfiles/tree/master/.fonts)
+    -   [source](https://github.com/hicolour/envypn-font)
+-   Espresso Mono
     -   [unknown source]
+    -   [source](https://github.com/jmazzi/dotfiles/tree/master/.fonts)
 -   [Excalibur Monospace](https://fonts2u.com/excalibur-monospace.font)
 -   [F25 Artisan12](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Artisan12)
     -   [private use]
@@ -61,20 +70,24 @@
     -   [private use]
 -   [F25 Typewriter Condensed](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Typewriter_Condensed)
     -   [private use]
--   [Fifteen Twenty](https://github.com/scruss/FifteenTwenty)
+-   Fifteen Twenty
+    -   [source](https://github.com/scruss/FifteenTwenty)
 -   [Générale Mono](https://fontlibrary.org/en/font/generalemono)
 -   [Générale Station](https://www.tunera.xyz/fonts/generale-station/)
 -   [Glovis](https://fontsempire.com/font/glovis-download/)
     -   italic old-timey
 -   [GNU FreeMono](https://www.gnu.org/software/freefont/)
     -   is also derived from Nimbus Mono.
--   [Heming](https://uncut.wtf/monospace/heming/)
+-   Heming
+    -   [behance](https://www.behance.net/gallery/142001915/Heming-Free-Variable-Font?locale=en_US)
+    -   [uncut](https://uncut.wtf/monospace/heming/)
 -   [IBM Courier](https://gitlab.freedesktop.org/xorg/font/ibm-type1)
     -   distributed in Type 1 format with X11.
 -   [KP Monospaced](https://tug.org/FontCatalogue/kpmonospaced/)
 -   [Kawkab Mono](https://makkuk.com/kawkab-mono/)
     -   Arabic monospace typeface -
--   [Kepler-452b](https://github.com/weirdoonthebus/Kepler-452b)
+-   Kepler-452b
+    -   [source](https://github.com/weirdoonthebus/Kepler-452b)
 -   [Kosugi Maru](https://fonts.google.com/specimen/Kosugi+Maru)
 -   [Larabiefont](https://typodermicfonts.com/larabiefont/)
     -   [paid but regular is free]
@@ -82,19 +95,27 @@
 -   [Linux Libertine Mono](https://sourceforge.net/projects/linuxlibertine/)
 -   [Lovematrix](https://fontlibrary.org/en/font/dejavu-markup)
     -   a hearty version of mnicmp
--   [LT Superior Mono](https://uncut.wtf/monospace/lt-superior-mono/)
+-   LT Superior Mono
+    -   [uncut](https://uncut.wtf/monospace/lt-superior-mono/)
 -   [Major Mono Display](https://www.emreparlak.com/major/)
 -   [Manaspace](https://www.zone38.net/font/)
 -   [Marista](https://calculatedimages.blogspot.com/2013/07/marista-my-second-professional-font.html)
--   [Martian Mono](https://uncut.wtf/monospace/martian-mono/)
--   [Max Hana](https://uncut.wtf/monospace/max-hana/)
+-   [Martian Mono](https://evilmartians.com/products/martian-mono)
+    -   [source](https://github.com/evilmartians/mono)
+    -   [googlefonts](https://fonts.google.com/specimen/Martian+Mono)
+    -   [uncut](https://uncut.wtf/monospace/martian-mono/)
+-   Max Hana
+    -   [source](https://github.com/max32002/max-hana)
+    -   [uncut](https://uncut.wtf/monospace/max-hana/)
 -   [Modd](http://nikolas.us.to/jmkfonts/)
 -   [Mono Spatial](https://www.dafont.com/mono-spatial.font)
 -   [Monocto](https://www.myfonts.com/collections/monocto-font-lafonts)
 -   [Monoflow](https://finaltype.de/en/projects/monoflow)
     -   [paid with one weight free]
 -   [Monofur](https://www.dafont.com/monofur.font)
--   [Monor](https://uncut.wtf/monospace/monor/)
+-   [Monor](https://cedricrossignolbrunet.com/monor/)
+    -   might not actually be a monospace font :-(
+    -   [uncut](https://uncut.wtf/monospace/monor/)
 -   [Monospace](https://www.fontspace.com/monospace-font-f13274)
 -   [Monostep](https://www.myfonts.com/collections/monostep-font-yokkmokk?srsltid=AfmBOoqno5fgZH1DJ4LtsgSkZpVWq9gatAHeaurM7x4If7sG4OoDpGsl)
     -   [paid but at least one weight available free]
@@ -129,7 +150,8 @@
     -   [free]
 -   [Raize](https://www.softpedia.com/get/Others/Font-Utils/Raize-Font.shtml)
     -   [free]
--   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
+-   Relaxed Typing Mono JP
+    -   [source](https://github.com/mshioda/relaxed-typing-mono-jp)
 -   [Retro Type 3 PostScript Fonts](https://unifoundry.com/retro/index.html)
     -   dot-matrix printer fonts
 -   [Retroscape](https://fontlibrary.org/en/font/retroscape)
@@ -137,28 +159,38 @@
     -   [display]
 -   [Rusrus Compact Mono](https://fontlibrary.org/en/font/rursus-compact-mono)
 -   [RX100](https://www.fontshare.com/fonts/rx-100)
--   [Sabir Mono](https://github.com/mateobrt/Sabir-Mono)
+-   Sabir Mono
     -   [demo](https://localfonts.eu/freefonts/traditional-cyrillic-free-fonts/sabir-mono/)
+    -   [source](https://github.com/mateobrt/Sabir-Mono)
 -   [SaxMono](https://www.dafont.com/saxmono.font)
--   [Selectric](https://github.com/atelierBek/selectric)
+-   Selectric
     -   [demo](https://usemodify.com/fonts/selectric/)
+    -   [source](https://github.com/atelierBek/selectric)
 -   [Simple](https://font.download/font/simple)
     -   [free for personal use]
 -   [Skyhook Mono](https://www.fontsquirrel.com/fonts/skyhook-mono)
--   [Sligoil](https://uncut.wtf/monospace/sligoil/)
+-   [Sligoil](https://velvetyne.fr/fonts/sligoil/)
+    -   [source](https://gitlab.com/velvetyne/sligoil)
+    -   [uncut](https://uncut.wtf/monospace/sligoil/)
 -   [SmallType Writing](https://www.dafont.com/smalltypewriting-medium.font)
--   [Snap-it Mono](https://uncut.wtf/monospace/snapit-mono/)
+-   Snap-it Mono
+    -   [source](https://gitlab.com/Alune/snap-it-mono-font)
+    -   [uncut](https://uncut.wtf/monospace/snapit-mono/)
+    -   [usemodify](https://usemodify.com/fonts/snap-it/)
 -   [SpiderWire](https://codeberg.org/Wezl/fonts#spiderwire-https-ermineii-github-io-spiderwire-html)
 -   [Squareshooter Mono](https://fontsgeek.com/fonts/SquareShooter-Mono-Regular)
--   [Steps-Mono](https://uncut.wtf/monospace/steps-mono/)
+-   [Steps-Mono](https://velvetyne.fr/fonts/steps-mono/)
+    -   [uncut](https://uncut.wtf/monospace/steps-mono/)
 -   [SV Basic Manual](https://www.dafont.com/sv-basic-manual.font)
--   [Sweet16Font](https://github.com/kmar/Sweet16Font/tree/master)
+-   Sweet16Font
+    -   [source](https://github.com/kmar/Sweet16Font/tree/master)
 -   [Syne Mono](https://fonts.google.com/specimen/Syne+Mono)
     -   [display]
 -   [Teeny Tiny Pixls](https://www.fontspace.com/teeny-tiny-pixls-font-f30095)
 -   [Telegrama](https://www.fontsquirrel.com/fonts/telegrama)
 -   [Telerysm Mono 2](https://www.smeltery.net/en/fonts/telerysm-mono-2)
--   [Tewi](https://github.com/lucy/tewi-font)
+-   Tewi
+    -   [source](https://github.com/lucy/tewi-font)
 -   [TeX Gyre Cursor](https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html)
     -   adds Vietnamese glyphs, etc. to Nimbus Mono.
 -   [Thermo](https://lineto.com/typefaces/thermo)
@@ -167,15 +199,19 @@
     -   based on an old LED display
 -   [Topaz-8](https://fonts2u.com/topaz-8.font)
     -   recreation of an Amiga font
--   [Toren aka Tenpo](https://github.com/eliheuer/tenpo)
+-   Toren aka Tenpo
     -   [work in progress]
+    -   [source](https://github.com/eliheuer/tenpo)
 -   [Tye Paloon](https://online-fonts.com/fonts/tye-paloon)
     -   [display]
 -   [Ume Gothic](https://usemodify.com/fonts/ume-fonts/)
 -   [Ume Mincho](https://usemodify.com/fonts/ume-fonts/)
--   [Uncut Plan8](https://uncut.wtf/monospace/uncut-plan8/)
+-   Uncut Plan8
+    -   [source](https://github.com/kaspernordkvist/uncut_plan8)
+    -   [uncut](https://uncut.wtf/monospace/uncut-plan8/)
 -   [WikisourceMono](https://en.wikisource.org/wiki/Wikisource:WikisourceMono)
     -   proofreading font
 -   [Xanh Mono](https://fonts.google.com/specimen/Xanh+Mono)
--   [xnufont](https://github.com/vladkorotnev/xnufont)
+-   xnufont
+    -   [source](https://github.com/vladkorotnev/xnufont)
 -   [Zolan Mono BTN](https://fontzone.net/font-details/zolan-mono-btn-bold)
