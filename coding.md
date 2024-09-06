@@ -2,6 +2,8 @@
 
 ## Freely Available
 
+202 typefaces listed here.
+
 -   [0xProto](https://github.com/0xType/0xProto)
 -   [3270font](https://github.com/rbanffy/3270font)
 -   [A+](http://archive.vector.org.uk/resource/index.htm)
@@ -362,6 +364,8 @@
     based on Iosevka
 
 ## Paid
+
+28 typefaces listed here.
 
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
     line printer inspired

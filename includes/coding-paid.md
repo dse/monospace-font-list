@@ -1,3 +1,5 @@
+28 typefaces listed here.
+
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
     line printer inspired
 -   [64-SRC](https://www.myfonts.com/fonts/ilott-type/64-src/)

@@ -2,6 +2,8 @@
 
 ## Freely Available
 
+123 typefaces listed here.
+
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
     Arabic typewriter typeface
 -   [Angelus III](https://www.myfonts.com/collections/angelus-iii-font-scriptorium)
@@ -212,6 +214,8 @@
 -   [Zolan Mono BTN](https://fontzone.net/font-details/zolan-mono-btn-bold)
 
 ## Paid
+
+152 typefaces listed here.
 
 -   [Adore Mono](https://garagefonts.com/font/adore-mono)
 -   [Ahamono](https://hanken.co/products/ahamono)

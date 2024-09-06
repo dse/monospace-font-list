@@ -1,3 +1,5 @@
+123 typefaces listed here.
+
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
     Arabic typewriter typeface
 -   [Angelus III](https://www.myfonts.com/collections/angelus-iii-font-scriptorium)

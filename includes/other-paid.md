@@ -1,3 +1,5 @@
+152 typefaces listed here.
+
 -   [Adore Mono](https://garagefonts.com/font/adore-mono)
 -   [Ahamono](https://hanken.co/products/ahamono)
 -   [Akkurat Mono](https://lineto.com/typefaces/akkurat-mono)
