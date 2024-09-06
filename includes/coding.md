@@ -48,6 +48,8 @@
 -   [Brutalist Mono](https://github.com/BRUTALISM/Brutalist)
     derived from Deja Vu Sans Mono
 -   [Camingo Code](https://janfromm.de/typefaces/camingocode/)
+-   [Canton Typewriter Bitmap](https://github.com/dse/font-canton-typewriter-bitmap)
+    a coding-friendly Latin-1 font inspired by Caxton
 -   [Cascadia Code](https://github.com/microsoft/cascadia-code)
     from microsoft
 -   [Chivo Mono](https://github.com/namesmt/chivo)
@@ -88,6 +90,10 @@
     -   Variants:
         -   [dotted and slashed zero variants](https://www.cosmix.org/software/)
         -   [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
+-   [DSE Typewriter](https://github.com/dse/dse-typewriter-font)
+    an old-timey monospace typeface you might use for coding
+-   [DSE Typewriter Bitmap](https://github.com/dse/dse-typewriter-bitmap-font)
+    an old-timey bitmap monospace typeface you might use for coding
 -   [Edlo](https://github.com/ehamiter/Edlo)
 -   [Envy Code B](https://damieng.com/blog/2006/11/06/envy-code-b-font-available-in-ttf-format/)
 -   [Envy Code R](https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released/)
@@ -233,6 +239,8 @@
         -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
             -   derived from Source Code Pro and Noto Sans JP.
             -   No significant changes other than mixing.
+-   [OG Courier](https://github.com/dse/font-og-courier)
+    work in progress.  Based on IBM's Type 1 version of Courier donated to X Consortium, with coding features.
 -   [Old School PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
     -   Notes:
         from which is derived [IBM Fonts](https://farsil.github.io/ibmfonts/)

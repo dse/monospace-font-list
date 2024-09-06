@@ -49,6 +49,8 @@
     [retro]
 -   [Disket Mono](https://rostype.com/disket/)
     [display]
+-   [Display Module Fonts](https://github.com/dse/display-module-fonts)
+    fonts that emulate popular LCD text display modules
 -   [Effects Eighty](https://fontlibrary.org/th/font/effects-eighty)
     [dot-matrix printer]
 -   [EnvyPN](https://github.com/hicolour/envypn-font)
@@ -137,6 +139,8 @@
 -   [PoultreMono](https://codeberg.org/Wezl/fonts#poultremono)
 -   [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P)
     [retro]
+-   [Printer Dot Matrix Fonts](https://github.com/dse/printer-dot-matrix-fonts)
+    fonts that emulate the DEC LA100 (sans-serif) and LA120 (serif) dot-matrix printers
 -   [Putintin](https://fontlibrary.org/en/font/putintin)
     a font that translates Latin characters into Cyrillic characters and displays both.
 -   [QT Letter Goth](https://www.tug.org/FontCatalogue/qtlettergoth/)
