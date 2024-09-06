@@ -2,6 +2,8 @@
 
 https://github.com/dse/monospace-font-list
 
+**Approximately 500 typefaces listed!**
+
 ## The Lists
 
 -   [Monospace Typefaces Designed for Coding](./coding.md)
