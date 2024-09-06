@@ -110,7 +110,7 @@
   url: https://quoteunquoteapps.com/courierprime/
   descr: 'includes Courier Prime Code, a sans-serif with coding features'
 - name: Cousine
-  googlefonts_url: https://fonts.google.com/specimen/Cousine
+  gfonts_url: https://fonts.google.com/specimen/Cousine
 - name: Cozette
   source_url: https://github.com/slavfox/Cozette
 - name: CP Mono
@@ -279,7 +279,7 @@
 - name: Karen
   source_url: https://github.com/amaya382/karen
 - name: Kode Mono
-  googlefonts_url: https://fonts.google.com/specimen/Kode+Mono
+  gfonts_url: https://fonts.google.com/specimen/Kode+Mono
 - name: Lab Mono
   source_url: https://github.com/hatsumatsu/Lab-Mono
 - name: Lavender
@@ -395,7 +395,7 @@
 - name: Overpass
   url: https://overpassfont.org/
 - name: Oxygen Mono
-  googlefonts_url: https://fonts.google.com/specimen/Oxygen+Mono
+  gfonts_url: https://fonts.google.com/specimen/Oxygen+Mono
 - name: Pet Me
   url: https://www.kreativekorp.com/software/fonts/c64/
   descr: 'the Commodore VIC-20, C64, and C128 font family'
@@ -430,7 +430,7 @@
         -   Progsole
         -   Speedy
 - name: PT Mono
-  googlefonts_url: https://fonts.google.com/specimen/PT+Mono
+  gfonts_url: https://fonts.google.com/specimen/PT+Mono
 - name: Quinze
   fontlibrary_url: https://fontlibrary.org/en/font/quinze
   descr: see also Fifteen
@@ -439,9 +439,9 @@
   variants: |-
     -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
 - name: Reddit Mono
-  googlefonts_url: https://fonts.google.com/specimen/Reddit+Mono
+  gfonts_url: https://fonts.google.com/specimen/Reddit+Mono
 - name: Red Hat Mono
-  googlefonts_url: https://fonts.google.com/specimen/Red+Hat+Mono
+  gfonts_url: https://fonts.google.com/specimen/Red+Hat+Mono
 - name: retro fonts
   url: http://www.modelb.bbcmicro.com/retro-fonts.html
   descr: '[free] - teletext and Atari ST fonts'
@@ -471,7 +471,7 @@
     -   also [bitmaps](https://www.gnome-look.org/p/998527/)
     -   also https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
 - name: Share Tech Mono
-  googlefonts_url: https://fonts.google.com/specimen/Share+Tech+Mono
+  gfonts_url: https://fonts.google.com/specimen/Share+Tech+Mono
 - name: Sometype Mono
   url: https://monospacedfont.com/
   source_url: https://github.com/dharmatype/Sometype-Mono
@@ -481,11 +481,11 @@
   source_url: https://github.com/adobe-fonts/source-code-pro
   descr: from adobe
 - name: Space Mono
-  googlefonts_url: https://fonts.google.com/specimen/Space+Mono
+  gfonts_url: https://fonts.google.com/specimen/Space+Mono
 - name: Spleen
   url: https://www.cambus.net/spleen-monospaced-bitmap-fonts/
 - name: Spline Sans Mono
-  googlefonts_url: https://fonts.google.com/specimen/Spline+Sans+Mono
+  gfonts_url: https://fonts.google.com/specimen/Spline+Sans+Mono
 - name: String Literal 437
   fonts2u_url: https://fonts2u.com/string-literal-437-medium.font
 - name: Sudo
