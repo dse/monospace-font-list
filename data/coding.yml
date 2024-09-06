@@ -415,6 +415,7 @@
 - name: Proggy Fonts
   source_url: https://github.com/bluescan/proggyfonts
   descr: |-
+    includes the following:
     -   Proggy Crossed
     -   Proggy Dotted
     -   Proggy Original
