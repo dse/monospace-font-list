@@ -57,7 +57,7 @@ while (<>) {
 sub url {
     my $item = shift;
     my $url = delete $item->{url};
-    $url = delete $item->{github_url}        if !defined $url && defined $item->{github_url};
+    $url = delete $item->{source_url}        if !defined $url && defined $item->{source_url};
     $url = delete $item->{fontlibrary_url}   if !defined $url && defined $item->{fontlibrary_url};
     $url = delete $item->{fontsquirrel_url}  if !defined $url && defined $item->{fontsquirrel_url};
     $url = delete $item->{myfonts_url}       if !defined $url && defined $item->{myfonts_url};
