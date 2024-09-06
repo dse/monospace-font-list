@@ -46,6 +46,7 @@
 - name: distributed by the Thai Linux Working Group
   source_url: https://github.com/tlwg/fonts-tlwg/tree/master/tlwg
   descr: |-
+    includes the following:
     -   TlwgMono
     -   Tlwg Typewriter
     -   Tlwg Typist
