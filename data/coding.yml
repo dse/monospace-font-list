@@ -60,7 +60,7 @@
   fontlibrary_url: https://fontlibrary.org/en/font/average-mono
   descr: an "average" of 13 variants of Courier.
 - name: Basically A Mono
-  url: https://uncut.wtf/monospace/basically-a-mono/
+  uncut_url: https://uncut.wtf/monospace/basically-a-mono/
   url_2_url: https://experi.mentallydesigned.com/type/bam/
 - name: Binchotan
   url: https://rvklein.me/proj/binchotan/
@@ -358,7 +358,7 @@
   fontlibrary_url: https://fontlibrary.org/en/font/natural-mono
   descr: 'based on Noto Mono, with alt versions of "i" and "l" (lower case I and L).'
 - name: Necto Mono
-  url: https://uncut.wtf/monospace/necto-mono/
+  uncut_url: https://uncut.wtf/monospace/necto-mono/
 - name: Neomatrix Code
   fontlibrary_url: https://fontlibrary.org/en/font/neomatrixcode
 - name: New Heterodox Mono
@@ -538,7 +538,7 @@
   url: http://wenq.org/wqy2/index.cgi?FontGuide#_4
   descr: '[chinese]'
 - name: Whois Mono
-  url: https://uncut.wtf/monospace/whois/
+  uncut_url: https://uncut.wtf/monospace/whois/
   github_url: https://github.com/raphaelbastide/Whois-mono
 - name: Writer
   github_url: https://github.com/tonsky/font-writer

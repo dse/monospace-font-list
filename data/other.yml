@@ -12,7 +12,7 @@
   fontlibrary_url: https://fontlibrary.org/en/font/average-mono
   descr: an "average" of 13 variants of Courier.
 - name: Azeret Mono
-  url: https://uncut.wtf/monospace/azeret-mono/
+  uncut_url: https://uncut.wtf/monospace/azeret-mono/
 - name: B612 Mono
   url: https://b612-font.com/
   descr: cockpit screen font
@@ -31,7 +31,7 @@
   url: https://gitlab.freedesktop.org/xorg/font/bitstream-type1
   descr: 'distributed in Type 1 format with X11.'
 - name: BIZ UDMincho
-  url: https://uncut.wtf/monospace/biz-udmincho/
+  uncut_url: https://uncut.wtf/monospace/biz-udmincho/
 - name: BQN386
   url: https://dzaima.github.io/BQN386/
   descr: '[apl]'
@@ -113,7 +113,7 @@
   url: https://www.gnu.org/software/freefont/
   descr: is also derived from Nimbus Mono.
 - name: Heming
-  url: https://uncut.wtf/monospace/heming/
+  uncut_url: https://uncut.wtf/monospace/heming/
 - name: IBM Courier
   url: https://gitlab.freedesktop.org/xorg/font/ibm-type1
   descr: 'distributed in Type 1 format with X11.'
@@ -137,7 +137,7 @@
   fontlibrary_url: https://fontlibrary.org/en/font/dejavu-markup
   descr: 'a hearty version of mnicmp'
 - name: LT Superior Mono
-  url: https://uncut.wtf/monospace/lt-superior-mono/
+  uncut_url: https://uncut.wtf/monospace/lt-superior-mono/
 - name: Major Mono Display
   url: https://www.emreparlak.com/major/
 - name: Manaspace
@@ -145,9 +145,9 @@
 - name: Marista
   url: https://calculatedimages.blogspot.com/2013/07/marista-my-second-professional-font.html
 - name: Martian Mono
-  url: https://uncut.wtf/monospace/martian-mono/
+  uncut_url: https://uncut.wtf/monospace/martian-mono/
 - name: Max Hana
-  url: https://uncut.wtf/monospace/max-hana/
+  uncut_url: https://uncut.wtf/monospace/max-hana/
 - name: Modd
   url: http://nikolas.us.to/jmkfonts/
 - name: Mono Spatial
@@ -160,7 +160,7 @@
 - name: Monofur
   dafont_url: https://www.dafont.com/monofur.font
 - name: Monor
-  url: https://uncut.wtf/monospace/monor/
+  uncut_url: https://uncut.wtf/monospace/monor/
 - name: Monospace
   url: https://www.fontspace.com/monospace-font-f13274
 - name: Monostep
@@ -245,17 +245,17 @@
 - name: Skyhook Mono
   fontsquirrel_url: https://www.fontsquirrel.com/fonts/skyhook-mono
 - name: Sligoil
-  url: https://uncut.wtf/monospace/sligoil/
+  uncut_url: https://uncut.wtf/monospace/sligoil/
 - name: SmallType Writing
   dafont_url: https://www.dafont.com/smalltypewriting-medium.font
 - name: Snap-it Mono
-  url: https://uncut.wtf/monospace/snapit-mono/
+  uncut_url: https://uncut.wtf/monospace/snapit-mono/
 - name: SpiderWire
   url: https://codeberg.org/Wezl/fonts#spiderwire-https-ermineii-github-io-spiderwire-html
 - name: Squareshooter Mono
   url: https://fontsgeek.com/fonts/SquareShooter-Mono-Regular
 - name: Steps-Mono
-  url: https://uncut.wtf/monospace/steps-mono/
+  uncut_url: https://uncut.wtf/monospace/steps-mono/
 - name: SV Basic Manual
   dafont_url: https://www.dafont.com/sv-basic-manual.font
 - name: Sweet16Font
@@ -294,7 +294,7 @@
 - name: Ume Mincho
   url: https://usemodify.com/fonts/ume-fonts/
 - name: Uncut Plan8
-  url: https://uncut.wtf/monospace/uncut-plan8/
+  uncut_url: https://uncut.wtf/monospace/uncut-plan8/
 - name: WikisourceMono
   url: https://en.wikisource.org/wiki/Wikisource:WikisourceMono
   descr: proofreading font
