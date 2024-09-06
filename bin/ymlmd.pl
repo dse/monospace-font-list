@@ -39,8 +39,10 @@ while (<>) {
             printf("    -   [dafont](%s)\n",       delete $item->{dafont_url})       if defined $item->{dafont_url};
             printf("    -   [googlefonts](%s)\n",  delete $item->{gfonts_url})  if defined $item->{gfonts_url};
             printf("    -   [myfonts](%s)\n",      delete $item->{myfonts_url})      if defined $item->{myfonts_url};
-            foreach my $key (sort grep { /(?:^|_)url(?:$|_)/ } keys %$item) {
-                printf("    -   [%s](%s)\n", $key, $item->{$key});
+            foreach my $key (sort grep { /_url$/ } keys %$item) {
+                my $new_key = $key;
+                $new_key =~ s{_url$}{};
+                printf("    -   [%s](%s)\n", md_escape($new_key), $item->{$key});
                 delete $item->{$key};
             }
             my $variants = delete $item->{variants};
@@ -59,7 +61,7 @@ sub url {
     $url = delete $item->{fontlibrary_url}   if !defined $url && defined $item->{fontlibrary_url};
     $url = delete $item->{fontsquirrel_url}  if !defined $url && defined $item->{fontsquirrel_url};
     $url = delete $item->{myfonts_url}       if !defined $url && defined $item->{myfonts_url};
-    $url = delete $item->{gfonts_url}   if !defined $url && defined $item->{gfonts_url};
+    $url = delete $item->{gfonts_url}        if !defined $url && defined $item->{gfonts_url};
     $url = delete $item->{dafont_url}        if !defined $url && defined $item->{dafont_url};
     $url = delete $item->{fonts2u_url}       if !defined $url && defined $item->{fonts2u_url};
     return $url;
@@ -78,5 +80,13 @@ sub indent {
     $indent_2 //= $indent;
     my $count = 0;
     $str =~ s{^}{$count++ ? $indent_2 : $indent}gme;
+    return $str;
+}
+
+sub md_escape {
+    my ($str) = @_;
+    $str =~ s{\\}{\\\\}g;
+    $str =~ s{_}{\\_}g;
+    $str =~ s{\*}{\\*}g;
     return $str;
 }
