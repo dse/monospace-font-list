@@ -1,6 +1,6 @@
 ---
 - name: Amiri Typewriter
-  github_url: https://github.com/aliftype/amiri-typewriter
+  source_url: https://github.com/aliftype/amiri-typewriter
   descr: Arabic typewriter typeface
 - name: Angelus III
   myfonts_url: https://www.myfonts.com/collections/angelus-iii-font-scriptorium
@@ -65,7 +65,7 @@
 - name: Cutive Mono
   googlefonts_url: https://fonts.google.com/specimen/Cutive+Mono
 - name: DM Mono
-  github_url: https://github.com/googlefonts/dm-mono
+  source_url: https://github.com/googlefonts/dm-mono
 - name: DP Sans Mono
   url: https://www.pgdp.net/wiki/DP_Sans_Mono
 - name: DejaVu Markup
@@ -80,10 +80,10 @@
   fontlibrary_url: https://fontlibrary.org/th/font/effects-eighty
   descr: '[dot-matrix printer]'
 - name: EnvyPN
-  github_url: https://github.com/hicolour/envypn-font
+  source_url: https://github.com/hicolour/envypn-font
   descr: '[bdf]'
 - name: Espresso Mono
-  github_url: https://github.com/jmazzi/dotfiles/tree/master/.fonts
+  source_url: https://github.com/jmazzi/dotfiles/tree/master/.fonts
   descr: '[unknown source]'
 - name: Excalibur Monospace
   fonts2u_url: https://fonts2u.com/excalibur-monospace.font
@@ -106,7 +106,7 @@
   url: http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Typewriter_Condensed
   descr: '[private use]'
 - name: Fifteen Twenty
-  github_url: https://github.com/scruss/FifteenTwenty
+  source_url: https://github.com/scruss/FifteenTwenty
 - name: Générale Mono
   fontlibrary_url: https://fontlibrary.org/en/font/generalemono
 - name: Générale Station
@@ -129,7 +129,7 @@
   url: https://makkuk.com/kawkab-mono/
   descr: Arabic monospace typeface -
 - name: Kepler-452b
-  github_url: https://github.com/weirdoonthebus/Kepler-452b
+  source_url: https://github.com/weirdoonthebus/Kepler-452b
 - name: Kosugi Maru
   googlefonts_url: https://fonts.google.com/specimen/Kosugi+Maru
 - name: Larabiefont
@@ -153,11 +153,11 @@
 - name: Martian Mono
   uncut_url: https://uncut.wtf/monospace/martian-mono/
   url: https://evilmartians.com/products/martian-mono
-  github_url: https://github.com/evilmartians/mono
+  source_url: https://github.com/evilmartians/mono
   googlefonts_url: https://fonts.google.com/specimen/Martian+Mono
 - name: Max Hana
   uncut_url: https://uncut.wtf/monospace/max-hana/
-  github_url: https://github.com/max32002/max-hana
+  source_url: https://github.com/max32002/max-hana
 - name: Modd
   url: http://nikolas.us.to/jmkfonts/
 - name: Mono Spatial
@@ -230,7 +230,7 @@
   url: https://www.softpedia.com/get/Others/Font-Utils/Raize-Font.shtml
   descr: '[free]'
 - name: Relaxed Typing Mono JP
-  github_url: https://github.com/mshioda/relaxed-typing-mono-jp
+  source_url: https://github.com/mshioda/relaxed-typing-mono-jp
 - name: Retro Type 3 PostScript Fonts
   url: https://unifoundry.com/retro/index.html
   descr: dot-matrix printer fonts
@@ -244,12 +244,12 @@
 - name: RX100
   url: https://www.fontshare.com/fonts/rx-100
 - name: Sabir Mono
-  github_url: https://github.com/mateobrt/Sabir-Mono
+  source_url: https://github.com/mateobrt/Sabir-Mono
   descr: '[demo](https://localfonts.eu/freefonts/traditional-cyrillic-free-fonts/sabir-mono/)'
 - name: SaxMono
   dafont_url: https://www.dafont.com/saxmono.font
 - name: Selectric
-  github_url: https://github.com/atelierBek/selectric
+  source_url: https://github.com/atelierBek/selectric
   descr: '[demo](https://usemodify.com/fonts/selectric/)'
 - name: Simple
   url: https://font.download/font/simple
@@ -276,7 +276,7 @@
 - name: SV Basic Manual
   dafont_url: https://www.dafont.com/sv-basic-manual.font
 - name: Sweet16Font
-  github_url: https://github.com/kmar/Sweet16Font/tree/master
+  source_url: https://github.com/kmar/Sweet16Font/tree/master
 - name: Syne Mono
   googlefonts_url: https://fonts.google.com/specimen/Syne+Mono
   descr: '[display]'
@@ -287,7 +287,7 @@
 - name: Telerysm Mono 2
   url: https://www.smeltery.net/en/fonts/telerysm-mono-2
 - name: Tewi
-  github_url: https://github.com/lucy/tewi-font
+  source_url: https://github.com/lucy/tewi-font
 - name: TeX Gyre Cursor
   url: https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html
   descr: 'adds Vietnamese glyphs, etc. to Nimbus Mono.'
@@ -301,7 +301,7 @@
   fonts2u_url: https://fonts2u.com/topaz-8.font
   descr: recreation of an Amiga font
 - name: Toren aka Tenpo
-  github_url: https://github.com/eliheuer/tenpo
+  source_url: https://github.com/eliheuer/tenpo
   descr: '[work in progress]'
 - name: Tye Paloon
   url: https://online-fonts.com/fonts/tye-paloon
@@ -312,13 +312,13 @@
   url: https://usemodify.com/fonts/ume-fonts/
 - name: Uncut Plan8
   uncut_url: https://uncut.wtf/monospace/uncut-plan8/
-  github_url: https://github.com/kaspernordkvist/uncut_plan8
+  source_url: https://github.com/kaspernordkvist/uncut_plan8
 - name: WikisourceMono
   url: https://en.wikisource.org/wiki/Wikisource:WikisourceMono
   descr: proofreading font
 - name: Xanh Mono
   googlefonts_url: https://fonts.google.com/specimen/Xanh+Mono
 - name: xnufont
-  github_url: https://github.com/vladkorotnev/xnufont
+  source_url: https://github.com/vladkorotnev/xnufont
 - name: Zolan Mono BTN
   url: https://fontzone.net/font-details/zolan-mono-btn-bold

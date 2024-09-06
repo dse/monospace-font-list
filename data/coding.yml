@@ -1,8 +1,8 @@
 ---
 - name: 0xProto
-  github_url: https://github.com/0xType/0xProto
+  source_url: https://github.com/0xType/0xProto
 - name: 3270font
-  github_url: https://github.com/rbanffy/3270font
+  source_url: https://github.com/rbanffy/3270font
 - name: A+
   url: http://archive.vector.org.uk/resource/index.htm
 - name: Aardvark Fixed
@@ -28,7 +28,7 @@
 - name: Anka/Coder
   url: https://usemodify.com/fonts/anka-coder/
 - name: Anomaly Mono
-  github_url: https://github.com/benbusby/anomaly-mono
+  source_url: https://github.com/benbusby/anomaly-mono
 - name: Anonymous Pro
   url: https://www.marksimonson.com/fonts/view/anonymous-pro
 - name: Another Man's Treasure
@@ -50,7 +50,7 @@
 - name: Astigmata
   url: https://medium.com/codex/astigmata-my-monospace-programming-font-b28ccfa9b025
 - name: Atarist
-  github_url: https://github.com/ntwk/atarist-font
+  source_url: https://github.com/ntwk/atarist-font
 - name: AudioLink Mono
   url: https://audiolink.dev/
   descr: and AudioLink Console
@@ -67,26 +67,26 @@
 - name: Bizcat
   url: https://robey.lag.net/2020/02/09/bizcat-bitmap-font.html
 - name: Bmono
-  github_url: https://github.com/NNBnh/bmono
+  source_url: https://github.com/NNBnh/bmono
 - name: Borg Sans Mono
-  github_url: https://github.com/marnen/borg-sans-mono
+  source_url: https://github.com/marnen/borg-sans-mono
   descr: Droid Sans Mono with ligatures and slashed zero
 - name: BPmono
   url: https://backpacker.gr/fonts/5
 - name: BPtypewrite
   url: https://backpacker.gr/fonts/10
 - name: Brass Mono
-  github_url: https://github.com/fonsecapeter/brass_mono
+  source_url: https://github.com/fonsecapeter/brass_mono
 - name: Brutalist Mono
-  github_url: https://github.com/BRUTALISM/Brutalist
+  source_url: https://github.com/BRUTALISM/Brutalist
   descr: derived from Deja Vu Sans Mono
 - name: Camingo Code
   url: https://janfromm.de/typefaces/camingocode/
 - name: Cascadia Code
-  github_url: https://github.com/microsoft/cascadia-code
+  source_url: https://github.com/microsoft/cascadia-code
   descr: from microsoft
 - name: Chivo Mono
-  github_url: https://github.com/namesmt/chivo
+  source_url: https://github.com/namesmt/chivo
   descr: you probably want the Nerd Font linked from therein.
 - name: Code New Roman
   dafont_url: https://www.dafont.com/code-new-roman.font
@@ -112,25 +112,25 @@
 - name: Cousine
   googlefonts_url: https://fonts.google.com/specimen/Cousine
 - name: Cozette
-  github_url: https://github.com/slavfox/Cozette
+  source_url: https://github.com/slavfox/Cozette
 - name: CP Mono
-  github_url: https://github.com/chrissimpkins/codeface/tree/master/fonts/cp-mono
+  source_url: https://github.com/chrissimpkins/codeface/tree/master/fonts/cp-mono
 - name: Creep
-  github_url: https://github.com/romeovs/creep
+  source_url: https://github.com/romeovs/creep
 - name: Creep2
-  github_url: https://github.com/raymond-w-ko/creep2
+  source_url: https://github.com/raymond-w-ko/creep2
 - name: D2 Coding
-  github_url: https://github.com/Joungkyun/font-d2coding
+  source_url: https://github.com/Joungkyun/font-d2coding
   descr: based on Nanum Barun Coding
 - name: DaddyTimeMono
-  github_url: https://github.com/BourgeoisBear/DaddyTimeMono
+  source_url: https://github.com/BourgeoisBear/DaddyTimeMono
 - name: DEC Terminal Modern
   dafont_url: https://www.dafont.com/dec-terminal-modern.font
 - name: Deferral
-  github_url: https://github.com/brianbruggeman/Deferral
+  source_url: https://github.com/brianbruggeman/Deferral
   descr: work in progress
 - name: Deja Vu Sans Code
-  github_url: https://github.com/SSNikolaevich/DejaVuSansCode
+  source_url: https://github.com/SSNikolaevich/DejaVuSansCode
   descr: derived from Deja Vu Sans Mono
 - name: Deja Vu Sans Mono
   url: https://dejavu-fonts.github.io/
@@ -139,7 +139,7 @@
 - name: Dina Bitmap
   url: https://www.dcmembers.com/jibsen/download/61/
 - name: Dina Font TTF
-  github_url: https://github.com/zshoals/Dina-Font-TTF-Remastered
+  source_url: https://github.com/zshoals/Dina-Font-TTF-Remastered
 - name: Drafting\* Mono
   url: https://indestructibletype.com/Drafting/
 - name: Droid Sans Mono
@@ -148,7 +148,7 @@
     -   [dotted and slashed zero variants](https://www.cosmix.org/software/)
     -   [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
 - name: Edlo
-  github_url: https://github.com/ehamiter/Edlo
+  source_url: https://github.com/ehamiter/Edlo
 - name: Envy Code B
   url: https://damieng.com/blog/2006/11/06/envy-code-b-font-available-in-ttf-format/
 - name: Envy Code R
@@ -165,7 +165,7 @@
 - name: Fairfax Serif
   fonts2u_url: https://fonts2u.com/fairfax-serif.font
 - name: Fantasque Sans Mono
-  github_url: https://github.com/belluzj/fantasque-sans
+  source_url: https://github.com/belluzj/fantasque-sans
   descr: |-
     if you like Comic Sans and are not a hater
   notes: |-
@@ -174,31 +174,31 @@
   fontlibrary_url: https://fontlibrary.org/en/font/fifteen
   descr: see also Quinze
 - name: Fira Code
-  github_url: https://github.com/tonsky/FiraCode
+  source_url: https://github.com/tonsky/FiraCode
   descr: has ligatures
 - name: Fira Cousine
-  github_url: https://github.com/macduy/FiraCousine
+  source_url: https://github.com/macduy/FiraCousine
   descr: Cousine + Fira Code's punct marks and ligatures
 - name: Fira Flott
-  github_url: https://github.com/kosimst/FiraFlott
+  source_url: https://github.com/kosimst/FiraFlott
   descr: |-
     Operator Mono alternative based on FiraCode and FlottFlott
 - name: Fira Mono
-  github_url: https://github.com/mozilla/Fira
+  source_url: https://github.com/mozilla/Fira
   descr: from mozilla
 - name: Fixedsys Excelsior
-  github_url: https://github.com/kika/fixedsys
+  source_url: https://github.com/kika/fixedsys
 - name: Flexi IBM VGA
   url: https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/
   descr: scalable version of IBM VGA font
 - name: Fragment Mono
-  github_url: https://github.com/weiweihuanghuang/fragment-mono
+  source_url: https://github.com/weiweihuanghuang/fragment-mono
   descr: 'based on URW Nimbus Sans, a Helvetica clone'
 - name: Geist
   url: https://vercel.com/font
   descr: includes a mono variant
 - name: Generic Mono II
-  github_url: https://github.com/organicplanning/hackedfonts
+  source_url: https://github.com/organicplanning/hackedfonts
 - name: Gintronic
   url: https://markfromberg.com/projects/gintronic
 - name: Glass TTY
@@ -211,7 +211,7 @@
 - name: Gohu
   url: https://font.gohu.org/
 - name: Google Sans Mono
-  github_url: https://github.com/mehant-kr/Google-Sans-Mono
+  source_url: https://github.com/mehant-kr/Google-Sans-Mono
   descr: |-
     a/k/a Product Sans Mono
   via_url: https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/
@@ -222,13 +222,13 @@
   url: https://sourcefoundry.org/hack/
   descr: derived from Deja Vu Sans Mono
 - name: Hasklig
-  github_url: https://github.com/i-tu/Hasklig
+  source_url: https://github.com/i-tu/Hasklig
   descr: adds ligatures to Deja Vu derived typeface Hack
 - name: Haskplex
-  github_url: https://github.com/huytd/haskplex-font
+  source_url: https://github.com/huytd/haskplex-font
   descr: Hasklig + IBM Plex Mono
 - name: Hera Mono
-  github_url: https://github.com/sayyadirfanali/Hera
+  source_url: https://github.com/sayyadirfanali/Hera
   descr: mixture of glyphs from other monospace fonts
 - name: Hermit
   url: https://pcaro.es/hermit/
@@ -244,10 +244,10 @@
     -   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
     -   [Terminex](https://github.com/vsalvino/terminex) [free] derived from IBM Plex Mono
 - name: Illinois Mono
-  github_url: https://github.com/MadSimple/illinois-mono
+  source_url: https://github.com/MadSimple/illinois-mono
   descr: 'based on an interesting project called [Lexend](https://www.lexend.com/)'
 - name: Illusion
-  github_url: https://github.com/tomonic-x/Illusion
+  source_url: https://github.com/tomonic-x/Illusion
   descr: '[japanese]'
 - name: Inconsolata
   url: https://levien.com/type/myfonts/inconsolata.html
@@ -270,30 +270,30 @@
 - name: Jetbrains Mono
   url: https://www.jetbrains.com/lp/mono/
 - name: Jozsika
-  github_url: https://github.com/nilcons/jozsika
+  source_url: https://github.com/nilcons/jozsika
   descr: 'a customized version of Iosevka'
 - name: Julia Mono
   url: https://juliamono.netlify.app/
 - name: jxyahei
-  github_url: https://github.com/zhenruyan/codefont/blob/master/readme_en.md
+  source_url: https://github.com/zhenruyan/codefont/blob/master/readme_en.md
 - name: Karen
-  github_url: https://github.com/amaya382/karen
+  source_url: https://github.com/amaya382/karen
 - name: Kode Mono
   googlefonts_url: https://fonts.google.com/specimen/Kode+Mono
 - name: Lab Mono
-  github_url: https://github.com/hatsumatsu/Lab-Mono
+  source_url: https://github.com/hatsumatsu/Lab-Mono
 - name: Lavender
-  github_url: https://github.com/hirigaray/lavender-font
+  source_url: https://github.com/hirigaray/lavender-font
 - name: League Mono
   url: https://www.theleagueofmoveabletype.com/league-mono
 - name: Lekton Code
   fontlibrary_url: https://fontlibrary.org/en/font/lektoncode
 - name: Letter Gothic Code
-  github_url: https://github.com/jamesxmcintosh/LetterGothicCode
+  source_url: https://github.com/jamesxmcintosh/LetterGothicCode
 - name: Liberation Mono
-  github_url: https://github.com/liberationfonts/liberation-fonts
+  source_url: https://github.com/liberationfonts/liberation-fonts
 - name: Lilex
-  github_url: https://github.com/mishamyrt/Lilex
+  source_url: https://github.com/mishamyrt/Lilex
 - name: Linux Console Fonts for Windows
   url: http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/
   descr: in .TTF and .FON
@@ -301,7 +301,7 @@
   url: https://sourceforge.net/projects/linuxlibertine/
   descr: includes a mono variant
 - name: LispM
-  github_url: https://github.com/unjordy/LispM-Font
+  source_url: https://github.com/unjordy/LispM-Font
 - name: Lotion
   url: https://font.nina.coffee/
 - name: Luculent
@@ -315,7 +315,7 @@
 - name: M+ Fonts
   url: https://mplusfonts.github.io/
 - name: Maple Font
-  github_url: https://github.com/subframe7536/maple-font
+  source_url: https://github.com/subframe7536/maple-font
 - name: Menlo
   description: bundled with macOS, derived from Deja Vu
   # [MesloLGS NF](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts)
@@ -323,12 +323,12 @@
   url: https://www.losttype.com/font/?name=mensch
   descr: '[pay what you want]'
 - name: Meslo
-  github_url: https://github.com/andreberg/Meslo-Font
+  source_url: https://github.com/andreberg/Meslo-Font
   descr: Menlo (derived from Deja Vu) with some tweaks
 - name: Metrickal
-  github_url: https://github.com/davelab6/metrickal-typeface
+  source_url: https://github.com/davelab6/metrickal-typeface
 - name: Meyrin CERN
-  github_url: https://github.com/optional-is/Meyrin
+  source_url: https://github.com/optional-is/Meyrin
 - name: mnicmp
   fontlibrary_url: https://fontlibrary.org/en/font/mnicmp
   descr: based on the 7-pin DECwriter II printer
@@ -336,21 +336,21 @@
   url: https://monaspace.githubnext.com/
   descr: superfamily
 - name: Monego
-  github_url: https://github.com/cseelus/monego
+  source_url: https://github.com/cseelus/monego
   descr: monaco with bold and italic variants
 - name: Monocraft
-  github_url: https://github.com/IdreesInc/Monocraft
+  source_url: https://github.com/IdreesInc/Monocraft
   descr: do you like Minecraft?
 - name: Monoid
   url: https://larsenwork.com/monoid/
 - name: Mononoki
   url: https://madmalik.github.io/mononoki/
 - name: MonoOne
-  github_url: https://github.com/zlsa/monoOne
+  source_url: https://github.com/zlsa/monoOne
 - name: MonteCarlo (programmer font)
   url: https://www.bok.net/MonteCarlo/
 - name: Nanum Gothic Coding
-  github_url: https://github.com/emersion/nanum-gothic-coding
+  source_url: https://github.com/emersion/nanum-gothic-coding
 - name: Native
   url: https://fortfoundry.com/fonts/native
   descr: paid typeface with a freely available regular weight
@@ -362,19 +362,19 @@
 - name: Neomatrix Code
   fontlibrary_url: https://fontlibrary.org/en/font/neomatrixcode
 - name: New Heterodox Mono
-  github_url: https://github.com/hckiang/font-new-heterodox-mono
+  source_url: https://github.com/hckiang/font-new-heterodox-mono
 - name: NK57 Monospace
   dafont_url: https://www.dafont.com/nk57-monospace.font
 - name: Noto Fonts
-  github_url: https://github.com/notofonts
+  source_url: https://github.com/notofonts
   descr: includes Noto Sans Mono
 - name: Ocodo Mono
-  github_url: https://github.com/ocodo/ocodo-mono
+  source_url: https://github.com/ocodo/ocodo-mono
   descr: early work in progress
 - name: OCR A Extended
   url: https://www.wfonts.com/font/ocr-a-extended
 - name: Office Code Pro
-  github_url: https://github.com/nathco/Office-Code-Pro
+  source_url: https://github.com/nathco/Office-Code-Pro
   descr: |-
     derived from Source Code Pro
   variants: |-
@@ -413,7 +413,7 @@
 - name: Profont
   url: https://tobiasjung.name/profont/
 - name: Proggy Fonts
-  github_url: https://github.com/bluescan/proggyfonts
+  source_url: https://github.com/bluescan/proggyfonts
   descr: |-
     -   Proggy Crossed
     -   Proggy Dotted
@@ -446,9 +446,9 @@
   url: http://www.modelb.bbcmicro.com/retro-fonts.html
   descr: '[free] - teletext and Atari ST fonts'
 - name: Roboto Mono
-  github_url: https://github.com/googlefonts/roboto
+  source_url: https://github.com/googlefonts/roboto
 - name: romfont
-  github_url: https://github.com/spacerace/romfont
+  source_url: https://github.com/spacerace/romfont
   descr: collection of PC ROM fonts
 - name: Sarasa Gothic Mono
   url: https://picaq.github.io/sarasa/
@@ -474,11 +474,11 @@
   googlefonts_url: https://fonts.google.com/specimen/Share+Tech+Mono
 - name: Sometype Mono
   url: https://monospacedfont.com/
-  github_url: https://github.com/dharmatype/Sometype-Mono
+  source_url: https://github.com/dharmatype/Sometype-Mono
 - name: Sono
   url: https://usemodify.com/fonts/sono/
 - name: Source Code Pro
-  github_url: https://github.com/adobe-fonts/source-code-pro
+  source_url: https://github.com/adobe-fonts/source-code-pro
   descr: from adobe
 - name: Space Mono
   googlefonts_url: https://fonts.google.com/specimen/Space+Mono
@@ -491,13 +491,13 @@
 - name: Sudo
   url: https://www.kutilek.de/sudo-font/
 - name: Sun Gallant Demi
-  github_url: https://github.com/dim13/gallant
+  source_url: https://github.com/dim13/gallant
   download_url: https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf
 - name: Tamsyn
   url: http://www.fial.com/~scott/tamsyn-font/
   descr: bitmap-only
 - name: Tamzen
-  github_url: https://github.com/sunaku/tamzen-font
+  source_url: https://github.com/sunaku/tamzen-font
   descr: 'tamsyn in ttf, other formats'
 - name: Terminus
   url: https://terminus-font.sourceforge.net/
@@ -505,7 +505,7 @@
   url: https://sourceforge.net/projects/termsyn/
   descr: based on Terminus and Tamsyn/Tamzen
 - name: ti92plus
-  github_url: https://github.com/sterpe/ti92plus
+  source_url: https://github.com/sterpe/ti92plus
   descr: |-
     TI92PLUSPC.TTF with encoding fixes
   notes: |-
@@ -523,7 +523,7 @@
   descr: |-
     Includes some of the X fonts and some VGA fonts.  Also apparently includes VT330?
 - name: Unix PC 3B1
-  github_url: https://github.com/brandon-rhodes/unixpc-font-bdf
+  source_url: https://github.com/brandon-rhodes/unixpc-font-bdf
 - name: UNSCII
   url: http://viznut.fi/unscii/
 - name: VCR OSD Mono
@@ -531,19 +531,19 @@
 - name: Verily Serif Mono
   url: https://usemodify.com/fonts/verily-serif-mono/
 - name: Victor Mono
-  github_url: https://github.com/rubjo/victor-mono
+  source_url: https://github.com/rubjo/victor-mono
 - name: VT323
-  github_url: https://github.com/phoikoi/VT323
+  source_url: https://github.com/phoikoi/VT323
 - name: WenQuanYi Black
   url: http://wenq.org/wqy2/index.cgi?FontGuide#_4
   descr: '[chinese]'
 - name: Whois Mono
   uncut_url: https://uncut.wtf/monospace/whois/
-  github_url: https://github.com/raphaelbastide/Whois-mono
+  source_url: https://github.com/raphaelbastide/Whois-mono
 - name: Writer
-  github_url: https://github.com/tonsky/font-writer
+  source_url: https://github.com/tonsky/font-writer
 - name: Wumpus Mono
-  github_url: https://github.com/vaughantype/wumpus-mono/
+  source_url: https://github.com/vaughantype/wumpus-mono/
 - name: X11 Fonts
   url: https://gitlab.freedesktop.org/xorg/font
   descr: |-
@@ -556,5 +556,5 @@
     -   Sony Fixed
     -   Type 1 of Bitstream Courier
 - name: Zed Mono
-  github_url: https://github.com/zed-industries/zed-fonts
+  source_url: https://github.com/zed-industries/zed-fonts
   descr: 'based on Iosevka'

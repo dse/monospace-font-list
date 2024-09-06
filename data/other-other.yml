@@ -44,7 +44,7 @@
   myfonts_url: https://www.myfonts.com/collections/courier-b-font-elsner-flake
   descr: by Elsner+Flake.
 - name: distributed by the Thai Linux Working Group
-  github_url: https://github.com/tlwg/fonts-tlwg/tree/master/tlwg
+  source_url: https://github.com/tlwg/fonts-tlwg/tree/master/tlwg
   descr: |-
     -   TlwgMono
     -   Tlwg Typewriter

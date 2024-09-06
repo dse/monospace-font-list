@@ -32,7 +32,7 @@ while (<>) {
             if (defined $notes) {
                 print(indent(trimnorm($notes), "    -   ", "        "), "\n");
             }
-            printf("    -   [github](%s)\n",       delete $item->{github_url})       if defined $item->{github_url};
+            printf("    -   [source](%s)\n",       delete $item->{source_url})       if defined $item->{source_url};
             printf("    -   [fontlibrary](%s)\n",  delete $item->{fontlibrary_url})  if defined $item->{fontlibrary_url};
             printf("    -   [fontsquirrel](%s)\n", delete $item->{fontsquirrel_url}) if defined $item->{fontsquirrel_url};
             printf("    -   [fonts2u](%s)\n",      delete $item->{fonts2u_url})      if defined $item->{fonts2u_url};
