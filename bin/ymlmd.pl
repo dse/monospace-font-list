@@ -27,10 +27,11 @@ while (<>) {
             my $descr = delete $item->{descr};
             my $notes = delete $item->{notes};
             if (defined $descr) {
-                print(indent(trimnorm($descr), "    -   ", "        "), "\n");
+                print(indent(trimnorm($descr), "    ", "    "), "\n");
             }
             if (defined $notes) {
-                print(indent(trimnorm($notes), "    -   ", "        "), "\n");
+                print("    -   Notes:\n");
+                print(indent(trimnorm($notes), "        ", "        "), "\n");
             }
             printf("    -   [source](%s)\n",       delete $item->{source_url})       if defined $item->{source_url};
             printf("    -   [fontlibrary](%s)\n",  delete $item->{fontlibrary_url})  if defined $item->{fontlibrary_url};
