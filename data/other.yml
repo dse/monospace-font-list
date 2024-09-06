@@ -76,6 +76,9 @@
 - name: Disket Mono
   url: https://rostype.com/disket/
   descr: '[display]'
+- name: Display Module Fonts
+  descr: fonts that emulate popular LCD text display modules
+  source_url: https://github.com/dse/display-module-fonts
 - name: Effects Eighty
   fontlibrary_url: https://fontlibrary.org/th/font/effects-eighty
   descr: '[dot-matrix printer]'
@@ -215,6 +218,9 @@
 - name: Press Start 2P
   gfonts_url: https://fonts.google.com/specimen/Press+Start+2P
   descr: '[retro]'
+- name: Printer Dot Matrix Fonts
+  descr: fonts that emulate the DEC LA100 (sans-serif) and LA120 (serif) dot-matrix printers
+  source_url: https://github.com/dse/printer-dot-matrix-fonts
 - name: Putintin
   fontlibrary_url: https://fontlibrary.org/en/font/putintin
   descr: 'a font that translates Latin characters into Cyrillic characters and displays both.'
