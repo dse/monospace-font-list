@@ -10,6 +10,18 @@
 
 ## Sources of Information
 
+-   https://pimpmytype.com/font-category/monospace/
+
+    Profiles of a few monospace fonts.
+    
+    -   [Intel One Mono]
+    -   [Olympe Mono]
+    -   [Sligoil Micro]
+    -   [MD IO]
+    -   [VCTR Mono]
+    -   [Majör Mono Display]
+    -   [JetBrains Mono]
+
 -   https://lowing.org/fonts/ - a selection of programmer's fonts.
 
     -   [Bitstream Vera Sans Mono]
