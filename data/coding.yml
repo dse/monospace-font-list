@@ -82,6 +82,9 @@
   descr: derived from Deja Vu Sans Mono
 - name: Camingo Code
   url: https://janfromm.de/typefaces/camingocode/
+- name: Canton Typewriter Bitmap
+  descr: a coding-friendly Latin-1 font inspired by Caxton
+  source_url: https://github.com/dse/font-canton-typewriter-bitmap
 - name: Cascadia Code
   source_url: https://github.com/microsoft/cascadia-code
   descr: from microsoft
@@ -147,6 +150,12 @@
   variants: |-
     -   [dotted and slashed zero variants](https://www.cosmix.org/software/)
     -   [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
+- name: DSE Typewriter
+  descr: an old-timey monospace typeface you might use for coding
+  source_url: https://github.com/dse/dse-typewriter-font
+- name: DSE Typewriter Bitmap
+  descr: an old-timey bitmap monospace typeface you might use for coding
+  source_url: https://github.com/dse/dse-typewriter-bitmap-font
 - name: Edlo
   source_url: https://github.com/ehamiter/Edlo
 - name: Envy Code B
@@ -381,6 +390,9 @@
     -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
         -   derived from Source Code Pro and Noto Sans JP.
         -   No significant changes other than mixing.
+- name: OG Courier
+  descr: work in progress.  Based on IBM's Type 1 version of Courier donated to X Consortium, with coding features.
+  source_url: https://github.com/dse/font-og-courier
 - name: Old School PC Fonts
   url: https://int10h.org/oldschool-pc-fonts/fontlist/
   notes: |-
