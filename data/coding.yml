@@ -1,10 +1,17 @@
 ---
 - name: 0xProto
   source_url: https://github.com/0xType/0xProto
+  descr: |
+    A rather neat and fun monospace font with lots of features to differentiate the letters.
+    -   Includes a feature called **Texture Healing**, where characters like "m" and "w" can grow if the characters next to them can shrink.
 - name: 3270font
   source_url: https://github.com/rbanffy/3270font
+  descr: |
+    Based on the archetypal IBM 3270 mainframe terminal.  Goes great with cool-retro-term.
 - name: A+
   url: http://archive.vector.org.uk/resource/index.htm
+  descr: |
+    an APL font
 - name: Aardvark Fixed
   fontlibrary_url: https://fontlibrary.org/en/font/aardvark-sans
   descr: 'a mix of Iosevka, Misc Fixed 6x13, and Office Code Pro'
@@ -15,7 +22,7 @@
 - name: Alto Mono
   url: https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/
   descr: |-
-    damieng's bitmap font
+    damieng's bitmap font, based on the Xerox Alto, an early GUI workstation from 1973 
   notes: |-
     not related to Thiemich's paid [Alto Mono](https://www.typeby.com/fonts/alto-mono)
 - name: Amazon Ember Mono
@@ -27,8 +34,12 @@
     there.
 - name: Anka/Coder
   url: https://usemodify.com/fonts/anka-coder/
+  gfonts_url: https://code.google.com/p/anka-coder-fonts/
+  fontlibrary_url: https://fontlibrary.org/en/font/anka-coder
 - name: Anomaly Mono
   source_url: https://github.com/benbusby/anomaly-mono
+  descr: |
+    a cute monospace font with a retro-futuristic segmented-LED vibe
 - name: Anonymous Pro
   url: https://www.marksimonson.com/fonts/view/anonymous-pro
 - name: Another Man's Treasure
@@ -49,6 +60,9 @@
   descr: derived from Deja Vu Sans Mono
 - name: Astigmata
   url: https://medium.com/codex/astigmata-my-monospace-programming-font-b28ccfa9b025
+  descr: |
+    Developer Jason Knight needed a custom font for his deteriorating
+    vision before cataract surgery, and he created one.
 - name: Atarist
   source_url: https://github.com/ntwk/atarist-font
 - name: AudioLink Mono
@@ -61,13 +75,19 @@
   descr: an "average" of 13 variants of Courier.
 - name: Basically A Mono
   uncut_url: https://uncut.wtf/monospace/basically-a-mono/
-  url_2_url: https://experi.mentallydesigned.com/type/bam/
+  url: https://experi.mentallydesigned.com/type/bam/
+  descr: |
+    This is basically a geometric sans-serif monospace font.
 - name: Binchotan
   url: https://rvklein.me/proj/binchotan/
 - name: Bizcat
   url: https://robey.lag.net/2020/02/09/bizcat-bitmap-font.html
+  descr: |
+    A thick bitmap coding font.
 - name: Bmono
   source_url: https://github.com/NNBnh/bmono
+  descr: |
+    A custom build of Iosevka with some simplified symbols.
 - name: Borg Sans Mono
   source_url: https://github.com/marnen/borg-sans-mono
   descr: Droid Sans Mono with ligatures and slashed zero
@@ -77,6 +97,8 @@
   url: https://backpacker.gr/fonts/10
 - name: Brass Mono
   source_url: https://github.com/fonsecapeter/brass_mono
+  descr: |
+    "A free retro monospaced font inspired by 20th century electrical and mechanical design"
 - name: Brutalist Mono
   source_url: https://github.com/BRUTALISM/Brutalist
   descr: derived from Deja Vu Sans Mono
@@ -87,7 +109,7 @@
   source_url: https://github.com/dse/font-canton-typewriter-bitmap
 - name: Cascadia Code
   source_url: https://github.com/microsoft/cascadia-code
-  descr: from microsoft
+  descr: A fun coding font with a cursive italic, From Microsoft, the default font in Windows Terminal and now Visual Studio Code.
 - name: Chivo Mono
   source_url: https://github.com/namesmt/chivo
   descr: you probably want the Nerd Font linked from therein.
@@ -212,9 +234,12 @@
   url: https://markfromberg.com/projects/gintronic
 - name: Glass TTY
   url: https://caglrc.cc/glasstty/
-  descr: vt220
+  descr: |
+    This VT220 font also pairs quite well with cool-retro-term.
 - name: GNU Unifont
   url: https://unifoundry.com/unifont/
+  descr: |
+    A bitmap font with quite extensive Unicode coverage.
 - name: Go Mono
   url: https://go.dev/blog/go-fonts
 - name: Gohu
@@ -247,7 +272,7 @@
 - name: IBM Plex
   url: https://www.ibm.com/plex/
   descr: |-
-    includes a mono variant, **IBM Plex Mono**
+    IBM's new corporate typeface.  IBM Plex Mono is included.
   variants: |-
     -   [iA Writer Mono](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono)
     -   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
@@ -260,6 +285,8 @@
   descr: '[japanese]'
 - name: Inconsolata
   url: https://levien.com/type/myfonts/inconsolata.html
+  descr: |
+    Heavily inspired by Letter Gothic.
   variants: |-
     -   [Inconsolata Light](https://github.com/googlefonts/Inconsolata/blob/main/fonts/ttf/Inconsolata-Light.ttf)
     -   [Inconsolata-g](https://leonardo-m.livejournal.com/77079.html), Inconsolata with some changes
@@ -271,7 +298,9 @@
   descr: 'personal use free, public-facing use paid'
 - name: Intel One Mono
   url: https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html
-  descr: line printer vibe
+  descr: |
+    Intel is no exception to the "every company needs a custom font now" rule.
+    This one gives off a line printer vibe.
 - name: Iosevka
   url: https://typeof.net/Iosevka/
   variants: |-
@@ -365,7 +394,8 @@
   descr: paid typeface with a freely available regular weight
 - name: Natural Mono
   fontlibrary_url: https://fontlibrary.org/en/font/natural-mono
-  descr: 'based on Noto Mono, with alt versions of "i" and "l" (lower case I and L).'
+  descr: |
+    based on Noto Mono, with modified versions of the lower case I and L.
 - name: Necto Mono
   uncut_url: https://uncut.wtf/monospace/necto-mono/
 - name: Neomatrix Code
@@ -413,7 +443,7 @@
   descr: 'the Commodore VIC-20, C64, and C128 font family'
 - name: Perfect DOS VGA fonts
   url: https://laemeur.sdf.org/fonts/
-  descr: 'Less Perfect, More Perfect, and Perfect'
+  descr: 'includes Less Perfect, More Perfect, and Perfect'
 - name: Pixel Carnage
   dafont_url: https://www.dafont.com/pixelcarnage.d870
 - name: Pointfree

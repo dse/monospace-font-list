@@ -1,14 +1,18 @@
 202 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
+    A rather neat and fun monospace font with lots of features to differentiate the letters.
+    -   Includes a feature called **Texture Healing**, where characters like "m" and "w" can grow if the characters next to them can shrink.
 -   [3270font](https://github.com/rbanffy/3270font)
+    Based on the archetypal IBM 3270 mainframe terminal.  Goes great with cool-retro-term.
 -   [A+](http://archive.vector.org.uk/resource/index.htm)
+    an APL font
 -   [Aardvark Fixed](https://fontlibrary.org/en/font/aardvark-sans)
     a mix of Iosevka, Misc Fixed 6x13, and Office Code Pro
 -   [Acevedo](https://fontlibrary.org/en/font/acevedo)
 -   [Agave](https://b.agaric.net/page/agave)
 -   [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/)
-    damieng's bitmap font
+    damieng's bitmap font, based on the Xerox Alto, an early GUI workstation from 1973
     -   Notes:
         not related to Thiemich's paid [Alto Mono](https://www.typeby.com/fonts/alto-mono)
 -   [Amazon Ember Mono](https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography)
@@ -17,7 +21,10 @@
     is `amazon_typography_all.zip`; you will find Amazon Ember Mono
     there.
 -   [Anka/Coder](https://usemodify.com/fonts/anka-coder/)
+    -   [fontlibrary](https://fontlibrary.org/en/font/anka-coder)
+    -   [googlefonts](https://code.google.com/p/anka-coder-fonts/)
 -   [Anomaly Mono](https://github.com/benbusby/anomaly-mono)
+    a cute monospace font with a retro-futuristic segmented-LED vibe
 -   [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 -   [Another Man's Treasure](https://www.kreativekorp.com/software/fonts/trs80/)
     the TRS-80 font family
@@ -30,30 +37,35 @@
 -   [Arev](http://tavmjong.free.fr/FONTS/)
     derived from Deja Vu Sans Mono
 -   [Astigmata](https://medium.com/codex/astigmata-my-monospace-programming-font-b28ccfa9b025)
+    Developer Jason Knight needed a custom font for his deteriorating
+    vision before cataract surgery, and he created one.
 -   [Atarist](https://github.com/ntwk/atarist-font)
 -   [AudioLink Mono](https://audiolink.dev/)
     and AudioLink Console
 -   [Aurulent Sans Mono](https://www.dafont.com/aurulent-sans-mono.font)
 -   [Average Mono](https://fontlibrary.org/en/font/average-mono)
     an "average" of 13 variants of Courier.
--   Basically A Mono
+-   [Basically A Mono](https://experi.mentallydesigned.com/type/bam/)
+    This is basically a geometric sans-serif monospace font.
     -   [uncut](https://uncut.wtf/monospace/basically-a-mono/)
-    -   [url\_2](https://experi.mentallydesigned.com/type/bam/)
 -   [Binchotan](https://rvklein.me/proj/binchotan/)
 -   [Bizcat](https://robey.lag.net/2020/02/09/bizcat-bitmap-font.html)
+    A thick bitmap coding font.
 -   [Bmono](https://github.com/NNBnh/bmono)
+    A custom build of Iosevka with some simplified symbols.
 -   [Borg Sans Mono](https://github.com/marnen/borg-sans-mono)
     Droid Sans Mono with ligatures and slashed zero
 -   [BPmono](https://backpacker.gr/fonts/5)
 -   [BPtypewrite](https://backpacker.gr/fonts/10)
 -   [Brass Mono](https://github.com/fonsecapeter/brass_mono)
+    "A free retro monospaced font inspired by 20th century electrical and mechanical design"
 -   [Brutalist Mono](https://github.com/BRUTALISM/Brutalist)
     derived from Deja Vu Sans Mono
 -   [Camingo Code](https://janfromm.de/typefaces/camingocode/)
 -   [Canton Typewriter Bitmap](https://github.com/dse/font-canton-typewriter-bitmap)
     a coding-friendly Latin-1 font inspired by Caxton
 -   [Cascadia Code](https://github.com/microsoft/cascadia-code)
-    from microsoft
+    A fun coding font with a cursive italic, From Microsoft, the default font in Windows Terminal and now Visual Studio Code.
 -   [Chivo Mono](https://github.com/namesmt/chivo)
     you probably want the Nerd Font linked from therein.
 -   [Code New Roman](https://www.dafont.com/code-new-roman.font)
@@ -130,8 +142,9 @@
 -   [Generic Mono II](https://github.com/organicplanning/hackedfonts)
 -   [Gintronic](https://markfromberg.com/projects/gintronic)
 -   [Glass TTY](https://caglrc.cc/glasstty/)
-    vt220
+    This VT220 font also pairs quite well with cool-retro-term.
 -   [GNU Unifont](https://unifoundry.com/unifont/)
+    A bitmap font with quite extensive Unicode coverage.
 -   [Go Mono](https://go.dev/blog/go-fonts)
 -   [Gohu](https://font.gohu.org/)
 -   [Google Sans Mono](https://github.com/mehant-kr/Google-Sans-Mono)
@@ -151,7 +164,7 @@
 -   [IBM Fonts](https://farsil.github.io/ibmfonts/)
     IBM system fonts in BDF format, derived from the [PX Plus](https://int10h.org/oldschool-pc-fonts/fontlist/) fonts
 -   [IBM Plex](https://www.ibm.com/plex/)
-    includes a mono variant, **IBM Plex Mono**
+    IBM's new corporate typeface.  IBM Plex Mono is included.
     -   Variants:
         -   [iA Writer Mono](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono)
         -   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
@@ -161,6 +174,7 @@
 -   [Illusion](https://github.com/tomonic-x/Illusion)
     [japanese]
 -   [Inconsolata](https://levien.com/type/myfonts/inconsolata.html)
+    Heavily inspired by Letter Gothic.
     -   Variants:
         -   [Inconsolata Light](https://github.com/googlefonts/Inconsolata/blob/main/fonts/ttf/Inconsolata-Light.ttf)
         -   [Inconsolata-g](https://leonardo-m.livejournal.com/77079.html), Inconsolata with some changes
@@ -170,7 +184,8 @@
 -   [Input Mono](https://input.djr.com/)
     personal use free, public-facing use paid
 -   [Intel One Mono](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html)
-    line printer vibe
+    Intel is no exception to the "every company needs a custom font now" rule.
+    This one gives off a line printer vibe.
 -   [Iosevka](https://typeof.net/Iosevka/)
     -   Variants:
         -   [Iosevka VardanPro](https://github.com/varp/VardanPro-Fonts)
@@ -224,7 +239,7 @@
 -   [Native](https://fortfoundry.com/fonts/native)
     paid typeface with a freely available regular weight
 -   [Natural Mono](https://fontlibrary.org/en/font/natural-mono)
-    based on Noto Mono, with alt versions of "i" and "l" (lower case I and L).
+    based on Noto Mono, with modified versions of the lower case I and L.
 -   Necto Mono
     -   [uncut](https://uncut.wtf/monospace/necto-mono/)
 -   [Neomatrix Code](https://fontlibrary.org/en/font/neomatrixcode)
@@ -256,7 +271,7 @@
 -   [Pet Me](https://www.kreativekorp.com/software/fonts/c64/)
     the Commodore VIC-20, C64, and C128 font family
 -   [Perfect DOS VGA fonts](https://laemeur.sdf.org/fonts/)
-    Less Perfect, More Perfect, and Perfect
+    includes Less Perfect, More Perfect, and Perfect
 -   [Pixel Carnage](https://www.dafont.com/pixelcarnage.d870)
 -   [Pointfree](https://www.dafont.com/pointfree.font)
     if you like Comic Sans and are not a hater
