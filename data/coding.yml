@@ -123,6 +123,9 @@
     forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
 - name: Commit Mono
   url: https://commitmono.com/
+  descr: |
+    A coding font designed for familiarity and neutrality.
+    Has a "Smart Kerning" feature, similar to 0xProto's "Texture Healing".
 - name: Consola Mono
   fontlibrary_url: https://fontlibrary.org/en/font/consolamono
 - name: Corbi Mono S
