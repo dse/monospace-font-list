@@ -70,9 +70,6 @@
   descr: and AudioLink Console
 - name: Aurulent Sans Mono
   dafont_url: https://www.dafont.com/aurulent-sans-mono.font
-- name: Average Mono
-  fontlibrary_url: https://fontlibrary.org/en/font/average-mono
-  descr: an "average" of 13 variants of Courier.
 - name: Basically A Mono
   uncut_url: https://uncut.wtf/monospace/basically-a-mono/
   url: https://experi.mentallydesigned.com/type/bam/
@@ -131,12 +128,17 @@
 - name: Corbi Mono S
   fontlibrary_url: https://fontlibrary.org/fr/font/corbi-mono-s
   descr: Libertinus Mono with a slashed zero by default
-- name: Courier Code
-  fontlibrary_url: https://fontlibrary.org/en/font/courier-code
-  descr: based on Bitstream Courier 10 Pitch v2.0
-- name: Courier Prime
-  url: https://quoteunquoteapps.com/courierprime/
-  descr: 'includes Courier Prime Code, a sans-serif with coding features'
+- name: Courier
+  variants:
+    - name: Courier Code
+      fontlibrary_url: https://fontlibrary.org/en/font/courier-code
+      descr: based on Bitstream Courier 10 Pitch v2.0
+    - name: Courier Prime
+      url: https://quoteunquoteapps.com/courierprime/
+      descr: 'includes Courier Prime Code, a sans-serif with coding features'
+    - name: OG Courier
+      descr: work in progress.  Based on IBM's Type 1 version of Courier donated to X Consortium, with coding features.
+      source_url: https://github.com/dse/font-og-courier
 - name: Cousine
   gfonts_url: https://fonts.google.com/specimen/Cousine
 - name: Cozette
@@ -423,9 +425,6 @@
     -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
         -   derived from Source Code Pro and Noto Sans JP.
         -   No significant changes other than mixing.
-- name: OG Courier
-  descr: work in progress.  Based on IBM's Type 1 version of Courier donated to X Consortium, with coding features.
-  source_url: https://github.com/dse/font-og-courier
 - name: Old School PC Fonts
   url: https://int10h.org/oldschool-pc-fonts/fontlist/
   notes: |-
