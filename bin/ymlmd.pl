@@ -12,10 +12,7 @@ while (<>) {
             printf("\n\`\`\`\n%s\n\`\`\`\n\n", YAML::Dump($doc));
             next;
         }
-        warn(sprintf("%s: %d entries\n", $ARGV, scalar @$doc));
-
         printf("%d typefaces listed here.\n\n", scalar @$doc);
-
         foreach my $item (@$doc) {
             my $name = delete $item->{name};
             if (!defined $name) {
