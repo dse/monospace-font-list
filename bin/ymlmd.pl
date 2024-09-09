@@ -14,45 +14,50 @@ while (<>) {
         }
         printf("%d typefaces listed here.\n\n", scalar @$doc);
         foreach my $item (@$doc) {
-            my $name = delete $item->{name};
-            if (!defined $name) {
-                printf("\n\`\`\`\n%s\n\`\`\`\n\n", YAML::Dump($item));
-                next;
-            }
-            my $url = url($item);
-            if (defined $url) {
-                printf("-   [%s](%s)\n", $name, $url);
-            } else {
-                printf("-   %s\n", $name);
-            }
-            my $descr = delete $item->{descr};
-            my $notes = delete $item->{notes};
-            if (defined $descr) {
-                print(indent(trimnorm($descr), "    ", "    "), "\n");
-            }
-            if (defined $notes) {
-                print("    -   Notes:\n");
-                print(indent(trimnorm($notes), "        ", "        "), "\n");
-            }
-            printf("    -   [source](%s)\n",       delete $item->{source_url})       if defined $item->{source_url};
-            printf("    -   [fontlibrary](%s)\n",  delete $item->{fontlibrary_url})  if defined $item->{fontlibrary_url};
-            printf("    -   [fontsquirrel](%s)\n", delete $item->{fontsquirrel_url}) if defined $item->{fontsquirrel_url};
-            printf("    -   [fonts2u](%s)\n",      delete $item->{fonts2u_url})      if defined $item->{fonts2u_url};
-            printf("    -   [dafont](%s)\n",       delete $item->{dafont_url})       if defined $item->{dafont_url};
-            printf("    -   [googlefonts](%s)\n",  delete $item->{gfonts_url})  if defined $item->{gfonts_url};
-            printf("    -   [myfonts](%s)\n",      delete $item->{myfonts_url})      if defined $item->{myfonts_url};
-            foreach my $key (sort grep { /_url$/ } keys %$item) {
-                my $new_key = $key;
-                $new_key =~ s{_url$}{};
-                printf("    -   [%s](%s)\n", md_escape($new_key), $item->{$key});
-                delete $item->{$key};
-            }
-            my $variants = delete $item->{variants};
-            if (defined $variants) {
-                print("    -   Variants:\n");
-                print(indent(trimnorm($variants), "        ", "        "), "\n");
-            }
+            print_item($item);
         }
+    }
+}
+
+sub print_item {
+    my ($item) = @_;
+    my $name = delete $item->{name};
+    if (!defined $name) {
+        printf("\n\`\`\`\n%s\n\`\`\`\n\n", YAML::Dump($item));
+        return;
+    }
+    my $url = url($item);
+    if (defined $url) {
+        printf("-   [%s](%s)\n", $name, $url);
+    } else {
+        printf("-   %s\n", $name);
+    }
+    my $descr = delete $item->{descr};
+    my $notes = delete $item->{notes};
+    if (defined $descr) {
+        print(indent(trimnorm($descr), "    ", "    "), "\n");
+    }
+    if (defined $notes) {
+        print("    -   Notes:\n");
+        print(indent(trimnorm($notes), "        ", "        "), "\n");
+    }
+    printf("    -   [source](%s)\n",       delete $item->{source_url})       if defined $item->{source_url};
+    printf("    -   [fontlibrary](%s)\n",  delete $item->{fontlibrary_url})  if defined $item->{fontlibrary_url};
+    printf("    -   [fontsquirrel](%s)\n", delete $item->{fontsquirrel_url}) if defined $item->{fontsquirrel_url};
+    printf("    -   [fonts2u](%s)\n",      delete $item->{fonts2u_url})      if defined $item->{fonts2u_url};
+    printf("    -   [dafont](%s)\n",       delete $item->{dafont_url})       if defined $item->{dafont_url};
+    printf("    -   [googlefonts](%s)\n",  delete $item->{gfonts_url})  if defined $item->{gfonts_url};
+    printf("    -   [myfonts](%s)\n",      delete $item->{myfonts_url})      if defined $item->{myfonts_url};
+    foreach my $key (sort grep { /_url$/ } keys %$item) {
+        my $new_key = $key;
+        $new_key =~ s{_url$}{};
+        printf("    -   [%s](%s)\n", md_escape($new_key), $item->{$key});
+        delete $item->{$key};
+    }
+    my $variants = delete $item->{variants};
+    if (defined $variants) {
+        print("    -   Variants:\n");
+        print(indent(trimnorm($variants), "        ", "        "), "\n");
     }
 }
 
