@@ -87,12 +87,18 @@
           descr: is a sans-serif variant
         - name: Courier Prime Code
           descr: a sans-serif variant with coding features
+    - name: GNU FreeMono
+      url: https://www.gnu.org/software/freefont/
+      descr: is derived from Nimbus Mono.
     - name: IBM Courier
       url: https://gitlab.freedesktop.org/xorg/font/ibm-type1
       descr: 'distributed in Type 1 format with X11.'
     - name: Nimbus Mono L
       url: https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree
       descr: "is URW++'s Courier clone, distributed with Ghostscript."
+    - name: TeX Gyre Cursor
+      url: https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html
+      descr: 'adds Vietnamese glyphs, etc. to Nimbus Mono.'
 - name: Crystal
   url: http://www.povray.org/povlegal.html
   descr: (via <https://www.lowing.org/fonts/>)
@@ -151,9 +157,6 @@
 - name: Glovis
   url: https://fontsempire.com/font/glovis-download/
   descr: italic old-timey
-- name: GNU FreeMono
-  url: https://www.gnu.org/software/freefont/
-  descr: is also derived from Nimbus Mono.
 - name: Heming
   uncut_url: https://uncut.wtf/monospace/heming/
   behance_url: https://www.behance.net/gallery/142001915/Heming-Free-Variable-Font?locale=en_US
@@ -322,9 +325,6 @@
   url: https://www.smeltery.net/en/fonts/telerysm-mono-2
 - name: Tewi
   source_url: https://github.com/lucy/tewi-font
-- name: TeX Gyre Cursor
-  url: https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html
-  descr: 'adds Vietnamese glyphs, etc. to Nimbus Mono.'
 - name: Thermo
   url: https://lineto.com/typefaces/thermo
   descr: '[display]'
