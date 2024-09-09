@@ -41,4 +41,10 @@ Just in case you want some impossibly fancy shell prompts.
         restrictions à la Computer Modern Roman (i.e., Reserved Font
         Names)
 
+## Coding Font Comparison Shopping
 
+-   [Coding Fonts](https://hackingcpp.com/dev/coding_fonts.html)
+
+-   [Coding Font Tournament](https://www.codingfont.com/)
+
+-   [ProgrammingFonts.org](https://app.programmingfonts.org/)

@@ -1,13 +1,3 @@
-## Comparison Shopping
-
--   https://hackingcpp.com/dev/coding_fonts.html - a huge listing and ranking of fonts
-
-    looked through 01-SEP-2024
-    
--   [Coding Font](https://www.codingfont.com/) - fight to the death!
-
--   https://app.programmingfonts.org/
-
 ## Sources of Information
 
 -   https://lowing.org/fonts/ - a selection of programmer's fonts.
