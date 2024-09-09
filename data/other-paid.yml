@@ -37,8 +37,14 @@
   url: https://tosche.net/fonts/belinsky
 - name: Bergen Mono
   url: https://elements.envato.com/bergen-mono-942DQ4
+- name: Bistro Mono
+  url: https://dharmatype.com/bistro-mono
+  tagged:
+    display: true
 - name: Bitstream Pica 10 Pitch
   myfonts_url: https://www.myfonts.com/collections/pica-10-pitch-font-bitstream
+  tagged:
+    old-timey: true
 - name: Bradford Mono
   url: https://lineto.com/typefaces/bradford-mono
 - name: Centima Mono
@@ -73,6 +79,8 @@
       descr: from Lineto.
 - name: Cumberland
   myfonts_url: https://www.myfonts.com/collections/cumberland-font-monotype-imaging
+- name: Cygnito Mono
+  myfonts_url: https://www.myfonts.com/collections/cygnito-mono-pro-font-atk-studio
 - name: DF Staple Mono
   myfonts_url: https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts
 - name: Decima Mono Pro
@@ -94,8 +102,6 @@
   myfonts_url: https://www.myfonts.com/collections/eb-jessica-font-erik-bertell
 - name: EF Cash
   myfonts_url: https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake
-- name: FF Elementa
-  myfonts_url: https://www.myfonts.com/collections/elementa-pro-font-fontfont
 - name: EF Techno Script
   myfonts_url: https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake
 - name: Euclid Mono
@@ -110,7 +116,8 @@
   url: https://viktornuebel.com/retail-fonts/attribute/
 - name: FF Elementa
   myfonts_url: https://www.myfonts.com/collections/elementa-pro-font-fontfont
-  descr: '[old]'
+  tagged:
+    old-timey: true
 - name: FF Fago Monospaced
   myfonts_url: https://www.myfonts.com/collections/fago-monospace-font-fontfont
 - name: FF Magda Clean Mono
@@ -206,6 +213,8 @@
   descr: '[paid but at least one weight available free]'
 - name: Monotype Typewriter
   myfonts_url: https://www.myfonts.com/products/typewriter-complete-family-pack-package-432181
+  tagged:
+    old-timey: true
 - name: MVB Fantabular
   myfonts_url: https://www.myfonts.com/collections/mvb-fantabular-font-mvb
 - name: MVB Fantabular Sans
@@ -273,6 +282,8 @@
 - name: Script 12 Pitch
   myfonts_url: https://www.myfonts.com/collections/script-12-pitch-font-bitstream
   descr: old script typewriter font
+  tagged:
+    old-timey: true
 - name: SK Modernist Mono
   url: https://seankanedesign.gumroad.com/l/sk-modernist
 - name: Skagwae Mono
@@ -281,7 +292,8 @@
   myfonts_url: https://www.myfonts.com/collections/skurier-font-grin3
 - name: Smith Premier NF
   myfonts_url: https://www.myfonts.com/collections/smith-premier-nf-font-nicks-fonts
-  descr: '[old timey]'
+  tagged:
+    old-timey: true
 - name: Spot Mono
   url: https://www.schick-toikka.com/spot-mono
 - name: Struct Mono
@@ -295,7 +307,8 @@
   url: https://tosche.net/fonts/tabulamore-script
 - name: Teamhair
   myfonts_url: https://www.myfonts.com/collections/teamhair-font-evertype
-  descr: '[display]'
+  tagged:
+    display: true
 - name: Telegramo
   myfonts_url: https://www.myfonts.com/collections/telegramo-font-volcano
 - name: Tired of Courier
