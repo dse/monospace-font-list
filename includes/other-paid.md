@@ -1,4 +1,4 @@
-152 typefaces listed here.
+147 typefaces listed here.
 
 -   [Adore Mono](https://garagefonts.com/font/adore-mono)
 -   [Ahamono](https://hanken.co/products/ahamono)
@@ -27,18 +27,20 @@
 -   [Codo Mono](https://wearecolt.com/product/codo-mono/)
 -   [Colón Mono](http://www.tipografiaramis.com/coloacuten-mono.html)
 -   [Concursico Mono BTN](https://www.youworkforthem.com/font/19425/concursico-mono-btn)
--   [Courier EF](https://www.myfonts.com/collections/courier-b-font-elsner-flake)
-    by Elsner+Flake.
--   [Courier Line Draw](https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging)
-    from Monotype.
--   [Courier M](https://www.myfonts.com/collections/courier-font-urw)
-    by URW.
--   [Courier PS](https://www.myfonts.com/collections/courier-ps-font-monotype-imaging)
-    by Monotype.
--   [Courier SB](https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection)
-    by Scangraphic Digital
--   [Courier Sans Mono](https://lineto.com/typefaces/courier-sans-mono)
-    from Lineto.
+-   Courier
+    -   Variants:
+        -   [Courier EF](https://www.myfonts.com/collections/courier-b-font-elsner-flake)
+            by Elsner+Flake.
+        -   [Courier Line Draw](https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging)
+            from Monotype.
+        -   [Courier M](https://www.myfonts.com/collections/courier-font-urw)
+            by URW.
+        -   [Courier PS](https://www.myfonts.com/collections/courier-ps-font-monotype-imaging)
+            by Monotype.
+        -   [Courier SB](https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection)
+            by Scangraphic Digital
+        -   [Courier Sans Mono](https://lineto.com/typefaces/courier-sans-mono)
+            from Lineto.
 -   [Cumberland](https://www.myfonts.com/collections/cumberland-font-monotype-imaging)
 -   [DF Staple Mono](https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts)
 -   [Decima Mono Pro](http://www.tipografiaramis.com/decima-mono-pro.html)

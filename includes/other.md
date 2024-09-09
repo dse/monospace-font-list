@@ -1,4 +1,4 @@
-123 typefaces listed here.
+117 typefaces listed here.
 
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
     Arabic typewriter typeface
@@ -6,8 +6,6 @@
 -   [Audimat Mono](https://www.fontsquirrel.com/fonts/audimat-mono)
     -   Notes:
         its designer [discourages](https://www.smeltery.net/en/fonts/dead) its use
--   [Average Mono](https://fontlibrary.org/en/font/average-mono)
-    an "average" of 13 variants of Courier.
 -   [Azeret Mono](https://displaay.net/typeface/azeret/azeret-mono/)
     -   [googlefonts](https://fonts.google.com/specimen/Azeret+Mono)
     -   [fontshare](https://www.fontshare.com/fonts/azeret-mono)
@@ -21,8 +19,6 @@
     -   Notes:
         also known as [Befunge](https://ermineii.github.io/befont.html)
 -   [Bino Mono](https://www.fontyukle.net/font/Bino-Mono)
--   [Bitstream Courier 10 Pitch](https://gitlab.freedesktop.org/xorg/font/bitstream-type1)
-    distributed in Type 1 format with X11.
 -   [BIZ UDMincho](https://fonts.google.com/specimen/BIZ+UDMincho)
     -   [microsoft](https://learn.microsoft.com/en-us/typography/font-list/biz-udmincho-medium)
     -   [uncut](https://uncut.wtf/monospace/biz-udmincho/)
@@ -32,15 +28,51 @@
 -   [Compagnon](https://velvetyne.fr/fonts/compagnon/)
     old-timey inspired
 -   [Computer Modern Typewriter](https://en.wikipedia.org/wiki/Computer_Modern)
+    Computer Modern Typewriter Text is one of the many parameteric fonts
+    based on Dr. Donald Knuth's Computer Modern, which he developed
+    while writing an entire typesetting system called TeX during a
+    sabbatical.
+    
+    The fonts are available to everyone for free, but any modified versions,
+    including simply porting the fonts to other formats, cannot be called
+    Computer Modern, hence why the variants' names listed below differ.
+    -   Notes:
+        -   `cmtt10` is Computer Modern Typewriter Text's font name from back in the day.
+            (or `cmtt8`, `9`, or `12`).
+        -   The [Latin Modern](https://www.gust.org.pl/projects/e-foundry/latin-modern)
+            fonts are the "standard in the TeX community" according to Wikipedia.
+            The typewriter fonts are `lmtt8`, `9`, `10`, and `12`.
+        -   The [Blue Sky](https://ctan.org/tex-archive/systems/mac/textures/fonts/Computer_Modern_PostScript?lang=en) Type 1 fonts may look better on computer screens.
+        -   [Computer Modern Unicode](https://cm-unicode.sourceforge.io/index.html)
+        -   [Latin Modern Mono] (GUST e-foundry)
+        -   See also:
+            -   [a visual comparison](https://en.wikipedia.org/wiki/Computer_Modern#MLModern)
+            -   [another comparison](https://tex.stackexchange.com/questions/656626/comparison-of-vector-fonts-of-computer-modern-variants)
     -   Variants:
         -   [CMU Typewriter](https://fontlibrary.org/en/font/cmu-typewriter)
-        -   [Latin Modern Mono] (GUST e-foundry)
+        -   [Latin Modern Mono](https://www.fontsquirrel.com/fonts/latin-modern-mono)
 -   [Computer Speak](https://fontlibrary.org/en/font/computer-speak)
--   [Courier Prime](https://quoteunquoteapps.com/courierprime/)
-    a variant with an italic designed for screenwriters
+-   Courier
     -   Variants:
-        -   Courier Prime Sans is a sans-serif variant.
-        -   Courier Prime Code, a sans-serif variant with coding features.
+        -   [Average Mono](https://fontlibrary.org/en/font/average-mono)
+            an "average" of 13 variants of Courier.
+        -   [Bitstream Courier 10 Pitch](https://gitlab.freedesktop.org/xorg/font/bitstream-type1)
+            distributed in Type 1 format with X11.
+        -   [Courier Prime](https://quoteunquoteapps.com/courierprime/)
+            a variant with an italic designed for screenwriters
+            -   Variants:
+                        -   Courier Prime Sans
+                            is a sans-serif variant
+                        -   Courier Prime Code
+                            a sans-serif variant with coding features
+        -   [GNU FreeMono](https://www.gnu.org/software/freefont/)
+            is derived from Nimbus Mono.
+        -   [IBM Courier](https://gitlab.freedesktop.org/xorg/font/ibm-type1)
+            distributed in Type 1 format with X11.
+        -   [Nimbus Mono L](https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree)
+            is URW++'s Courier clone, distributed with Ghostscript.
+        -   [TeX Gyre Cursor](https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html)
+            adds Vietnamese glyphs, etc. to Nimbus Mono.
 -   [Crystal](http://www.povray.org/povlegal.html)
     (via <https://www.lowing.org/fonts/>)
 -   [Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono)
@@ -77,13 +109,9 @@
 -   [Générale Station](https://www.tunera.xyz/fonts/generale-station/)
 -   [Glovis](https://fontsempire.com/font/glovis-download/)
     italic old-timey
--   [GNU FreeMono](https://www.gnu.org/software/freefont/)
-    is also derived from Nimbus Mono.
 -   Heming
     -   [behance](https://www.behance.net/gallery/142001915/Heming-Free-Variable-Font?locale=en_US)
     -   [uncut](https://uncut.wtf/monospace/heming/)
--   [IBM Courier](https://gitlab.freedesktop.org/xorg/font/ibm-type1)
-    distributed in Type 1 format with X11.
 -   [KP Monospaced](https://tug.org/FontCatalogue/kpmonospaced/)
 -   [Kawkab Mono](https://makkuk.com/kawkab-mono/)
     Arabic monospace typeface -
@@ -121,8 +149,6 @@
     [paid but at least one weight available free]
 -   [Necto Mono](https://www.collletttivo.it/typefaces/necto-mono)
 -   [Neep](http://nikolas.us.to/jmkfonts/)
--   [Nimbus Mono L](https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree)
-    is URW++'s Courier clone, distributed with Ghostscript.
 -   [Normafixed](https://www.dafont.com/normafixed.font)
 -   [NotCourierSans](https://usemodify.com/fonts/notcouriersans/)
 -   [Nova Mono](https://fonts.google.com/specimen/Nova+Mono)
@@ -187,8 +213,6 @@
 -   [Telegrama](https://www.fontsquirrel.com/fonts/telegrama)
 -   [Telerysm Mono 2](https://www.smeltery.net/en/fonts/telerysm-mono-2)
 -   [Tewi](https://github.com/lucy/tewi-font)
--   [TeX Gyre Cursor](https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html)
-    adds Vietnamese glyphs, etc. to Nimbus Mono.
 -   [Thermo](https://lineto.com/typefaces/thermo)
     [display]
 -   [ThreeFourTwoTwo](https://fontlibrary.org/en/font/threefourtwotwo)

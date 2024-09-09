@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-123 typefaces listed here.
+117 typefaces listed here.
 
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
     Arabic typewriter typeface
@@ -10,8 +10,6 @@
 -   [Audimat Mono](https://www.fontsquirrel.com/fonts/audimat-mono)
     -   Notes:
         its designer [discourages](https://www.smeltery.net/en/fonts/dead) its use
--   [Average Mono](https://fontlibrary.org/en/font/average-mono)
-    an "average" of 13 variants of Courier.
 -   [Azeret Mono](https://displaay.net/typeface/azeret/azeret-mono/)
     -   [googlefonts](https://fonts.google.com/specimen/Azeret+Mono)
     -   [fontshare](https://www.fontshare.com/fonts/azeret-mono)
@@ -25,8 +23,6 @@
     -   Notes:
         also known as [Befunge](https://ermineii.github.io/befont.html)
 -   [Bino Mono](https://www.fontyukle.net/font/Bino-Mono)
--   [Bitstream Courier 10 Pitch](https://gitlab.freedesktop.org/xorg/font/bitstream-type1)
-    distributed in Type 1 format with X11.
 -   [BIZ UDMincho](https://fonts.google.com/specimen/BIZ+UDMincho)
     -   [microsoft](https://learn.microsoft.com/en-us/typography/font-list/biz-udmincho-medium)
     -   [uncut](https://uncut.wtf/monospace/biz-udmincho/)
@@ -60,13 +56,27 @@
         -   [CMU Typewriter](https://fontlibrary.org/en/font/cmu-typewriter)
         -   [Latin Modern Mono](https://www.fontsquirrel.com/fonts/latin-modern-mono)
 -   [Computer Speak](https://fontlibrary.org/en/font/computer-speak)
--   [Courier Prime](https://quoteunquoteapps.com/courierprime/)
-    a variant with an italic designed for screenwriters
+-   Courier
     -   Variants:
-        -   Courier Prime Sans
-            is a sans-serif variant
-        -   Courier Prime Code
-            a sans-serif variant with coding features
+        -   [Average Mono](https://fontlibrary.org/en/font/average-mono)
+            an "average" of 13 variants of Courier.
+        -   [Bitstream Courier 10 Pitch](https://gitlab.freedesktop.org/xorg/font/bitstream-type1)
+            distributed in Type 1 format with X11.
+        -   [Courier Prime](https://quoteunquoteapps.com/courierprime/)
+            a variant with an italic designed for screenwriters
+            -   Variants:
+                        -   Courier Prime Sans
+                            is a sans-serif variant
+                        -   Courier Prime Code
+                            a sans-serif variant with coding features
+        -   [GNU FreeMono](https://www.gnu.org/software/freefont/)
+            is derived from Nimbus Mono.
+        -   [IBM Courier](https://gitlab.freedesktop.org/xorg/font/ibm-type1)
+            distributed in Type 1 format with X11.
+        -   [Nimbus Mono L](https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree)
+            is URW++'s Courier clone, distributed with Ghostscript.
+        -   [TeX Gyre Cursor](https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html)
+            adds Vietnamese glyphs, etc. to Nimbus Mono.
 -   [Crystal](http://www.povray.org/povlegal.html)
     (via <https://www.lowing.org/fonts/>)
 -   [Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono)
@@ -103,13 +113,9 @@
 -   [Générale Station](https://www.tunera.xyz/fonts/generale-station/)
 -   [Glovis](https://fontsempire.com/font/glovis-download/)
     italic old-timey
--   [GNU FreeMono](https://www.gnu.org/software/freefont/)
-    is also derived from Nimbus Mono.
 -   Heming
     -   [behance](https://www.behance.net/gallery/142001915/Heming-Free-Variable-Font?locale=en_US)
     -   [uncut](https://uncut.wtf/monospace/heming/)
--   [IBM Courier](https://gitlab.freedesktop.org/xorg/font/ibm-type1)
-    distributed in Type 1 format with X11.
 -   [KP Monospaced](https://tug.org/FontCatalogue/kpmonospaced/)
 -   [Kawkab Mono](https://makkuk.com/kawkab-mono/)
     Arabic monospace typeface -
@@ -147,8 +153,6 @@
     [paid but at least one weight available free]
 -   [Necto Mono](https://www.collletttivo.it/typefaces/necto-mono)
 -   [Neep](http://nikolas.us.to/jmkfonts/)
--   [Nimbus Mono L](https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree)
-    is URW++'s Courier clone, distributed with Ghostscript.
 -   [Normafixed](https://www.dafont.com/normafixed.font)
 -   [NotCourierSans](https://usemodify.com/fonts/notcouriersans/)
 -   [Nova Mono](https://fonts.google.com/specimen/Nova+Mono)
@@ -213,8 +217,6 @@
 -   [Telegrama](https://www.fontsquirrel.com/fonts/telegrama)
 -   [Telerysm Mono 2](https://www.smeltery.net/en/fonts/telerysm-mono-2)
 -   [Tewi](https://github.com/lucy/tewi-font)
--   [TeX Gyre Cursor](https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html)
-    adds Vietnamese glyphs, etc. to Nimbus Mono.
 -   [Thermo](https://lineto.com/typefaces/thermo)
     [display]
 -   [ThreeFourTwoTwo](https://fontlibrary.org/en/font/threefourtwotwo)
@@ -237,7 +239,7 @@
 
 ## Paid
 
-152 typefaces listed here.
+147 typefaces listed here.
 
 -   [Adore Mono](https://garagefonts.com/font/adore-mono)
 -   [Ahamono](https://hanken.co/products/ahamono)
@@ -266,18 +268,20 @@
 -   [Codo Mono](https://wearecolt.com/product/codo-mono/)
 -   [Colón Mono](http://www.tipografiaramis.com/coloacuten-mono.html)
 -   [Concursico Mono BTN](https://www.youworkforthem.com/font/19425/concursico-mono-btn)
--   [Courier EF](https://www.myfonts.com/collections/courier-b-font-elsner-flake)
-    by Elsner+Flake.
--   [Courier Line Draw](https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging)
-    from Monotype.
--   [Courier M](https://www.myfonts.com/collections/courier-font-urw)
-    by URW.
--   [Courier PS](https://www.myfonts.com/collections/courier-ps-font-monotype-imaging)
-    by Monotype.
--   [Courier SB](https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection)
-    by Scangraphic Digital
--   [Courier Sans Mono](https://lineto.com/typefaces/courier-sans-mono)
-    from Lineto.
+-   Courier
+    -   Variants:
+        -   [Courier EF](https://www.myfonts.com/collections/courier-b-font-elsner-flake)
+            by Elsner+Flake.
+        -   [Courier Line Draw](https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging)
+            from Monotype.
+        -   [Courier M](https://www.myfonts.com/collections/courier-font-urw)
+            by URW.
+        -   [Courier PS](https://www.myfonts.com/collections/courier-ps-font-monotype-imaging)
+            by Monotype.
+        -   [Courier SB](https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection)
+            by Scangraphic Digital
+        -   [Courier Sans Mono](https://lineto.com/typefaces/courier-sans-mono)
+            from Lineto.
 -   [Cumberland](https://www.myfonts.com/collections/cumberland-font-monotype-imaging)
 -   [DF Staple Mono](https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts)
 -   [Decima Mono Pro](http://www.tipografiaramis.com/decima-mono-pro.html)
