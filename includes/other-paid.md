@@ -1,6 +1,7 @@
-147 typefaces listed here.
+149 typefaces listed here.
 
 -   [Adore Mono](https://garagefonts.com/font/adore-mono)
+-   [Aglet Mono](https://xyztype.com/fonts/aglet/aglet-mono)
 -   [Ahamono](https://hanken.co/products/ahamono)
 -   [Akkurat Mono](https://lineto.com/typefaces/akkurat-mono)
 -   [Alto Mono](https://www.typeby.com/fonts/alto-mono)
@@ -20,6 +21,7 @@
 -   [Basis Grotesque Mono](https://www.colophon-foundry.org/typefaces/basis-grotesque-mono)
 -   [Belinsky](https://tosche.net/fonts/belinsky)
 -   [Bergen Mono](https://elements.envato.com/bergen-mono-942DQ4)
+-   [Bistro Mono](https://dharmatype.com/bistro-mono)
 -   [Bitstream Pica 10 Pitch](https://www.myfonts.com/collections/pica-10-pitch-font-bitstream)
 -   [Bradford Mono](https://lineto.com/typefaces/bradford-mono)
 -   [Centima Mono](http://www.tipografiaramis.com/centima-mono.html)
@@ -42,6 +44,7 @@
         -   [Courier Sans Mono](https://lineto.com/typefaces/courier-sans-mono)
             from Lineto.
 -   [Cumberland](https://www.myfonts.com/collections/cumberland-font-monotype-imaging)
+-   [Cygnito Mono](https://www.myfonts.com/collections/cygnito-mono-pro-font-atk-studio)
 -   [DF Staple Mono](https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts)
 -   [Decima Mono Pro](http://www.tipografiaramis.com/decima-mono-pro.html)
 -   [Decima Mono Round](http://www.tipografiaramis.com/decima-mono-round.html)
@@ -53,7 +56,6 @@
 -   [Dottie](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [EB Jessica](https://www.myfonts.com/collections/eb-jessica-font-erik-bertell)
 -   [EF Cash](https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake)
--   [FF Elementa](https://www.myfonts.com/collections/elementa-pro-font-fontfont)
 -   [EF Techno Script](https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake)
 -   [Euclid Mono](https://www.swisstypefaces.com/lab/#Euclid%20Mono)
 -   [Excellent](https://lineto.com/typefaces/excellent)
@@ -61,7 +63,6 @@
 -   [Feggolite Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [FF Attribute Mono](https://viktornuebel.com/retail-fonts/attribute/)
 -   [FF Elementa](https://www.myfonts.com/collections/elementa-pro-font-fontfont)
-    [old]
 -   [FF Fago Monospaced](https://www.myfonts.com/collections/fago-monospace-font-fontfont)
 -   [FF Magda Clean Mono](https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont)
 -   [FF Nexus Typewriter](https://www.myfonts.com/collections/nexus-typewriter-pro-font-martin-majoor)
@@ -154,7 +155,6 @@
 -   [Skagwae Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Skurier](https://www.myfonts.com/collections/skurier-font-grin3)
 -   [Smith Premier NF](https://www.myfonts.com/collections/smith-premier-nf-font-nicks-fonts)
-    [old timey]
 -   [Spot Mono](https://www.schick-toikka.com/spot-mono)
 -   [Struct Mono](https://archetype-foundry.com/struct-mono)
 -   [Suisse Int'l Mono](https://www.swisstypefaces.com/fonts/suisse/#Int%E2%80%99l%20Mono)
@@ -162,7 +162,6 @@
     includes a monospace variant
 -   [Tabulamore Script](https://tosche.net/fonts/tabulamore-script)
 -   [Teamhair](https://www.myfonts.com/collections/teamhair-font-evertype)
-    [display]
 -   [Telegramo](https://www.myfonts.com/collections/telegramo-font-volcano)
 -   [Tired of Courier](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Typewalk Mono 1915](https://www.myfonts.com/collections/typewalk-mono-1915-font-typocalypse)
