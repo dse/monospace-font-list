@@ -36,15 +36,37 @@
 -   [Compagnon](https://velvetyne.fr/fonts/compagnon/)
     old-timey inspired
 -   [Computer Modern Typewriter](https://en.wikipedia.org/wiki/Computer_Modern)
+    Computer Modern Typewriter Text is one of the many parameteric fonts
+    based on Dr. Donald Knuth's Computer Modern, which he developed
+    while writing an entire typesetting system called TeX during a
+    sabbatical.
+    
+    The fonts are available to everyone for free, but any modified versions,
+    including simply porting the fonts to other formats, cannot be called
+    Computer Modern, hence why the variants' names listed below differ.
+    -   Notes:
+        -   `cmtt10` is Computer Modern Typewriter Text's font name from back in the day.
+            (or `cmtt8`, `9`, or `12`).
+        -   The [Latin Modern](https://www.gust.org.pl/projects/e-foundry/latin-modern)
+            fonts are the "standard in the TeX community" according to Wikipedia.
+            The typewriter fonts are `lmtt8`, `9`, `10`, and `12`.
+        -   The [Blue Sky](https://ctan.org/tex-archive/systems/mac/textures/fonts/Computer_Modern_PostScript?lang=en) Type 1 fonts may look better on computer screens.
+        -   [Computer Modern Unicode](https://cm-unicode.sourceforge.io/index.html)
+        -   [Latin Modern Mono] (GUST e-foundry)
+        -   See also:
+            -   [a visual comparison](https://en.wikipedia.org/wiki/Computer_Modern#MLModern)
+            -   [another comparison](https://tex.stackexchange.com/questions/656626/comparison-of-vector-fonts-of-computer-modern-variants)
     -   Variants:
         -   [CMU Typewriter](https://fontlibrary.org/en/font/cmu-typewriter)
-        -   [Latin Modern Mono] (GUST e-foundry)
+        -   [Latin Modern Mono](https://www.fontsquirrel.com/fonts/latin-modern-mono)
 -   [Computer Speak](https://fontlibrary.org/en/font/computer-speak)
 -   [Courier Prime](https://quoteunquoteapps.com/courierprime/)
     a variant with an italic designed for screenwriters
     -   Variants:
-        -   Courier Prime Sans is a sans-serif variant.
-        -   Courier Prime Code, a sans-serif variant with coding features.
+        -   Courier Prime Sans
+            is a sans-serif variant
+        -   Courier Prime Code
+            a sans-serif variant with coding features
 -   [Crystal](http://www.povray.org/povlegal.html)
     (via <https://www.lowing.org/fonts/>)
 -   [Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono)
