@@ -51,24 +51,26 @@
   url: http://www.tipografiaramis.com/coloacuten-mono.html
 - name: Concursico Mono BTN
   url: https://www.youworkforthem.com/font/19425/concursico-mono-btn
-- name: Courier EF
-  myfonts_url: https://www.myfonts.com/collections/courier-b-font-elsner-flake
-  descr: by Elsner+Flake.
-- name: Courier Line Draw
-  myfonts_url: https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging
-  descr: from Monotype.
-- name: Courier M
-  myfonts_url: https://www.myfonts.com/collections/courier-font-urw
-  descr: by URW.
-- name: Courier PS
-  myfonts_url: https://www.myfonts.com/collections/courier-ps-font-monotype-imaging
-  descr: by Monotype.
-- name: Courier SB
-  myfonts_url: https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection
-  descr: by Scangraphic Digital
-- name: Courier Sans Mono
-  url: https://lineto.com/typefaces/courier-sans-mono
-  descr: from Lineto.
+- name: Courier
+  variants:
+    - name: Courier EF
+      myfonts_url: https://www.myfonts.com/collections/courier-b-font-elsner-flake
+      descr: by Elsner+Flake.
+    - name: Courier Line Draw
+      myfonts_url: https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging
+      descr: from Monotype.
+    - name: Courier M
+      myfonts_url: https://www.myfonts.com/collections/courier-font-urw
+      descr: by URW.
+    - name: Courier PS
+      myfonts_url: https://www.myfonts.com/collections/courier-ps-font-monotype-imaging
+      descr: by Monotype.
+    - name: Courier SB
+      myfonts_url: https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection
+      descr: by Scangraphic Digital
+    - name: Courier Sans Mono
+      url: https://lineto.com/typefaces/courier-sans-mono
+      descr: from Lineto.
 - name: Cumberland
   myfonts_url: https://www.myfonts.com/collections/cumberland-font-monotype-imaging
 - name: DF Staple Mono
