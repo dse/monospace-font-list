@@ -62,7 +62,13 @@ sub print_item {
     my $variants = delete $item->{variants};
     if (defined $variants) {
         $str .= "    -   Variants:\n";
-        $str .= indent(trimnorm($variants), "        ", "        ") . "\n";
+        if (ref $variants eq '') {
+            $str .= indent(trimnorm($variants), "        ", "        ") . "\n";
+        } elsif (ref $variants eq 'ARRAY') {
+            foreach my $sub_item (@$variants) {
+                $str .= print_item($sub_item, $indent . "        ");
+            }
+        }
     }
     $str =~ s{^(?=[^\r\n])}{$indent}gm;
     return $str;
