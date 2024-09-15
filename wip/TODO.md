@@ -7,3 +7,6 @@
 -   http://www.fontscape.com/explore?5KA
 -   https://www.elfring.com/fixed.htm
 -   https://lineto.com/typefaces/filter/mono
+-   https://github.com/fontsource/fontsource
+-   https://github.com/CSS-Tricks/coding-fonts?tab=readme-ov-file
+-   https://github.com/kiwi0fruit/open-fonts?tab=readme-ov-file#best-monospace
