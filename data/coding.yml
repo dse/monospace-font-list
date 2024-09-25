@@ -126,6 +126,8 @@
 - name: Cascadia Code
   source_url: https://github.com/microsoft/cascadia-code
   description: A fun coding font with a cursive italic, From Microsoft, the default font in Windows Terminal and now Visual Studio Code.
+  tags:
+  - recommended
 - name: Chivo Mono
   source_url: https://github.com/namesmt/chivo
   description: you probably want the Nerd Font linked from therein.
@@ -177,6 +179,8 @@
   description: based on Nanum Barun Coding
 - name: DaddyTimeMono
   source_url: https://github.com/BourgeoisBear/DaddyTimeMono
+  tags:
+  - recommended
 - name: Dave
   source_url: https://github.com/i-e-b/Dave
   description: A monospace programming font built for unambiguous legibility above all else
@@ -245,12 +249,15 @@
     f/k/a Cosmic Sans Neue Mono
   tags:
   - casual
+  - recommended
 - name: Fifteen
   fontlibrary_url: https://fontlibrary.org/en/font/fifteen
   description: see also Quinze
 - name: Fira Code
   source_url: https://github.com/tonsky/FiraCode
   description: has ligatures
+  tags:
+  - recommended
 - name: Fira Cousine
   source_url: https://github.com/macduy/FiraCousine
   description: Cousine + Fira Code's punct marks and ligatures
@@ -261,6 +268,8 @@
 - name: Fira Mono
   source_url: https://github.com/mozilla/Fira
   description: from mozilla
+  tags:
+  - recommended
 - name: Fixedsys Excelsior
   source_url: https://github.com/kika/fixedsys
   tags:
@@ -285,6 +294,8 @@
 - name: Geist
   url: https://vercel.com/font
   description: includes a mono variant
+  tags:
+  - recommended
 - name: Generic Mono II
   source_url: https://github.com/organicplanning/hackedfonts
 - name: Gintronic
@@ -318,12 +329,18 @@
 - name: Hack
   url: https://sourcefoundry.org/hack/
   description: derived from Deja Vu Sans Mono
+  tags:
+  - recommended
 - name: Hasklig
   source_url: https://github.com/i-tu/Hasklig
   description: adds ligatures to Deja Vu derived typeface Hack
+  tags:
+  - recommended
 - name: Haskplex
   source_url: https://github.com/huytd/haskplex-font
   description: Hasklig + IBM Plex Mono
+  tags:
+  - recommended
 - name: Hera Mono
   source_url: https://github.com/sayyadirfanali/Hera
   description: mixture of glyphs from other monospace fonts
@@ -361,6 +378,8 @@
     -   [Inconsolata-dz](https://nodnod.net/posts/inconsolata-dz/), another altered Inconsolata
     -   [Inconsolata Go](https://levien.com/type/myfonts/inconsolata/), Inconsolata author's alteration with straight quotes
     -   [Inconsolata LGC](https://github.com/DeLaGuardo/Inconsolata-LGC) - adds Cyrillic alphabet
+  tags:
+  - recommended
 - name: Input Mono
   url: https://input.djr.com/
   description: 'personal use free, public-facing use paid'
@@ -369,12 +388,18 @@
   description: |
     Intel is no exception to the "every company needs a custom font now" rule.
     This one gives off a line printer vibe.
+  tags:
+  - recommended
 - name: Iosevka
   url: https://typeof.net/Iosevka/
   variants: |-
     -   [Iosevka VardanPro](https://github.com/varp/VardanPro-Fonts)
+  tags:
+  - recommended
 - name: Jetbrains Mono
   url: https://www.jetbrains.com/lp/mono/
+  tags:
+  - recommended
 - name: Jozsika
   source_url: https://github.com/nilcons/jozsika
   description: 'a customized version of Iosevka'
@@ -403,6 +428,8 @@
 - name: Linux Console Fonts for Windows
   url: http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/
   description: in .TTF and .FON
+  tags:
+  - bitmap
 - name: Linux Libertine
   url: https://sourceforge.net/projects/linuxlibertine/
   description: includes a mono variant
@@ -441,6 +468,8 @@
 - name: Monaspace
   url: https://monaspace.githubnext.com/
   description: superfamily
+  tags:
+  - recommended
 - name: Monego
   source_url: https://github.com/cseelus/monego
   description: monaco with bold and italic variants
@@ -488,6 +517,8 @@
     -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
         -   derived from Source Code Pro and Noto Sans JP.
         -   No significant changes other than mixing.
+  tags:
+  - recommended
 - name: Old School PC Fonts
   url: https://int10h.org/oldschool-pc-fonts/fontlist/
   notes: |-
@@ -572,6 +603,7 @@
     -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
   tags:
   - casual
+  - recommended
 - name: Reddit Mono
   gfonts_url: https://fonts.google.com/specimen/Reddit+Mono
 - name: Red Hat Mono
@@ -601,6 +633,8 @@
 - name: SF Mono
   url: https://developer.apple.com/fonts/
   description: '[free]'
+  tags:
+  - recommended
 - name: SGI Screen
   url: https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/
   description: |-
@@ -620,6 +654,8 @@
 - name: Source Code Pro
   source_url: https://github.com/adobe-fonts/source-code-pro
   description: from adobe
+  tags:
+  - recommended
 - name: Space Mono
   gfonts_url: https://fonts.google.com/specimen/Space+Mono
 - name: Spleen
