@@ -2,8 +2,13 @@
 - name: 1403 Vintage Mono
   url: https://1403.slantedhall.com/
   description: line printer inspired
+  tags:
+  - retro
+  - line printer
 - name: 64-SRC
   myfonts_url: https://www.myfonts.com/fonts/ilott-type/64-src/
+  tags:
+  - retro
 - name: Akkurat Mono
   url: https://lineto.com/typefaces/akkurat-mono
 - name: Autocode

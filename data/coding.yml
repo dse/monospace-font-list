@@ -660,6 +660,8 @@
   url: https://www.netalive.org/tinkering/triskweline/
 - name: TT2020
   url: https://copypaste.wtf/TT2020/docs/
+  tags:
+  - old-timey
 - name: TXTT
   url: https://tug.org/FontCatalogue/txtt/
 - name: Ubuntu Monospace
