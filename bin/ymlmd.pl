@@ -41,9 +41,9 @@ sub print_item {
         $str .= sprintf("-   %s", $title);
     }
 
-    my $descr = delete $item->{descr};
-    if (defined $descr) {
-        $str .= " - " . $descr . "\n";
+    my $description = delete $item->{description};
+    if (defined $description) {
+        $str .= " - " . $description . "\n";
     } else {
         $str .= "\n";
     }

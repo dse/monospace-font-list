@@ -1,7 +1,7 @@
 ---
 - name: 1403 Vintage Mono
   url: https://1403.slantedhall.com/
-  descr: line printer inspired
+  description: line printer inspired
 - name: 64-SRC
   myfonts_url: https://www.myfonts.com/fonts/ilott-type/64-src/
 - name: Akkurat Mono
@@ -12,7 +12,7 @@
   url: https://lineto.com/typefaces/autoscape
 - name: Berkeley Mono
   url: https://berkeleygraphics.com/typefaces/berkeley-mono/
-  descr: OCR-B inspired
+  description: OCR-B inspired
 - name: Best Choice
   url: https://dharmatype.com/best-choice
 - name: Calling Code
@@ -43,12 +43,12 @@
   url: https://www.typeby.com/fonts/fakt-mono
 - name: Lucida Console
   url: https://lucidafonts.com/collections/lucida-console
-  descr: '[but shipped with windows]'
+  description: '[but shipped with windows]'
 - name: Monolisa
   url: https://www.monolisa.dev/
 - name: Native
   url: https://fortfoundry.com/fonts/native
-  descr: '[regular weight is free]'
+  description: '[regular weight is free]'
 - name: Operator Mono
   url: https://typography.com/blog/introducing-operator
 - name: Pragmata Pro
@@ -59,9 +59,9 @@
   url: https://dharmatype.com/senpai-coder
 - name: TheSansMono
   url: https://www.lucasfonts.com/fonts/the-sans-mono
-  descr: used in some O'Reilly & Associates books
+  description: used in some O'Reilly & Associates books
 - name: Triplicate
   url: https://mbtype.com/fonts/triplicate/
-  descr: includes a coding variant
+  description: includes a coding variant
 - name: Vivala Code
   myfonts_url: https://www.myfonts.com/collections/vivala-code-font-johannes-hoffmann

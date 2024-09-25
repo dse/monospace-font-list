@@ -1,7 +1,7 @@
 ---
 - name: Amiri Typewriter
   source_url: https://github.com/aliftype/amiri-typewriter
-  descr: Arabic typewriter typeface
+  description: Arabic typewriter typeface
 - name: Angelus III
   myfonts_url: https://www.myfonts.com/collections/angelus-iii-font-scriptorium
 - name: Audimat Mono
@@ -15,10 +15,10 @@
   gfonts_url: https://fonts.google.com/specimen/Azeret+Mono
 - name: B612 Mono
   url: https://b612-font.com/
-  descr: cockpit screen font
+  description: cockpit screen font
 - name: Basier Mono
   url: https://www.atipofoundry.com/fonts/basier-mono
-  descr: pay what you want
+  description: pay what you want
 - name: Bedstead
   url: https://bjh21.me.uk/bedstead/
 - name: Befont
@@ -33,15 +33,15 @@
   microsoft_url: https://learn.microsoft.com/en-us/typography/font-list/biz-udmincho-medium
 - name: BQN386
   url: https://dzaima.github.io/BQN386/
-  descr: '[apl]'
+  description: '[apl]'
 - name: CATV 6x12 9
   fontlibrary_url: https://fontlibrary.org/en/font/catv-6x12-9
 - name: Compagnon
   url: https://velvetyne.fr/fonts/compagnon/
-  descr: old-timey inspired
+  description: old-timey inspired
 - name: Computer Modern Typewriter
   url: https://en.wikipedia.org/wiki/Computer_Modern
-  descr: |
+  description: |
     Computer Modern Typewriter Text is one of the many parameteric fonts
     based on Dr. Donald Knuth's Computer Modern, which he developed
     while writing an entire typesetting system called TeX during a
@@ -74,34 +74,34 @@
   variants:
     - name: Average Mono
       fontlibrary_url: https://fontlibrary.org/en/font/average-mono
-      descr: an "average" of 13 variants of Courier.
+      description: an "average" of 13 variants of Courier.
     - name: Bitstream Courier 10 Pitch
       url: https://gitlab.freedesktop.org/xorg/font/bitstream-type1
-      descr: 'distributed in Type 1 format with X11.'
+      description: 'distributed in Type 1 format with X11.'
     - name: Courier Prime
       url: https://quoteunquoteapps.com/courierprime/
-      descr: |-
+      description: |-
         a variant with an italic designed for screenwriters
       variants:
         - name: Courier Prime Sans
-          descr: is a sans-serif variant
+          description: is a sans-serif variant
         - name: Courier Prime Code
-          descr: a sans-serif variant with coding features
+          description: a sans-serif variant with coding features
     - name: GNU FreeMono
       url: https://www.gnu.org/software/freefont/
-      descr: is derived from Nimbus Mono.
+      description: is derived from Nimbus Mono.
     - name: IBM Courier
       url: https://gitlab.freedesktop.org/xorg/font/ibm-type1
-      descr: 'distributed in Type 1 format with X11.'
+      description: 'distributed in Type 1 format with X11.'
     - name: Nimbus Mono L
       url: https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree
-      descr: "is URW++'s Courier clone, distributed with Ghostscript."
+      description: "is URW++'s Courier clone, distributed with Ghostscript."
     - name: TeX Gyre Cursor
       url: https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html
-      descr: 'adds Vietnamese glyphs, etc. to Nimbus Mono.'
+      description: 'adds Vietnamese glyphs, etc. to Nimbus Mono.'
 - name: Crystal
   url: http://www.povray.org/povlegal.html
-  descr: (via <https://www.lowing.org/fonts/>)
+  description: (via <https://www.lowing.org/fonts/>)
 - name: Cutive Mono
   gfonts_url: https://fonts.google.com/specimen/Cutive+Mono
 - name: DM Mono
@@ -112,42 +112,42 @@
   fontlibrary_url: https://fontlibrary.org/en/font/dejavu-markup
 - name: DeluxeFont
   url: https://zone38.net/font/#deluxefont
-  descr: '[retro]'
+  description: '[retro]'
 - name: Disket Mono
   url: https://rostype.com/disket/
-  descr: '[display]'
+  description: '[display]'
 - name: Display Module Fonts
-  descr: fonts that emulate popular LCD text display modules
+  description: fonts that emulate popular LCD text display modules
   source_url: https://github.com/dse/display-module-fonts
 - name: Effects Eighty
   fontlibrary_url: https://fontlibrary.org/th/font/effects-eighty
-  descr: '[dot-matrix printer]'
+  description: '[dot-matrix printer]'
 - name: EnvyPN
   source_url: https://github.com/hicolour/envypn-font
-  descr: '[bdf]'
+  description: '[bdf]'
 - name: Espresso Mono
   source_url: https://github.com/jmazzi/dotfiles/tree/master/.fonts
-  descr: '[unknown source]'
+  description: '[unknown source]'
 - name: Excalibur Monospace
   fonts2u_url: https://fonts2u.com/excalibur-monospace.font
 - name: F25 Artisan12
   url: http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Artisan12
-  descr: '[private use]'
+  description: '[private use]'
 - name: F25 Bank Printer
   url: http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Bank_Printer
-  descr: '[private use]'
+  description: '[private use]'
 - name: F25 Blackletter Typewriter
   url: http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Blackletter_Typewriter
-  descr: '[private use]'
+  description: '[private use]'
 - name: F25 Cella
   url: http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Cella
-  descr: '[private use]'
+  description: '[private use]'
 - name: F25 DaisyWheel
   url: http://f25.cc/index.php?F25_Fonts:Monospaced:F25_DaisyWheel
-  descr: '[private use]'
+  description: '[private use]'
 - name: F25 Typewriter Condensed
   url: http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Typewriter_Condensed
-  descr: '[private use]'
+  description: '[private use]'
 - name: Fifteen Twenty
   source_url: https://github.com/scruss/FifteenTwenty
 - name: Générale Mono
@@ -156,7 +156,7 @@
   url: https://www.tunera.xyz/fonts/generale-station/
 - name: Glovis
   url: https://fontsempire.com/font/glovis-download/
-  descr: italic old-timey
+  description: italic old-timey
 - name: Heming
   uncut_url: https://uncut.wtf/monospace/heming/
   behance_url: https://www.behance.net/gallery/142001915/Heming-Free-Variable-Font?locale=en_US
@@ -164,21 +164,21 @@
   url: https://tug.org/FontCatalogue/kpmonospaced/
 - name: Kawkab Mono
   url: https://makkuk.com/kawkab-mono/
-  descr: Arabic monospace typeface -
+  description: Arabic monospace typeface -
 - name: Kepler-452b
   source_url: https://github.com/weirdoonthebus/Kepler-452b
 - name: Kosugi Maru
   gfonts_url: https://fonts.google.com/specimen/Kosugi+Maru
 - name: Larabiefont
   url: https://typodermicfonts.com/larabiefont/
-  descr: '[paid but regular is free]'
+  description: '[paid but regular is free]'
 - name: Lekton
   gfonts_url: https://fonts.google.com/specimen/Lekton
 - name: Linux Libertine Mono
   url: https://sourceforge.net/projects/linuxlibertine/
 - name: Lovematrix
   fontlibrary_url: https://fontlibrary.org/en/font/dejavu-markup
-  descr: 'a hearty version of mnicmp'
+  description: 'a hearty version of mnicmp'
 - name: LT Superior Mono
   uncut_url: https://uncut.wtf/monospace/lt-superior-mono/
 - name: Major Mono Display
@@ -203,7 +203,7 @@
   myfonts_url: https://www.myfonts.com/collections/monocto-font-lafonts
 - name: Monoflow
   url: https://finaltype.de/en/projects/monoflow
-  descr: '[paid with one weight free]'
+  description: '[paid with one weight free]'
 - name: Monofur
   dafont_url: https://www.dafont.com/monofur.font
 - name: Monor
@@ -214,7 +214,7 @@
   url: https://www.fontspace.com/monospace-font-f13274
 - name: Monostep
   myfonts_url: https://www.myfonts.com/collections/monostep-font-yokkmokk?srsltid=AfmBOoqno5fgZH1DJ4LtsgSkZpVWq9gatAHeaurM7x4If7sG4OoDpGsl
-  descr: '[paid but at least one weight available free]'
+  description: '[paid but at least one weight available free]'
 - name: Necto Mono
   url: https://www.collletttivo.it/typefaces/necto-mono
 - name: Neep
@@ -227,70 +227,70 @@
   gfonts_url: https://fonts.google.com/specimen/Nova+Mono
 - name: NuSans Mono
   url: https://www.urbanfonts.com/fonts/Nu_Sans_Mono.font
-  descr: digits are bitmaps; everything else is smooth
+  description: digits are bitmaps; everything else is smooth
 - name: Olympiad
   url: https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/
-  descr: 'IBM internal prototype fonts '
+  description: 'IBM internal prototype fonts '
 - name: Onuava
   dafont_url: https://www.dafont.com/onuava.font
 - name: OpenDyslexic
   url: https://opendyslexic.org/
-  descr: has a monospace variant
+  description: has a monospace variant
 - name: Pandora Single Pitch
   url: https://www.tug.org/FontCatalogue/pandorasinglepitch/
 - name: Panic Sans
   url: https://eng.fontke.com/family/904560/style/
-  descr: '[appears to be based on DejaVu]'
+  description: '[appears to be based on DejaVu]'
 - name: Pantasia
   url: https://counter-forms.com/typefaces/pantasia
-  descr: derived from Times New Roman
+  description: derived from Times New Roman
 - name: PoultreMono
   url: https://codeberg.org/Wezl/fonts#poultremono
 - name: Press Start 2P
   gfonts_url: https://fonts.google.com/specimen/Press+Start+2P
-  descr: '[retro]'
+  description: '[retro]'
 - name: Printer Dot Matrix Fonts
-  descr: fonts that emulate the DEC LA100 (sans-serif) and LA120 (serif) dot-matrix printers
+  description: fonts that emulate the DEC LA100 (sans-serif) and LA120 (serif) dot-matrix printers
   source_url: https://github.com/dse/printer-dot-matrix-fonts
 - name: Putintin
   fontlibrary_url: https://fontlibrary.org/en/font/putintin
-  descr: 'a font that translates Latin characters into Cyrillic characters and displays both.'
+  description: 'a font that translates Latin characters into Cyrillic characters and displays both.'
 - name: QT Letter Goth
   url: https://www.tug.org/FontCatalogue/qtlettergoth/
 - name: QuickType Mono
   url: https://fontsgeek.com/fonts/QuickType-Mono-Regular
-  descr: '[free]'
+  description: '[free]'
 - name: QuickType II Mono
   url: https://fontsgeek.com/fonts/QuickType-II-Mono-Regular
-  descr: '[free]'
+  description: '[free]'
 - name: Raize
   url: https://www.softpedia.com/get/Others/Font-Utils/Raize-Font.shtml
-  descr: '[free]'
+  description: '[free]'
 - name: Relaxed Typing Mono JP
   source_url: https://github.com/mshioda/relaxed-typing-mono-jp
 - name: Retro Type 3 PostScript Fonts
   url: https://unifoundry.com/retro/index.html
-  descr: dot-matrix printer fonts
+  description: dot-matrix printer fonts
 - name: Retroscape
   fontlibrary_url: https://fontlibrary.org/en/font/retroscape
 - name: Rubik Mono One
   gfonts_url: https://fonts.google.com/specimen/Rubik+Mono+One
-  descr: '[display]'
+  description: '[display]'
 - name: Rusrus Compact Mono
   fontlibrary_url: https://fontlibrary.org/en/font/rursus-compact-mono
 - name: RX100
   url: https://www.fontshare.com/fonts/rx-100
 - name: Sabir Mono
   source_url: https://github.com/mateobrt/Sabir-Mono
-  descr: '[demo](https://localfonts.eu/freefonts/traditional-cyrillic-free-fonts/sabir-mono/)'
+  description: '[demo](https://localfonts.eu/freefonts/traditional-cyrillic-free-fonts/sabir-mono/)'
 - name: SaxMono
   dafont_url: https://www.dafont.com/saxmono.font
 - name: Selectric
   source_url: https://github.com/atelierBek/selectric
-  descr: '[demo](https://usemodify.com/fonts/selectric/)'
+  description: '[demo](https://usemodify.com/fonts/selectric/)'
 - name: Simple
   url: https://font.download/font/simple
-  descr: '[free for personal use]'
+  description: '[free for personal use]'
 - name: Skyhook Mono
   fontsquirrel_url: https://www.fontsquirrel.com/fonts/skyhook-mono
 - name: Sligoil
@@ -316,7 +316,7 @@
   source_url: https://github.com/kmar/Sweet16Font/tree/master
 - name: Syne Mono
   gfonts_url: https://fonts.google.com/specimen/Syne+Mono
-  descr: '[display]'
+  description: '[display]'
 - name: Teeny Tiny Pixls
   url: https://www.fontspace.com/teeny-tiny-pixls-font-f30095
 - name: Telegrama
@@ -327,19 +327,19 @@
   source_url: https://github.com/lucy/tewi-font
 - name: Thermo
   url: https://lineto.com/typefaces/thermo
-  descr: '[display]'
+  description: '[display]'
 - name: ThreeFourTwoTwo
   fontlibrary_url: https://fontlibrary.org/en/font/threefourtwotwo
-  descr: based on an old LED display
+  description: based on an old LED display
 - name: Topaz-8
   fonts2u_url: https://fonts2u.com/topaz-8.font
-  descr: recreation of an Amiga font
+  description: recreation of an Amiga font
 - name: Toren aka Tenpo
   source_url: https://github.com/eliheuer/tenpo
-  descr: '[work in progress]'
+  description: '[work in progress]'
 - name: Tye Paloon
   url: https://online-fonts.com/fonts/tye-paloon
-  descr: '[display]'
+  description: '[display]'
 - name: Ume Gothic
   url: https://usemodify.com/fonts/ume-fonts/
 - name: Ume Mincho
@@ -349,7 +349,7 @@
   source_url: https://github.com/kaspernordkvist/uncut_plan8
 - name: WikisourceMono
   url: https://en.wikisource.org/wiki/Wikisource:WikisourceMono
-  descr: proofreading font
+  description: proofreading font
 - name: Xanh Mono
   gfonts_url: https://fonts.google.com/specimen/Xanh+Mono
 - name: xnufont

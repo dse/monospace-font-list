@@ -7,7 +7,7 @@
   url: https://hanken.co/products/ahamono
 - name: Alto Mono
   url: https://www.typeby.com/fonts/alto-mono
-  descr: |-
+  description: |-
     Thiemich's typeface
   notes: |-
     not related to damieng's free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
@@ -61,22 +61,22 @@
   variants:
     - name: Courier EF
       myfonts_url: https://www.myfonts.com/collections/courier-b-font-elsner-flake
-      descr: by Elsner+Flake.
+      description: by Elsner+Flake.
     - name: Courier Line Draw
       myfonts_url: https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging
-      descr: from Monotype.
+      description: from Monotype.
     - name: Courier M
       myfonts_url: https://www.myfonts.com/collections/courier-font-urw
-      descr: by URW.
+      description: by URW.
     - name: Courier PS
       myfonts_url: https://www.myfonts.com/collections/courier-ps-font-monotype-imaging
-      descr: by Monotype.
+      description: by Monotype.
     - name: Courier SB
       myfonts_url: https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection
-      descr: by Scangraphic Digital
+      description: by Scangraphic Digital
     - name: Courier Sans Mono
       url: https://lineto.com/typefaces/courier-sans-mono
-      descr: from Lineto.
+      description: from Lineto.
 - name: Cumberland
   myfonts_url: https://www.myfonts.com/collections/cumberland-font-monotype-imaging
 - name: Cygnito Mono
@@ -93,7 +93,7 @@
   url: https://occupantfonts.com/fonts/dispatch-mono/
 - name: Doire
   myfonts_url: https://www.myfonts.com/collections/doire-font-evertype
-  descr: display typeface
+  description: display typeface
 - name: Dossier
   url: https://tosche.net/fonts/dossier
 - name: Dottie
@@ -154,7 +154,7 @@
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Hyperfont
   url: https://en.wikipedia.org/wiki/HyperFont
-  descr: distributed with HyperTerminal
+  description: distributed with HyperTerminal
 - name: Igoe
   myfonts_url: https://www.myfonts.com/collections/igoe-font-linecreative
 - name: Ingrid Mono
@@ -181,17 +181,17 @@
   url: https://processtypefoundry.com/fonts/kettler/
 - name: Klartext Mono
   myfonts_url: https://www.myfonts.com/collections/klartext-mono-font-fonts-with-love
-  descr: '[one weight freely available]'
+  description: '[one weight freely available]'
 - name: Knif Mono
   url: https://aisforfonts.com/knif
 - name: Larabiefont
   url: https://typodermicfonts.com/larabiefont/
-  descr: '[paid but regular is free]'
+  description: '[paid but regular is free]'
 - name: Lettera Mono
   url: https://lineto.com/typefaces/lettera-mono
 - name: Linefeed
   url: https://typodermicfonts.com/linefeed/
-  descr: '[line printer inspired]'
+  description: '[line printer inspired]'
 - name: LTC Remington Typewriter
   myfonts_url: https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company
 - name: Maison Mono
@@ -208,15 +208,15 @@
   myfonts_url: https://www.myfonts.com/collections/monoela-font-interfont
 - name: Monoflow
   url: https://finaltype.de/en/projects/monoflow
-  descr: '[paid with one weight free]'
+  description: '[paid with one weight free]'
 - name: Monoist
   url: https://hanken.co/products/monoist
-  descr: '[paid but CHEAP]'
+  description: '[paid but CHEAP]'
 - name: Monosten
   url: https://www.colophon-foundry.org/typefaces/monosten
 - name: Monostep
   myfonts_url: https://www.myfonts.com/collections/monostep-font-yokkmokk?srsltid=AfmBOoqno5fgZH1DJ4LtsgSkZpVWq9gatAHeaurM7x4If7sG4OoDpGsl
-  descr: '[paid but at least one weight available free]'
+  description: '[paid but at least one weight available free]'
 - name: Monotype Typewriter
   myfonts_url: https://www.myfonts.com/products/typewriter-complete-family-pack-package-432181
   tagged:
@@ -257,7 +257,7 @@
   url: https://parachutefonts.com/typeface/Das-Grot-Mono
 - name: Pitch
   url: https://klim.co.nz/retail-fonts/pitch/
-  descr: '[old typewriter inspired]'
+  description: '[old typewriter inspired]'
 - name: Platelet
   url: https://www.emigre.com/Fonts/Platelet
 - name: Plotter Mono
@@ -270,7 +270,7 @@
   url: https://www.typeby.com/fonts/quadraat-sans-mono
 - name: Rational TW
   myfonts_url: https://www.myfonts.com/collections/rational-tw-font-rene-bieder
-  descr: '[paid but [demos](https://www.myfonts.com/collections/rational-tw-font-rene-bieder?tab=individualStyles) available]'
+  description: '[paid but [demos](https://www.myfonts.com/collections/rational-tw-font-rene-bieder?tab=individualStyles) available]'
 - name: Relative Mono
   url: https://www.colophon-foundry.org/typefaces/relative-mono/opentype
 - name: Replica Mono
@@ -289,7 +289,7 @@
   myfonts_url: https://www.myfonts.com/collections/sauna-mono-pro-font-underware
 - name: Script 12 Pitch
   myfonts_url: https://www.myfonts.com/collections/script-12-pitch-font-bitstream
-  descr: old script typewriter font
+  description: old script typewriter font
   tagged:
     old-timey: true
 - name: SK Modernist Mono
@@ -310,7 +310,7 @@
   url: https://www.swisstypefaces.com/fonts/suisse/#Int%E2%80%99l%20Mono
 - name: Superstudio
   url: https://lineto.com/typefaces/superstudio
-  descr: includes a monospace variant
+  description: includes a monospace variant
 - name: Tabulamore Script
   url: https://tosche.net/fonts/tabulamore-script
 - name: Teamhair
@@ -325,7 +325,7 @@
   myfonts_url: https://www.myfonts.com/collections/typewalk-mono-1915-font-typocalypse
 - name: Typist Slab Mono
   myfonts_url: https://www.myfonts.com/collections/typist-slab-font-vanderkeur
-  descr: '[old-ish]'
+  description: '[old-ish]'
 - name: Unica77 Mono
   url: https://lineto.com/typefaces/unica77-mono
 - name: Unotype
@@ -353,14 +353,14 @@
 - name: ITC Souvenir Monospaced
   myfonts_url: https://www.myfonts.com/collections/souvenir-monospaced-font-itc
 - name: Univers Next Typewriter
-  descr: |-
+  description: |-
     includes the following:
     -   [430 Regular](https://www.myfonts.com/products/typewriter-pro-430-regular-3-univers-next-356583)
     -   [431 Italic](https://www.myfonts.com/products/pro-431-typewriter-italic-univers-next-356590)
     -   [630 Bold](https://www.myfonts.com/products/pro-630-typewriter-bold-univers-next-356596)
     -   [631 Bold Italic](https://www.myfonts.com/products/pro-631-typewriter-bold-italic-univers-next-356600)
 - name: Helvetica
-  descr: |-
+  description: |-
     has the following monospace variants:
     -   [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono) - based on URW Nimbus Sans, a Helvetica clone
     -   [Helvetica Monospaced](https://www.myfonts.com/collections/helvetica-monospaced-font-linotype)
