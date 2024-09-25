@@ -100,7 +100,7 @@
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: EB Jessica
   myfonts_url: https://www.myfonts.com/collections/eb-jessica-font-erik-bertell
-- name: EF Cash
+- name: EF Cash Monospaced
   myfonts_url: https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake
 - name: EF Techno Script
   myfonts_url: https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake
@@ -122,7 +122,7 @@
   myfonts_url: https://www.myfonts.com/collections/fago-monospace-font-fontfont
 - name: FF Magda Clean Mono
   myfonts_url: https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont
-- name: FF Nexus Typewriter
+- name: Nexus Typewriter
   myfonts_url: https://www.myfonts.com/collections/nexus-typewriter-pro-font-martin-majoor
 - name: FF Typestar OCR
   myfonts_url: https://www.myfonts.com/collections/ff-typestar-ocr-font-fontfont
