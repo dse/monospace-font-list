@@ -36,14 +36,16 @@ sub print_item {
     }
     my $url = url($item);
     if (defined $url) {
-        $str .= sprintf("-   [%s](%s)\n", $title, $url);
+        $str .= sprintf("-   [%s](%s)", $title, $url);
     } else {
-        $str .= sprintf("-   %s\n", $title);
+        $str .= sprintf("-   %s", $title);
     }
 
     my $descr = delete $item->{descr};
     if (defined $descr) {
-        $str .= indent(trimnorm($descr), "    ", "    ") . "\n";
+        $str .= " - " . $descr . "\n";
+    } else {
+        $str .= "\n";
     }
 
     my $notes = delete $item->{notes};
