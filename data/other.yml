@@ -119,6 +119,8 @@
 - name: Display Module Fonts
   description: fonts that emulate popular LCD text display modules
   source_url: https://github.com/dse/display-module-fonts
+  tags:
+  - my own
 - name: Effects Eighty
   fontlibrary_url: https://fontlibrary.org/th/font/effects-eighty
   description: '[dot-matrix printer]'
@@ -252,6 +254,8 @@
 - name: Printer Dot Matrix Fonts
   description: fonts that emulate the DEC LA100 (sans-serif) and LA120 (serif) dot-matrix printers
   source_url: https://github.com/dse/printer-dot-matrix-fonts
+  tags:
+  - my own
 - name: Putintin
   fontlibrary_url: https://fontlibrary.org/en/font/putintin
   description: 'a font that translates Latin characters into Cyrillic characters and displays both.'

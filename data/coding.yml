@@ -104,6 +104,8 @@
 - name: Canton Typewriter Bitmap
   description: a coding-friendly Latin-1 font inspired by Caxton
   source_url: https://github.com/dse/font-canton-typewriter-bitmap
+  tags:
+  - my own
 - name: Cascadia Code
   source_url: https://github.com/microsoft/cascadia-code
   description: A fun coding font with a cursive italic, From Microsoft, the default font in Windows Terminal and now Visual Studio Code.
@@ -139,6 +141,8 @@
     - name: OG Courier
       description: work in progress.  Based on IBM's Type 1 version of Courier donated to X Consortium, with coding features.
       source_url: https://github.com/dse/font-og-courier
+      tags:
+      - my own
 - name: Cousine
   gfonts_url: https://fonts.google.com/specimen/Cousine
 - name: Cozette
@@ -183,9 +187,13 @@
 - name: DSE Typewriter
   description: an old-timey monospace typeface you might use for coding
   source_url: https://github.com/dse/dse-typewriter-font
+  tags:
+  - my own
 - name: DSE Typewriter Bitmap
   description: an old-timey bitmap monospace typeface you might use for coding
   source_url: https://github.com/dse/dse-typewriter-bitmap-font
+  tags:
+  - my own
 - name: Edlo
   source_url: https://github.com/ehamiter/Edlo
 - name: Envy Code B
