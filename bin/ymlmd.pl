@@ -42,14 +42,16 @@ sub print_item {
     }
 
     my $descr = delete $item->{descr};
-    my $notes = delete $item->{notes};
     if (defined $descr) {
         $str .= indent(trimnorm($descr), "    ", "    ") . "\n";
     }
+
+    my $notes = delete $item->{notes};
     if (defined $notes) {
         $str .= "    -   Notes:\n";
         $str .= indent(trimnorm($notes), "        ", "        ") . "\n";
     }
+
     $str .= sprintf("    -   [source](%s)\n",       delete $item->{source_url})       if defined $item->{source_url};
     $str .= sprintf("    -   [fontlibrary](%s)\n",  delete $item->{fontlibrary_url})  if defined $item->{fontlibrary_url};
     $str .= sprintf("    -   [fontsquirrel](%s)\n", delete $item->{fontsquirrel_url}) if defined $item->{fontsquirrel_url};
@@ -65,21 +67,24 @@ sub print_item {
     }
 
     my $designer  = delete $item->{designer};
-    my $foundry   = delete $item->{foundry};
-    my $publisher = delete $item->{publisher};
-    my $developer = delete $item->{developer};
     if (defined $designer) {
         $str .= "    -   Designer:\n";
         $str .= indent(trimnorm($designer), "        ", "        ") . "\n";
     }
+
+    my $foundry   = delete $item->{foundry};
     if (defined $foundry) {
         $str .= "    -   Foundry:\n";
         $str .= indent(trimnorm($foundry), "        ", "        ") . "\n";
     }
+
+    my $publisher = delete $item->{publisher};
     if (defined $publisher) {
         $str .= "    -   Publisher:\n";
         $str .= indent(trimnorm($publisher), "        ", "        ") . "\n";
     }
+
+    my $developer = delete $item->{developer};
     if (defined $developer) {
         $str .= "    -   Developer:\n";
         $str .= indent(trimnorm($developer), "        ", "        ") . "\n";
