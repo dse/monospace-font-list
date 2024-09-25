@@ -367,7 +367,7 @@
 - name: Maple Font
   source_url: https://github.com/subframe7536/maple-font
 - name: Menlo
-  description: bundled with macOS, derived from Deja Vu
+  descr: bundled with macOS, derived from Deja Vu
   # [MesloLGS NF](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts)
 - name: Mensch
   url: https://www.losttype.com/font/?name=mensch
