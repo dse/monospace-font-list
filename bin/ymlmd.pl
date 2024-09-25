@@ -21,9 +21,8 @@ while (<>) {
 
 sub print_item {
     my ($item, $indent) = @_;
-    if (!defined $indent) {
-        $indent = "";
-    }
+    $indent //= "";
+
     my $name = delete $item->{name};
     if (!defined $name) {
         my $str = sprintf("\n\`\`\`\n%s\n\`\`\`\n\n", YAML::Dump($item));
