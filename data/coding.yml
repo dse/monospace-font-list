@@ -8,6 +8,11 @@
   source_url: https://github.com/rbanffy/3270font
   description: |
     Based on the archetypal IBM 3270 mainframe terminal.  Goes great with cool-retro-term.
+  tags:
+  - retro
+  - mainframe
+  - terminal
+  - bitmap
 - name: A+
   url: http://archive.vector.org.uk/resource/index.htm
   description: |
@@ -25,6 +30,8 @@
     damieng's bitmap font, based on the Xerox Alto, an early GUI workstation from 1973 
   notes: |-
     not related to Thiemich's paid [Alto Mono](https://www.typeby.com/fonts/alto-mono)
+  tags:
+  - bitmap
 - name: Amazon Ember Mono
   url: https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography
   description: |-
@@ -45,14 +52,22 @@
 - name: Another Man's Treasure
   url: https://www.kreativekorp.com/software/fonts/trs80/
   description: 'the TRS-80 font family'
+  tags:
+  - retro
+  - microcomputer
+  - TRS-80
 - name: APL2741
   url: https://apl385.com/fonts/
 - name: APL385
   url: https://apl385.com/fonts/
   description: 'slight Comic Sans vibe - use APL386 instead'
+  tags:
+  - casual
 - name: APL386
   url: https://abrudz.github.io/APL386/
   description: 'slight Comic Sans vibe - based on APL385'
+  tags:
+  - casual
 - name: APLX
   url: https://www.dyalog.com/aplx.htm
 - name: Arev
@@ -81,6 +96,8 @@
   url: https://robey.lag.net/2020/02/09/bizcat-bitmap-font.html
   description: |
     A thick bitmap coding font.
+  tags:
+  - bitmap
 - name: Bmono
   source_url: https://github.com/NNBnh/bmono
   description: |
@@ -120,6 +137,8 @@
     if you like Comic Sans
   notes: |-
     forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
+  tags:
+  - casual
 - name: Commit Mono
   url: https://commitmono.com/
   description: |
@@ -175,6 +194,8 @@
     based on [Bitstream Vera Fonts](https://download.gnome.org/sources/ttf-bitstream-vera/1.10/)
 - name: Dina Bitmap
   url: https://www.dcmembers.com/jibsen/download/61/
+  tags:
+  - bitmap
 - name: Dina Font TTF
   source_url: https://github.com/zshoals/Dina-Font-TTF-Remastered
 - name: Drafting\* Mono
@@ -189,11 +210,14 @@
   source_url: https://github.com/dse/dse-typewriter-font
   tags:
   - my own
+  - old-timey
 - name: DSE Typewriter Bitmap
   description: an old-timey bitmap monospace typeface you might use for coding
   source_url: https://github.com/dse/dse-typewriter-bitmap-font
   tags:
   - my own
+  - bitmap
+  - old-timey
 - name: Edlo
   source_url: https://github.com/ehamiter/Edlo
 - name: Envy Code B
@@ -206,6 +230,8 @@
 - name: Fairfax
   url: https://www.kreativekorp.com/software/fonts/fairfax/
   description: 'bitmap font, huge Unicode repertoire'
+  tags:
+  - bitmap
 - name: Fairfax HD
   url: https://www.kreativekorp.com/software/fonts/fairfaxhd/
   description: 'scalable vector font, huge Unicode repertoire'
@@ -217,6 +243,8 @@
     if you like Comic Sans and are not a hater
   notes: |-
     f/k/a Cosmic Sans Neue Mono
+  tags:
+  - casual
 - name: Fifteen
   fontlibrary_url: https://fontlibrary.org/en/font/fifteen
   description: see also Quinze
@@ -235,9 +263,18 @@
   description: from mozilla
 - name: Fixedsys Excelsior
   source_url: https://github.com/kika/fixedsys
+  tags:
+  - bitmap
+  - retro
+  - microcomputer
+  - Microsoft Windows
 - name: Flexi IBM VGA
   url: https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/
   description: scalable version of IBM VGA font
+  tags:
+  - retro
+  - microcomputer
+  - IBM PC
 - name: fn0t
   url: https://www.dafontfree.net/freefonts-fn0t-f99496.htm
 - name: Fragment Mono
@@ -256,10 +293,16 @@
   url: https://caglrc.cc/glasstty/
   description: |
     This VT220 font also pairs quite well with cool-retro-term.
+  tags:
+  - retro
+  - terminal
+  - VT220
 - name: GNU Unifont
   url: https://unifoundry.com/unifont/
   description: |
     A bitmap font with quite extensive Unicode coverage.
+  tags:
+  - bitmap
 - name: Go Mono
   url: https://go.dev/blog/go-fonts
 - name: Gohu
@@ -289,6 +332,11 @@
 - name: IBM Fonts
   url: https://farsil.github.io/ibmfonts/
   description: 'IBM system fonts in BDF format, derived from the [PX Plus](https://int10h.org/oldschool-pc-fonts/fontlist/) fonts'
+  tags:
+  - bitmap
+  - retro
+  - microcomputer
+  - IBM PC
 - name: IBM Plex
   url: https://www.ibm.com/plex/
   description: |-
@@ -444,11 +492,18 @@
   url: https://int10h.org/oldschool-pc-fonts/fontlist/
   notes: |-
     from which is derived [IBM Fonts](https://farsil.github.io/ibmfonts/)
+  tags:
+  - retro
+  - microcomputer
+  - IBM PC
 - name: OpenGenera fonts
   url: https://archive.org/download/SymblicsOpenGenera
   notes: |-
     look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
   url_2_url: https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera
+  tags:
+  - retro
+  - Symbolics
 - name: Openstep Mono
   url: https://fontstruct.com/fontstructions/show/918633/openstep_mono
 - name: Overpass
@@ -458,17 +513,34 @@
 - name: Pet Me
   url: https://www.kreativekorp.com/software/fonts/c64/
   description: 'the Commodore VIC-20, C64, and C128 font family'
+  tags:
+  - retro
+  - microcomputer
+  - PET
+  - VIC-20
+  - Commodore 64
+  - Commodore 128
 - name: Perfect DOS VGA fonts
   url: https://laemeur.sdf.org/fonts/
   description: 'includes Less Perfect, More Perfect, and Perfect'
+  tags:
+  - retro
+  - microcomputer
+  - IBM PC
 - name: Pixel Carnage
   dafont_url: https://www.dafont.com/pixelcarnage.d870
 - name: Pointfree
   dafont_url: https://www.dafont.com/pointfree.font
   description: if you like Comic Sans and are not a hater
+  tags:
+  - casual
 - name: Print Char 21 and PR Number 3
   url: https://www.kreativekorp.com/software/fonts/apple2/
   description: 'the Apple II fonts'
+  tags:
+  - retro
+  - microcomputer
+  - Apple II
 - name: Profont
   url: https://tobiasjung.name/profont/
 - name: Proggy Fonts
@@ -498,6 +570,8 @@
   url: https://www.recursive.design/
   variants: |-
     -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
+  tags:
+  - casual
 - name: Reddit Mono
   gfonts_url: https://fonts.google.com/specimen/Reddit+Mono
 - name: Red Hat Mono
@@ -520,6 +594,8 @@
 - name: Serious Shaans
   url: https://kabeech.github.io/serious-shanns/
   description: if you like Comic Sans
+  tags:
+  - casual
 - name: Server Mono
   url: https://servermono.com/
 - name: SF Mono
@@ -532,6 +608,8 @@
   variants: |- 
     -   also [bitmaps](https://www.gnome-look.org/p/998527/)
     -   also https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
+  tags:
+  - bitmap
 - name: Share Tech Mono
   gfonts_url: https://fonts.google.com/specimen/Share+Tech+Mono
 - name: Sometype Mono
@@ -546,6 +624,8 @@
   gfonts_url: https://fonts.google.com/specimen/Space+Mono
 - name: Spleen
   url: https://www.cambus.net/spleen-monospaced-bitmap-fonts/
+  tags:
+  - bitmap
 - name: Spline Sans Mono
   gfonts_url: https://fonts.google.com/specimen/Spline+Sans+Mono
 - name: String Literal 437
@@ -555,9 +635,13 @@
 - name: Sun Gallant Demi
   source_url: https://github.com/dim13/gallant
   download_url: https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf
+  tags:
+  - bitmap
 - name: Tamsyn
   url: http://www.fial.com/~scott/tamsyn-font/
   description: bitmap-only
+  tags:
+  - bitmap
 - name: Tamzen
   source_url: https://github.com/sunaku/tamzen-font
   description: 'tamsyn in ttf, other formats'
@@ -586,6 +670,9 @@
     Includes some of the X fonts and some VGA fonts.  Also apparently includes VT330?
 - name: Unix PC 3B1
   source_url: https://github.com/brandon-rhodes/unixpc-font-bdf
+  tags:
+  - bitmap
+  - Unix
 - name: UNSCII
   url: http://viznut.fi/unscii/
 - name: VCR OSD Mono
@@ -596,6 +683,11 @@
   source_url: https://github.com/rubjo/victor-mono
 - name: VT323
   source_url: https://github.com/phoikoi/VT323
+  tags:
+  - retro
+  - terminal
+  - bitmap
+  - VT323
 - name: WenQuanYi Black
   url: http://wenq.org/wqy2/index.cgi?FontGuide#_4
   description: '[chinese]'
@@ -617,6 +709,11 @@
     -   Misc Fixed
     -   Sony Fixed
     -   Type 1 of Bitstream Courier
+  tags:
+  - retro
+  - Unix
+  - X Window System
+  - bitmap
 - name: Zed Mono
   source_url: https://github.com/zed-industries/zed-fonts
   description: 'based on Iosevka'
