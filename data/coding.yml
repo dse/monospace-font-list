@@ -105,6 +105,8 @@
 - name: Borg Sans Mono
   source_url: https://github.com/marnen/borg-sans-mono
   description: Droid Sans Mono with ligatures and slashed zero
+  tags:
+  - ligatures
 - name: BPmono
   url: https://backpacker.gr/fonts/5
 - name: BPtypewrite
@@ -118,6 +120,8 @@
   description: derived from Deja Vu Sans Mono
 - name: Camingo Code
   url: https://janfromm.de/typefaces/camingocode/
+  tags:
+  - recommended
 - name: Canton Typewriter Bitmap
   description: a coding-friendly Latin-1 font inspired by Caxton
   source_url: https://github.com/dse/font-canton-typewriter-bitmap
@@ -166,6 +170,8 @@
       - my own
 - name: Cousine
   gfonts_url: https://fonts.google.com/specimen/Cousine
+  tags:
+  - recommended
 - name: Cozette
   source_url: https://github.com/slavfox/Cozette
 - name: CP Mono
@@ -177,6 +183,8 @@
 - name: D2 Coding
   source_url: https://github.com/Joungkyun/font-d2coding
   description: based on Nanum Barun Coding
+- name: DM Mono
+  source_url: https://github.com/googlefonts/dm-mono
 - name: DaddyTimeMono
   source_url: https://github.com/BourgeoisBear/DaddyTimeMono
   tags:
@@ -258,9 +266,12 @@
   description: has ligatures
   tags:
   - recommended
+  - ligatures
 - name: Fira Cousine
   source_url: https://github.com/macduy/FiraCousine
   description: Cousine + Fira Code's punct marks and ligatures
+  tags:
+  - ligatures
 - name: Fira Flott
   source_url: https://github.com/kosimst/FiraFlott
   description: |-
@@ -336,11 +347,14 @@
   description: adds ligatures to Deja Vu derived typeface Hack
   tags:
   - recommended
+  - ligatures
 - name: Haskplex
   source_url: https://github.com/huytd/haskplex-font
   description: Hasklig + IBM Plex Mono
   tags:
   - recommended
+  - ligatures
+  - true italic
 - name: Hera Mono
   source_url: https://github.com/sayyadirfanali/Hera
   description: mixture of glyphs from other monospace fonts
@@ -362,6 +376,8 @@
     -   [iA Writer Mono](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono)
     -   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
     -   [Terminex](https://github.com/vsalvino/terminex) [free] derived from IBM Plex Mono
+  tags:
+  - recommended
 - name: Illinois Mono
   source_url: https://github.com/MadSimple/illinois-mono
   description: 'based on an interesting project called [Lexend](https://www.lexend.com/)'
@@ -383,6 +399,8 @@
 - name: Input Mono
   url: https://input.djr.com/
   description: 'personal use free, public-facing use paid'
+  tags:
+  - recommended
 - name: Intel One Mono
   url: https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html
   description: |
@@ -400,11 +418,14 @@
   url: https://www.jetbrains.com/lp/mono/
   tags:
   - recommended
+  - ligatures
 - name: Jozsika
   source_url: https://github.com/nilcons/jozsika
   description: 'a customized version of Iosevka'
 - name: Julia Mono
   url: https://juliamono.netlify.app/
+  tags:
+  - recommended
 - name: jxyahei
   source_url: https://github.com/zhenruyan/codefont/blob/master/readme_en.md
 - name: Karen
@@ -423,6 +444,8 @@
   source_url: https://github.com/jamesxmcintosh/LetterGothicCode
 - name: Liberation Mono
   source_url: https://github.com/liberationfonts/liberation-fonts
+  tags:
+  - recommended
 - name: Lilex
   source_url: https://github.com/mishamyrt/Lilex
 - name: Linux Console Fonts for Windows
@@ -470,6 +493,7 @@
   description: superfamily
   tags:
   - recommended
+  - true italic
 - name: Monego
   source_url: https://github.com/cseelus/monego
   description: monaco with bold and italic variants
@@ -604,6 +628,7 @@
   tags:
   - casual
   - recommended
+  - true italic
 - name: Reddit Mono
   gfonts_url: https://fonts.google.com/specimen/Reddit+Mono
 - name: Red Hat Mono
@@ -649,6 +674,8 @@
 - name: Sometype Mono
   url: https://monospacedfont.com/
   source_url: https://github.com/dharmatype/Sometype-Mono
+  tags:
+  - recommended
 - name: Sono
   url: https://usemodify.com/fonts/sono/
 - name: Source Code Pro
@@ -702,6 +729,8 @@
   url: https://tug.org/FontCatalogue/txtt/
 - name: Ubuntu Monospace
   url: https://design.ubuntu.com/font
+  tags:
+  - recommended
 - name: Unix-originated terminal fonts for Windows
   url: http://christian.lestrade.free.fr/fonts.html
   description: |-
@@ -719,6 +748,9 @@
   url: https://usemodify.com/fonts/verily-serif-mono/
 - name: Victor Mono
   source_url: https://github.com/rubjo/victor-mono
+  tags:
+  - recommended
+  - true italic
 - name: VT323
   source_url: https://github.com/phoikoi/VT323
   tags:

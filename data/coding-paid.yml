@@ -69,6 +69,8 @@
   url: https://typography.com/blog/introducing-operator
   tags:
   - recommended
+  - ligatures
+  - true italic
 - name: Pragmata Pro
   url: https://fsd.it/shop/fonts/pragmatapro/
   tags:

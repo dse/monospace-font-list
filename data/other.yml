@@ -104,8 +104,6 @@
   description: (via <https://www.lowing.org/fonts/>)
 - name: Cutive Mono
   gfonts_url: https://fonts.google.com/specimen/Cutive+Mono
-- name: DM Mono
-  source_url: https://github.com/googlefonts/dm-mono
 - name: DP Sans Mono
   url: https://www.pgdp.net/wiki/DP_Sans_Mono
 - name: DejaVu Markup
