@@ -1,4 +1,7 @@
 ---
+- name: Adaptive Mono
+  url: https://www.psyops.com/adaptive-mono/
+  foundry: PSY/Ops
 - name: Adore Mono
   url: https://garagefonts.com/font/adore-mono
 - name: Aglet Mono
@@ -11,24 +14,30 @@
     Thiemich's typeface
   notes: |-
     not related to damieng's free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
-- name: Antikor Mono
-  url: https://www.taf-studio.com/retail-fonts/antikor/
-- name: Arkibal Mono
-  url: https://elements.envato.com/arkibal-mono-F98DXM
-- name: ASM
-  url: https://extratype.com/fonts/asm
 - name: Andale Teletext
   myfonts_url: https://www.myfonts.com/collections/andale-teletext-font-monotype-imaging
+- name: Antikor Mono
+  url: https://www.taf-studio.com/retail-fonts/antikor/
 - name: Aperçu Mono
   url: https://www.colophon-foundry.org/typefaces/apercu-mono
 - name: Archive Mono
   url: https://www.colophon-foundry.org/typefaces/archive-mono
+- name: Arete Mono
+  url: https://www.t26.com/fonts/325-Arete-Mono
+  foundry: T26
+- name: Arkibal Mono
+  url: https://elements.envato.com/arkibal-mono-F98DXM
+- name: ASM
+  url: https://extratype.com/fonts/asm
 - name: Ascender Sans Mono
   myfonts_url: https://www.myfonts.com/collections/ascender-sans-mono-font-ascender-corp
 - name: Atlas Typewriter
   url: https://commercialtype.com/catalog/atlas_typewriter
 - name: Autoscape
   url: https://lineto.com/typefaces/autoscape
+- name: ITC Avant Garde Mono
+  url: "https://www.fonts4ever.com/product_info.php?products_id=592&set=0"
+  foundry: Elsner+Flake
 - name: Base Monospace
   url: https://www.emigre.com/Fonts/Base-Monospace
 - name: Basis Grotesque Mono
@@ -45,6 +54,12 @@
   myfonts_url: https://www.myfonts.com/collections/pica-10-pitch-font-bitstream
   tagged:
     old-timey: true
+- name: Blackbox Mono
+  url: https://www.psyops.com/blackbox-mono/
+  foundry: PSY/Ops
+- name: Botanika Mono
+  foundry: Suitcase Type Foundry
+  url: https://www.suitcasetype.com/fonts/botanika/glyphs/mono-regular
 - name: Bradford Mono
   url: https://lineto.com/typefaces/bradford-mono
 - name: Brown Mono
@@ -104,12 +119,18 @@
   myfonts_url: https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake
 - name: EF Techno Script
   myfonts_url: https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake
+- name: EF Thordis Sans Mono
+  myfonts_url: https://www.myfonts.com/collections/thordis-mono-font-elsner-flake
+  foundry: Elsner+Flake
 - name: Euclid Mono
   url: https://www.swisstypefaces.com/lab/#Euclid%20Mono
 - name: Excellent
   url: https://lineto.com/typefaces/excellent
 - name: Fabrikat Mono
   url: https://www.hvdfonts.com/fonts/fabrikat-mono
+- name: Fedra Mono
+  url: https://www.typotheque.com/fonts/fedra-mono
+  foundry: Typotheque
 - name: Feggolite Mono
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: FF Attribute Mono
@@ -118,8 +139,13 @@
   myfonts_url: https://www.myfonts.com/collections/elementa-pro-font-fontfont
   tagged:
     old-timey: true
+- name: FF Eureka Mono - FontFont
+  foundry: FontFont
+  myfonts_url: https://www.myfonts.com/collections/eureka-mono-font-fontfont
 - name: FF Fago Monospaced
   myfonts_url: https://www.myfonts.com/collections/fago-monospace-font-fontfont
+- name: FF Isonorm Monospaced - FontFont
+  foundry: FontFont
 - name: FF Magda Clean Mono
   myfonts_url: https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont
 - name: Nexus Typewriter
@@ -219,8 +245,7 @@
   description: '[paid but at least one weight available free]'
 - name: Monotype Typewriter
   myfonts_url: https://www.myfonts.com/products/typewriter-complete-family-pack-package-432181
-  tagged:
-    old-timey: true
+  descr: two old-timeys and a sans-serif
 - name: MVB Fantabular
   myfonts_url: https://www.myfonts.com/collections/mvb-fantabular-font-mvb
 - name: MVB Fantabular Sans
@@ -243,6 +268,12 @@
   myfonts_url: https://www.myfonts.com/collections/ocrj-font-test-pilot-collective
 - name: Odisseia
   myfonts_url: https://www.myfonts.com/collections/odisseia-font-niramekko
+- name: Olive Green Mono
+  myfonts_url: https://www.myfonts.com/collections/olive-green-mono-font-schriftgestaltung
+  foundry: Schriftgestaltung
+- name: Olympia Light
+  myfonts_url: https://www.myfonts.com/collections/olympia-font-linotype
+  foundry: Linotype
 - name: OPS Cubic
   url: http://www.ourpolitesocietytype.net/fonts/ops-cubic/
 - name: OPS Favorite
@@ -264,6 +295,12 @@
   url: https://www.typotheque.com/fonts/plotter-mono
 - name: Polli Sans Mono
   myfonts_url: https://www.myfonts.com/collections/polli-sans-font-will-albin-clark
+- name: Prima Sans Mono
+  foundry: Bitstream
+  myfonts_url: https://www.myfonts.com/collections/prima-sans-monospace-font-bitstream
+- name: PTL Manual Mono
+  myfonts_url: https://www.myfonts.com/collections/manual-mono-font-primetype
+  foundry: Primetype
 - name: PTL Notes Tec Mono
   myfonts_url: https://www.myfonts.com/collections/notes-tec-mono-font-primetype
 - name: Quadraat Sans Mono
