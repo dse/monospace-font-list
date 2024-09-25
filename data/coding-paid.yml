@@ -4,6 +4,8 @@
   descr: line printer inspired
 - name: 64-SRC
   myfonts_url: https://www.myfonts.com/fonts/ilott-type/64-src/
+- name: Akkurat Mono
+  url: https://lineto.com/typefaces/akkurat-mono
 - name: Autocode
   myfonts_url: https://www.myfonts.com/collections/autocode-font-avp
 - name: Autoscape
@@ -17,6 +19,8 @@
   url: https://dharmatype.com/calling-code
 - name: Cartograph CF
   url: https://connary.com/cartograph.html
+- name: Circular Mono
+  url: https://lineto.com/typefaces/circular-mono
 - name: Code Saver
   url: https://dharmatype.com/code-saver
 - name: Codelia

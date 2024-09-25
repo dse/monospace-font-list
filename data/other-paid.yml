@@ -5,8 +5,6 @@
   url: https://xyztype.com/fonts/aglet/aglet-mono
 - name: Ahamono
   url: https://hanken.co/products/ahamono
-- name: Akkurat Mono
-  url: https://lineto.com/typefaces/akkurat-mono
 - name: Alto Mono
   url: https://www.typeby.com/fonts/alto-mono
   descr: |-
@@ -49,10 +47,10 @@
     old-timey: true
 - name: Bradford Mono
   url: https://lineto.com/typefaces/bradford-mono
+- name: Brown Mono
+  url: https://lineto.com/typefaces/brown-mono
 - name: Centima Mono
   url: http://www.tipografiaramis.com/centima-mono.html
-- name: Circular Mono
-  url: https://lineto.com/typefaces/circular-mono
 - name: Codo Mono
   url: https://wearecolt.com/product/codo-mono/
 - name: Colón Mono
@@ -140,10 +138,14 @@
   url: https://www.grillitype.com/typeface/gt-pressura
 - name: Galexica Mono
   url: http://ingrimayne.com/fonts2/typewriter.htm
+- name: Geigi Mono
+  url: https://lineto.com/typefaces/geigy-mono
 - name: Gemeli Mono
   url: https://productiontype.com/font/gemeli/gemeli-mono
 - name: Greenwood
   myfonts_url: https://www.myfonts.com/collections/greenwood-font-protimient
+- name: Grey Mono
+  url: https://lineto.com/typefaces/grey-mono
 - name: HeartMatrixed
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Heimat Mono
@@ -165,6 +167,8 @@
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Italian Typewriter
   url: https://www.studiodilena.com/en/italian_typewriter.html
+- name: Ivory Mono
+  url: https://lineto.com/typefaces/ivory-mono
 - name: JetJane Mono
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Karben 105 Mono
@@ -273,6 +277,8 @@
   url: https://lineto.com/typefaces/replica-mono
 - name: RF Rostin
   myfonts_url: https://www.myfonts.com/products/rf-rostin-complete-family-package-291433
+- name: Riforma Mono
+  url: https://lineto.com/typefaces/riforma-mono
 - name: Right Grotesk Mono
   url: https://pangrampangram.com/products/right-grotesk-mono
 - name: Right Serif Mono
@@ -320,10 +326,12 @@
 - name: Typist Slab Mono
   myfonts_url: https://www.myfonts.com/collections/typist-slab-font-vanderkeur
   descr: '[old-ish]'
+- name: Unica77 Mono
+  url: https://lineto.com/typefaces/unica77-mono
 - name: Unotype
   myfonts_url: https://www.myfonts.com/collections/unotype-font-monotype-imaging
 - name: Valentine
-  url: https://legacy.lineto.com/The+Fonts/Font+Categories/Monospaced+Fonts/Valentine/
+  url: https://lineto.com/typefaces/valentine
 - name: Vidilex
   myfonts_url: https://www.myfonts.com/collections/vidilex-font-scriptorium
 - name: Vin Mono Pro
