@@ -59,6 +59,7 @@ sub print_item {
         $str .= sprintf("    -   [%s](%s)\n", md_escape($new_key), $item->{$key});
         delete $item->{$key};
     }
+
     my $variants = delete $item->{variants};
     if (defined $variants) {
         $str .= "    -   Variants:\n";
@@ -70,6 +71,19 @@ sub print_item {
             }
         }
     }
+
+    my $versions = delete $item->{versions};
+    if (defined $versions) {
+        $str .= "    -   Versions:\n";
+        if (ref $versions eq '') {
+            $str .= indent(trimnorm($versions), "        ", "        ") . "\n";
+        } elsif (ref $versions eq 'ARRAY') {
+            foreach my $sub_item (@$versions) {
+                $str .= print_item($sub_item, $indent . "        ");
+            }
+        }
+    }
+
     $str =~ s{^(?=[^\r\n])}{$indent}gm;
     return $str;
 }
