@@ -23,19 +23,24 @@ sub print_item {
     my ($item, $indent) = @_;
     $indent //= "";
 
-    my $name = delete $item->{name};
-    if (!defined $name) {
-        my $str = sprintf("\n\`\`\`\n%s\n\`\`\`\n\n", YAML::Dump($item));
-        $str =~ s{^(?=[^\r\n])}{$indent}gm;
-        return $str;
-    }
     my $str = "";
+
+    my $title = $item->{name};
+    if (!defined $title) {
+        $title = $item->{foundry} // $item->{publisher} // $item->{developer} // $item->{designer};
+        if (!defined $title) {
+            $str .= sprintf("\n\`\`\`\n%s\n\`\`\`\n\n", YAML::Dump($item));
+            $str =~ s{^(?=[^\r\n])}{$indent}gm;
+            return $str;
+        }
+    }
     my $url = url($item);
     if (defined $url) {
-        $str .= sprintf("-   [%s](%s)\n", $name, $url);
+        $str .= sprintf("-   [%s](%s)\n", $title, $url);
     } else {
-        $str .= sprintf("-   %s\n", $name);
+        $str .= sprintf("-   %s\n", $title);
     }
+
     my $descr = delete $item->{descr};
     my $notes = delete $item->{notes};
     if (defined $descr) {
@@ -99,7 +104,6 @@ sub print_item {
             $str .= indent(trimnorm($versions), "        ", "        ") . "\n";
         } elsif (ref $versions eq 'ARRAY') {
             foreach my $sub_item (@$versions) {
-                $sub_item->{name} //= $name;
                 $str .= print_item($sub_item, $indent . "        ");
             }
         }
