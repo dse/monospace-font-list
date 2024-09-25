@@ -33,6 +33,8 @@
   myfonts_url: https://www.myfonts.com/collections/cubiculum-font-johan-winge
 - name: Dank Mono
   url: https://philpl.gumroad.com/l/dank-mono
+- name: Darkmode Mono
+  url: https://www.daltonmaag.com/font-library/darkmode-mono.html
 - name: Debugger
   url: https://dharmatype.com/debugger
 - name: Eco Coding
@@ -41,6 +43,9 @@
   url: https://connary.com/ellograph.html
 - name: Fakt Mono
   url: https://www.typeby.com/fonts/fakt-mono
+- name: Lexia Mono
+  url: https://www.daltonmaag.com/font-library/lexia-mono.html
+  foundry: Dalton Maag
 - name: Lucida Console
   url: https://lucidafonts.com/collections/lucida-console
   description: '[but shipped with windows]'
