@@ -55,7 +55,7 @@ sub print_item {
     $str .= sprintf("    -   [fontsquirrel](%s)\n", delete $item->{fontsquirrel_url}) if defined $item->{fontsquirrel_url};
     $str .= sprintf("    -   [fonts2u](%s)\n",      delete $item->{fonts2u_url})      if defined $item->{fonts2u_url};
     $str .= sprintf("    -   [dafont](%s)\n",       delete $item->{dafont_url})       if defined $item->{dafont_url};
-    $str .= sprintf("    -   [googlefonts](%s)\n",  delete $item->{gfonts_url})  if defined $item->{gfonts_url};
+    $str .= sprintf("    -   [googlefonts](%s)\n",  delete $item->{gfonts_url})       if defined $item->{gfonts_url};
     $str .= sprintf("    -   [myfonts](%s)\n",      delete $item->{myfonts_url})      if defined $item->{myfonts_url};
     foreach my $key (sort grep { /_url$/ } keys %$item) {
         my $new_key = $key;
