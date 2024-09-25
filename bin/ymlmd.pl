@@ -60,6 +60,27 @@ sub print_item {
         delete $item->{$key};
     }
 
+    my $designer  = delete $item->{designer};
+    my $foundry   = delete $item->{foundry};
+    my $publisher = delete $item->{publisher};
+    my $developer = delete $item->{developer};
+    if (defined $designer) {
+        $str .= "    -   Designer:\n";
+        $str .= indent(trimnorm($designer), "        ", "        ") . "\n";
+    }
+    if (defined $foundry) {
+        $str .= "    -   Foundry:\n";
+        $str .= indent(trimnorm($foundry), "        ", "        ") . "\n";
+    }
+    if (defined $publisher) {
+        $str .= "    -   Publisher:\n";
+        $str .= indent(trimnorm($publisher), "        ", "        ") . "\n";
+    }
+    if (defined $developer) {
+        $str .= "    -   Developer:\n";
+        $str .= indent(trimnorm($developer), "        ", "        ") . "\n";
+    }
+
     my $variants = delete $item->{variants};
     if (defined $variants) {
         $str .= "    -   Variants:\n";
@@ -79,6 +100,7 @@ sub print_item {
             $str .= indent(trimnorm($versions), "        ", "        ") . "\n";
         } elsif (ref $versions eq 'ARRAY') {
             foreach my $sub_item (@$versions) {
+                $sub_item->{name} //= $name;
                 $str .= print_item($sub_item, $indent . "        ");
             }
         }
