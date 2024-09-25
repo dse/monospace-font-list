@@ -154,6 +154,9 @@
   descr: based on Nanum Barun Coding
 - name: DaddyTimeMono
   source_url: https://github.com/BourgeoisBear/DaddyTimeMono
+- name: Dave
+  source_url: https://github.com/i-e-b/Dave
+  description: A monospace programming font built for unambiguous legibility above all else
 - name: DEC Terminal Modern
   dafont_url: https://www.dafont.com/dec-terminal-modern.font
 - name: Deferral
