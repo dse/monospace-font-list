@@ -215,9 +215,10 @@
 
 ## Paid
 
-152 typefaces listed here.
+173 typefaces listed here.
 
 -   [Adore Mono](https://garagefonts.com/font/adore-mono)
+-   [Aglet Mono](https://xyztype.com/fonts/aglet/aglet-mono)
 -   [Ahamono](https://hanken.co/products/ahamono)
 -   [Akkurat Mono](https://lineto.com/typefaces/akkurat-mono)
 -   [Alto Mono](https://www.typeby.com/fonts/alto-mono)
@@ -238,12 +239,15 @@
 -   [Belinsky](https://tosche.net/fonts/belinsky)
 -   [Bergen Mono](https://elements.envato.com/bergen-mono-942DQ4)
 -   [Bitstream Pica 10 Pitch](https://www.myfonts.com/collections/pica-10-pitch-font-bitstream)
+-   [Bodoni Egyptian Mono](https://shinntype.com/bodoni-egyptian/)
 -   [Bradford Mono](https://lineto.com/typefaces/bradford-mono)
+-   [Capibara Mono](https://www.boldmonday.com/typeface/capibara/)
 -   [Centima Mono](http://www.tipografiaramis.com/centima-mono.html)
 -   [Circular Mono](https://lineto.com/typefaces/circular-mono)
 -   [Codo Mono](https://wearecolt.com/product/codo-mono/)
 -   [Colón Mono](http://www.tipografiaramis.com/coloacuten-mono.html)
 -   [Concursico Mono BTN](https://www.youworkforthem.com/font/19425/concursico-mono-btn)
+-   [Coordinates](https://processtypefoundry.com/fonts/coordinates/)
 -   [Courier EF](https://www.myfonts.com/collections/courier-b-font-elsner-flake)
     by Elsner+Flake.
 -   [Courier Line Draw](https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging)
@@ -261,7 +265,9 @@
 -   [Decima Mono Pro](http://www.tipografiaramis.com/decima-mono-pro.html)
 -   [Decima Mono Round](http://www.tipografiaramis.com/decima-mono-round.html)
 -   [Decima Mono](http://www.tipografiaramis.com/decima-mono.html)
+-   [Delegate Mono](https://commercialtype.com/catalog/delegate/delegate_mono/regular)
 -   [Dispatch Mono](https://occupantfonts.com/fonts/dispatch-mono/)
+-   [Diurnal Mono](https://www.typotheque.com/fonts/diurnal-mono)
 -   [Doire](https://www.myfonts.com/collections/doire-font-evertype)
     display typeface
 -   [Dossier](https://tosche.net/fonts/dossier)
@@ -270,6 +276,7 @@
 -   [EF Cash](https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake)
 -   [FF Elementa](https://www.myfonts.com/collections/elementa-pro-font-fontfont)
 -   [EF Techno Script](https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake)
+-   [Elma Mono](https://www.typemates.com/fonts/elma)
 -   [Euclid Mono](https://www.swisstypefaces.com/lab/#Euclid%20Mono)
 -   [Excellent](https://lineto.com/typefaces/excellent)
 -   [Fabrikat Mono](https://www.hvdfonts.com/fonts/fabrikat-mono)
@@ -285,10 +292,13 @@
 -   [Functor Mono](https://archetype-foundry.com/functor-mono)
 -   [GT Alpina Typewriter](https://www.grillitype.com/typeface/gt-alpina)
 -   [GT America Mono](https://www.grillitype.com/typeface/gt-america)
+-   [GT Flexa Mono](https://www.grillitype.com/typeface/gt-flexa)
 -   [GT Pressura Mono](https://www.grillitype.com/typeface/gt-pressura)
 -   [Galexica Mono](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Garton Mono](https://www.colophon-foundry.org/typefaces/garton)
 -   [Gemeli Mono](https://productiontype.com/font/gemeli/gemeli-mono)
 -   [Greenwood](https://www.myfonts.com/collections/greenwood-font-protimient)
+-   [Gridlite](https://rosettatype.com/GridlitePE)
 -   [HeartMatrixed](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Heimat Mono](https://www.myfonts.com/collections/heimat-mono-font-atlasfontfoundry)
 -   [Heptagroan](http://ingrimayne.com/fonts2/typewriter.htm)
@@ -299,8 +309,10 @@
 -   [Interstate Mono](https://fonts.adobe.com/fonts/interstate-mono)
 -   [Intimo](https://www.myfonts.com/collections/intimo-font-alias-collection)
 -   [Irritation](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Italian Plate No. 1 Mono](https://playtype.com/typefaces/italian-plate-no1-mono/)
 -   [Italian Typewriter](https://www.studiodilena.com/en/italian_typewriter.html)
 -   [JetJane Mono](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Jornada Mono](https://www.myfonts.com/collections/jornada-mono-font-monotype-imaging)
 -   [Karben 105 Mono](https://www.myfonts.com/collections/karben-105-mono-font-talbot-type)
 -   [Karben 205 Mono](https://www.myfonts.com/collections/karben-205-mono-font-talbot-type)
 -   [Karlisbad](http://ingrimayne.com/fonts2/typewriter.htm)
@@ -314,6 +326,7 @@
 -   [Linefeed](https://typodermicfonts.com/linefeed/)
     [line printer inspired]
 -   [LTC Remington Typewriter](https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company)
+-   [Mabry Mono](https://www.colophon-foundry.org/typefaces/mabry-mono/proofer)
 -   [Maison Mono](https://www.myfonts.com/products/maison-mono-pack-package-944927)
 -   [Maison Neue Mono](https://www.myfonts.com/products/maison-neue-mono-pack-package-616078)
 -   [Mingray Mono](https://www.myfonts.com/collections/mingray-mono-font-rekord)
@@ -345,6 +358,7 @@
 -   [OPS Favorite](http://www.ourpolitesocietytype.net/fonts/ops-favorite/)
 -   [OPS Placard](http://www.ourpolitesocietytype.net/fonts/ops-placard/)
 -   [Panama Monospace](https://www.featuredtype.com/typefaces/panama)
+-   [Panoptica](https://shinntype.com/panoptica-2/)
 -   [Parse Grotesk Mono](https://archetype-foundry.com/parse-grotesk-mono)
 -   [PF Das Grot Mono](https://parachutefonts.com/typeface/Das-Grot-Mono)
 -   [Pitch](https://klim.co.nz/retail-fonts/pitch/)
@@ -356,18 +370,26 @@
 -   [Quadraat Sans Mono](https://www.typeby.com/fonts/quadraat-sans-mono)
 -   [Rational TW](https://www.myfonts.com/collections/rational-tw-font-rene-bieder)
     [paid but [demos](https://www.myfonts.com/collections/rational-tw-font-rene-bieder?tab=individualStyles) available]
+-   [Recipient](https://processtypefoundry.com/fonts/recipient/)
 -   [Relative Mono](https://www.colophon-foundry.org/typefaces/relative-mono/opentype)
 -   [Replica Mono](https://lineto.com/typefaces/replica-mono)
 -   [RF Rostin](https://www.myfonts.com/products/rf-rostin-complete-family-package-291433)
 -   [Right Grotesk Mono](https://pangrampangram.com/products/right-grotesk-mono)
 -   [Right Serif Mono](https://pangrampangram.com/products/right-serif-mono)
 -   [Sanduski Mono](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Sarcastic Robot](https://chank.com/font-SarcasticRobot)
+    -   Notes:
+        ARRAY(0x555c5ef8bef0)
 -   [Sauna Mono Pro](https://www.myfonts.com/collections/sauna-mono-pro-font-underware)
 -   [Script 12 Pitch](https://www.myfonts.com/collections/script-12-pitch-font-bitstream)
     old script typewriter font
+-   [Show Me the Mono](https://motaitalic.com/product/show-me-the-mono/)
+    -   Notes:
+        ARRAY(0x555c5ef8c028)
 -   [SK Modernist Mono](https://seankanedesign.gumroad.com/l/sk-modernist)
 -   [Skagwae Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Skurier](https://www.myfonts.com/collections/skurier-font-grin3)
+-   [Skye Mono](https://www.behance.net/gallery/44046525/Syke-Mono-Type-Family)
 -   [Smith Premier NF](https://www.myfonts.com/collections/smith-premier-nf-font-nicks-fonts)
     [old timey]
 -   [Spot Mono](https://www.schick-toikka.com/spot-mono)
@@ -379,6 +401,8 @@
 -   [Teamhair](https://www.myfonts.com/collections/teamhair-font-evertype)
     [display]
 -   [Telegramo](https://www.myfonts.com/collections/telegramo-font-volcano)
+-   [Tezra Editor](https://commercialtype.com/catalog/terza_editor/)
+-   [The Future Mono](https://www.futurefonts.xyz/klim/the-future-mono)
 -   [Tired of Courier](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Typewalk Mono 1915](https://www.myfonts.com/collections/typewalk-mono-1915-font-typocalypse)
 -   [Typist Slab Mono](https://www.myfonts.com/collections/typist-slab-font-vanderkeur)
@@ -387,6 +411,7 @@
 -   [Valentine](https://legacy.lineto.com/The+Fonts/Font+Categories/Monospaced+Fonts/Valentine/)
 -   [Vidilex](https://www.myfonts.com/collections/vidilex-font-scriptorium)
 -   [Vin Mono Pro](https://www.myfonts.com/collections/vin-mono-pro-font-mint-type)
+-   [Vulf Mono](https://ohnotype.co/fonts/vulf)
 -   [WatchMaker](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Wire Type Mono](https://www.myfonts.com/collections/wire-type-mono-font-thomas-kading)
 -   [Wudoo Mono](https://www.myfonts.com/collections/wudoo-font-vishnu-sathyan)
