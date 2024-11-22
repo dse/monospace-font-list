@@ -1,6 +1,9 @@
 ---
 - name: Adore Mono
   url: https://garagefonts.com/font/adore-mono
+- name: Aglet Mono
+  url: https://xyztype.com/fonts/aglet/aglet-mono
+  via: https://realdougwilson.com/writing/coding-with-character
 - name: Ahamono
   url: https://hanken.co/products/ahamono
 - name: Akkurat Mono
@@ -39,8 +42,14 @@
   url: https://elements.envato.com/bergen-mono-942DQ4
 - name: Bitstream Pica 10 Pitch
   myfonts_url: https://www.myfonts.com/collections/pica-10-pitch-font-bitstream
+- name: Bodoni Egyptian Mono
+  url: https://shinntype.com/bodoni-egyptian/
 - name: Bradford Mono
   url: https://lineto.com/typefaces/bradford-mono
+- name: Capibara Mono
+  url: https://www.boldmonday.com/typeface/capibara/
+  tags:
+    - wild
 - name: Centima Mono
   url: http://www.tipografiaramis.com/centima-mono.html
 - name: Circular Mono
@@ -51,6 +60,8 @@
   url: http://www.tipografiaramis.com/coloacuten-mono.html
 - name: Concursico Mono BTN
   url: https://www.youworkforthem.com/font/19425/concursico-mono-btn
+- name: Coordinates
+  url: https://processtypefoundry.com/fonts/coordinates/
 - name: Courier EF
   myfonts_url: https://www.myfonts.com/collections/courier-b-font-elsner-flake
   descr: by Elsner+Flake.
@@ -79,8 +90,12 @@
   url: http://www.tipografiaramis.com/decima-mono-round.html
 - name: Decima Mono
   url: http://www.tipografiaramis.com/decima-mono.html
+- name: Delegate Mono
+  url: https://commercialtype.com/catalog/delegate/delegate_mono/regular
 - name: Dispatch Mono
   url: https://occupantfonts.com/fonts/dispatch-mono/
+- name: Diurnal Mono
+  url: https://www.typotheque.com/fonts/diurnal-mono
 - name: Doire
   myfonts_url: https://www.myfonts.com/collections/doire-font-evertype
   descr: display typeface
@@ -96,6 +111,8 @@
   myfonts_url: https://www.myfonts.com/collections/elementa-pro-font-fontfont
 - name: EF Techno Script
   myfonts_url: https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake
+- name: Elma Mono
+  url: https://www.typemates.com/fonts/elma
 - name: Euclid Mono
   url: https://www.swisstypefaces.com/lab/#Euclid%20Mono
 - name: Excellent
@@ -125,14 +142,22 @@
   url: https://www.grillitype.com/typeface/gt-alpina
 - name: GT America Mono
   url: https://www.grillitype.com/typeface/gt-america
+- name: GT Flexa Mono
+  url: https://www.grillitype.com/typeface/gt-flexa
 - name: GT Pressura Mono
   url: https://www.grillitype.com/typeface/gt-pressura
 - name: Galexica Mono
   url: http://ingrimayne.com/fonts2/typewriter.htm
+- name: Garton Mono
+  url: https://www.colophon-foundry.org/typefaces/garton
 - name: Gemeli Mono
   url: https://productiontype.com/font/gemeli/gemeli-mono
 - name: Greenwood
   myfonts_url: https://www.myfonts.com/collections/greenwood-font-protimient
+- name: Gridlite
+  url: https://rosettatype.com/GridlitePE
+  tags:
+    - wild
 - name: HeartMatrixed
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Heimat Mono
@@ -152,10 +177,14 @@
   myfonts_url: https://www.myfonts.com/collections/intimo-font-alias-collection
 - name: Irritation
   url: http://ingrimayne.com/fonts2/typewriter.htm
+- name: Italian Plate No. 1 Mono
+  url: https://playtype.com/typefaces/italian-plate-no1-mono/
 - name: Italian Typewriter
   url: https://www.studiodilena.com/en/italian_typewriter.html
 - name: JetJane Mono
   url: http://ingrimayne.com/fonts2/typewriter.htm
+- name: Jornada Mono
+  myfonts_url: https://www.myfonts.com/collections/jornada-mono-font-monotype-imaging
 - name: Karben 105 Mono
   myfonts_url: https://www.myfonts.com/collections/karben-105-mono-font-talbot-type
 - name: Karben 205 Mono
@@ -179,6 +208,8 @@
   descr: '[line printer inspired]'
 - name: LTC Remington Typewriter
   myfonts_url: https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company
+- name: Mabry Mono
+  url: https://www.colophon-foundry.org/typefaces/mabry-mono/proofer
 - name: Maison Mono
   myfonts_url: https://www.myfonts.com/products/maison-mono-pack-package-944927
 - name: Maison Neue Mono
@@ -234,6 +265,10 @@
   url: http://www.ourpolitesocietytype.net/fonts/ops-placard/
 - name: Panama Monospace
   url: https://www.featuredtype.com/typefaces/panama
+- name: Panoptica
+  url: https://shinntype.com/panoptica-2/
+  tags:
+    - wild
 - name: Parse Grotesk Mono
   url: https://archetype-foundry.com/parse-grotesk-mono
 - name: PF Das Grot Mono
@@ -254,6 +289,8 @@
 - name: Rational TW
   myfonts_url: https://www.myfonts.com/collections/rational-tw-font-rene-bieder
   descr: '[paid but [demos](https://www.myfonts.com/collections/rational-tw-font-rene-bieder?tab=individualStyles) available]'
+- name: Recipient
+  url: https://processtypefoundry.com/fonts/recipient/
 - name: Relative Mono
   url: https://www.colophon-foundry.org/typefaces/relative-mono/opentype
 - name: Replica Mono
@@ -266,17 +303,34 @@
   url: https://pangrampangram.com/products/right-serif-mono
 - name: Sanduski Mono
   url: http://ingrimayne.com/fonts2/typewriter.htm
+- name: Sarcastic Robot
+  url: https://chank.com/font-SarcasticRobot
+  notes:
+    - >-
+      Sarcastic Robot is the first typeface I've evern seen that
+      doesn't look monospace, but is.
+  tags:
+    - wild
 - name: Sauna Mono Pro
   myfonts_url: https://www.myfonts.com/collections/sauna-mono-pro-font-underware
 - name: Script 12 Pitch
   myfonts_url: https://www.myfonts.com/collections/script-12-pitch-font-bitstream
   descr: old script typewriter font
+- name: Show Me the Mono
+  url: https://motaitalic.com/product/show-me-the-mono/
+  notes:
+    - >-
+      I *guess* it can be used for coding?  It has speckly bits.
+  tags:
+    - wild
 - name: SK Modernist Mono
   url: https://seankanedesign.gumroad.com/l/sk-modernist
 - name: Skagwae Mono
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Skurier
   myfonts_url: https://www.myfonts.com/collections/skurier-font-grin3
+- name: Skye Mono
+  url: https://www.behance.net/gallery/44046525/Syke-Mono-Type-Family
 - name: Smith Premier NF
   myfonts_url: https://www.myfonts.com/collections/smith-premier-nf-font-nicks-fonts
   descr: '[old timey]'
@@ -296,6 +350,12 @@
   descr: '[display]'
 - name: Telegramo
   myfonts_url: https://www.myfonts.com/collections/telegramo-font-volcano
+- name: Tezra Editor
+  url: https://commercialtype.com/catalog/terza_editor/
+- name: The Future Mono
+  url: https://www.futurefonts.xyz/klim/the-future-mono
+  tags:
+    - wild
 - name: Tired of Courier
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Typewalk Mono 1915
@@ -311,6 +371,9 @@
   myfonts_url: https://www.myfonts.com/collections/vidilex-font-scriptorium
 - name: Vin Mono Pro
   myfonts_url: https://www.myfonts.com/collections/vin-mono-pro-font-mint-type
+- name: Vulf Mono
+  url: https://ohnotype.co/fonts/vulf
+  via: https://realdougwilson.com/writing/coding-with-character
 - name: WatchMaker
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Wire Type Mono
