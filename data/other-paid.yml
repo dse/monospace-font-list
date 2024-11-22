@@ -40,8 +40,14 @@
   url: https://tosche.net/fonts/belinsky
 - name: Bergen Mono
   url: https://elements.envato.com/bergen-mono-942DQ4
+- name: Bistro Mono
+  url: https://dharmatype.com/bistro-mono
+  tagged:
+    display: true
 - name: Bitstream Pica 10 Pitch
   myfonts_url: https://www.myfonts.com/collections/pica-10-pitch-font-bitstream
+  tagged:
+    old-timey: true
 - name: Bodoni Egyptian Mono
   url: https://shinntype.com/bodoni-egyptian/
 - name: Bradford Mono
@@ -80,8 +86,30 @@
 - name: Courier Sans Mono
   url: https://lineto.com/typefaces/courier-sans-mono
   descr: from Lineto.
+- name: Courier
+  variants:
+    - name: Courier EF
+      myfonts_url: https://www.myfonts.com/collections/courier-b-font-elsner-flake
+      descr: by Elsner+Flake.
+    - name: Courier Line Draw
+      myfonts_url: https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging
+      descr: from Monotype.
+    - name: Courier M
+      myfonts_url: https://www.myfonts.com/collections/courier-font-urw
+      descr: by URW.
+    - name: Courier PS
+      myfonts_url: https://www.myfonts.com/collections/courier-ps-font-monotype-imaging
+      descr: by Monotype.
+    - name: Courier SB
+      myfonts_url: https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection
+      descr: by Scangraphic Digital
+    - name: Courier Sans Mono
+      url: https://lineto.com/typefaces/courier-sans-mono
+      descr: from Lineto.
 - name: Cumberland
   myfonts_url: https://www.myfonts.com/collections/cumberland-font-monotype-imaging
+- name: Cygnito Mono
+  myfonts_url: https://www.myfonts.com/collections/cygnito-mono-pro-font-atk-studio
 - name: DF Staple Mono
   myfonts_url: https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts
 - name: Decima Mono Pro
@@ -107,8 +135,6 @@
   myfonts_url: https://www.myfonts.com/collections/eb-jessica-font-erik-bertell
 - name: EF Cash
   myfonts_url: https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake
-- name: FF Elementa
-  myfonts_url: https://www.myfonts.com/collections/elementa-pro-font-fontfont
 - name: EF Techno Script
   myfonts_url: https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake
 - name: Elma Mono
@@ -125,7 +151,8 @@
   url: https://viktornuebel.com/retail-fonts/attribute/
 - name: FF Elementa
   myfonts_url: https://www.myfonts.com/collections/elementa-pro-font-fontfont
-  descr: '[old]'
+  tagged:
+    old-timey: true
 - name: FF Fago Monospaced
   myfonts_url: https://www.myfonts.com/collections/fago-monospace-font-fontfont
 - name: FF Magda Clean Mono
@@ -235,6 +262,8 @@
   descr: '[paid but at least one weight available free]'
 - name: Monotype Typewriter
   myfonts_url: https://www.myfonts.com/products/typewriter-complete-family-pack-package-432181
+  tagged:
+    old-timey: true
 - name: MVB Fantabular
   myfonts_url: https://www.myfonts.com/collections/mvb-fantabular-font-mvb
 - name: MVB Fantabular Sans
@@ -316,6 +345,8 @@
 - name: Script 12 Pitch
   myfonts_url: https://www.myfonts.com/collections/script-12-pitch-font-bitstream
   descr: old script typewriter font
+  tagged:
+    old-timey: true
 - name: Show Me the Mono
   url: https://motaitalic.com/product/show-me-the-mono/
   notes:
@@ -333,7 +364,8 @@
   url: https://www.behance.net/gallery/44046525/Syke-Mono-Type-Family
 - name: Smith Premier NF
   myfonts_url: https://www.myfonts.com/collections/smith-premier-nf-font-nicks-fonts
-  descr: '[old timey]'
+  tagged:
+    old-timey: true
 - name: Spot Mono
   url: https://www.schick-toikka.com/spot-mono
 - name: Struct Mono
@@ -347,7 +379,8 @@
   url: https://tosche.net/fonts/tabulamore-script
 - name: Teamhair
   myfonts_url: https://www.myfonts.com/collections/teamhair-font-evertype
-  descr: '[display]'
+  tagged:
+    display: true
 - name: Telegramo
   myfonts_url: https://www.myfonts.com/collections/telegramo-font-volcano
 - name: Tezra Editor

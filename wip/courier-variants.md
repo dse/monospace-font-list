@@ -1,0 +1,15 @@
+-   Courier New (Monotype)
+-   Courier Screenplay
+-   Courier Final Draft
+-   Dark Courier
+-   Courier Standard
+-   ParaType
+-   Courier LT (Linotype)
+-   Courier PS (Monotype)
+-   Courier 12 (Monotype)
+-   Fontcraft Courier (Scriptorium)
+-   Courier SB (Scangraphic)
+-   Courier M (URW)
+-   Courier EF (Elsner+Flake)
+-   Courier LT round (Linotype)
+-   Courier Line Draw (Monotype)

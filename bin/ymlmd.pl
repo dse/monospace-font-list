@@ -12,51 +12,66 @@ while (<>) {
             printf("\n\`\`\`\n%s\n\`\`\`\n\n", YAML::Dump($doc));
             next;
         }
-        warn(sprintf("%s: %d entries\n", $ARGV, scalar @$doc));
-
         printf("%d typefaces listed here.\n\n", scalar @$doc);
-
         foreach my $item (@$doc) {
-            my $name = delete $item->{name};
-            if (!defined $name) {
-                printf("\n\`\`\`\n%s\n\`\`\`\n\n", YAML::Dump($item));
-                next;
-            }
-            my $url = url($item);
-            if (defined $url) {
-                printf("-   [%s](%s)\n", $name, $url);
-            } else {
-                printf("-   %s\n", $name);
-            }
-            my $descr = delete $item->{descr};
-            my $notes = delete $item->{notes};
-            if (defined $descr) {
-                print(indent(trimnorm($descr), "    ", "    "), "\n");
-            }
-            if (defined $notes) {
-                print("    -   Notes:\n");
-                print(indent(trimnorm($notes), "        ", "        "), "\n");
-            }
-            printf("    -   [source](%s)\n",       delete $item->{source_url})       if defined $item->{source_url};
-            printf("    -   [fontlibrary](%s)\n",  delete $item->{fontlibrary_url})  if defined $item->{fontlibrary_url};
-            printf("    -   [fontsquirrel](%s)\n", delete $item->{fontsquirrel_url}) if defined $item->{fontsquirrel_url};
-            printf("    -   [fonts2u](%s)\n",      delete $item->{fonts2u_url})      if defined $item->{fonts2u_url};
-            printf("    -   [dafont](%s)\n",       delete $item->{dafont_url})       if defined $item->{dafont_url};
-            printf("    -   [googlefonts](%s)\n",  delete $item->{gfonts_url})  if defined $item->{gfonts_url};
-            printf("    -   [myfonts](%s)\n",      delete $item->{myfonts_url})      if defined $item->{myfonts_url};
-            foreach my $key (sort grep { /_url$/ } keys %$item) {
-                my $new_key = $key;
-                $new_key =~ s{_url$}{};
-                printf("    -   [%s](%s)\n", md_escape($new_key), $item->{$key});
-                delete $item->{$key};
-            }
-            my $variants = delete $item->{variants};
-            if (defined $variants) {
-                print("    -   Variants:\n");
-                print(indent(trimnorm($variants), "        ", "        "), "\n");
+            print(print_item($item));
+        }
+    }
+}
+
+sub print_item {
+    my ($item, $indent) = @_;
+    if (!defined $indent) {
+        $indent = "";
+    }
+    my $name = delete $item->{name};
+    if (!defined $name) {
+        my $str = sprintf("\n\`\`\`\n%s\n\`\`\`\n\n", YAML::Dump($item));
+        $str =~ s{^(?=[^\r\n])}{$indent}gm;
+        return $str;
+    }
+    my $str = "";
+    my $url = url($item);
+    if (defined $url) {
+        $str .= sprintf("-   [%s](%s)\n", $name, $url);
+    } else {
+        $str .= sprintf("-   %s\n", $name);
+    }
+    my $descr = delete $item->{descr};
+    my $notes = delete $item->{notes};
+    if (defined $descr) {
+        $str .= indent(trimnorm($descr), "    ", "    ") . "\n";
+    }
+    if (defined $notes) {
+        $str .= "    -   Notes:\n";
+        $str .= indent(trimnorm($notes), "        ", "        ") . "\n";
+    }
+    $str .= sprintf("    -   [source](%s)\n",       delete $item->{source_url})       if defined $item->{source_url};
+    $str .= sprintf("    -   [fontlibrary](%s)\n",  delete $item->{fontlibrary_url})  if defined $item->{fontlibrary_url};
+    $str .= sprintf("    -   [fontsquirrel](%s)\n", delete $item->{fontsquirrel_url}) if defined $item->{fontsquirrel_url};
+    $str .= sprintf("    -   [fonts2u](%s)\n",      delete $item->{fonts2u_url})      if defined $item->{fonts2u_url};
+    $str .= sprintf("    -   [dafont](%s)\n",       delete $item->{dafont_url})       if defined $item->{dafont_url};
+    $str .= sprintf("    -   [googlefonts](%s)\n",  delete $item->{gfonts_url})  if defined $item->{gfonts_url};
+    $str .= sprintf("    -   [myfonts](%s)\n",      delete $item->{myfonts_url})      if defined $item->{myfonts_url};
+    foreach my $key (sort grep { /_url$/ } keys %$item) {
+        my $new_key = $key;
+        $new_key =~ s{_url$}{};
+        $str .= sprintf("    -   [%s](%s)\n", md_escape($new_key), $item->{$key});
+        delete $item->{$key};
+    }
+    my $variants = delete $item->{variants};
+    if (defined $variants) {
+        $str .= "    -   Variants:\n";
+        if (ref $variants eq '') {
+            $str .= indent(trimnorm($variants), "        ", "        ") . "\n";
+        } elsif (ref $variants eq 'ARRAY') {
+            foreach my $sub_item (@$variants) {
+                $str .= print_item($sub_item, $indent . "        ");
             }
         }
     }
+    $str =~ s{^(?=[^\r\n])}{$indent}gm;
+    return $str;
 }
 
 sub url {

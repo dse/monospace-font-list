@@ -70,9 +70,6 @@
   descr: and AudioLink Console
 - name: Aurulent Sans Mono
   dafont_url: https://www.dafont.com/aurulent-sans-mono.font
-- name: Average Mono
-  fontlibrary_url: https://fontlibrary.org/en/font/average-mono
-  descr: an "average" of 13 variants of Courier.
 - name: Basically A Mono
   uncut_url: https://uncut.wtf/monospace/basically-a-mono/
   url: https://experi.mentallydesigned.com/type/bam/
@@ -123,17 +120,25 @@
     forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
 - name: Commit Mono
   url: https://commitmono.com/
+  descr: |
+    A coding font designed for familiarity and neutrality.
+    Has a "Smart Kerning" feature, similar to 0xProto's "Texture Healing".
 - name: Consola Mono
   fontlibrary_url: https://fontlibrary.org/en/font/consolamono
 - name: Corbi Mono S
   fontlibrary_url: https://fontlibrary.org/fr/font/corbi-mono-s
   descr: Libertinus Mono with a slashed zero by default
-- name: Courier Code
-  fontlibrary_url: https://fontlibrary.org/en/font/courier-code
-  descr: based on Bitstream Courier 10 Pitch v2.0
-- name: Courier Prime
-  url: https://quoteunquoteapps.com/courierprime/
-  descr: 'includes Courier Prime Code, a sans-serif with coding features'
+- name: Courier
+  variants:
+    - name: Courier Code
+      fontlibrary_url: https://fontlibrary.org/en/font/courier-code
+      descr: based on Bitstream Courier 10 Pitch v2.0
+    - name: Courier Prime
+      url: https://quoteunquoteapps.com/courierprime/
+      descr: 'includes Courier Prime Code, a sans-serif with coding features'
+    - name: OG Courier
+      descr: work in progress.  Based on IBM's Type 1 version of Courier donated to X Consortium, with coding features.
+      source_url: https://github.com/dse/font-og-courier
 - name: Cousine
   gfonts_url: https://fonts.google.com/specimen/Cousine
 - name: Cozette
@@ -149,6 +154,9 @@
   descr: based on Nanum Barun Coding
 - name: DaddyTimeMono
   source_url: https://github.com/BourgeoisBear/DaddyTimeMono
+- name: Dave
+  source_url: https://github.com/i-e-b/Dave
+  description: A monospace programming font built for unambiguous legibility above all else
 - name: DEC Terminal Modern
   dafont_url: https://www.dafont.com/dec-terminal-modern.font
 - name: Deferral
@@ -222,9 +230,13 @@
 - name: Flexi IBM VGA
   url: https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/
   descr: scalable version of IBM VGA font
+- name: fn0t
+  url: https://www.dafontfree.net/freefonts-fn0t-f99496.htm
 - name: Fragment Mono
   source_url: https://github.com/weiweihuanghuang/fragment-mono
   descr: 'based on URW Nimbus Sans, a Helvetica clone'
+- name: FS Regulate
+  url: https://fontstruct.com/fontstructions/show/947828/fs_regulate
 - name: Geist
   url: https://vercel.com/font
   descr: includes a mono variant
@@ -420,9 +432,6 @@
     -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
         -   derived from Source Code Pro and Noto Sans JP.
         -   No significant changes other than mixing.
-- name: OG Courier
-  descr: work in progress.  Based on IBM's Type 1 version of Courier donated to X Consortium, with coding features.
-  source_url: https://github.com/dse/font-og-courier
 - name: Old School PC Fonts
   url: https://int10h.org/oldschool-pc-fonts/fontlist/
   notes: |-
@@ -498,6 +507,8 @@
   descr: derived from Source Han Sans and Iosevka
 - name: SAX2 APL font
   url: https://abrudz.github.io/SAX2/
+- name: Selectric
+  url: https://www.dafont.com/selectric.font
 - name: Serious Shaans
   url: https://kabeech.github.io/serious-shanns/
   descr: if you like Comic Sans
@@ -601,3 +612,5 @@
 - name: Zed Mono
   source_url: https://github.com/zed-industries/zed-fonts
   descr: 'based on Iosevka'
+- name: Zevv Peep
+  source_url: https://github.com/greemo/peep-font

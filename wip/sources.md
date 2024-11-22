@@ -1,13 +1,3 @@
-## Comparison Shopping
-
--   https://hackingcpp.com/dev/coding_fonts.html - a huge listing and ranking of fonts
-
-    looked through 01-SEP-2024
-    
--   [Coding Font](https://www.codingfont.com/) - fight to the death!
-
--   https://app.programmingfonts.org/
-
 ## Sources of Information
 
 -   https://pimpmytype.com/font-category/monospace/
@@ -281,23 +271,75 @@
 
 ## Disorganized Sources of Typefaces and Information
 
--   Letter Gothic http://ftp.brother.co.il/p-touch/Editor50/Fonts/
--   Look through <URL:https://catalog.monotype.com/search-results?filter=%5B%7B%22Id%22:1283136,%22Type%22:%22Typestyle%22,%22Value%22:%22%2Ftype-style%2Fmonospaced%22,%22Text%22:%22Monospaced%22%7D%5D&var=0>
--   https://www.reddit.com/r/identifythisfont/comments/g8i030/nice_monospace_font_from_brother_printer_stats/
--   https://www.reddit.com/r/identifythisfont/comments/fzvu4y/font_gods_what_could_this_glorious_monospace_font/
--   https://github.com/organicplanning/hackedfonts
--   https://github.com/juanaguillon/fonts-programming
--   https://github.com/zhenruyan/codefont/blob/master/README.md
--   https://news.ycombinator.com/item?id=34777325
--   https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace
--   https://damieng.com/typography/
--   [awesome-fonts](https://github.com/brabadu/awesome-fonts)
--   http://consowah.blogspot.com/2007/06/monospacefixed-width-programmers-fonts.html
--   [cfcl.com](http://www.cfcl.com/vlb/h/fontmono.html)
--   https://awesomeopensource.com/projects/monospace-font **perusing**
--   https://venam.net/blog/unix/2017/06/04/fonts-on-unix.html
--   [Electronic Font Open Laboratory](http://openlab.ring.gr.jp/efont/index.html.en)
+-   http://robkerth.org/Engineering/USB%20Iceland%20info,%202010/Fonts/
+    -   has fonts from https://web.archive.org/web/20140804045057/http://ftp.brother.co.il/p-touch/Editor50/Fonts/
 
+-   Look through <URL:https://catalog.monotype.com/search-results?filter=%5B%7B%22Id%22:1283136,%22Type%22:%22Typestyle%22,%22Value%22:%22%2Ftype-style%2Fmonospaced%22,%22Text%22:%22Monospaced%22%7D%5D&var=0>
+
+-   https://www.reddit.com/r/identifythisfont/comments/g8i030/nice_monospace_font_from_brother_printer_stats/
+    -   source for brother.co.il site.
+
+-   https://www.reddit.com/r/identifythisfont/comments/fzvu4y/font_gods_what_could_this_glorious_monospace_font/
+
+-   https://github.com/organicplanning/hackedfonts
+
+-   https://github.com/juanaguillon/fonts-programming
+
+-   https://github.com/zhenruyan/codefont/blob/master/README.md
+
+-   https://news.ycombinator.com/item?id=34777325
+
+-   https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace
+
+-   https://damieng.com/typography/
+
+-   [awesome-fonts](https://github.com/brabadu/awesome-fonts)
+
+-   http://consowah.blogspot.com/2007/06/monospacefixed-width-programmers-fonts.html
+    -   https://web.archive.org/web/20070227093312/http://www.kuro5hin.org/story/2004/12/6/11739/5249
+        which is just a link/copy of the lowing site.
+
+-   [cfcl.com](http://www.cfcl.com/vlb/h/fontmono.html)
+
+    -   Courier
+    -   Courier New
+    -   Monaco
+    -   ProFont
+    -   Andale Mono
+    -   Angelus III
+    -   Anonymous
+    -   Base Monospace
+    -   Bitstream Vera
+    -   Doire
+    -   Everson Mono
+    -   Excalibur Monospace
+    -   Feggolite Mono
+    -   Felt Pen
+    -   Galexica Mono
+    -   JetJaneMono
+    -   Larabiefont
+    -   Normafixed
+    -   NuSansMono
+    -   OCR-A
+    -   OCRB [sic?]
+    -   Onuava
+    -   Osaka Regular Mono
+    -   Platelet
+    -   QuickType mono
+    -   Script 12 Pitch
+    -   Teamhair
+    -   Ti92Pluspc
+    -   Triskweline
+    -   Unotype
+    -   Vidilex
+
+-   [some auto-generated 'awesome' site](https://awesomeopensource.com/projects/monospace-font)
+
+-   [Fonts on Unix](https://venam.net/blog/unix/2017/06/04/fonts-on-unix.html), explains everything
+    about how fonts work in Linux and other Unix-likes.
+
+-   [Electronic Font Open Laboratory](http://openlab.ring.gr.jp/efont/index.html.en), a 20-year-old site
+ 
 ## Reddit Threads
 
 I posted about the monospace font list project in [r/typewriters](https://www.reddit.com/r/typewriters/comments/aw9qb2/im_working_on_a_list_of_typewriter_monospace/),

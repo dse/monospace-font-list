@@ -27,3 +27,24 @@ I am [not including grungy fonts](./grungy.md).
 
 Send an email to dsembry AT SIGN gmail PERIOD com if you know of any
 I've missed.  Or submit a patch or pull request.
+
+## Icon Fonts
+
+Just in case you want some impossibly fancy shell prompts.
+
+-   [Powerline Fonts](https://github.com/powerline/fonts) - for shell
+    prompts and status lines
+
+-   [Nerd Fonts](https://www.nerdfonts.com/) - aggregates icon fonts
+    like fontawesome
+    -   NOTE: some fonts are renamed, possibly due to font name
+        restrictions à la Computer Modern Roman (i.e., Reserved Font
+        Names)
+
+## Coding Font Comparison Shopping
+
+-   [Coding Fonts](https://hackingcpp.com/dev/coding_fonts.html)
+
+-   [Coding Font Tournament](https://www.codingfont.com/)
+
+-   [ProgrammingFonts.org](https://app.programmingfonts.org/)

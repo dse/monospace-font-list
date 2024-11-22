@@ -1,4 +1,4 @@
-202 typefaces listed here.
+203 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
     A rather neat and fun monospace font with lots of features to differentiate the letters.
@@ -43,8 +43,6 @@
 -   [AudioLink Mono](https://audiolink.dev/)
     and AudioLink Console
 -   [Aurulent Sans Mono](https://www.dafont.com/aurulent-sans-mono.font)
--   [Average Mono](https://fontlibrary.org/en/font/average-mono)
-    an "average" of 13 variants of Courier.
 -   [Basically A Mono](https://experi.mentallydesigned.com/type/bam/)
     This is basically a geometric sans-serif monospace font.
     -   [uncut](https://uncut.wtf/monospace/basically-a-mono/)
@@ -74,13 +72,19 @@
     -   Notes:
         forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
 -   [Commit Mono](https://commitmono.com/)
+    A coding font designed for familiarity and neutrality.
+    Has a "Smart Kerning" feature, similar to 0xProto's "Texture Healing".
 -   [Consola Mono](https://fontlibrary.org/en/font/consolamono)
 -   [Corbi Mono S](https://fontlibrary.org/fr/font/corbi-mono-s)
     Libertinus Mono with a slashed zero by default
--   [Courier Code](https://fontlibrary.org/en/font/courier-code)
-    based on Bitstream Courier 10 Pitch v2.0
--   [Courier Prime](https://quoteunquoteapps.com/courierprime/)
-    includes Courier Prime Code, a sans-serif with coding features
+-   Courier
+    -   Variants:
+        -   [Courier Code](https://fontlibrary.org/en/font/courier-code)
+            based on Bitstream Courier 10 Pitch v2.0
+        -   [Courier Prime](https://quoteunquoteapps.com/courierprime/)
+            includes Courier Prime Code, a sans-serif with coding features
+        -   [OG Courier](https://github.com/dse/font-og-courier)
+            work in progress.  Based on IBM's Type 1 version of Courier donated to X Consortium, with coding features.
 -   [Cousine](https://fonts.google.com/specimen/Cousine)
 -   [Cozette](https://github.com/slavfox/Cozette)
 -   [CP Mono](https://github.com/chrissimpkins/codeface/tree/master/fonts/cp-mono)
@@ -135,8 +139,10 @@
 -   [Fixedsys Excelsior](https://github.com/kika/fixedsys)
 -   [Flexi IBM VGA](https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/)
     scalable version of IBM VGA font
+-   [fn0t](https://www.dafontfree.net/freefonts-fn0t-f99496.htm)
 -   [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono)
     based on URW Nimbus Sans, a Helvetica clone
+-   [FS Regulate](https://fontstruct.com/fontstructions/show/947828/fs_regulate)
 -   [Geist](https://vercel.com/font)
     includes a mono variant
 -   [Generic Mono II](https://github.com/organicplanning/hackedfonts)
@@ -256,8 +262,6 @@
         -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
             -   derived from Source Code Pro and Noto Sans JP.
             -   No significant changes other than mixing.
--   [OG Courier](https://github.com/dse/font-og-courier)
-    work in progress.  Based on IBM's Type 1 version of Courier donated to X Consortium, with coding features.
 -   [Old School PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
     -   Notes:
         from which is derived [IBM Fonts](https://farsil.github.io/ibmfonts/)
@@ -310,6 +314,7 @@
 -   [Sarasa Gothic Mono](https://picaq.github.io/sarasa/)
     derived from Source Han Sans and Iosevka
 -   [SAX2 APL font](https://abrudz.github.io/SAX2/)
+-   [Selectric](https://www.dafont.com/selectric.font)
 -   [Serious Shaans](https://kabeech.github.io/serious-shanns/)
     if you like Comic Sans
 -   [Server Mono](https://servermono.com/)
@@ -373,3 +378,4 @@
     -   Type 1 of Bitstream Courier
 -   [Zed Mono](https://github.com/zed-industries/zed-fonts)
     based on Iosevka
+-   [Zevv Peep](https://github.com/greemo/peep-font)

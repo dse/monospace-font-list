@@ -12,25 +12,22 @@
 -   Courier Screenplay	https://www.fadeinpro.com/page.pl?content=download
 	-   http://www.rolandstroud.com/Fonts-1.html
 
-<https://walkerart.org/magazine/typewriter-typefaces>
+<https://walkerart.org/magazine/typewriter-typefaces> - an article about
+the variety of typefaces available on typewriters.  looked through.
 
-<http://christian.lestrade.free.fr/fonts.html>
+<http://christian.lestrade.free.fr/fonts.html> - Unix-originated
+terminal fonts for Windows.
 
 Queue
 
--   <http://zone38.net/font/>
--   <https://github.com/olikraus/u8g2/wiki/fntgrp>
+-   <http://zone38.net/font/> a collection of video game fonts,
+    many of which are monospace.
+
+-   <https://github.com/olikraus/u8g2/wiki/fntgrp> a list of fonts
+    from a monochrome graphics library.  looked through.
+
 -   <https://brutalistthemes.com/free-fonts-for-brutalist-websites/>
-
-Sources
-
--   <https://app.programmingfonts.org/>
--   <https://github.com/ryanoasis/nerd-fonts>
--   <https://github.com/chrissimpkins/codeface/tree/master/fonts>
--   <http://programmingfonts.org/list>
--   <http://www.lowing.org/fonts/>
--   <http://www.cfcl.com/vlb/h/fontmono.html>
--   <https://github.com/powerline/fonts>
+    a list of fonts.  looked through.
 
 Fonts that come with the Winston app for macOS:
 

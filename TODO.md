@@ -1,5 +1,14 @@
--   Include free weights of paid monospace fonts in free section too.
--   VL Gothic
--   [Takao Gothic](https://github.com/ONLYOFFICE/core-fonts/blob/master/takao-gothic/TakaoGothic.ttf)
--   IPA Gothic
--   WenQuanYi Zen Hei Mono
+# To Do
+
+These are mentioned in https://davidawindham.com/fonts/
+
+-   Etelka Monospace
+-   Botanika Mono
+-   Fedra Mono
+-   HVDOSBox
+-   HVEdit
+-   HVRaster
+-   HVTerminal
+-   Isonorm
+-   Ormaxx
+-   Sydnie
