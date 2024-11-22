@@ -1,3 +1,8 @@
+-   [_Coding with Character_](https://realdougwilson.com/writing/coding-with-character?utm_source=pocket_shared)
+    -   [Programming Fonts](https://www.programmingfonts.org/)
+    -   [Monospace Font Selector](https://alexey-milovidov.github.io/font-selector/)
+    -   [Font Compare](https://www.s9w.io/font_compare/)
+
 -   Courier Final Draft	https://store.finaldraft.com/final-draft-11.html
 	-   https://web.archive.org/web/20180704043252/http://kb.finaldraft.com/article/1001/5328/Download-the-updated-Courier-Final-Draft-font
 	-   https://finaldraft.box.com/shared/static/714ubyxzjd937ntsxqdmvij7clvgzfer.dmg
