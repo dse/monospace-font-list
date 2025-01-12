@@ -43,8 +43,15 @@ sub print_item {
         $str .= indent(trimnorm($descr), "    ", "    ") . "\n";
     }
     if (defined $notes) {
-        $str .= "    -   Notes:\n";
-        $str .= indent(trimnorm($notes), "        ", "        ") . "\n";
+        if (ref $notes eq 'ARRAY') {
+            $str .= "    -   Notes:\n";
+            foreach my $note (@$notes) {
+                $str .= indent(trimnorm($note), "        -   ", "            ") . "\n";
+            }
+        } else {
+            $str .= "    -   Notes:\n";
+            $str .= indent(trimnorm($notes), "        ", "        ") . "\n";
+        }
     }
     $str .= sprintf("    -   [source](%s)\n",       delete $item->{source_url})       if defined $item->{source_url};
     $str .= sprintf("    -   [fontlibrary](%s)\n",  delete $item->{fontlibrary_url})  if defined $item->{fontlibrary_url};
