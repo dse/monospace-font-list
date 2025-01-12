@@ -1,4 +1,4 @@
-177 typefaces listed here.
+180 typefaces listed here.
 
 -   [Adore Mono](https://garagefonts.com/font/adore-mono)
 -   [Aglet Mono](https://xyztype.com/fonts/aglet/aglet-mono)
@@ -151,6 +151,9 @@
 -   [Neue Montreal Mono](https://pangrampangram.com/products/neue-montreal-mono)
 -   [Nice Weekend](https://www.myfonts.com/collections/nice-weekend-font-garagefonts)
 -   [Nitti](https://www.boldmonday.com/typeface/nitti/)
+-   [Nudica Mono](https://www.atipofoundry.com/fonts/nudica-mono)
+    -   Notes:
+        -   One weight available free of cost.
 -   [OCRJ](https://www.myfonts.com/collections/ocrj-font-test-pilot-collective)
 -   [Odisseia](https://www.myfonts.com/collections/odisseia-font-niramekko)
 -   [OPS Cubic](http://www.ourpolitesocietytype.net/fonts/ops-cubic/)
@@ -178,13 +181,19 @@
 -   [Sanduski Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Sarcastic Robot](https://chank.com/font-SarcasticRobot)
     -   Notes:
-        ARRAY(0x55697c6dd220)
+        -   Sarcastic Robot is the first typeface I've evern seen that doesn't look monospace, but is.
 -   [Sauna Mono Pro](https://www.myfonts.com/collections/sauna-mono-pro-font-underware)
 -   [Script 12 Pitch](https://www.myfonts.com/collections/script-12-pitch-font-bitstream)
     old script typewriter font
+-   [Semcon](https://www.atipofoundry.com/custom/semcon)
+    -   Notes:
+        -   Bespoke font for one of the foundry's clients. Not likely available.
 -   [Show Me the Mono](https://motaitalic.com/product/show-me-the-mono/)
     -   Notes:
-        ARRAY(0x55697c6dd388)
+        -   I *guess* it can be used for coding?  It has speckly bits.
+-   [Silka Mono](https://www.atipofoundry.com/fonts/silka-mono)
+    -   Notes:
+        -   One weight available at no cost.
 -   [SK Modernist Mono](https://seankanedesign.gumroad.com/l/sk-modernist)
 -   [Skagwae Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Skurier](https://www.myfonts.com/collections/skurier-font-grin3)

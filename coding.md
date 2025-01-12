@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-203 typefaces listed here.
+204 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
     A rather neat and fun monospace font with lots of features to differentiate the letters.
@@ -97,6 +97,7 @@
 -   [D2 Coding](https://github.com/Joungkyun/font-d2coding)
     based on Nanum Barun Coding
 -   [DaddyTimeMono](https://github.com/BourgeoisBear/DaddyTimeMono)
+-   [Dave](https://github.com/i-e-b/Dave)
 -   [DEC Terminal Modern](https://www.dafont.com/dec-terminal-modern.font)
 -   [Deferral](https://github.com/brianbruggeman/Deferral)
     work in progress
