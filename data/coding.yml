@@ -110,6 +110,10 @@
 - name: Chivo Mono
   source_url: https://github.com/namesmt/chivo
   descr: you probably want the Nerd Font linked from therein.
+- name: Classic Console Neue
+  url: https://webdraft.eu/fonts/classic-console/
+  notes: >-
+    8x16 bitmap IBM style font
 - name: Code New Roman
   dafont_url: https://www.dafont.com/code-new-roman.font
 - name: Comic Mono
@@ -125,6 +129,8 @@
     Has a "Smart Kerning" feature, similar to 0xProto's "Texture Healing".
 - name: Consola Mono
   fontlibrary_url: https://fontlibrary.org/en/font/consolamono
+- name: Conta
+  url: https://fontesk.com/conta-typeface/
 - name: Corbi Mono S
   fontlibrary_url: https://fontlibrary.org/fr/font/corbi-mono-s
   descr: Libertinus Mono with a slashed zero by default
@@ -423,6 +429,8 @@
 - name: Noto Fonts
   source_url: https://github.com/notofonts
   descr: includes Noto Sans Mono
+- name: Nova Mono
+  gfonts_url: https://fonts.google.com/specimen/Nova+Mono
 - name: Ocodo Mono
   source_url: https://github.com/ocodo/ocodo-mono
   descr: early work in progress

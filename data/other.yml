@@ -223,8 +223,6 @@
   dafont_url: https://www.dafont.com/normafixed.font
 - name: NotCourierSans
   url: https://usemodify.com/fonts/notcouriersans/
-- name: Nova Mono
-  gfonts_url: https://fonts.google.com/specimen/Nova+Mono
 - name: NuSans Mono
   url: https://www.urbanfonts.com/fonts/Nu_Sans_Mono.font
   descr: digits are bitmaps; everything else is smooth
