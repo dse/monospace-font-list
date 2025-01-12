@@ -14,3 +14,9 @@
     -   Isonorm
     -   Ormaxx
     -   Sydnie
+
+-   additional font lists:
+
+    -   https://devfonts.gafi.dev/
+
+    -   https://github.com/subidit/typophilia
