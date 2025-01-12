@@ -398,7 +398,7 @@
 
 ## Paid
 
-52 typefaces listed here.
+53 typefaces listed here.
 
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
     line printer inspired
@@ -440,6 +440,7 @@
 -   [MD System Mono](https://mass-driver.com/typefaces/md-system/)
 -   [Matter Mono](https://displaay.net/typeface/matter-collection/matter-mono/)
 -   [Monolisa](https://www.monolisa.dev/)
+-   [Montris Mono](https://www.r-typography.com/fonts/montris-mono?weight=737)
 -   [NT Bau Mono](https://nodotypefoundry.com/typefaces/nt-bau-mono/)
 -   [Native](https://fortfoundry.com/fonts/native)
     [regular weight is free]
