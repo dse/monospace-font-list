@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-208 typefaces listed here.
+209 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
     A rather neat and fun monospace font with lots of features to differentiate the letters.
@@ -110,6 +110,8 @@
 -   [Deja Vu Sans Mono](https://dejavu-fonts.github.io/)
     -   Notes:
         based on [Bitstream Vera Fonts](https://download.gnome.org/sources/ttf-bitstream-vera/1.10/)
+-   [Departure Mono](https://departuremono.com/)
+    -   [github](https://github.com/rektdeckard/departure-mono)
 -   [Dina Bitmap](https://www.dcmembers.com/jibsen/download/61/)
 -   [Dina Font TTF](https://github.com/zshoals/Dina-Font-TTF-Remastered)
 -   [Drafting\* Mono](https://indestructibletype.com/Drafting/)
