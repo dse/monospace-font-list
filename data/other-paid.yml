@@ -286,6 +286,11 @@
   myfonts_url: https://www.myfonts.com/collections/nice-weekend-font-garagefonts
 - name: Nitti
   url: https://www.boldmonday.com/typeface/nitti/
+- name: Nudica Mono
+  url: https://www.atipofoundry.com/fonts/nudica-mono
+  notes:
+    - >-
+      One weight available free of cost.
 - name: OCRJ
   myfonts_url: https://www.myfonts.com/collections/ocrj-font-test-pilot-collective
 - name: Odisseia
@@ -351,6 +356,12 @@
   descr: old script typewriter font
   tagged:
     old-timey: true
+- name: Semcon
+  url: https://www.atipofoundry.com/custom/semcon
+  notes:
+    - >-
+      Bespoke font for one of the foundry's clients.
+      Not likely available.
 - name: Show Me the Mono
   url: https://motaitalic.com/product/show-me-the-mono/
   notes:
@@ -358,6 +369,11 @@
       I *guess* it can be used for coding?  It has speckly bits.
   tags:
     - wild
+- name: Silka Mono
+  url: https://www.atipofoundry.com/fonts/silka-mono
+  notes:
+    - >-
+      One weight available at no cost.
 - name: SK Modernist Mono
   url: https://seankanedesign.gumroad.com/l/sk-modernist
 - name: Skagwae Mono
