@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-205 typefaces listed here.
+208 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
     A rather neat and fun monospace font with lots of features to differentiate the letters.
@@ -70,6 +70,9 @@
     A fun coding font with a cursive italic, From Microsoft, the default font in Windows Terminal and now Visual Studio Code.
 -   [Chivo Mono](https://github.com/namesmt/chivo)
     you probably want the Nerd Font linked from therein.
+-   [Classic Console Neue](https://webdraft.eu/fonts/classic-console/)
+    -   Notes:
+        8x16 bitmap IBM style font
 -   [Code New Roman](https://www.dafont.com/code-new-roman.font)
 -   [Comic Mono](https://dtinth.github.io/comic-mono-font/)
     if you like Comic Sans
@@ -79,6 +82,7 @@
     A coding font designed for familiarity and neutrality.
     Has a "Smart Kerning" feature, similar to 0xProto's "Texture Healing".
 -   [Consola Mono](https://fontlibrary.org/en/font/consolamono)
+-   [Conta](https://fontesk.com/conta-typeface/)
 -   [Corbi Mono S](https://fontlibrary.org/fr/font/corbi-mono-s)
     Libertinus Mono with a slashed zero by default
 -   Courier
@@ -262,6 +266,7 @@
 -   [NK57 Monospace](https://www.dafont.com/nk57-monospace.font)
 -   [Noto Fonts](https://github.com/notofonts)
     includes Noto Sans Mono
+-   [Nova Mono](https://fonts.google.com/specimen/Nova+Mono)
 -   [Ocodo Mono](https://github.com/ocodo/ocodo-mono)
     early work in progress
 -   [OCR A Extended](https://www.wfonts.com/font/ocr-a-extended)

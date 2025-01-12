@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-117 typefaces listed here.
+116 typefaces listed here.
 
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
     Arabic typewriter typeface
@@ -155,7 +155,6 @@
 -   [Neep](http://nikolas.us.to/jmkfonts/)
 -   [Normafixed](https://www.dafont.com/normafixed.font)
 -   [NotCourierSans](https://usemodify.com/fonts/notcouriersans/)
--   [Nova Mono](https://fonts.google.com/specimen/Nova+Mono)
 -   [NuSans Mono](https://www.urbanfonts.com/fonts/Nu_Sans_Mono.font)
     digits are bitmaps; everything else is smooth
 -   [Olympiad](https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/)
