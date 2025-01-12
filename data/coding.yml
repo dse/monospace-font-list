@@ -379,6 +379,10 @@
   source_url: https://github.com/davelab6/metrickal-typeface
 - name: Meyrin CERN
   source_url: https://github.com/optional-is/Meyrin
+- name: Miracode
+  github_url: https://github.com/IdreesInc/Miracode
+  notes:
+    - vectorized version of Monocraft, the Minecraft font
 - name: mnicmp
   fontlibrary_url: https://fontlibrary.org/en/font/mnicmp
   descr: based on the 7-pin DECwriter II printer

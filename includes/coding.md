@@ -1,4 +1,4 @@
-204 typefaces listed here.
+205 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
     A rather neat and fun monospace font with lots of features to differentiate the letters.
@@ -230,6 +230,10 @@
     Menlo (derived from Deja Vu) with some tweaks
 -   [Metrickal](https://github.com/davelab6/metrickal-typeface)
 -   [Meyrin CERN](https://github.com/optional-is/Meyrin)
+-   Miracode
+    -   Notes:
+        -   vectorized version of Monocraft, the Minecraft font
+    -   [github](https://github.com/IdreesInc/Miracode)
 -   [mnicmp](https://fontlibrary.org/en/font/mnicmp)
     based on the 7-pin DECwriter II printer
 -   [Monaspace](https://monaspace.githubnext.com/)
