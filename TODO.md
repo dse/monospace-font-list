@@ -1,14 +1,16 @@
 # To Do
 
-These are mentioned in https://davidawindham.com/fonts/
+-   https://github.com/jenskutilek
 
--   Etelka Monospace
--   Botanika Mono
--   Fedra Mono
--   HVDOSBox
--   HVEdit
--   HVRaster
--   HVTerminal
--   Isonorm
--   Ormaxx
--   Sydnie
+-   These are mentioned in https://davidawindham.com/fonts/
+
+    -   Etelka Monospace
+    -   Botanika Mono
+    -   Fedra Mono
+    -   HVDOSBox
+    -   HVEdit
+    -   HVRaster
+    -   HVTerminal
+    -   Isonorm
+    -   Ormaxx
+    -   Sydnie
