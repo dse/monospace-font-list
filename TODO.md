@@ -20,3 +20,7 @@
     -   https://devfonts.gafi.dev/
 
     -   https://github.com/subidit/typophilia
+
+-   There's a book about monospace typefaces:
+
+    -   https://www.niggli.ch/en/produkt/mono-is-the-new-black-e/
