@@ -97,7 +97,6 @@
 -   [D2 Coding](https://github.com/Joungkyun/font-d2coding)
     based on Nanum Barun Coding
 -   [DaddyTimeMono](https://github.com/BourgeoisBear/DaddyTimeMono)
--   [Dave](https://github.com/i-e-b/Dave) - A monospace programming font built for unambiguous legibility
 -   [DEC Terminal Modern](https://www.dafont.com/dec-terminal-modern.font)
 -   [Deferral](https://github.com/brianbruggeman/Deferral)
     work in progress
