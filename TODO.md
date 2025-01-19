@@ -24,3 +24,7 @@
 -   There's a book about monospace typefaces:
 
     -   https://www.niggli.ch/en/produkt/mono-is-the-new-black-e/
+
+-   another font list:
+
+    -   https://www.fontspring.com/tag/monospaced-width
