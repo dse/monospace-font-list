@@ -122,6 +122,14 @@
     if you like Comic Sans
   notes: |-
     forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
+- name: Comic Shaans
+  github_url: https://github.com/shannpersand/comic-shanns
+  notes: >-
+    V2 released with support for accented characters, math symbols, and other symbols.
+- name: Comic Shaans Mono
+  github_url: https://github.com/jesusmgg/comic-shanns-mono
+  notes: >-
+    Based on Comic Shaans v2 with metrics adjusted and even more additional characters.
 - name: Commit Mono
   url: https://commitmono.com/
   descr: |
@@ -527,6 +535,8 @@
 - name: Serious Shaans
   url: https://kabeech.github.io/serious-shanns/
   descr: if you like Comic Sans
+  notes: >-
+    Based on Comic Mono, with legibility enhancements and a lighter weight.
 - name: Server Mono
   url: https://servermono.com/
 - name: SF Mono
