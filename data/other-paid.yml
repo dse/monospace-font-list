@@ -413,6 +413,12 @@
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Typewalk Mono 1915
   myfonts_url: https://www.myfonts.com/collections/typewalk-mono-1915-font-typocalypse
+- name: Typewriter Spool
+  myfonts_url: https://www.myfonts.com/collections/typewriter-spool-font-typodermic
+  notes:
+    - >-
+      CLN (clean), SFT (mildly grungy), and XRX (normal amount of grungy)
+      varieties are available.
 - name: Typist Slab Mono
   myfonts_url: https://www.myfonts.com/collections/typist-slab-font-vanderkeur
   descr: '[old-ish]'
