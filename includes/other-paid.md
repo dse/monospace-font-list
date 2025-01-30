@@ -1,4 +1,4 @@
-180 typefaces listed here.
+181 typefaces listed here.
 
 -   [Adore Mono](https://garagefonts.com/font/adore-mono)
 -   [Aglet Mono](https://xyztype.com/fonts/aglet/aglet-mono)
@@ -211,6 +211,9 @@
 -   [The Future Mono](https://www.futurefonts.xyz/klim/the-future-mono)
 -   [Tired of Courier](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Typewalk Mono 1915](https://www.myfonts.com/collections/typewalk-mono-1915-font-typocalypse)
+-   [Typewriter Spool](https://www.myfonts.com/collections/typewriter-spool-font-typodermic)
+    -   Notes:
+        -   CLN (clean), SFT (mildly grungy), and XRX (normal amount of grungy) varieties are available.
 -   [Typist Slab Mono](https://www.myfonts.com/collections/typist-slab-font-vanderkeur)
     [old-ish]
 -   [Unotype](https://www.myfonts.com/collections/unotype-font-monotype-imaging)

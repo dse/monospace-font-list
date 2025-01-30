@@ -1,4 +1,4 @@
-209 typefaces listed here.
+211 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
     A rather neat and fun monospace font with lots of features to differentiate the letters.
@@ -74,6 +74,14 @@
     if you like Comic Sans
     -   Notes:
         forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
+-   Comic Shaans
+    -   Notes:
+        V2 released with support for accented characters, math symbols, and other symbols.
+    -   [github](https://github.com/shannpersand/comic-shanns)
+-   Comic Shaans Mono
+    -   Notes:
+        Based on Comic Shaans v2 with metrics adjusted and even more additional characters.
+    -   [github](https://github.com/jesusmgg/comic-shanns-mono)
 -   [Commit Mono](https://commitmono.com/)
     A coding font designed for familiarity and neutrality.
     Has a "Smart Kerning" feature, similar to 0xProto's "Texture Healing".
@@ -329,6 +337,8 @@
 -   [Selectric](https://www.dafont.com/selectric.font)
 -   [Serious Shaans](https://kabeech.github.io/serious-shanns/)
     if you like Comic Sans
+    -   Notes:
+        Based on Comic Mono, with legibility enhancements and a lighter weight.
 -   [Server Mono](https://servermono.com/)
 -   [SF Mono](https://developer.apple.com/fonts/)
     [free]

@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-116 typefaces listed here.
+117 typefaces listed here.
 
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
     Arabic typewriter typeface
@@ -89,6 +89,7 @@
     [display]
 -   [Display Module Fonts](https://github.com/dse/display-module-fonts)
     fonts that emulate popular LCD text display modules
+-   [Doto Mono](https://fonts.google.com/specimen/Doto)
 -   [Effects Eighty](https://fontlibrary.org/th/font/effects-eighty)
     [dot-matrix printer]
 -   [EnvyPN](https://github.com/hicolour/envypn-font)
@@ -238,7 +239,7 @@
 
 ## Paid
 
-180 typefaces listed here.
+181 typefaces listed here.
 
 -   [Adore Mono](https://garagefonts.com/font/adore-mono)
 -   [Aglet Mono](https://xyztype.com/fonts/aglet/aglet-mono)
@@ -451,6 +452,9 @@
 -   [The Future Mono](https://www.futurefonts.xyz/klim/the-future-mono)
 -   [Tired of Courier](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Typewalk Mono 1915](https://www.myfonts.com/collections/typewalk-mono-1915-font-typocalypse)
+-   [Typewriter Spool](https://www.myfonts.com/collections/typewriter-spool-font-typodermic)
+    -   Notes:
+        -   CLN (clean), SFT (mildly grungy), and XRX (normal amount of grungy) varieties are available.
 -   [Typist Slab Mono](https://www.myfonts.com/collections/typist-slab-font-vanderkeur)
     [old-ish]
 -   [Unotype](https://www.myfonts.com/collections/unotype-font-monotype-imaging)

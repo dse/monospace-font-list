@@ -1,4 +1,4 @@
-116 typefaces listed here.
+117 typefaces listed here.
 
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
     Arabic typewriter typeface
@@ -85,6 +85,7 @@
     [display]
 -   [Display Module Fonts](https://github.com/dse/display-module-fonts)
     fonts that emulate popular LCD text display modules
+-   [Doto Mono](https://fonts.google.com/specimen/Doto)
 -   [Effects Eighty](https://fontlibrary.org/th/font/effects-eighty)
     [dot-matrix printer]
 -   [EnvyPN](https://github.com/hicolour/envypn-font)
