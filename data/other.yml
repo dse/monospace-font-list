@@ -119,6 +119,8 @@
 - name: Display Module Fonts
   descr: fonts that emulate popular LCD text display modules
   source_url: https://github.com/dse/display-module-fonts
+- name: Doto Mono
+  gfonts_url: https://fonts.google.com/specimen/Doto
 - name: Effects Eighty
   fontlibrary_url: https://fontlibrary.org/th/font/effects-eighty
   descr: '[dot-matrix printer]'
