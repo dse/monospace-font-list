@@ -57,25 +57,20 @@ package My::Item {
             }
         }
 
-        my $primary_url = delete $data->{url};
-        foreach my $key (qw(source_url
-                            fontlibrary_url
-                            fontsquirrel_url
-                            myfonts_url
-                            gfonts_url
-                            dafont_url
-                            fonts2u_url)) {
-            my $url = delete $data->{$key};
-            if (defined $url) {
-                $primary_url //= $url;
-                $self->{$key} = $url;
-            }
-        }
+        $self->add_urls($data->{url}, undef, 1);
+        $self->add_urls($data->{urls}, undef, 1);
+
+        $self->add_urls($data->{source_url}, 'source_url', 1);
+        $self->add_urls($data->{fontlibrary_url}, 'fontlibrary_url', 1);
+        $self->add_urls($data->{fontsquirrel_url}, 'fontsquirrel_url', 1);
+        $self->add_urls($data->{myfonts_url}, 'myfonts_url', 1);
+        $self->add_urls($data->{gfonts_url}, 'gfonts_url', 1);
+        $self->add_urls($data->{dafont_url}, 'dafont_url', 1);
+        $self->add_urls($data->{fonts2u_url}, 'fonts2u_url', 1);
+
         foreach my $key (sort grep { /_url$/i } keys %$data) {
-            my $url = delete $data->{$key};
-            $self->{$key} = $url;
+            $self->add_urls($data->{$key}, $key);
         }
-        $self->{url} = $primary_url;
 
         my $variants = delete $data->{variants};
         if (defined $variants) {
@@ -84,6 +79,41 @@ package My::Item {
             } elsif (ref $variants eq 'ARRAY') {
                 $self->{variants} = $variants;
             }
+        }
+    }
+
+    sub add_urls {
+        my ($self, $url, $key, $primary) = @_;
+        return if !defined $url;
+        if (defined $key) {
+            $key =~ s{_url$}{}i;
+            $key .= "_url";
+        }
+        if (ref $url eq '') {
+            if (defined $key) {
+                if (defined $self->{$key}) {
+                    push(@{$self->{other_urls}}, $url);
+                } else {
+                    $self->{$key} = $url;
+                }
+                if ($primary) {
+                    if (defined $self->{url}) {
+                        push(@{$self->{other_urls}}, $url);
+                    } else {
+                        $self->{url} = $url;
+                    }
+                }
+            } else {
+                if (defined $self->{url}) {
+                    push(@{$self->{other_urls}}, $url);
+                } else {
+                    $self->{url} = $url;
+                }
+            }
+        } elsif (ref $url eq 'ARRAY') {
+            $self->add_urls($_, $key, $primary) foreach @$url;
+        } elsif (ref $url eq 'HASH') {
+            $self->add_urls($url->{$_}, $_, $primary) foreach keys %$url;
         }
     }
 
