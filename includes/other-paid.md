@@ -7,7 +7,7 @@
 -   [Alto Mono](https://www.typeby.com/fonts/alto-mono)
     Thiemich's typeface
     -   Notes:
-        not related to damieng's free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
+        -   not related to damieng's free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
 -   [Antikor Mono](https://www.taf-studio.com/retail-fonts/antikor/)
 -   [Arkibal Mono](https://elements.envato.com/arkibal-mono-F98DXM)
 -   [ASM](https://extratype.com/fonts/asm)

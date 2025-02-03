@@ -1,4 +1,4 @@
-53 typefaces listed here.
+54 typefaces listed here.
 
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
     line printer inspired
@@ -20,6 +20,11 @@
 -   [Codelia](https://tosche.net/fonts/codelia)
 -   [Codename Coder 4F](http://fonts.4thfebruary.com.ua/codename-coder-4f/)
 -   [Comic Code](https://tosche.net/fonts/comic-code)
+-   [Consolas](https://learn.microsoft.com/en-us/typography/font-list/consolas)
+    -   Notes:
+        -   bundled with Windows
+    -   [source](https://www.lucasfonts.com/fonts/consolas/)
+    -   [myfonts](https://www.myfonts.com/collections/consolas-font-microsoft-corporation)
 -   [Covik Sans Mono](https://ohnotype.co/fonts/covik)
 -   [Cubiculum](https://www.myfonts.com/collections/cubiculum-font-johan-winge)
 -   [Dank Mono](https://philpl.gumroad.com/l/dank-mono)

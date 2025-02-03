@@ -18,7 +18,7 @@
 -   [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/)
     damieng's bitmap font, based on the Xerox Alto, an early GUI workstation from 1973
     -   Notes:
-        not related to Thiemich's paid [Alto Mono](https://www.typeby.com/fonts/alto-mono)
+        -   not related to Thiemich's paid [Alto Mono](https://www.typeby.com/fonts/alto-mono)
 -   [Amazon Ember Mono](https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography)
     a variant of Amazon's corporate typeface.  To get Amazon Ember
     Mono, download the font bundle.  One of the files in the .zip file
@@ -72,19 +72,19 @@
     you probably want the Nerd Font linked from therein.
 -   [Classic Console Neue](https://webdraft.eu/fonts/classic-console/)
     -   Notes:
-        8x16 bitmap IBM style font
+        -   8x16 bitmap IBM style font
 -   [Code New Roman](https://www.dafont.com/code-new-roman.font)
 -   [Comic Mono](https://dtinth.github.io/comic-mono-font/)
     if you like Comic Sans
     -   Notes:
-        forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
+        -   forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
 -   Comic Shaans
     -   Notes:
-        V2 released with support for accented characters, math symbols, and other symbols.
+        -   V2 released with support for accented characters, math symbols, and other symbols.
     -   [github](https://github.com/shannpersand/comic-shanns)
 -   Comic Shaans Mono
     -   Notes:
-        Based on Comic Shaans v2 with metrics adjusted and even more additional characters.
+        -   Based on Comic Shaans v2 with metrics adjusted and even more additional characters.
     -   [github](https://github.com/jesusmgg/comic-shanns-mono)
 -   [Commit Mono](https://commitmono.com/)
     A coding font designed for familiarity and neutrality.
@@ -117,7 +117,7 @@
     derived from Deja Vu Sans Mono
 -   [Deja Vu Sans Mono](https://dejavu-fonts.github.io/)
     -   Notes:
-        based on [Bitstream Vera Fonts](https://download.gnome.org/sources/ttf-bitstream-vera/1.10/)
+        -   based on [Bitstream Vera Fonts](https://download.gnome.org/sources/ttf-bitstream-vera/1.10/)
 -   [Departure Mono](https://departuremono.com/)
     -   [github](https://github.com/rektdeckard/departure-mono)
 -   [Dina Bitmap](https://www.dcmembers.com/jibsen/download/61/)
@@ -144,7 +144,7 @@
 -   [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
     if you like Comic Sans and are not a hater
     -   Notes:
-        f/k/a Cosmic Sans Neue Mono
+        -   f/k/a Cosmic Sans Neue Mono
 -   [Fifteen](https://fontlibrary.org/en/font/fifteen)
     see also Quinze
 -   [Fira Code](https://github.com/tonsky/FiraCode)
@@ -288,10 +288,10 @@
             -   No significant changes other than mixing.
 -   [Old School PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
     -   Notes:
-        from which is derived [IBM Fonts](https://farsil.github.io/ibmfonts/)
+        -   from which is derived [IBM Fonts](https://farsil.github.io/ibmfonts/)
 -   [OpenGenera fonts](https://archive.org/download/SymblicsOpenGenera)
     -   Notes:
-        look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
+        -   look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
     -   [url\_2](https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera)
 -   [Openstep Mono](https://fontstruct.com/fontstructions/show/918633/openstep_mono)
 -   [Overpass](https://overpassfont.org/)
@@ -342,7 +342,7 @@
 -   [Serious Shaans](https://kabeech.github.io/serious-shanns/)
     if you like Comic Sans
     -   Notes:
-        Based on Comic Mono, with legibility enhancements and a lighter weight.
+        -   Based on Comic Mono, with legibility enhancements and a lighter weight.
 -   [Server Mono](https://servermono.com/)
 -   [SF Mono](https://developer.apple.com/fonts/)
     [free]
@@ -374,7 +374,7 @@
 -   [ti92plus](https://github.com/sterpe/ti92plus)
     TI92PLUSPC.TTF with encoding fixes
     -   Notes:
-        based on [Ti92Pluspc](https://fontsgeek.com/fonts/Ti92Pluspc-Regular)
+        -   based on [Ti92Pluspc](https://fontsgeek.com/fonts/Ti92Pluspc-Regular)
 -   [Triskweline](https://www.netalive.org/tinkering/triskweline/)
 -   [TT2020](https://copypaste.wtf/TT2020/docs/)
 -   [TXTT](https://tug.org/FontCatalogue/txtt/)
@@ -408,7 +408,7 @@
 
 ## Paid
 
-53 typefaces listed here.
+54 typefaces listed here.
 
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
     line printer inspired
@@ -430,6 +430,11 @@
 -   [Codelia](https://tosche.net/fonts/codelia)
 -   [Codename Coder 4F](http://fonts.4thfebruary.com.ua/codename-coder-4f/)
 -   [Comic Code](https://tosche.net/fonts/comic-code)
+-   [Consolas](https://learn.microsoft.com/en-us/typography/font-list/consolas)
+    -   Notes:
+        -   bundled with Windows
+    -   [source](https://www.lucasfonts.com/fonts/consolas/)
+    -   [myfonts](https://www.myfonts.com/collections/consolas-font-microsoft-corporation)
 -   [Covik Sans Mono](https://ohnotype.co/fonts/covik)
 -   [Cubiculum](https://www.myfonts.com/collections/cubiculum-font-johan-winge)
 -   [Dank Mono](https://philpl.gumroad.com/l/dank-mono)

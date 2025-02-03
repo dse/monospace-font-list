@@ -9,7 +9,7 @@
 -   [Angelus III](https://www.myfonts.com/collections/angelus-iii-font-scriptorium)
 -   [Audimat Mono](https://www.fontsquirrel.com/fonts/audimat-mono)
     -   Notes:
-        its designer [discourages](https://www.smeltery.net/en/fonts/dead) its use
+        -   its designer [discourages](https://www.smeltery.net/en/fonts/dead) its use
 -   [Azeret Mono](https://displaay.net/typeface/azeret/azeret-mono/)
     -   [googlefonts](https://fonts.google.com/specimen/Azeret+Mono)
     -   [fontshare](https://www.fontshare.com/fonts/azeret-mono)
@@ -21,7 +21,7 @@
 -   [Bedstead](https://bjh21.me.uk/bedstead/)
 -   [Befont](https://codeberg.org/Wezl/fonts#befont-https-ermineii-github-io-befont-html)
     -   Notes:
-        also known as [Befunge](https://ermineii.github.io/befont.html)
+        -   also known as [Befunge](https://ermineii.github.io/befont.html)
 -   [Bino Mono](https://www.fontyukle.net/font/Bino-Mono)
 -   [BIZ UDMincho](https://fonts.google.com/specimen/BIZ+UDMincho)
     -   [microsoft](https://learn.microsoft.com/en-us/typography/font-list/biz-udmincho-medium)
@@ -41,17 +41,17 @@
     including simply porting the fonts to other formats, cannot be called
     Computer Modern, hence why the variants' names listed below differ.
     -   Notes:
-        -   `cmtt10` is Computer Modern Typewriter Text's font name from back in the day.
-            (or `cmtt8`, `9`, or `12`).
-        -   The [Latin Modern](https://www.gust.org.pl/projects/e-foundry/latin-modern)
-            fonts are the "standard in the TeX community" according to Wikipedia.
-            The typewriter fonts are `lmtt8`, `9`, `10`, and `12`.
-        -   The [Blue Sky](https://ctan.org/tex-archive/systems/mac/textures/fonts/Computer_Modern_PostScript?lang=en) Type 1 fonts may look better on computer screens.
-        -   [Computer Modern Unicode](https://cm-unicode.sourceforge.io/index.html)
-        -   [Latin Modern Mono] (GUST e-foundry)
-        -   See also:
-            -   [a visual comparison](https://en.wikipedia.org/wiki/Computer_Modern#MLModern)
-            -   [another comparison](https://tex.stackexchange.com/questions/656626/comparison-of-vector-fonts-of-computer-modern-variants)
+        -   -   `cmtt10` is Computer Modern Typewriter Text's font name from back in the day.
+                (or `cmtt8`, `9`, or `12`).
+            -   The [Latin Modern](https://www.gust.org.pl/projects/e-foundry/latin-modern)
+                fonts are the "standard in the TeX community" according to Wikipedia.
+                The typewriter fonts are `lmtt8`, `9`, `10`, and `12`.
+            -   The [Blue Sky](https://ctan.org/tex-archive/systems/mac/textures/fonts/Computer_Modern_PostScript?lang=en) Type 1 fonts may look better on computer screens.
+            -   [Computer Modern Unicode](https://cm-unicode.sourceforge.io/index.html)
+            -   [Latin Modern Mono] (GUST e-foundry)
+            -   See also:
+                -   [a visual comparison](https://en.wikipedia.org/wiki/Computer_Modern#MLModern)
+                -   [another comparison](https://tex.stackexchange.com/questions/656626/comparison-of-vector-fonts-of-computer-modern-variants)
     -   Variants:
         -   [CMU Typewriter](https://fontlibrary.org/en/font/cmu-typewriter)
         -   [Latin Modern Mono](https://www.fontsquirrel.com/fonts/latin-modern-mono)
@@ -147,7 +147,7 @@
 -   [Monofur](https://www.dafont.com/monofur.font)
 -   [Monor](https://cedricrossignolbrunet.com/monor/)
     -   Notes:
-        might not actually be a monospace font :-(
+        -   might not actually be a monospace font :-(
     -   [uncut](https://uncut.wtf/monospace/monor/)
 -   [Monospace](https://www.fontspace.com/monospace-font-f13274)
 -   [Monostep](https://www.myfonts.com/collections/monostep-font-yokkmokk?srsltid=AfmBOoqno5fgZH1DJ4LtsgSkZpVWq9gatAHeaurM7x4If7sG4OoDpGsl)
@@ -248,7 +248,7 @@
 -   [Alto Mono](https://www.typeby.com/fonts/alto-mono)
     Thiemich's typeface
     -   Notes:
-        not related to damieng's free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
+        -   not related to damieng's free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
 -   [Antikor Mono](https://www.taf-studio.com/retail-fonts/antikor/)
 -   [Arkibal Mono](https://elements.envato.com/arkibal-mono-F98DXM)
 -   [ASM](https://extratype.com/fonts/asm)
