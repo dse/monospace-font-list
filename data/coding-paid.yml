@@ -37,6 +37,15 @@
   url: http://fonts.4thfebruary.com.ua/codename-coder-4f/
 - name: Comic Code
   url: https://tosche.net/fonts/comic-code
+- name: Consolas
+  source_url: https://www.lucasfonts.com/fonts/consolas/
+  url: https://learn.microsoft.com/en-us/typography/font-list/consolas
+  myfonts_url: https://www.myfonts.com/collections/consolas-font-microsoft-corporation
+  designer: Luc(as) de Groot
+  foundry: Microsoft Corporation
+  publisher: Microsoft Corporation
+  notes:
+    - bundled with Windows
 - name: Covik Sans Mono
   url: https://ohnotype.co/fonts/covik
 - name: Cubiculum
