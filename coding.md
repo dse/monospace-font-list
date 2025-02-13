@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-211 typefaces listed here.
+212 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
     A rather neat and fun monospace font with lots of features to differentiate the letters.
@@ -44,6 +44,9 @@
     Developer Jason Knight needed a custom font for his deteriorating
     vision before cataract surgery, and he created one.
 -   [Atarist](https://github.com/ntwk/atarist-font)
+-   [Atkinson Hyperlegible Mono](https://www.brailleinstitute.org/freefont/)
+    -   Notes:
+        -   Designed for people with visual impairments.
 -   [AudioLink Mono](https://audiolink.dev/)
     and AudioLink Console
 -   [Aurulent Sans Mono](https://www.dafont.com/aurulent-sans-mono.font)

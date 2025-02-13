@@ -30,11 +30,11 @@ package My::Item {
         my ($class, $data) = @_;
         my $self = bless({}, $class);
         $self->{data} = decode_json(encode_json($data));
-        print STDERR (Dumper($data));
-        print STDERR (Dumper($self->{data}));
+        # print STDERR (Dumper($data));
+        # print STDERR (Dumper($self->{data}));
         $self->{orig_data} = $data;
         $self->init();
-        print STDERR (Dumper($self));
+        # print STDERR (Dumper($self));
         return $self;
     }
 

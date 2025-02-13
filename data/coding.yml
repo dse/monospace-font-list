@@ -65,6 +65,10 @@
     vision before cataract surgery, and he created one.
 - name: Atarist
   source_url: https://github.com/ntwk/atarist-font
+- name: Atkinson Hyperlegible Mono
+  url: https://www.brailleinstitute.org/freefont/
+  notes: |
+    Designed for people with visual impairments.
 - name: AudioLink Mono
   url: https://audiolink.dev/
   descr: and AudioLink Console
