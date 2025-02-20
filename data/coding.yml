@@ -100,6 +100,8 @@
   source_url: https://github.com/fonsecapeter/brass_mono
   descr: |
     "A free retro monospaced font inspired by 20th century electrical and mechanical design"
+  notes:
+    - Do you like Routed Gothic?
 - name: Brutalist Mono
   source_url: https://github.com/BRUTALISM/Brutalist
   descr: derived from Deja Vu Sans Mono

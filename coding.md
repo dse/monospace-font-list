@@ -64,6 +64,8 @@
 -   [BPtypewrite](https://backpacker.gr/fonts/10)
 -   [Brass Mono](https://github.com/fonsecapeter/brass_mono)
     "A free retro monospaced font inspired by 20th century electrical and mechanical design"
+    -   Notes:
+        -   Do you like Routed Gothic?
 -   [Brutalist Mono](https://github.com/BRUTALISM/Brutalist)
     derived from Deja Vu Sans Mono
 -   [Camingo Code](https://janfromm.de/typefaces/camingocode/)

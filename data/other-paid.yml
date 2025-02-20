@@ -16,6 +16,8 @@
     not related to damieng's free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
 - name: Antikor Mono
   url: https://www.taf-studio.com/retail-fonts/antikor/
+- name: Archive Grotesk Mono (AG Mono)
+  url: https://scifipoetry.de/archive-grotesk-mono/
 - name: Arkibal Mono
   url: https://elements.envato.com/arkibal-mono-F98DXM
 - name: ASM
@@ -60,6 +62,8 @@
     - wild
 - name: Centima Mono
   url: http://www.tipografiaramis.com/centima-mono.html
+- name: Chromatic Mono
+  url: https://www.colophon-foundry.org/typefaces/chromatic-mono
 - name: Circular Mono
   url: https://lineto.com/typefaces/circular-mono
 - name: Codo Mono
@@ -177,7 +181,7 @@
   url: https://www.grillitype.com/typeface/gt-pressura
 - name: Galexica Mono
   url: http://ingrimayne.com/fonts2/typewriter.htm
-- name: Garton Mono
+- name: Garton
   url: https://www.colophon-foundry.org/typefaces/garton
 - name: Gemeli Mono
   url: https://productiontype.com/font/gemeli/gemeli-mono
@@ -187,6 +191,8 @@
   url: https://rosettatype.com/GridlitePE
   tags:
     - wild
+- name: Guida Mono
+  url: https://www.colophon-foundry.org/typefaces/guida-mono
 - name: HeartMatrixed
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Heimat Mono
@@ -259,6 +265,8 @@
   descr: '[paid but CHEAP]'
 - name: Monosten
   url: https://www.colophon-foundry.org/typefaces/monosten
+- name: Monosten Stencil
+  url: https://www.colophon-foundry.org/typefaces/monosten-stencil
 - name: Monostep
   myfonts_url: https://www.myfonts.com/collections/monostep-font-yokkmokk?srsltid=AfmBOoqno5fgZH1DJ4LtsgSkZpVWq9gatAHeaurM7x4If7sG4OoDpGsl
   descr: '[paid but at least one weight available free]'
@@ -309,6 +317,10 @@
     - wild
 - name: Parse Grotesk Mono
   url: https://archetype-foundry.com/parse-grotesk-mono
+- name: Perfin
+  url: https://www.colophon-foundry.org/typefaces/perfin
+  description: |
+    perforated lettering style
 - name: PF Das Grot Mono
   url: https://parachutefonts.com/typeface/Das-Grot-Mono
 - name: Pitch
@@ -411,6 +423,8 @@
     - wild
 - name: Tired of Courier
   url: http://ingrimayne.com/fonts2/typewriter.htm
+- name: Transcript Mono
+  url: https://www.colophon-foundry.org/typefaces/transcript-mono
 - name: Typewalk Mono 1915
   myfonts_url: https://www.myfonts.com/collections/typewalk-mono-1915-font-typocalypse
 - name: Typewriter Spool
@@ -426,6 +440,8 @@
   myfonts_url: https://www.myfonts.com/collections/unotype-font-monotype-imaging
 - name: Valentine
   url: https://legacy.lineto.com/The+Fonts/Font+Categories/Monospaced+Fonts/Valentine/
+- name: Velos Mono
+  url: https://scifipoetry.de/velos-mono/
 - name: Vidilex
   myfonts_url: https://www.myfonts.com/collections/vidilex-font-scriptorium
 - name: Vin Mono Pro

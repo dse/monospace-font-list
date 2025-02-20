@@ -239,7 +239,7 @@
 
 ## Paid
 
-181 typefaces listed here.
+188 typefaces listed here.
 
 -   [Adore Mono](https://garagefonts.com/font/adore-mono)
 -   [Aglet Mono](https://xyztype.com/fonts/aglet/aglet-mono)
@@ -250,6 +250,7 @@
     -   Notes:
         -   not related to damieng's free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
 -   [Antikor Mono](https://www.taf-studio.com/retail-fonts/antikor/)
+-   [Archive Grotesk Mono (AG Mono)](https://scifipoetry.de/archive-grotesk-mono/)
 -   [Arkibal Mono](https://elements.envato.com/arkibal-mono-F98DXM)
 -   [ASM](https://extratype.com/fonts/asm)
 -   [Andale Teletext](https://www.myfonts.com/collections/andale-teletext-font-monotype-imaging)
@@ -269,6 +270,7 @@
 -   [Bradford Mono](https://lineto.com/typefaces/bradford-mono)
 -   [Capibara Mono](https://www.boldmonday.com/typeface/capibara/)
 -   [Centima Mono](http://www.tipografiaramis.com/centima-mono.html)
+-   [Chromatic Mono](https://www.colophon-foundry.org/typefaces/chromatic-mono)
 -   [Circular Mono](https://lineto.com/typefaces/circular-mono)
 -   [Codo Mono](https://wearecolt.com/product/codo-mono/)
 -   [Colón Mono](http://www.tipografiaramis.com/coloacuten-mono.html)
@@ -334,10 +336,11 @@
 -   [GT Flexa Mono](https://www.grillitype.com/typeface/gt-flexa)
 -   [GT Pressura Mono](https://www.grillitype.com/typeface/gt-pressura)
 -   [Galexica Mono](http://ingrimayne.com/fonts2/typewriter.htm)
--   [Garton Mono](https://www.colophon-foundry.org/typefaces/garton)
+-   [Garton](https://www.colophon-foundry.org/typefaces/garton)
 -   [Gemeli Mono](https://productiontype.com/font/gemeli/gemeli-mono)
 -   [Greenwood](https://www.myfonts.com/collections/greenwood-font-protimient)
 -   [Gridlite](https://rosettatype.com/GridlitePE)
+-   [Guida Mono](https://www.colophon-foundry.org/typefaces/guida-mono)
 -   [HeartMatrixed](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Heimat Mono](https://www.myfonts.com/collections/heimat-mono-font-atlasfontfoundry)
 -   [Heptagroan](http://ingrimayne.com/fonts2/typewriter.htm)
@@ -377,6 +380,7 @@
 -   [Monoist](https://hanken.co/products/monoist)
     [paid but CHEAP]
 -   [Monosten](https://www.colophon-foundry.org/typefaces/monosten)
+-   [Monosten Stencil](https://www.colophon-foundry.org/typefaces/monosten-stencil)
 -   [Monostep](https://www.myfonts.com/collections/monostep-font-yokkmokk?srsltid=AfmBOoqno5fgZH1DJ4LtsgSkZpVWq9gatAHeaurM7x4If7sG4OoDpGsl)
     [paid but at least one weight available free]
 -   [Monotype Typewriter](https://www.myfonts.com/products/typewriter-complete-family-pack-package-432181)
@@ -403,6 +407,7 @@
 -   [Panama Monospace](https://www.featuredtype.com/typefaces/panama)
 -   [Panoptica](https://shinntype.com/panoptica-2/)
 -   [Parse Grotesk Mono](https://archetype-foundry.com/parse-grotesk-mono)
+-   [Perfin](https://www.colophon-foundry.org/typefaces/perfin)
 -   [PF Das Grot Mono](https://parachutefonts.com/typeface/Das-Grot-Mono)
 -   [Pitch](https://klim.co.nz/retail-fonts/pitch/)
     [old typewriter inspired]
@@ -451,6 +456,7 @@
 -   [Tezra Editor](https://commercialtype.com/catalog/terza_editor/)
 -   [The Future Mono](https://www.futurefonts.xyz/klim/the-future-mono)
 -   [Tired of Courier](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Transcript Mono](https://www.colophon-foundry.org/typefaces/transcript-mono)
 -   [Typewalk Mono 1915](https://www.myfonts.com/collections/typewalk-mono-1915-font-typocalypse)
 -   [Typewriter Spool](https://www.myfonts.com/collections/typewriter-spool-font-typodermic)
     -   Notes:
@@ -459,6 +465,7 @@
     [old-ish]
 -   [Unotype](https://www.myfonts.com/collections/unotype-font-monotype-imaging)
 -   [Valentine](https://legacy.lineto.com/The+Fonts/Font+Categories/Monospaced+Fonts/Valentine/)
+-   [Velos Mono](https://scifipoetry.de/velos-mono/)
 -   [Vidilex](https://www.myfonts.com/collections/vidilex-font-scriptorium)
 -   [Vin Mono Pro](https://www.myfonts.com/collections/vin-mono-pro-font-mint-type)
 -   [Vulf Mono](https://ohnotype.co/fonts/vulf)
