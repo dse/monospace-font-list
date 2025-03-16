@@ -1,4 +1,4 @@
-123 typefaces listed here.
+124 typefaces listed here.
 
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
 -   [Angelus III](https://www.myfonts.com/collections/angelus-iii-font-scriptorium)
@@ -67,6 +67,9 @@
 -   [Kosugi Maru](https://fonts.google.com/specimen/Kosugi+Maru)
 -   [Latin Modern Mono (based on Computer Modern Typewriter)](https://www.fontsquirrel.com/fonts/latin-modern-mono)
 -   [Lekton](https://fonts.google.com/specimen/Lekton)
+-   [Letter Gothic (URW)](https://ctan.org/tex-archive/fonts/urw/lettergothic)
+    -   Notes:
+        -   PostScript Type 1 font
 -   [Linux Libertine Mono](https://sourceforge.net/projects/linuxlibertine/)
 -   [Lovematrix](https://fontlibrary.org/en/font/dejavu-markup)
 -   LT Superior Mono
