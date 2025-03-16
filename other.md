@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-121 typefaces listed here.
+123 typefaces listed here.
 
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
 -   [Angelus III](https://www.myfonts.com/collections/angelus-iii-font-scriptorium)
@@ -64,6 +64,7 @@
     -   [behance](https://www.behance.net/gallery/142001915/Heming-Free-Variable-Font?locale=en_US)
     -   [uncut](https://uncut.wtf/monospace/heming/)
 -   [IBM Courier (Type 1)](https://gitlab.freedesktop.org/xorg/font/ibm-type1)
+-   [Isonorm Monospaced](https://fontsgeek.com/fonts/Isonorm-Monospaced-Regular)
 -   [KP Monospaced](https://tug.org/FontCatalogue/kpmonospaced/)
 -   [Kawkab Mono](https://makkuk.com/kawkab-mono/)
 -   [Kepler-452b](https://github.com/weirdoonthebus/Kepler-452b)
@@ -148,6 +149,7 @@
 -   [TLWG Fonts (TWLG Mono and TWLG Typo, Courier clones)](https://github.com/tlwg/fonts-tlwg/tree/master)
 -   [Topaz-8](https://fonts2u.com/topaz-8.font)
 -   [Toren aka Tenpo](https://github.com/eliheuer/tenpo)
+-   [TT2000](https://www.high-logic.com/fontcreator/manual15/recommendedglyphs.html)
 -   [Tye Paloon](https://online-fonts.com/fonts/tye-paloon)
 -   [Ume Gothic](https://usemodify.com/fonts/ume-fonts/)
 -   [Ume Mincho](https://usemodify.com/fonts/ume-fonts/)
@@ -160,7 +162,7 @@
 
 ## Paid
 
-201 typefaces listed here.
+223 typefaces listed here.
 
 -   [Adaptive Mono](https://www.psyops.com/adaptive-mono/)
 -   [Adore Mono](https://garagefonts.com/font/adore-mono)
@@ -201,18 +203,20 @@
 -   [Colón Mono](http://www.tipografiaramis.com/coloacuten-mono.html)
 -   [Concursico Mono BTN](https://www.youworkforthem.com/font/19425/concursico-mono-btn)
 -   [Coordinates](https://processtypefoundry.com/fonts/coordinates/)
--   [Courier EF](https://www.myfonts.com/collections/courier-b-font-elsner-flake)
+-   [Courier (Elsner+Flake)](https://www.myfonts.com/collections/courier-b-font-elsner-flake)
     by Elsner+Flake.
--   [Courier Line Draw](https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging)
+-   [Courier Line Draw (Monotype)](https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging)
     from Monotype.
--   [Courier M](https://www.myfonts.com/collections/courier-font-urw)
+-   [Courier M (URW)](https://www.myfonts.com/collections/courier-font-urw)
     by URW.
--   [Courier PS](https://www.myfonts.com/collections/courier-ps-font-monotype-imaging)
+-   [Courier PS (Monotype)](https://www.myfonts.com/collections/courier-ps-font-monotype-imaging)
     by Monotype.
--   [Courier SB](https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection)
+-   [Courier SB (Scangraphic Digital)](https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection)
     by Scangraphic Digital
+-   [Courier (ParaType)](https://www.fontspring.com/fonts/paratype/courier)
 -   [Courier Sans Mono](https://lineto.com/typefaces/courier-sans-mono)
     from Lineto.
+-   [Courier Std (Adobe)](https://www.fontspring.com/fonts/adobe/courier-std)
 -   [Cumberland](https://www.myfonts.com/collections/cumberland-font-monotype-imaging)
 -   [Cygnito Mono](https://www.myfonts.com/collections/cygnito-mono-pro-font-atk-studio)
 -   [DF Staple Mono](https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts)
@@ -230,6 +234,9 @@
 -   [EF Techno Script](https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake)
 -   [EF Thordis Sans Mono](https://www.myfonts.com/collections/thordis-mono-font-elsner-flake)
 -   [Elma Mono](https://www.typemates.com/fonts/elma)
+-   [Etelka Monospace Pro](https://www.derosacollections.fr/assets/fonts/01_raznoe/Etelka%20Monospace%20Pro/)
+    -   Notes:
+        -   Free for personal use.
 -   [Euclid Mono](https://www.swisstypefaces.com/lab/#Euclid%20Mono)
 -   [Excellent](https://lineto.com/typefaces/excellent)
 -   [Fabrikat Mono](https://www.hvdfonts.com/fonts/fabrikat-mono)
@@ -243,6 +250,8 @@
 -   [FF Magda Clean Mono](https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont)
 -   [FF Nexus Typewriter](https://www.myfonts.com/collections/nexus-typewriter-pro-font-martin-majoor)
 -   [FF Typestar OCR](https://www.myfonts.com/collections/ff-typestar-ocr-font-fontfont)
+-   [Formular](https://www.fontspring.com/fonts/brownfox/formular)
+-   [Foundation Mono (Courier)](https://www.fontspring.com/fonts/fontsite/foundation-mono)
 -   [Founders Grotesk Mono](https://klim.co.nz/retail-fonts/founders-grotesk-mono/)
 -   [Functor Mono](https://archetype-foundry.com/functor-mono)
 -   [GT Alpina Typewriter](https://www.grillitype.com/typeface/gt-alpina)
@@ -250,8 +259,9 @@
 -   [GT Flexa Mono](https://www.grillitype.com/typeface/gt-flexa)
 -   [GT Pressura Mono](https://www.grillitype.com/typeface/gt-pressura)
 -   [Galexica Mono](http://ingrimayne.com/fonts2/typewriter.htm)
--   [Geigi Mono](https://lineto.com/typefaces/geigy-mono)
 -   [Garton](https://www.colophon-foundry.org/typefaces/garton)
+-   [Geigi Mono](https://lineto.com/typefaces/geigy-mono)
+-   [Generisch Mono](https://www.fontspring.com/fonts/akufadhl/generisch-mono)
 -   [Gemeli Mono](https://productiontype.com/font/gemeli/gemeli-mono)
 -   [Greenwood](https://www.myfonts.com/collections/greenwood-font-protimient)
 -   [Grey Mono](https://lineto.com/typefaces/grey-mono)
@@ -272,6 +282,7 @@
 -   [Ivory Mono](https://lineto.com/typefaces/ivory-mono)
 -   [JetJane Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Jornada Mono](https://www.myfonts.com/collections/jornada-mono-font-monotype-imaging)
+-   [Joystix (video game)](https://www.fontspring.com/fonts/typodermic/joystix)
 -   [Karben 105 Mono](https://www.myfonts.com/collections/karben-105-mono-font-talbot-type)
 -   [Karben 205 Mono](https://www.myfonts.com/collections/karben-205-mono-font-talbot-type)
 -   [Karlisbad](http://ingrimayne.com/fonts2/typewriter.htm)
@@ -280,6 +291,8 @@
 -   [Knif Mono](https://aisforfonts.com/knif)
 -   [Larabiefont](https://typodermicfonts.com/larabiefont/)
 -   [Lettera Mono](https://lineto.com/typefaces/lettera-mono)
+-   [Letter Gothic ES (FontSite)](https://www.fontspring.com/fonts/fontsite/letter-gothic-fs)
+-   [Letter Gothic Std (Adobe)](https://www.fontspring.com/fonts/adobe/letter-gothic-std)
 -   [Linefeed](https://typodermicfonts.com/linefeed/)
 -   [LTC Remington Typewriter](https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company)
 -   [Mabry Mono](https://www.colophon-foundry.org/typefaces/mabry-mono/proofer)
@@ -289,6 +302,7 @@
 -   [Mitigate](https://typodermicfonts.com/mitigate/)
 -   [Mono Condensed](https://www.myfonts.com/collections/mono-condensed-font-paratype)
 -   [Monoela](https://www.myfonts.com/collections/monoela-font-interfont)
+-   [Monofonto](https://www.fontspring.com/fonts/typodermic/monofonto)
 -   [Monoist](https://hanken.co/products/monoist)
 -   [Monosten](https://www.colophon-foundry.org/typefaces/monosten)
 -   [Monosten Stencil](https://www.colophon-foundry.org/typefaces/monosten-stencil)
@@ -310,10 +324,15 @@
 -   [Name Mono](https://www.arrowtype.com/name-mono)
 -   [Neue Montreal Mono](https://pangrampangram.com/products/neue-montreal-mono)
 -   [Nice Weekend](https://www.myfonts.com/collections/nice-weekend-font-garagefonts)
+-   [URW Nimbus Sans Novus](https://www.fontspring.com/fonts/urw-type-foundry/urw-nimbus-sans-novus)
 -   [Nitti](https://www.boldmonday.com/typeface/nitti/)
 -   [Nudica Mono](https://www.atipofoundry.com/fonts/nudica-mono)
     -   Notes:
         -   One weight available free of cost.
+-   [OCR-A Std (Adobe)](https://www.fontspring.com/fonts/adobe/ocr-a-std)
+-   [OCR A (SoftMaker)](https://www.fontspring.com/fonts/softmaker/ocr-a)
+-   [OCR A (FontSite)](https://www.fontspring.com/fonts/fontsite/ocr-a)
+-   [OCR-B Std (Adobe)](https://www.fontspring.com/fonts/adobe/ocr-b-std)
 -   [OCRJ](https://www.myfonts.com/collections/ocrj-font-test-pilot-collective)
 -   [Odisseia](https://www.myfonts.com/collections/odisseia-font-niramekko)
 -   [Olive Green Mono](https://www.myfonts.com/collections/olive-green-mono-font-schriftgestaltung)
@@ -321,6 +340,8 @@
 -   [OPS Cubic](http://www.ourpolitesocietytype.net/fonts/ops-cubic/)
 -   [OPS Favorite](http://www.ourpolitesocietytype.net/fonts/ops-favorite/)
 -   [OPS Placard](http://www.ourpolitesocietytype.net/fonts/ops-placard/)
+-   [Orator FS (FontSite)](https://www.fontspring.com/fonts/fontsite/orator-fs)
+-   [Orator Std (Adobe)](https://www.fontspring.com/fonts/adobe/orator-std)
 -   [Panama Monospace](https://www.featuredtype.com/typefaces/panama)
 -   [Panoptica](https://shinntype.com/panoptica-2/)
 -   [Parse Grotesk Mono](https://archetype-foundry.com/parse-grotesk-mono)
@@ -331,11 +352,13 @@
 -   [Platelet](https://www.emigre.com/Fonts/Platelet)
 -   [Plotter Mono](https://www.typotheque.com/fonts/plotter-mono)
 -   [Polli Sans Mono](https://www.myfonts.com/collections/polli-sans-font-will-albin-clark)
+-   [Prestige Elite Std (Adobe)](https://www.fontspring.com/fonts/adobe/prestige-elite-std)
 -   [Prima Sans Mono](https://www.myfonts.com/collections/prima-sans-monospace-font-bitstream)
 -   [PTL Manual Mono](https://www.myfonts.com/collections/manual-mono-font-primetype)
 -   [PTL Notes Tec Mono](https://www.myfonts.com/collections/notes-tec-mono-font-primetype)
 -   [Quadraat Sans Mono](https://www.typeby.com/fonts/quadraat-sans-mono)
 -   [Rational TW](https://www.myfonts.com/collections/rational-tw-font-rene-bieder)
+-   [Realtime Rounded](https://www.fontspring.com/fonts/juri-zaech/realtime-rounded)
 -   [Recipient](https://processtypefoundry.com/fonts/recipient/)
 -   [Relative Mono](https://www.colophon-foundry.org/typefaces/relative-mono/opentype)
 -   [Replica Mono](https://lineto.com/typefaces/replica-mono)
@@ -368,6 +391,7 @@
 -   [Struct Mono](https://archetype-foundry.com/struct-mono)
 -   [Suisse Int'l Mono](https://www.swisstypefaces.com/fonts/suisse/#Int%E2%80%99l%20Mono)
 -   [Superstudio](https://lineto.com/typefaces/superstudio)
+-   [TT Norms Pro](https://www.fontspring.com/fonts/typetype/tt-norms-pro)
 -   [Tabulamore Script](https://tosche.net/fonts/tabulamore-script)
 -   [Teamhair](https://www.myfonts.com/collections/teamhair-font-evertype)
 -   [Telegramo](https://www.myfonts.com/collections/telegramo-font-volcano)
@@ -386,6 +410,7 @@
 -   [Valentine](https://lineto.com/typefaces/valentine)
     -   [secondary](https://legacy.lineto.com/The+Fonts/Font+Categories/Monospaced+Fonts/Valentine/)
 -   [Velos Mono](https://scifipoetry.de/velos-mono/)
+-   [Vida Mono32 Pro](https://www.stormtype.com/families/vida)
 -   [Vidilex](https://www.myfonts.com/collections/vidilex-font-scriptorium)
 -   [Vin Mono Pro](https://www.myfonts.com/collections/vin-mono-pro-font-mint-type)
 -   [VLNL TP Kurier](https://www.myfonts.com/collections/vlnl-tp-kurier-font-vetteletters)
@@ -393,4 +418,5 @@
 -   [WatchMaker](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Wire Type Mono](https://www.myfonts.com/collections/wire-type-mono-font-thomas-kading)
 -   [Wudoo Mono](https://www.myfonts.com/collections/wudoo-font-vishnu-sathyan)
+-   [Zeppelin 32 Mono](https://www.stormtype.com/typefaces/4151)
 

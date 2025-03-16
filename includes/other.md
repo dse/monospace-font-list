@@ -1,4 +1,4 @@
-121 typefaces listed here.
+123 typefaces listed here.
 
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
 -   [Angelus III](https://www.myfonts.com/collections/angelus-iii-font-scriptorium)
@@ -60,6 +60,7 @@
     -   [behance](https://www.behance.net/gallery/142001915/Heming-Free-Variable-Font?locale=en_US)
     -   [uncut](https://uncut.wtf/monospace/heming/)
 -   [IBM Courier (Type 1)](https://gitlab.freedesktop.org/xorg/font/ibm-type1)
+-   [Isonorm Monospaced](https://fontsgeek.com/fonts/Isonorm-Monospaced-Regular)
 -   [KP Monospaced](https://tug.org/FontCatalogue/kpmonospaced/)
 -   [Kawkab Mono](https://makkuk.com/kawkab-mono/)
 -   [Kepler-452b](https://github.com/weirdoonthebus/Kepler-452b)
@@ -144,6 +145,7 @@
 -   [TLWG Fonts (TWLG Mono and TWLG Typo, Courier clones)](https://github.com/tlwg/fonts-tlwg/tree/master)
 -   [Topaz-8](https://fonts2u.com/topaz-8.font)
 -   [Toren aka Tenpo](https://github.com/eliheuer/tenpo)
+-   [TT2000](https://www.high-logic.com/fontcreator/manual15/recommendedglyphs.html)
 -   [Tye Paloon](https://online-fonts.com/fonts/tye-paloon)
 -   [Ume Gothic](https://usemodify.com/fonts/ume-fonts/)
 -   [Ume Mincho](https://usemodify.com/fonts/ume-fonts/)

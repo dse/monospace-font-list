@@ -1,4 +1,4 @@
-213 typefaces listed here.
+218 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
 -   [3270font](https://github.com/rbanffy/3270font)
@@ -127,6 +127,11 @@
 -   [Haskplex](https://github.com/huytd/haskplex-font)
 -   [Hera Mono](https://github.com/sayyadirfanali/Hera)
 -   [Hermit](https://pcaro.es/hermit/)
+-   [HVDOSBox](https://download.cnet.com/hvdosbox-windows-terminal-fonts/3000-2094_4-10635163.html)
+    -   Notes:
+        -   .FON bitmap font for use with Windows
+-   HVRaster
+-   HVTerminal
 -   [IBM Fonts](https://farsil.github.io/ibmfonts/)
 -   [IBM Plex](https://www.ibm.com/plex/)
     -   Variants:
@@ -210,6 +215,9 @@
         -   look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
     -   [url\_2](https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera)
 -   [Openstep Mono](https://fontstruct.com/fontstructions/show/918633/openstep_mono)
+-   [Ormaxx](https://web.archive.org/web/20060715183153/http://www.ormaxx.ch/stuff.php?nummer=1)
+    -   Notes:
+        -   a set of fonts in BDF, PCF, and .FON for X11 and Windows
 -   [Overpass](https://overpassfont.org/)
 -   [Oxygen Mono](https://fonts.google.com/specimen/Oxygen+Mono)
 -   [Pet Me](https://www.kreativekorp.com/software/fonts/c64/)
@@ -253,6 +261,7 @@
 -   [Sudo](https://www.kutilek.de/sudo-font/)
 -   [Sun Gallant Demi](https://github.com/dim13/gallant)
     -   [download](https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf)
+-   [Sydnie](https://fontsgeek.com/fonts/Sydnie-Regular)
 -   [Tamsyn](http://www.fial.com/~scott/tamsyn-font/)
 -   [Tamzen](https://github.com/sunaku/tamzen-font)
 -   [Terminus](https://terminus-font.sourceforge.net/)

@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-213 typefaces listed here.
+218 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
 -   [3270font](https://github.com/rbanffy/3270font)
@@ -131,6 +131,11 @@
 -   [Haskplex](https://github.com/huytd/haskplex-font)
 -   [Hera Mono](https://github.com/sayyadirfanali/Hera)
 -   [Hermit](https://pcaro.es/hermit/)
+-   [HVDOSBox](https://download.cnet.com/hvdosbox-windows-terminal-fonts/3000-2094_4-10635163.html)
+    -   Notes:
+        -   .FON bitmap font for use with Windows
+-   HVRaster
+-   HVTerminal
 -   [IBM Fonts](https://farsil.github.io/ibmfonts/)
 -   [IBM Plex](https://www.ibm.com/plex/)
     -   Variants:
@@ -214,6 +219,9 @@
         -   look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
     -   [url\_2](https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera)
 -   [Openstep Mono](https://fontstruct.com/fontstructions/show/918633/openstep_mono)
+-   [Ormaxx](https://web.archive.org/web/20060715183153/http://www.ormaxx.ch/stuff.php?nummer=1)
+    -   Notes:
+        -   a set of fonts in BDF, PCF, and .FON for X11 and Windows
 -   [Overpass](https://overpassfont.org/)
 -   [Oxygen Mono](https://fonts.google.com/specimen/Oxygen+Mono)
 -   [Pet Me](https://www.kreativekorp.com/software/fonts/c64/)
@@ -257,6 +265,7 @@
 -   [Sudo](https://www.kutilek.de/sudo-font/)
 -   [Sun Gallant Demi](https://github.com/dim13/gallant)
     -   [download](https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf)
+-   [Sydnie](https://fontsgeek.com/fonts/Sydnie-Regular)
 -   [Tamsyn](http://www.fial.com/~scott/tamsyn-font/)
 -   [Tamzen](https://github.com/sunaku/tamzen-font)
 -   [Terminus](https://terminus-font.sourceforge.net/)
@@ -286,23 +295,32 @@
 
 ## Paid
 
-58 typefaces listed here.
+72 typefaces listed here.
 
+-   [0Arame Mono](https://www.fontspring.com/fonts/hitype/0arame-mono)
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
 -   [64-SRC](https://www.myfonts.com/fonts/ilott-type/64-src/)
+-   [Aeroport](https://www.fontspring.com/fonts/brownfox/aeroport)
 -   [Akkurat Mono](https://lineto.com/typefaces/akkurat-mono)
 -   [Adapter Mono](https://rosettatype.com/AdapterMonoPE)
 -   [Adelle Mono](https://www.type-together.com/adelle-mono-font)
+-   [Arazatí](https://www.fontspring.com/fonts/underground/arazati)
+    -   Notes:
+        -   digits are underlined
 -   [Arnold](https://www.futurefonts.xyz/rudiger/arnold)
 -   [Array Mono](https://jtdtype.com/typeface/Array)
 -   [Autocode](https://www.myfonts.com/collections/autocode-font-avp)
 -   [Autoscape](https://lineto.com/typefaces/autoscape)
 -   [Azo Mono](https://www.r-typography.com/fonts/azo-mono)
 -   [Ballinger Mono](https://signalfoundry.com/typefaces/ballinger-mono)
+-   [BB Manual Mono](https://www.fontspring.com/fonts/bold_studio/bb-manual-mono-pro)
 -   [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/)
 -   [Best Choice](https://dharmatype.com/best-choice)
 -   [Calling Code](https://dharmatype.com/calling-code)
+-   [Carot Mono](https://www.stormtype.com/families/carot-mono)
 -   [Cartograph CF](https://connary.com/cartograph.html)
+-   [Chainprinter](https://www.fontspring.com/fonts/typodermic/chainprinter)
+-   [Cinecav X](https://www.fontspring.com/fonts/typodermic/cinecav-x)
 -   [Circular Mono](https://lineto.com/typefaces/circular-mono)
 -   [Code Saver](https://dharmatype.com/code-saver)
 -   [Codelia](https://tosche.net/fonts/codelia)
@@ -326,13 +344,17 @@
 -   [GT Maru Mono](https://www.gt-maru.com/#monospaced)
 -   [Graebenbach](https://camelot-typefaces.com/graebenbach-mono)
 -   [Karl Mono](https://www.sourcetype.com/typefaces/4573/karl-mono)
+-   [Klamp 205](https://www.fontspring.com/fonts/talbot-type/klamp-205-mono)
 -   [Lab Grotesque Mono](https://lettersfromsweden.se/font/lab-grotesque-mono/)
 -   [Lexia Mono](https://www.daltonmaag.com/font-library/lexia-mono.html)
 -   [Logic Monospace](https://mckltype.com/logic-monospace)
 -   [Lucida Console](https://lucidafonts.com/collections/lucida-console)
 -   [MD IO](https://mass-driver.com/typefaces/md-io/)
 -   [MD System Mono](https://mass-driver.com/typefaces/md-system/)
+-   [Matahari Sans](https://www.fontspring.com/fonts/studio-sun/matahari-sans)
 -   [Matter Mono](https://displaay.net/typeface/matter-collection/matter-mono/)
+-   [Mingray Mono](https://www.fontspring.com/fonts/rekord/mingray-mono)
+-   [Monoflow](https://www.fontspring.com/fonts/finaltype/monoflow)
 -   [Monolisa](https://www.monolisa.dev/)
 -   [Montris Mono](https://www.r-typography.com/fonts/montris-mono?weight=737)
 -   [NT Bau Mono](https://nodotypefoundry.com/typefaces/nt-bau-mono/)
@@ -345,8 +367,11 @@
 -   [Senpai Coder](https://dharmatype.com/senpai-coder)
 -   [Simplon Mono](https://www.swisstypefaces.com/fonts/simplon/#Mono)
 -   [System85](https://www.colophon-foundry.org/typefaces/system85/glyphs)
+-   [TG Frekuent Mono](https://www.fontspring.com/fonts/tegami-type/tg-frekuent-mono)
 -   [TheSansMono](https://www.lucasfonts.com/fonts/the-sans-mono)
 -   [Triplicate](https://mbtype.com/fonts/triplicate/)
+-   [TT Autonomous](https://www.fontspring.com/fonts/typetype/tt-autonomous)
+-   [TT Interphases Pro](https://www.fontspring.com/fonts/typetype/tt-interphases-pro)
 -   [Vivala Code](https://www.myfonts.com/collections/vivala-code-font-johannes-hoffmann)
 -   [Xanti Mono](https://www.c-a-s-t.com/typefaces/xanti-typewriter/)
 -   [Zeitung Mono](https://underware.nl/fonts/zeitung_mono/)
