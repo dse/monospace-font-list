@@ -2,13 +2,14 @@
 
 ## Freely Available
 
-112 typefaces listed here.
+121 typefaces listed here.
 
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
 -   [Angelus III](https://www.myfonts.com/collections/angelus-iii-font-scriptorium)
 -   [Audimat Mono](https://www.fontsquirrel.com/fonts/audimat-mono)
     -   Notes:
         -   its designer [discourages](https://www.smeltery.net/en/fonts/dead) its use
+-   [Average Mono (Courier)](https://fontlibrary.org/en/font/average-mono)
 -   [Azeret Mono](https://displaay.net/typeface/azeret/azeret-mono/)
     -   [googlefonts](https://fonts.google.com/specimen/Azeret+Mono)
     -   [fontshare](https://www.fontshare.com/fonts/azeret-mono)
@@ -20,41 +21,22 @@
     -   Notes:
         -   also known as [Befunge](https://ermineii.github.io/befont.html)
 -   [Bino Mono](https://www.fontyukle.net/font/Bino-Mono)
+-   [Bitstream Courier 10 Pitch](https://gitlab.freedesktop.org/xorg/font/bitstream-type1)
+    -   Notes:
+        -   basis of Courier Code
 -   [BIZ UDMincho](https://fonts.google.com/specimen/BIZ+UDMincho)
     -   [microsoft](https://learn.microsoft.com/en-us/typography/font-list/biz-udmincho-medium)
     -   [uncut](https://uncut.wtf/monospace/biz-udmincho/)
 -   [BQN386](https://dzaima.github.io/BQN386/)
 -   [CATV 6x12 9](https://fontlibrary.org/en/font/catv-6x12-9)
+-   [CMU Typewriter (based on Computer Modern Typewriter)](https://fontlibrary.org/en/font/cmu-typewriter)
 -   [Compagnon](https://velvetyne.fr/fonts/compagnon/)
--   [Computer Modern Typewriter](https://en.wikipedia.org/wiki/Computer_Modern)
-    -   Notes:
-        -   -   `cmtt10` is Computer Modern Typewriter Text's font name from back in the day.
-                (or `cmtt8`, `9`, or `12`).
-            -   The [Latin Modern](https://www.gust.org.pl/projects/e-foundry/latin-modern)
-                fonts are the "standard in the TeX community" according to Wikipedia.
-                The typewriter fonts are `lmtt8`, `9`, `10`, and `12`.
-            -   The [Blue Sky](https://ctan.org/tex-archive/systems/mac/textures/fonts/Computer_Modern_PostScript?lang=en) Type 1 fonts may look better on computer screens.
-            -   [Computer Modern Unicode](https://cm-unicode.sourceforge.io/index.html)
-            -   [Latin Modern Mono] (GUST e-foundry)
-            -   See also:
-                -   [a visual comparison](https://en.wikipedia.org/wiki/Computer_Modern#MLModern)
-                -   [another comparison](https://tex.stackexchange.com/questions/656626/comparison-of-vector-fonts-of-computer-modern-variants)
-    -   Variants:
-        -   [CMU Typewriter](https://fontlibrary.org/en/font/cmu-typewriter)
-        -   [Latin Modern Mono](https://www.fontsquirrel.com/fonts/latin-modern-mono)
 -   [Computer Speak](https://fontlibrary.org/en/font/computer-speak)
 -   Courier
+-   [Courier Prime](https://quoteunquoteapps.com/courierprime/)
     -   Variants:
-        -   [Average Mono](https://fontlibrary.org/en/font/average-mono)
-        -   [Bitstream Courier 10 Pitch](https://gitlab.freedesktop.org/xorg/font/bitstream-type1)
-        -   [Courier Prime](https://quoteunquoteapps.com/courierprime/)
-            -   Variants:
-                        -   Courier Prime Sans
-                        -   Courier Prime Code
-        -   [GNU FreeMono](https://www.gnu.org/software/freefont/)
-        -   [IBM Courier](https://gitlab.freedesktop.org/xorg/font/ibm-type1)
-        -   [Nimbus Mono L](https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree)
-        -   [TeX Gyre Cursor](https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html)
+        -   Courier Prime Sans
+        -   Courier Prime Code
 -   [Crystal](http://www.povray.org/povlegal.html)
 -   [Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono)
 -   [DP Sans Mono](https://www.pgdp.net/wiki/DP_Sans_Mono)
@@ -77,13 +59,16 @@
 -   [Générale Mono](https://fontlibrary.org/en/font/generalemono)
 -   [Générale Station](https://www.tunera.xyz/fonts/generale-station/)
 -   [Glovis](https://fontsempire.com/font/glovis-download/)
+-   [GNU FreeMono (Courier)](https://www.gnu.org/software/freefont/)
 -   Heming
     -   [behance](https://www.behance.net/gallery/142001915/Heming-Free-Variable-Font?locale=en_US)
     -   [uncut](https://uncut.wtf/monospace/heming/)
+-   [IBM Courier (Type 1)](https://gitlab.freedesktop.org/xorg/font/ibm-type1)
 -   [KP Monospaced](https://tug.org/FontCatalogue/kpmonospaced/)
 -   [Kawkab Mono](https://makkuk.com/kawkab-mono/)
 -   [Kepler-452b](https://github.com/weirdoonthebus/Kepler-452b)
 -   [Kosugi Maru](https://fonts.google.com/specimen/Kosugi+Maru)
+-   [Latin Modern Mono (based on Computer Modern Typewriter)](https://www.fontsquirrel.com/fonts/latin-modern-mono)
 -   [Lekton](https://fonts.google.com/specimen/Lekton)
 -   [Linux Libertine Mono](https://sourceforge.net/projects/linuxlibertine/)
 -   [Lovematrix](https://fontlibrary.org/en/font/dejavu-markup)
@@ -108,6 +93,9 @@
     -   [uncut](https://uncut.wtf/monospace/monor/)
 -   [Monospace](https://www.fontspace.com/monospace-font-f13274)
 -   [Neep](http://nikolas.us.to/jmkfonts/)
+-   [Nimbus Mono L (Courier)](https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree)
+    -   Notes:
+        -   basis of TeX Gyre Cursor and GNU FreeMono
 -   [Normafixed](https://www.dafont.com/normafixed.font)
 -   [NotCourierSans](https://usemodify.com/fonts/notcouriersans/)
 -   [NuSans Mono](https://www.urbanfonts.com/fonts/Nu_Sans_Mono.font)
@@ -154,8 +142,10 @@
 -   [Telegrama](https://www.fontsquirrel.com/fonts/telegrama)
 -   [Telerysm Mono 2](https://www.smeltery.net/en/fonts/telerysm-mono-2)
 -   [Tewi](https://github.com/lucy/tewi-font)
+-   [TeX Gyre Cursor (Courier)](https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html)
 -   [Thermo](https://lineto.com/typefaces/thermo)
 -   [ThreeFourTwoTwo](https://fontlibrary.org/en/font/threefourtwotwo)
+-   [TLWG Fonts (TWLG Mono and TWLG Typo, Courier clones)](https://github.com/tlwg/fonts-tlwg/tree/master)
 -   [Topaz-8](https://fonts2u.com/topaz-8.font)
 -   [Toren aka Tenpo](https://github.com/eliheuer/tenpo)
 -   [Tye Paloon](https://online-fonts.com/fonts/tye-paloon)
@@ -170,7 +160,7 @@
 
 ## Paid
 
-202 typefaces listed here.
+201 typefaces listed here.
 
 -   [Adaptive Mono](https://www.psyops.com/adaptive-mono/)
 -   [Adore Mono](https://garagefonts.com/font/adore-mono)
@@ -223,14 +213,6 @@
     by Scangraphic Digital
 -   [Courier Sans Mono](https://lineto.com/typefaces/courier-sans-mono)
     from Lineto.
--   Courier
-    -   Variants:
-        -   [Courier EF](https://www.myfonts.com/collections/courier-b-font-elsner-flake)
-        -   [Courier Line Draw](https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging)
-        -   [Courier M](https://www.myfonts.com/collections/courier-font-urw)
-        -   [Courier PS](https://www.myfonts.com/collections/courier-ps-font-monotype-imaging)
-        -   [Courier SB](https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection)
-        -   [Courier Sans Mono](https://lineto.com/typefaces/courier-sans-mono)
 -   [Cumberland](https://www.myfonts.com/collections/cumberland-font-monotype-imaging)
 -   [Cygnito Mono](https://www.myfonts.com/collections/cygnito-mono-pro-font-atk-studio)
 -   [DF Staple Mono](https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts)
@@ -311,8 +293,12 @@
 -   [Monosten](https://www.colophon-foundry.org/typefaces/monosten)
 -   [Monosten Stencil](https://www.colophon-foundry.org/typefaces/monosten-stencil)
 -   [Monostep](https://www.myfonts.com/collections/monostep-font-yokkmokk?srsltid=AfmBOoqno5fgZH1DJ4LtsgSkZpVWq9gatAHeaurM7x4If7sG4OoDpGsl)
--   [Monotype Typewriter](https://www.myfonts.com/products/typewriter-complete-family-pack-package-432181)
+-   [Monotype Typewriter](https://www.myfonts.com/collections/typewriter-mt-inactive-font-monotype-imaging)
     two old-timeys and a sans-serif
+    -   Variants:
+        -   Typewriter Regular (old-timey)
+        -   Typewriter Elite (old-timey)
+        -   Typewriter Gothic (sans-serif)
 -   [MVB Fantabular](https://www.myfonts.com/collections/mvb-fantabular-font-mvb)
 -   [MVB Fantabular Sans](https://www.myfonts.com/collections/mvb-fantabular-sans-font-mvb)
     -   Variants:

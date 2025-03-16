@@ -1,4 +1,4 @@
-202 typefaces listed here.
+201 typefaces listed here.
 
 -   [Adaptive Mono](https://www.psyops.com/adaptive-mono/)
 -   [Adore Mono](https://garagefonts.com/font/adore-mono)
@@ -51,14 +51,6 @@
     by Scangraphic Digital
 -   [Courier Sans Mono](https://lineto.com/typefaces/courier-sans-mono)
     from Lineto.
--   Courier
-    -   Variants:
-        -   [Courier EF](https://www.myfonts.com/collections/courier-b-font-elsner-flake)
-        -   [Courier Line Draw](https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging)
-        -   [Courier M](https://www.myfonts.com/collections/courier-font-urw)
-        -   [Courier PS](https://www.myfonts.com/collections/courier-ps-font-monotype-imaging)
-        -   [Courier SB](https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection)
-        -   [Courier Sans Mono](https://lineto.com/typefaces/courier-sans-mono)
 -   [Cumberland](https://www.myfonts.com/collections/cumberland-font-monotype-imaging)
 -   [Cygnito Mono](https://www.myfonts.com/collections/cygnito-mono-pro-font-atk-studio)
 -   [DF Staple Mono](https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts)
@@ -139,8 +131,12 @@
 -   [Monosten](https://www.colophon-foundry.org/typefaces/monosten)
 -   [Monosten Stencil](https://www.colophon-foundry.org/typefaces/monosten-stencil)
 -   [Monostep](https://www.myfonts.com/collections/monostep-font-yokkmokk?srsltid=AfmBOoqno5fgZH1DJ4LtsgSkZpVWq9gatAHeaurM7x4If7sG4OoDpGsl)
--   [Monotype Typewriter](https://www.myfonts.com/products/typewriter-complete-family-pack-package-432181)
+-   [Monotype Typewriter](https://www.myfonts.com/collections/typewriter-mt-inactive-font-monotype-imaging)
     two old-timeys and a sans-serif
+    -   Variants:
+        -   Typewriter Regular (old-timey)
+        -   Typewriter Elite (old-timey)
+        -   Typewriter Gothic (sans-serif)
 -   [MVB Fantabular](https://www.myfonts.com/collections/mvb-fantabular-font-mvb)
 -   [MVB Fantabular Sans](https://www.myfonts.com/collections/mvb-fantabular-sans-font-mvb)
     -   Variants:

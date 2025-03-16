@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-212 typefaces listed here.
+213 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
 -   [3270font](https://github.com/rbanffy/3270font)
@@ -68,11 +68,8 @@
 -   [Consola Mono](https://fontlibrary.org/en/font/consolamono)
 -   [Conta](https://fontesk.com/conta-typeface/)
 -   [Corbi Mono S](https://fontlibrary.org/fr/font/corbi-mono-s)
--   Courier
-    -   Variants:
-        -   [Courier Code](https://fontlibrary.org/en/font/courier-code)
-        -   [Courier Prime](https://quoteunquoteapps.com/courierprime/)
-        -   [OG Courier](https://github.com/dse/font-og-courier)
+-   [Courier Code](https://fontlibrary.org/en/font/courier-code)
+-   [Courier Prime Code](https://quoteunquoteapps.com/courierprime/)
 -   [Cousine](https://fonts.google.com/specimen/Cousine)
 -   [Cozette](https://github.com/slavfox/Cozette)
 -   [CP Mono](https://github.com/chrissimpkins/codeface/tree/master/fonts/cp-mono)
