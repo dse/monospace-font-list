@@ -203,9 +203,6 @@
   dafont_url: https://www.dafont.com/mono-spatial.font
 - name: Monocto
   myfonts_url: https://www.myfonts.com/collections/monocto-font-lafonts
-- name: Monoflow
-  url: https://finaltype.de/en/projects/monoflow
-  description: '[paid with one weight free]'
 - name: Monofur
   dafont_url: https://www.dafont.com/monofur.font
 - name: Monor
@@ -214,11 +211,6 @@
   notes: might not actually be a monospace font :-(
 - name: Monospace
   url: https://www.fontspace.com/monospace-font-f13274
-- name: Monostep
-  myfonts_url: https://www.myfonts.com/collections/monostep-font-yokkmokk?srsltid=AfmBOoqno5fgZH1DJ4LtsgSkZpVWq9gatAHeaurM7x4If7sG4OoDpGsl
-  description: '[paid but at least one weight available free]'
-- name: Necto Mono
-  url: https://www.collletttivo.it/typefaces/necto-mono
 - name: Neep
   url: http://nikolas.us.to/jmkfonts/
 - name: Normafixed
@@ -287,7 +279,7 @@
   description: '[demo](https://localfonts.eu/freefonts/traditional-cyrillic-free-fonts/sabir-mono/)'
 - name: SaxMono
   dafont_url: https://www.dafont.com/saxmono.font
-- name: Selectric
+- name: Selectric (by atelierBek)
   source_url: https://github.com/atelierBek/selectric
   description: '[demo](https://usemodify.com/fonts/selectric/)'
 - name: Simple

@@ -9,7 +9,7 @@
   via: https://realdougwilson.com/writing/coding-with-character
 - name: Ahamono
   url: https://hanken.co/products/ahamono
-- name: Alto Mono
+- name: Alto Mono (Thiemich)
   url: https://www.typeby.com/fonts/alto-mono
   description: |-
     Thiemich's typeface
@@ -29,8 +29,6 @@
   url: https://extratype.com/fonts/asm
 - name: Andale Teletext
   myfonts_url: https://www.myfonts.com/collections/andale-teletext-font-monotype-imaging
-- name: Antikor Mono
-  url: https://www.taf-studio.com/retail-fonts/antikor/
 - name: Aperçu Mono
   url: https://www.colophon-foundry.org/typefaces/apercu-mono
 - name: Archive Mono
@@ -38,18 +36,12 @@
 - name: Arete Mono
   url: https://www.t26.com/fonts/325-Arete-Mono
   foundry: T26
-- name: Arkibal Mono
-  url: https://elements.envato.com/arkibal-mono-F98DXM
-- name: ASM
-  url: https://extratype.com/fonts/asm
 - name: Ascender Sans Mono
   myfonts_url: https://www.myfonts.com/collections/ascender-sans-mono-font-ascender-corp
 - name: Asty Monospaced
   url: https://www.fonts.gr/fonts/asty-monospaced
 - name: Atlas Typewriter
   url: https://commercialtype.com/catalog/atlas_typewriter
-- name: Autoscape
-  url: https://lineto.com/typefaces/autoscape
 - name: ITC Avant Garde Mono
   url: "https://www.fonts4ever.com/product_info.php?products_id=592&set=0"
   foundry: Elsner+Flake
@@ -81,8 +73,6 @@
   url: https://lineto.com/typefaces/brown-mono
 - name: Bodoni Egyptian Mono
   url: https://shinntype.com/bodoni-egyptian/
-- name: Bradford Mono
-  url: https://lineto.com/typefaces/bradford-mono
 - name: Capibara Mono
   url: https://www.boldmonday.com/typeface/capibara/
   tags:
@@ -95,8 +85,6 @@
     - monospace-version-of-known-font
 - name: Chromatic Mono
   url: https://www.colophon-foundry.org/typefaces/chromatic-mono
-- name: Circular Mono
-  url: https://lineto.com/typefaces/circular-mono
 - name: Codo Mono
   url: https://wearecolt.com/product/codo-mono/
 - name: Colón Mono
@@ -289,9 +277,6 @@
   description: '[one weight freely available]'
 - name: Knif Mono
   url: https://aisforfonts.com/knif
-- name: Larabiefont
-  url: https://typodermicfonts.com/larabiefont/
-  description: '[paid but regular is free]'
 - name: Lettera Mono
   url: https://lineto.com/typefaces/lettera-mono
 - name: Linefeed
@@ -313,9 +298,6 @@
   myfonts_url: https://www.myfonts.com/collections/mono-condensed-font-paratype
 - name: Monoela
   myfonts_url: https://www.myfonts.com/collections/monoela-font-interfont
-- name: Monoflow
-  url: https://finaltype.de/en/projects/monoflow
-  description: '[paid with one weight free]'
 - name: Monoist
   url: https://hanken.co/products/monoist
   description: '[paid but CHEAP]'

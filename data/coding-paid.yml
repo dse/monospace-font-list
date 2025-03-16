@@ -84,11 +84,7 @@
   foundry: Dalton Maag
 - name: Lucida Console
   url: https://lucidafonts.com/collections/lucida-console
-  description: '[but shipped with windows]'
-- name: Monolisa
-  url: https://www.monolisa.dev/
-  tags:
-  - recommended
+  description: '[paid but shipped with windows]'
 - name: GT Maru Mono
   url: https://www.gt-maru.com/#monospaced
 - name: Graebenbach
@@ -99,9 +95,6 @@
   url: https://lettersfromsweden.se/font/lab-grotesque-mono/
 - name: Logic Monospace
   url: https://mckltype.com/logic-monospace
-- name: Lucida Console
-  url: https://lucidafonts.com/collections/lucida-console
-  descr: '[but shipped with windows]'
 - name: MD IO
   url: https://mass-driver.com/typefaces/md-io/
 - name: MD System Mono
@@ -110,11 +103,12 @@
   url: https://displaay.net/typeface/matter-collection/matter-mono/
 - name: Monolisa
   url: https://www.monolisa.dev/
+  tags:
+  - recommended
 - name: Montris Mono
   url: https://www.r-typography.com/fonts/montris-mono?weight=737
 - name: NT Bau Mono
   url: https://nodotypefoundry.com/typefaces/nt-bau-mono/
->>>>>>> 04f4202d3df52f789c10eb21574ae4ff2104d27d
 - name: Native
   url: https://fortfoundry.com/fonts/native
   description: '[regular weight is free]'

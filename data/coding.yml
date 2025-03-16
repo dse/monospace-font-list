@@ -24,7 +24,7 @@
   fontlibrary_url: https://fontlibrary.org/en/font/acevedo
 - name: Agave
   url: https://b.agaric.net/page/agave
-- name: Alto Mono
+- name: Alto Mono (damieng)
   url: https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/
   description: |-
     damieng's bitmap font, based on the Xerox Alto, an early GUI workstation from 1973 
@@ -538,9 +538,6 @@
   url: https://www.bok.net/MonteCarlo/
 - name: Nanum Gothic Coding
   source_url: https://github.com/emersion/nanum-gothic-coding
-- name: Native
-  url: https://fortfoundry.com/fonts/native
-  description: paid typeface with a freely available regular weight
 - name: Natural Mono
   fontlibrary_url: https://fontlibrary.org/en/font/natural-mono
   description: |
@@ -676,7 +673,7 @@
   description: derived from Source Han Sans and Iosevka
 - name: SAX2 APL font
   url: https://abrudz.github.io/SAX2/
-- name: Selectric
+- name: Selectric (by Paradox 2005)
   url: https://www.dafont.com/selectric.font
 - name: Serious Shaans
   url: https://kabeech.github.io/serious-shanns/
