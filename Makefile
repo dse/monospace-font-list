@@ -30,3 +30,9 @@ other.md: $(MD_FILES)
 
 clean:
 	rm coding.md other.md $(MD_FILES) || true
+
+dupes: FORCE
+	grep --no-filename '^- name:' data/{coding,other}{,-paid}.yml | \
+		sort | uniq -c | sort -n | grep -v '^ *1 -'
+
+.PHONY: FORCE
