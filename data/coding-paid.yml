@@ -79,12 +79,6 @@
   url: https://connary.com/ellograph.html
 - name: Fakt Mono
   url: https://www.typeby.com/fonts/fakt-mono
-- name: Lexia Mono
-  url: https://www.daltonmaag.com/font-library/lexia-mono.html
-  foundry: Dalton Maag
-- name: Lucida Console
-  url: https://lucidafonts.com/collections/lucida-console
-  description: '[paid but shipped with windows]'
 - name: GT Maru Mono
   url: https://www.gt-maru.com/#monospaced
 - name: Graebenbach
@@ -93,8 +87,14 @@
   url: https://www.sourcetype.com/typefaces/4573/karl-mono
 - name: Lab Grotesque Mono
   url: https://lettersfromsweden.se/font/lab-grotesque-mono/
+- name: Lexia Mono
+  url: https://www.daltonmaag.com/font-library/lexia-mono.html
+  foundry: Dalton Maag
 - name: Logic Monospace
   url: https://mckltype.com/logic-monospace
+- name: Lucida Console
+  url: https://lucidafonts.com/collections/lucida-console
+  description: '[paid but shipped with windows]'
 - name: MD IO
   url: https://mass-driver.com/typefaces/md-io/
 - name: MD System Mono
