@@ -1,4 +1,7 @@
 ---
+- name: 0Arame Mono
+  url: https://www.fontspring.com/fonts/hitype/0arame-mono
+  coding: true
 - name: 1403 Vintage Mono
   url: https://1403.slantedhall.com/
   description: line printer inspired
@@ -9,12 +12,19 @@
   myfonts_url: https://www.myfonts.com/fonts/ilott-type/64-src/
   tags:
   - retro
+- name: Aeroport
+  url: https://www.fontspring.com/fonts/brownfox/aeroport
+  coding: true
 - name: Akkurat Mono
   url: https://lineto.com/typefaces/akkurat-mono
 - name: Adapter Mono
   url: https://rosettatype.com/AdapterMonoPE
 - name: Adelle Mono
   url: https://www.type-together.com/adelle-mono-font
+- name: Arazatí
+  url: https://www.fontspring.com/fonts/underground/arazati
+  notes: |
+    digits are underlined
 - name: Arnold
   url: https://www.futurefonts.xyz/rudiger/arnold
 - name: Array Mono
@@ -27,6 +37,9 @@
   url: https://www.r-typography.com/fonts/azo-mono
 - name: Ballinger Mono
   url: https://signalfoundry.com/typefaces/ballinger-mono
+- name: BB Manual Mono
+  url: https://www.fontspring.com/fonts/bold_studio/bb-manual-mono-pro
+  coding: true
 - name: Berkeley Mono
   url: https://berkeleygraphics.com/typefaces/berkeley-mono/
   description: OCR-B inspired
@@ -41,6 +54,12 @@
   via: https://davidawindham.com/fonts/ (indirectly)
 - name: Cartograph CF
   url: https://connary.com/cartograph.html
+- name: Chainprinter
+  url: https://www.fontspring.com/fonts/typodermic/chainprinter
+  coding: sort of
+- name: Cinecav X
+  url: https://www.fontspring.com/fonts/typodermic/cinecav-x
+  coding: true
 - name: Circular Mono
   url: https://lineto.com/typefaces/circular-mono
 - name: Code Saver
@@ -88,6 +107,9 @@
   url: https://camelot-typefaces.com/graebenbach-mono
 - name: Karl Mono
   url: https://www.sourcetype.com/typefaces/4573/karl-mono
+- name: Klamp 205
+  url: https://www.fontspring.com/fonts/talbot-type/klamp-205-mono
+  coding: true
 - name: Lab Grotesque Mono
   url: https://lettersfromsweden.se/font/lab-grotesque-mono/
 - name: Lexia Mono
@@ -102,8 +124,17 @@
   url: https://mass-driver.com/typefaces/md-io/
 - name: MD System Mono
   url: https://mass-driver.com/typefaces/md-system/
+- name: Matahari Sans
+  url: https://www.fontspring.com/fonts/studio-sun/matahari-sans
+  coding: true
 - name: Matter Mono
   url: https://displaay.net/typeface/matter-collection/matter-mono/
+- name: Mingray Mono
+  url: https://www.fontspring.com/fonts/rekord/mingray-mono
+  coding: true
+- name: Monoflow
+  url: https://www.fontspring.com/fonts/finaltype/monoflow
+  coding: true
 - name: Monolisa
   url: https://www.monolisa.dev/
   tags:
@@ -137,12 +168,21 @@
   url: https://www.swisstypefaces.com/fonts/simplon/#Mono
 - name: System85
   url: https://www.colophon-foundry.org/typefaces/system85/glyphs
+- name: TG Frekuent Mono
+  url: https://www.fontspring.com/fonts/tegami-type/tg-frekuent-mono
+  coding: true
 - name: TheSansMono
   url: https://www.lucasfonts.com/fonts/the-sans-mono
   description: used in some O'Reilly & Associates books
 - name: Triplicate
   url: https://mbtype.com/fonts/triplicate/
   description: includes a coding variant
+- name: TT Autonomous
+  url: https://www.fontspring.com/fonts/typetype/tt-autonomous
+  coding: true
+- name: TT Interphases Pro
+  url: https://www.fontspring.com/fonts/typetype/tt-interphases-pro
+  coding: true
 - name: Vivala Code
   myfonts_url: https://www.myfonts.com/collections/vivala-code-font-johannes-hoffmann
 - name: Xanti Mono
