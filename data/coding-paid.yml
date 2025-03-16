@@ -3,8 +3,8 @@
   url: https://1403.slantedhall.com/
   description: line printer inspired
   tags:
-  - retro
-  - line printer
+    - retro
+    - line printer
 - name: 64-SRC
   myfonts_url: https://www.myfonts.com/fonts/ilott-type/64-src/
   tags:
@@ -31,7 +31,7 @@
   url: https://berkeleygraphics.com/typefaces/berkeley-mono/
   description: OCR-B inspired
   tags:
-  - recommended
+    - recommended
 - name: Best Choice
   url: https://dharmatype.com/best-choice
 - name: Calling Code
@@ -64,7 +64,7 @@
 - name: Dank Mono
   url: https://philpl.gumroad.com/l/dank-mono
   tags:
-  - recommended
+    - recommended
 - name: Darkmode Mono
   url: https://www.daltonmaag.com/font-library/darkmode-mono.html
 - name: Debugger
@@ -104,7 +104,7 @@
 - name: Monolisa
   url: https://www.monolisa.dev/
   tags:
-  - recommended
+    - recommended
 - name: Montris Mono
   url: https://www.r-typography.com/fonts/montris-mono?weight=737
 - name: NT Bau Mono
@@ -115,9 +115,9 @@
 - name: Operator Mono
   url: https://typography.com/blog/introducing-operator
   tags:
-  - recommended
-  - ligatures
-  - true italic
+    - recommended
+    - ligatures
+    - true italic
 - name: Panel Mono
   url: https://pstypelab.com/panel-mono
 - name: Pentameter
@@ -125,7 +125,7 @@
 - name: Pragmata Pro
   url: https://fsd.it/shop/fonts/pragmatapro/
   tags:
-  - recommended
+    - recommended
 - name: Resolution
   myfonts_url: https://www.myfonts.com/collections/resolution-font-emil-kozole
 - name: Senpai Coder

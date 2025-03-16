@@ -118,7 +118,7 @@
   description: fonts that emulate popular LCD text display modules
   source_url: https://github.com/dse/display-module-fonts
   tags:
-  - my own
+    - my own
 - name: Doto Mono
   gfonts_url: https://fonts.google.com/specimen/Doto
 - name: Effects Eighty
@@ -242,7 +242,7 @@
   description: fonts that emulate the DEC LA100 (sans-serif) and LA120 (serif) dot-matrix printers
   source_url: https://github.com/dse/printer-dot-matrix-fonts
   tags:
-  - my own
+    - my own
 - name: Putintin
   fontlibrary_url: https://fontlibrary.org/en/font/putintin
   description: 'a font that translates Latin characters into Cyrillic characters and displays both.'

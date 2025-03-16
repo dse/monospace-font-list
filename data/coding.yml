@@ -9,10 +9,10 @@
   description: |
     Based on the archetypal IBM 3270 mainframe terminal.  Goes great with cool-retro-term.
   tags:
-  - retro
-  - mainframe
-  - terminal
-  - bitmap
+    - retro
+    - mainframe
+    - terminal
+    - bitmap
 - name: A+
   url: http://archive.vector.org.uk/resource/index.htm
   description: |
@@ -31,7 +31,7 @@
   notes: |-
     not related to Thiemich's paid [Alto Mono](https://www.typeby.com/fonts/alto-mono)
   tags:
-  - bitmap
+    - bitmap
 - name: Amazon Ember Mono
   url: https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography
   description: |-
@@ -53,21 +53,21 @@
   url: https://www.kreativekorp.com/software/fonts/trs80/
   description: 'the TRS-80 font family'
   tags:
-  - retro
-  - microcomputer
-  - TRS-80
+    - retro
+    - microcomputer
+    - TRS-80
 - name: APL2741
   url: https://apl385.com/fonts/
 - name: APL385
   url: https://apl385.com/fonts/
   description: 'slight Comic Sans vibe - use APL386 instead'
   tags:
-  - casual
+    - casual
 - name: APL386
   url: https://abrudz.github.io/APL386/
   description: 'slight Comic Sans vibe - based on APL385'
   tags:
-  - casual
+    - casual
 - name: APLX
   url: https://www.dyalog.com/aplx.htm
 - name: Arev
@@ -101,7 +101,7 @@
   description: |
     A thick bitmap coding font.
   tags:
-  - bitmap
+    - bitmap
 - name: Bmono
   source_url: https://github.com/NNBnh/bmono
   description: |
@@ -110,7 +110,7 @@
   source_url: https://github.com/marnen/borg-sans-mono
   description: Droid Sans Mono with ligatures and slashed zero
   tags:
-  - ligatures
+    - ligatures
 - name: BPmono
   url: https://backpacker.gr/fonts/5
 - name: BPtypewrite
@@ -127,17 +127,17 @@
 - name: Camingo Code
   url: https://janfromm.de/typefaces/camingocode/
   tags:
-  - recommended
+    - recommended
 - name: Canton Typewriter Bitmap
   description: a coding-friendly Latin-1 font inspired by Caxton
   source_url: https://github.com/dse/font-canton-typewriter-bitmap
   tags:
-  - my own
+    - my own
 - name: Cascadia Code
   source_url: https://github.com/microsoft/cascadia-code
   description: A fun coding font with a cursive italic, From Microsoft, the default font in Windows Terminal and now Visual Studio Code.
   tags:
-  - recommended
+    - recommended
 - name: Chivo Mono
   source_url: https://github.com/namesmt/chivo
   description: you probably want the Nerd Font linked from therein.
@@ -155,7 +155,7 @@
   notes: |-
     forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
   tags:
-  - casual
+    - casual
 - name: Comic Shaans
   github_url: https://github.com/shannpersand/comic-shanns
   notes: >-
@@ -192,7 +192,7 @@
 - name: Cousine
   gfonts_url: https://fonts.google.com/specimen/Cousine
   tags:
-  - recommended
+    - recommended
 - name: Cozette
   source_url: https://github.com/slavfox/Cozette
 - name: CP Mono
@@ -209,7 +209,7 @@
 - name: DaddyTimeMono
   source_url: https://github.com/BourgeoisBear/DaddyTimeMono
   tags:
-  - recommended
+    - recommended
 - name: Dave
   source_url: https://github.com/i-e-b/Dave
   description: A monospace programming font built for unambiguous legibility above all else
@@ -231,7 +231,7 @@
 - name: Dina Bitmap
   url: https://www.dcmembers.com/jibsen/download/61/
   tags:
-  - bitmap
+    - bitmap
 - name: Dina Font TTF
   source_url: https://github.com/zshoals/Dina-Font-TTF-Remastered
 - name: Drafting\* Mono
@@ -245,15 +245,15 @@
   description: an old-timey monospace typeface you might use for coding
   source_url: https://github.com/dse/dse-typewriter-font
   tags:
-  - my own
-  - old-timey
+    - my own
+    - old-timey
 - name: DSE Typewriter Bitmap
   description: an old-timey bitmap monospace typeface you might use for coding
   source_url: https://github.com/dse/dse-typewriter-bitmap-font
   tags:
-  - my own
-  - bitmap
-  - old-timey
+    - my own
+    - bitmap
+    - old-timey
 - name: Edlo
   source_url: https://github.com/ehamiter/Edlo
 - name: Envy Code B
@@ -267,7 +267,7 @@
   url: https://www.kreativekorp.com/software/fonts/fairfax/
   description: 'bitmap font, huge Unicode repertoire'
   tags:
-  - bitmap
+    - bitmap
 - name: Fairfax HD
   url: https://www.kreativekorp.com/software/fonts/fairfaxhd/
   description: 'scalable vector font, huge Unicode repertoire'
@@ -280,8 +280,8 @@
   notes: |-
     f/k/a Cosmic Sans Neue Mono
   tags:
-  - casual
-  - recommended
+    - casual
+    - recommended
 - name: Fifteen
   fontlibrary_url: https://fontlibrary.org/en/font/fifteen
   description: see also Quinze
@@ -289,13 +289,13 @@
   source_url: https://github.com/tonsky/FiraCode
   description: has ligatures
   tags:
-  - recommended
-  - ligatures
+    - recommended
+    - ligatures
 - name: Fira Cousine
   source_url: https://github.com/macduy/FiraCousine
   description: Cousine + Fira Code's punct marks and ligatures
   tags:
-  - ligatures
+    - ligatures
 - name: Fira Flott
   source_url: https://github.com/kosimst/FiraFlott
   description: |-
@@ -304,21 +304,21 @@
   source_url: https://github.com/mozilla/Fira
   description: from mozilla
   tags:
-  - recommended
+    - recommended
 - name: Fixedsys Excelsior
   source_url: https://github.com/kika/fixedsys
   tags:
-  - bitmap
-  - retro
-  - microcomputer
-  - Microsoft Windows
+    - bitmap
+    - retro
+    - microcomputer
+    - Microsoft Windows
 - name: Flexi IBM VGA
   url: https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/
   description: scalable version of IBM VGA font
   tags:
-  - retro
-  - microcomputer
-  - IBM PC
+    - retro
+    - microcomputer
+    - IBM PC
 - name: fn0t
   url: https://www.dafontfree.net/freefonts-fn0t-f99496.htm
 - name: Fragment Mono
@@ -330,7 +330,7 @@
   url: https://vercel.com/font
   description: includes a mono variant
   tags:
-  - recommended
+    - recommended
 - name: Generic Mono II
   source_url: https://github.com/organicplanning/hackedfonts
 - name: Gintronic
@@ -340,15 +340,15 @@
   description: |
     This VT220 font also pairs quite well with cool-retro-term.
   tags:
-  - retro
-  - terminal
-  - VT220
+    - retro
+    - terminal
+    - VT220
 - name: GNU Unifont
   url: https://unifoundry.com/unifont/
   description: |
     A bitmap font with quite extensive Unicode coverage.
   tags:
-  - bitmap
+    - bitmap
 - name: Go Mono
   url: https://go.dev/blog/go-fonts
 - name: Gohu
@@ -365,20 +365,20 @@
   url: https://sourcefoundry.org/hack/
   description: derived from Deja Vu Sans Mono
   tags:
-  - recommended
+    - recommended
 - name: Hasklig
   source_url: https://github.com/i-tu/Hasklig
   description: adds ligatures to Deja Vu derived typeface Hack
   tags:
-  - recommended
-  - ligatures
+    - recommended
+    - ligatures
 - name: Haskplex
   source_url: https://github.com/huytd/haskplex-font
   description: Hasklig + IBM Plex Mono
   tags:
-  - recommended
-  - ligatures
-  - true italic
+    - recommended
+    - ligatures
+    - true italic
 - name: Hera Mono
   source_url: https://github.com/sayyadirfanali/Hera
   description: mixture of glyphs from other monospace fonts
@@ -388,10 +388,10 @@
   url: https://farsil.github.io/ibmfonts/
   description: 'IBM system fonts in BDF format, derived from the [PX Plus](https://int10h.org/oldschool-pc-fonts/fontlist/) fonts'
   tags:
-  - bitmap
-  - retro
-  - microcomputer
-  - IBM PC
+    - bitmap
+    - retro
+    - microcomputer
+    - IBM PC
 - name: IBM Plex
   url: https://www.ibm.com/plex/
   description: |-
@@ -401,7 +401,7 @@
     -   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
     -   [Terminex](https://github.com/vsalvino/terminex) [free] derived from IBM Plex Mono
   tags:
-  - recommended
+    - recommended
 - name: Illinois Mono
   source_url: https://github.com/MadSimple/illinois-mono
   description: 'based on an interesting project called [Lexend](https://www.lexend.com/)'
@@ -419,37 +419,37 @@
     -   [Inconsolata Go](https://levien.com/type/myfonts/inconsolata/), Inconsolata author's alteration with straight quotes
     -   [Inconsolata LGC](https://github.com/DeLaGuardo/Inconsolata-LGC) - adds Cyrillic alphabet
   tags:
-  - recommended
+    - recommended
 - name: Input Mono
   url: https://input.djr.com/
   description: 'personal use free, public-facing use paid'
   tags:
-  - recommended
+    - recommended
 - name: Intel One Mono
   url: https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html
   description: |
     Intel is no exception to the "every company needs a custom font now" rule.
     This one gives off a line printer vibe.
   tags:
-  - recommended
+    - recommended
 - name: Iosevka
   url: https://typeof.net/Iosevka/
   variants: |-
     -   [Iosevka VardanPro](https://github.com/varp/VardanPro-Fonts)
   tags:
-  - recommended
+    - recommended
 - name: Jetbrains Mono
   url: https://www.jetbrains.com/lp/mono/
   tags:
-  - recommended
-  - ligatures
+    - recommended
+    - ligatures
 - name: Jozsika
   source_url: https://github.com/nilcons/jozsika
   description: 'a customized version of Iosevka'
 - name: Julia Mono
   url: https://juliamono.netlify.app/
   tags:
-  - recommended
+    - recommended
 - name: jxyahei
   source_url: https://github.com/zhenruyan/codefont/blob/master/readme_en.md
 - name: Karen
@@ -469,14 +469,14 @@
 - name: Liberation Mono
   source_url: https://github.com/liberationfonts/liberation-fonts
   tags:
-  - recommended
+    - recommended
 - name: Lilex
   source_url: https://github.com/mishamyrt/Lilex
 - name: Linux Console Fonts for Windows
   url: http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/
   description: in .TTF and .FON
   tags:
-  - bitmap
+    - bitmap
 - name: Linux Libertine
   url: https://sourceforge.net/projects/linuxlibertine/
   description: includes a mono variant
@@ -520,8 +520,8 @@
   url: https://monaspace.githubnext.com/
   description: superfamily
   tags:
-  - recommended
-  - true italic
+    - recommended
+    - true italic
 - name: Monego
   source_url: https://github.com/cseelus/monego
   description: monaco with bold and italic variants
@@ -569,23 +569,23 @@
         -   derived from Source Code Pro and Noto Sans JP.
         -   No significant changes other than mixing.
   tags:
-  - recommended
+    - recommended
 - name: Old School PC Fonts
   url: https://int10h.org/oldschool-pc-fonts/fontlist/
   notes: |-
     from which is derived [IBM Fonts](https://farsil.github.io/ibmfonts/)
   tags:
-  - retro
-  - microcomputer
-  - IBM PC
+    - retro
+    - microcomputer
+    - IBM PC
 - name: OpenGenera fonts
   url: https://archive.org/download/SymblicsOpenGenera
   notes: |-
     look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
   url_2_url: https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera
   tags:
-  - retro
-  - Symbolics
+    - retro
+    - Symbolics
 - name: Openstep Mono
   url: https://fontstruct.com/fontstructions/show/918633/openstep_mono
 - name: Overpass
@@ -596,33 +596,33 @@
   url: https://www.kreativekorp.com/software/fonts/c64/
   description: 'the Commodore VIC-20, C64, and C128 font family'
   tags:
-  - retro
-  - microcomputer
-  - PET
-  - VIC-20
-  - Commodore 64
-  - Commodore 128
+    - retro
+    - microcomputer
+    - PET
+    - VIC-20
+    - Commodore 64
+    - Commodore 128
 - name: Perfect DOS VGA fonts
   url: https://laemeur.sdf.org/fonts/
   description: 'includes Less Perfect, More Perfect, and Perfect'
   tags:
-  - retro
-  - microcomputer
-  - IBM PC
+    - retro
+    - microcomputer
+    - IBM PC
 - name: Pixel Carnage
   dafont_url: https://www.dafont.com/pixelcarnage.d870
 - name: Pointfree
   dafont_url: https://www.dafont.com/pointfree.font
   description: if you like Comic Sans and are not a hater
   tags:
-  - casual
+    - casual
 - name: Print Char 21 and PR Number 3
   url: https://www.kreativekorp.com/software/fonts/apple2/
   description: 'the Apple II fonts'
   tags:
-  - retro
-  - microcomputer
-  - Apple II
+    - retro
+    - microcomputer
+    - Apple II
 - name: Profont
   url: https://tobiasjung.name/profont/
 - name: Proggy Fonts
@@ -653,9 +653,9 @@
   variants: |-
     -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
   tags:
-  - casual
-  - recommended
-  - true italic
+    - casual
+    - recommended
+    - true italic
 - name: Reddit Mono
   gfonts_url: https://fonts.google.com/specimen/Reddit+Mono
 - name: Red Hat Mono
@@ -679,7 +679,7 @@
   url: https://kabeech.github.io/serious-shanns/
   description: if you like Comic Sans
   tags:
-  - casual
+    - casual
   notes: >-
     Based on Comic Mono, with legibility enhancements and a lighter weight.
 - name: Server Mono
@@ -688,7 +688,7 @@
   url: https://developer.apple.com/fonts/
   description: '[free]'
   tags:
-  - recommended
+    - recommended
 - name: SGI Screen
   url: https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/
   description: |-
@@ -697,27 +697,27 @@
     -   also [bitmaps](https://www.gnome-look.org/p/998527/)
     -   also https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
   tags:
-  - bitmap
+    - bitmap
 - name: Share Tech Mono
   gfonts_url: https://fonts.google.com/specimen/Share+Tech+Mono
 - name: Sometype Mono
   url: https://monospacedfont.com/
   source_url: https://github.com/dharmatype/Sometype-Mono
   tags:
-  - recommended
+    - recommended
 - name: Sono
   url: https://usemodify.com/fonts/sono/
 - name: Source Code Pro
   source_url: https://github.com/adobe-fonts/source-code-pro
   description: from adobe
   tags:
-  - recommended
+    - recommended
 - name: Space Mono
   gfonts_url: https://fonts.google.com/specimen/Space+Mono
 - name: Spleen
   url: https://www.cambus.net/spleen-monospaced-bitmap-fonts/
   tags:
-  - bitmap
+    - bitmap
 - name: Spline Sans Mono
   gfonts_url: https://fonts.google.com/specimen/Spline+Sans+Mono
 - name: String Literal 437
@@ -728,12 +728,12 @@
   source_url: https://github.com/dim13/gallant
   download_url: https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf
   tags:
-  - bitmap
+    - bitmap
 - name: Tamsyn
   url: http://www.fial.com/~scott/tamsyn-font/
   description: bitmap-only
   tags:
-  - bitmap
+    - bitmap
 - name: Tamzen
   source_url: https://github.com/sunaku/tamzen-font
   description: 'tamsyn in ttf, other formats'
@@ -753,13 +753,13 @@
 - name: TT2020
   url: https://copypaste.wtf/TT2020/docs/
   tags:
-  - old-timey
+    - old-timey
 - name: TXTT
   url: https://tug.org/FontCatalogue/txtt/
 - name: Ubuntu Monospace
   url: https://design.ubuntu.com/font
   tags:
-  - recommended
+    - recommended
 - name: Unix-originated terminal fonts for Windows
   url: http://christian.lestrade.free.fr/fonts.html
   description: |-
@@ -767,8 +767,8 @@
 - name: Unix PC 3B1
   source_url: https://github.com/brandon-rhodes/unixpc-font-bdf
   tags:
-  - bitmap
-  - Unix
+    - bitmap
+    - Unix
 - name: UNSCII
   url: http://viznut.fi/unscii/
 - name: VCR OSD Mono
@@ -778,15 +778,15 @@
 - name: Victor Mono
   source_url: https://github.com/rubjo/victor-mono
   tags:
-  - recommended
-  - true italic
+    - recommended
+    - true italic
 - name: VT323
   source_url: https://github.com/phoikoi/VT323
   tags:
-  - retro
-  - terminal
-  - bitmap
-  - VT323
+    - retro
+    - terminal
+    - bitmap
+    - VT323
 - name: WenQuanYi Black
   url: http://wenq.org/wqy2/index.cgi?FontGuide#_4
   description: '[chinese]'
@@ -809,10 +809,10 @@
     -   Sony Fixed
     -   Type 1 of Bitstream Courier
   tags:
-  - retro
-  - Unix
-  - X Window System
-  - bitmap
+    - retro
+    - Unix
+    - X Window System
+    - bitmap
 - name: Zed Mono
   source_url: https://github.com/zed-industries/zed-fonts
   description: 'based on Iosevka'
