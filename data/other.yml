@@ -8,6 +8,9 @@
   fontsquirrel_url: https://www.fontsquirrel.com/fonts/audimat-mono
   notes: |-
     its designer [discourages](https://www.smeltery.net/en/fonts/dead) its use
+- name: Average Mono (Courier)
+  fontlibrary_url: https://fontlibrary.org/en/font/average-mono
+  description: an "average" of 13 variants of Courier.
 - name: Azeret Mono
   uncut_url: https://uncut.wtf/monospace/azeret-mono/
   fontshare_url: https://www.fontshare.com/fonts/azeret-mono
@@ -27,6 +30,11 @@
     also known as [Befunge](https://ermineii.github.io/befont.html)
 - name: Bino Mono
   url: https://www.fontyukle.net/font/Bino-Mono
+- name: Bitstream Courier 10 Pitch
+  url: https://gitlab.freedesktop.org/xorg/font/bitstream-type1
+  description: 'distributed in Type 1 format with X11.'
+  notes:
+    - basis of Courier Code
 - name: BIZ UDMincho
   uncut_url: https://uncut.wtf/monospace/biz-udmincho/
   gfonts_url: https://fonts.google.com/specimen/BIZ+UDMincho
@@ -36,69 +44,25 @@
   description: '[apl]'
 - name: CATV 6x12 9
   fontlibrary_url: https://fontlibrary.org/en/font/catv-6x12-9
+- name: CMU Typewriter (based on Computer Modern Typewriter)
+  url: https://fontlibrary.org/en/font/cmu-typewriter
+  url_2: https://github.com/chrissimpkins/codeface/tree/master/fonts/cmu-typewriter
 - name: Compagnon
   url: https://velvetyne.fr/fonts/compagnon/
   description: old-timey inspired
-- name: Computer Modern Typewriter
-  url: https://en.wikipedia.org/wiki/Computer_Modern
-  description: |
-    Computer Modern Typewriter Text is one of the many parameteric fonts
-    based on Dr. Donald Knuth's Computer Modern, which he developed
-    while writing an entire typesetting system called TeX during a
-    sabbatical.
-
-    The fonts are available to everyone for free, but any modified versions,
-    including simply porting the fonts to other formats, cannot be called
-    Computer Modern, hence why the variants' names listed below differ.
-  variants:
-    - name: CMU Typewriter
-      url: https://fontlibrary.org/en/font/cmu-typewriter
-      url_2: https://github.com/chrissimpkins/codeface/tree/master/fonts/cmu-typewriter
-    - name: Latin Modern Mono
-      url: https://www.fontsquirrel.com/fonts/latin-modern-mono
-  notes: |
-    -   `cmtt10` is Computer Modern Typewriter Text's font name from back in the day.
-        (or `cmtt8`, `9`, or `12`).
-    -   The [Latin Modern](https://www.gust.org.pl/projects/e-foundry/latin-modern)
-        fonts are the "standard in the TeX community" according to Wikipedia.
-        The typewriter fonts are `lmtt8`, `9`, `10`, and `12`.
-    -   The [Blue Sky](https://ctan.org/tex-archive/systems/mac/textures/fonts/Computer_Modern_PostScript?lang=en) Type 1 fonts may look better on computer screens.
-    -   [Computer Modern Unicode](https://cm-unicode.sourceforge.io/index.html)
-    -   [Latin Modern Mono] (GUST e-foundry)
-    -   See also:
-        -   [a visual comparison](https://en.wikipedia.org/wiki/Computer_Modern#MLModern)
-        -   [another comparison](https://tex.stackexchange.com/questions/656626/comparison-of-vector-fonts-of-computer-modern-variants)
 - name: Computer Speak
   fontlibrary_url: https://fontlibrary.org/en/font/computer-speak
 - name: Courier
   variants:
-    - name: Average Mono
-      fontlibrary_url: https://fontlibrary.org/en/font/average-mono
-      description: an "average" of 13 variants of Courier.
-    - name: Bitstream Courier 10 Pitch
-      url: https://gitlab.freedesktop.org/xorg/font/bitstream-type1
-      description: 'distributed in Type 1 format with X11.'
-    - name: Courier Prime
-      url: https://quoteunquoteapps.com/courierprime/
-      description: |-
-        a variant with an italic designed for screenwriters
-      variants:
-        - name: Courier Prime Sans
-          description: is a sans-serif variant
-        - name: Courier Prime Code
-          description: a sans-serif variant with coding features
-    - name: GNU FreeMono
-      url: https://www.gnu.org/software/freefont/
-      description: is derived from Nimbus Mono.
-    - name: IBM Courier
-      url: https://gitlab.freedesktop.org/xorg/font/ibm-type1
-      description: 'distributed in Type 1 format with X11.'
-    - name: Nimbus Mono L
-      url: https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree
-      description: "is URW++'s Courier clone, distributed with Ghostscript."
-    - name: TeX Gyre Cursor
-      url: https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html
-      description: 'adds Vietnamese glyphs, etc. to Nimbus Mono.'
+- name: Courier Prime
+  url: https://quoteunquoteapps.com/courierprime/
+  description: |-
+    a variant with an italic designed for screenwriters
+  variants:
+    - name: Courier Prime Sans
+      description: is a sans-serif variant
+    - name: Courier Prime Code
+      description: a sans-serif variant with coding features
 - name: Crystal
   url: http://www.povray.org/povlegal.html
   description: (via <https://www.lowing.org/fonts/>)
@@ -159,9 +123,15 @@
 - name: Glovis
   url: https://fontsempire.com/font/glovis-download/
   description: italic old-timey
+- name: GNU FreeMono (Courier)
+  url: https://www.gnu.org/software/freefont/
+  description: is derived from Nimbus Mono.
 - name: Heming
   uncut_url: https://uncut.wtf/monospace/heming/
   behance_url: https://www.behance.net/gallery/142001915/Heming-Free-Variable-Font?locale=en_US
+- name: IBM Courier (Type 1)
+  url: https://gitlab.freedesktop.org/xorg/font/ibm-type1
+  description: 'distributed in Type 1 format with X11.'
 - name: KP Monospaced
   url: https://tug.org/FontCatalogue/kpmonospaced/
 - name: Kawkab Mono
@@ -171,6 +141,8 @@
   source_url: https://github.com/weirdoonthebus/Kepler-452b
 - name: Kosugi Maru
   gfonts_url: https://fonts.google.com/specimen/Kosugi+Maru
+- name: Latin Modern Mono (based on Computer Modern Typewriter)
+  url: https://www.fontsquirrel.com/fonts/latin-modern-mono
 - name: Lekton
   gfonts_url: https://fonts.google.com/specimen/Lekton
 - name: Linux Libertine Mono
@@ -210,6 +182,11 @@
   url: https://www.fontspace.com/monospace-font-f13274
 - name: Neep
   url: http://nikolas.us.to/jmkfonts/
+- name: Nimbus Mono L (Courier)
+  url: https://git.ghostscript.com/?p=urw-core35-fonts.git;a=tree
+  description: "is URW++'s Courier clone, distributed with Ghostscript."
+  notes:
+    - basis of TeX Gyre Cursor and GNU FreeMono
 - name: Normafixed
   dafont_url: https://www.dafont.com/normafixed.font
 - name: NotCourierSans
@@ -316,12 +293,17 @@
   url: https://www.smeltery.net/en/fonts/telerysm-mono-2
 - name: Tewi
   source_url: https://github.com/lucy/tewi-font
+- name: TeX Gyre Cursor (Courier)
+  url: https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html
+  description: 'adds Vietnamese glyphs, etc. to Nimbus Mono.'
 - name: Thermo
   url: https://lineto.com/typefaces/thermo
   description: '[display]'
 - name: ThreeFourTwoTwo
   fontlibrary_url: https://fontlibrary.org/en/font/threefourtwotwo
   description: based on an old LED display
+- name: TLWG Fonts (TWLG Mono and TWLG Typo, Courier clones)
+  url: https://github.com/tlwg/fonts-tlwg/tree/master
 - name: Topaz-8
   fonts2u_url: https://fonts2u.com/topaz-8.font
   description: recreation of an Amiga font

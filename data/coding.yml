@@ -176,19 +176,12 @@
 - name: Corbi Mono S
   fontlibrary_url: https://fontlibrary.org/fr/font/corbi-mono-s
   description: Libertinus Mono with a slashed zero by default
-- name: Courier
-  variants:
-    - name: Courier Code
-      fontlibrary_url: https://fontlibrary.org/en/font/courier-code
-      description: based on Bitstream Courier 10 Pitch v2.0
-    - name: Courier Prime
-      url: https://quoteunquoteapps.com/courierprime/
-      description: 'includes Courier Prime Code, a sans-serif with coding features'
-    - name: OG Courier
-      description: work in progress.  Based on IBM's Type 1 version of Courier donated to X Consortium, with coding features.
-      source_url: https://github.com/dse/font-og-courier
-      tags:
-      - my own
+- name: Courier Code
+  fontlibrary_url: https://fontlibrary.org/en/font/courier-code
+  description: based on Bitstream Courier 10 Pitch v2.0
+- name: Courier Prime Code
+  url: https://quoteunquoteapps.com/courierprime/
+  description: one of the Courier Prime fonts
 - name: Cousine
   gfonts_url: https://fonts.google.com/specimen/Cousine
   tags:
