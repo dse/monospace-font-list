@@ -148,6 +148,10 @@
   url: https://www.fontsquirrel.com/fonts/latin-modern-mono
 - name: Lekton
   gfonts_url: https://fonts.google.com/specimen/Lekton
+- name: Letter Gothic (URW)
+  url: https://ctan.org/tex-archive/fonts/urw/lettergothic
+  notes: |
+    PostScript Type 1 font
 - name: Linux Libertine Mono
   url: https://sourceforge.net/projects/linuxlibertine/
 - name: Lovematrix

@@ -4,6 +4,8 @@
   foundry: PSY/Ops
 - name: Adore Mono
   url: https://garagefonts.com/font/adore-mono
+- name: Adverb Mono
+  url: https://www.myfonts.com/collections/adverb-mono-font-rumors-foundry
 - name: Aglet Mono
   url: https://xyztype.com/fonts/aglet/aglet-mono
   via: https://realdougwilson.com/writing/coding-with-character
@@ -285,11 +287,17 @@
   url: https://www.fontspring.com/fonts/fontsite/letter-gothic-fs
 - name: Letter Gothic Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/letter-gothic-std
+- name: Letter Gothic 12 Pitch (Bitstream)
+  url: https://www.myfonts.com/collections/letter-gothic-font-bitstream
+- name: FF Letter Gothic Mono
+  url: https://www.myfonts.com/collections/letter-gothic-mono-font-fontfont
 - name: Linefeed
   url: https://typodermicfonts.com/linefeed/
   description: '[line printer inspired]'
 - name: LTC Remington Typewriter
   myfonts_url: https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company
+- name: Lucida Sans Typewriter (Monotype)
+  url: https://www.myfonts.com/collections/lucida-sans-typewriter-font-monotype-imaging
 - name: Mabry Mono
   url: https://www.colophon-foundry.org/typefaces/mabry-mono/proofer
 - name: Maison Mono
@@ -353,15 +361,41 @@
 - name: OCR-A Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/ocr-a-std
   coding: sort of
-- name: OCR A (SoftMaker)
+- name: OCR-A (SoftMaker)
   url: https://www.fontspring.com/fonts/softmaker/ocr-a
   coding: sort of
-- name: OCR A (FontSite)
+- name: OCR-A EF (Elsner+Flake)
+  url: https://www.myfonts.com/collections/ocra-font-elsner-flake
+- name: OCR-A (FontSite)
   url: https://www.fontspring.com/fonts/fontsite/ocr-a
   coding: sort of
+- name: OCR-A (Bitstream)
+  url: https://www.myfonts.com/collections/ocr-a-font-bitstream
+- name: OCR-A M (URW)
+  url: https://www.myfonts.com/collections/ocra-font-urw
+- name: OCR-A Extended (Monotype)
+  url: https://www.myfonts.com/collections/ocr-a-extended-font-monotype-imaging
+- name: OCR-A (Linotype)
+  url: https://www.myfonts.com/collections/ocr-a-inactive-font-linotype
+- name: OCR-A EF Pro (Elsner+Flake)
+  url: https://www.myfonts.com/collections/ocr-a-ef-pro-font-elsner-flake
+- name: OCR-A AI (Apply Interactive)
+  url: https://www.myfonts.com/collections/ocr-a-ai-font-apply-interactive
 - name: OCR-B Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/ocr-b-std
   coding: sort of
+- name: OCR-B (Bitstream)
+  url: https://www.myfonts.com/collections/ocr-b-font-bitstream
+- name: OCR-B (Linotype)
+  url: https://www.myfonts.com/collections/ocr-b-2-font-linotype
+- name: OCR-B SB (Scangraphic Digital)
+  url: https://www.myfonts.com/collections/ocr-b-sb-font-scangraphic-digital-type-collection
+- name: OCR-B Letterpress M (URW)
+  url: https://www.myfonts.com/collections/ocr-b-letterpress-font-urw
+- name: OCR-B (Tilde)
+  url: https://www.myfonts.com/collections/ocr-b-10-font-tilde
+- name: OCR-B EF (Elsner+Flake)
+  url: https://www.myfonts.com/collections/ocr-b-font-elsner-flake
 - name: OCRJ
   myfonts_url: https://www.myfonts.com/collections/ocrj-font-test-pilot-collective
 - name: Odisseia
@@ -378,6 +412,10 @@
   url: http://www.ourpolitesocietytype.net/fonts/ops-favorite/
 - name: OPS Placard
   url: http://www.ourpolitesocietytype.net/fonts/ops-placard/
+- name: Orator Pitch (Bitstream)
+  url: https://www.myfonts.com/products/10-pitch-orator-434431
+- name: Orator 15 Pitch (Bitstream)
+  url: https://www.myfonts.com/products/15-pitch-orator-434436
 - name: Orator FS (FontSite)
   url: https://www.fontspring.com/fonts/fontsite/orator-fs
 - name: Orator Std (Adobe)
