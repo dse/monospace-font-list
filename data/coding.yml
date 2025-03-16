@@ -377,6 +377,15 @@
   description: mixture of glyphs from other monospace fonts
 - name: Hermit
   url: https://pcaro.es/hermit/
+- name: HVDOSBox
+  url: https://download.cnet.com/hvdosbox-windows-terminal-fonts/3000-2094_4-10635163.html
+  notes: |
+    .FON bitmap font for use with Windows
+  via: https://davidawindham.com/fonts/
+- name: HVRaster
+  via: https://davidawindham.com/fonts/
+- name: HVTerminal
+  via: https://davidawindham.com/fonts/
 - name: IBM Fonts
   url: https://farsil.github.io/ibmfonts/
   description: 'IBM system fonts in BDF format, derived from the [PX Plus](https://int10h.org/oldschool-pc-fonts/fontlist/) fonts'
@@ -581,6 +590,11 @@
     - Symbolics
 - name: Openstep Mono
   url: https://fontstruct.com/fontstructions/show/918633/openstep_mono
+- name: Ormaxx
+  url: https://web.archive.org/web/20060715183153/http://www.ormaxx.ch/stuff.php?nummer=1
+  notes: |
+    a set of fonts in BDF, PCF, and .FON for X11 and Windows
+  via: https://davidawindham.com/fonts/
 - name: Overpass
   url: https://overpassfont.org/
 - name: Oxygen Mono
@@ -722,6 +736,9 @@
   download_url: https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf
   tags:
     - bitmap
+- name: Sydnie
+  url: https://fontsgeek.com/fonts/Sydnie-Regular
+  via: https://davidawindham.com/fonts/
 - name: Tamsyn
   url: http://www.fial.com/~scott/tamsyn-font/
   description: bitmap-only

@@ -147,6 +147,11 @@
   foundry: Elsner+Flake
 - name: Elma Mono
   url: https://www.typemates.com/fonts/elma
+- name: Etelka Monospace Pro
+  url: https://www.derosacollections.fr/assets/fonts/01_raznoe/Etelka%20Monospace%20Pro/
+  notes: |
+    Free for personal use.
+  via: https://davidawindham.com/fonts/ (indirectly)
 - name: Euclid Mono
   url: https://www.swisstypefaces.com/lab/#Euclid%20Mono
 - name: Excellent
@@ -502,6 +507,9 @@
   secondary_url: https://legacy.lineto.com/The+Fonts/Font+Categories/Monospaced+Fonts/Valentine/
 - name: Velos Mono
   url: https://scifipoetry.de/velos-mono/
+- name: Vida Mono32 Pro
+  url: https://www.stormtype.com/families/vida
+  via: https://davidawindham.com/fonts/ (indirectly)
 - name: Vidilex
   myfonts_url: https://www.myfonts.com/collections/vidilex-font-scriptorium
 - name: Vin Mono Pro
@@ -517,3 +525,6 @@
   myfonts_url: https://www.myfonts.com/collections/wire-type-mono-font-thomas-kading
 - name: Wudoo Mono
   myfonts_url: https://www.myfonts.com/collections/wudoo-font-vishnu-sathyan
+- name: Zeppelin 32 Mono
+  url: https://www.stormtype.com/typefaces/4151
+  via: https://davidawindham.com/fonts/ (indirectly)

@@ -132,6 +132,9 @@
 - name: IBM Courier (Type 1)
   url: https://gitlab.freedesktop.org/xorg/font/ibm-type1
   description: 'distributed in Type 1 format with X11.'
+- name: Isonorm Monospaced
+  url: https://fontsgeek.com/fonts/Isonorm-Monospaced-Regular
+  via: https://davidawindham.com/fonts/
 - name: KP Monospaced
   url: https://tug.org/FontCatalogue/kpmonospaced/
 - name: Kawkab Mono
