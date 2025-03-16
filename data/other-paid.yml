@@ -277,6 +277,9 @@
   description: '[one weight freely available]'
 - name: Knif Mono
   url: https://aisforfonts.com/knif
+- name: Larabiefont
+  url: https://typodermicfonts.com/larabiefont/
+  description: '[paid but regular is free]'
 - name: Lettera Mono
   url: https://lineto.com/typefaces/lettera-mono
 - name: Linefeed

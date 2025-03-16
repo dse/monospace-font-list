@@ -171,9 +171,6 @@
   source_url: https://github.com/weirdoonthebus/Kepler-452b
 - name: Kosugi Maru
   gfonts_url: https://fonts.google.com/specimen/Kosugi+Maru
-- name: Larabiefont
-  url: https://typodermicfonts.com/larabiefont/
-  description: '[paid but regular is free]'
 - name: Lekton
   gfonts_url: https://fonts.google.com/specimen/Lekton
 - name: Linux Libertine Mono
