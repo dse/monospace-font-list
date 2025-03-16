@@ -80,6 +80,10 @@
     vision before cataract surgery, and he created one.
 - name: Atarist
   source_url: https://github.com/ntwk/atarist-font
+- name: Atkinson Hyperlegible Mono
+  url: https://www.brailleinstitute.org/freefont/
+  notes: |
+    Designed for people with visual impairments.
 - name: AudioLink Mono
   url: https://audiolink.dev/
   description: and AudioLink Console
@@ -115,6 +119,8 @@
   source_url: https://github.com/fonsecapeter/brass_mono
   description: |
     "A free retro monospaced font inspired by 20th century electrical and mechanical design"
+  notes:
+    - Do you like Routed Gothic?
 - name: Brutalist Mono
   source_url: https://github.com/BRUTALISM/Brutalist
   description: derived from Deja Vu Sans Mono
@@ -135,6 +141,11 @@
 - name: Chivo Mono
   source_url: https://github.com/namesmt/chivo
   description: you probably want the Nerd Font linked from therein.
+  descr: you probably want the Nerd Font linked from therein.
+- name: Classic Console Neue
+  url: https://webdraft.eu/fonts/classic-console/
+  notes: >-
+    8x16 bitmap IBM style font
 - name: Code New Roman
   dafont_url: https://www.dafont.com/code-new-roman.font
 - name: Comic Mono
@@ -145,6 +156,14 @@
     forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
   tags:
   - casual
+- name: Comic Shaans
+  github_url: https://github.com/shannpersand/comic-shanns
+  notes: >-
+    V2 released with support for accented characters, math symbols, and other symbols.
+- name: Comic Shaans Mono
+  github_url: https://github.com/jesusmgg/comic-shanns-mono
+  notes: >-
+    Based on Comic Shaans v2 with metrics adjusted and even more additional characters.
 - name: Commit Mono
   url: https://commitmono.com/
   description: |
@@ -152,6 +171,8 @@
     Has a "Smart Kerning" feature, similar to 0xProto's "Texture Healing".
 - name: Consola Mono
   fontlibrary_url: https://fontlibrary.org/en/font/consolamono
+- name: Conta
+  url: https://fontesk.com/conta-typeface/
 - name: Corbi Mono S
   fontlibrary_url: https://fontlibrary.org/fr/font/corbi-mono-s
   description: Libertinus Mono with a slashed zero by default
@@ -204,6 +225,9 @@
   url: https://dejavu-fonts.github.io/
   notes: |-
     based on [Bitstream Vera Fonts](https://download.gnome.org/sources/ttf-bitstream-vera/1.10/)
+- name: Departure Mono
+  url: https://departuremono.com/
+  github_url: https://github.com/rektdeckard/departure-mono
 - name: Dina Bitmap
   url: https://www.dcmembers.com/jibsen/download/61/
   tags:
@@ -485,6 +509,10 @@
   source_url: https://github.com/davelab6/metrickal-typeface
 - name: Meyrin CERN
   source_url: https://github.com/optional-is/Meyrin
+- name: Miracode
+  github_url: https://github.com/IdreesInc/Miracode
+  notes:
+    - vectorized version of Monocraft, the Minecraft font
 - name: mnicmp
   fontlibrary_url: https://fontlibrary.org/en/font/mnicmp
   description: based on the 7-pin DECwriter II printer
@@ -528,6 +556,8 @@
 - name: Noto Fonts
   source_url: https://github.com/notofonts
   description: includes Noto Sans Mono
+- name: Nova Mono
+  gfonts_url: https://fonts.google.com/specimen/Nova+Mono
 - name: Ocodo Mono
   source_url: https://github.com/ocodo/ocodo-mono
   description: early work in progress
@@ -653,6 +683,8 @@
   description: if you like Comic Sans
   tags:
   - casual
+  notes: >-
+    Based on Comic Mono, with legibility enhancements and a lighter weight.
 - name: Server Mono
   url: https://servermono.com/
 - name: SF Mono

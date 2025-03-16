@@ -11,10 +11,22 @@
   - retro
 - name: Akkurat Mono
   url: https://lineto.com/typefaces/akkurat-mono
+- name: Adapter Mono
+  url: https://rosettatype.com/AdapterMonoPE
+- name: Adelle Mono
+  url: https://www.type-together.com/adelle-mono-font
+- name: Arnold
+  url: https://www.futurefonts.xyz/rudiger/arnold
+- name: Array Mono
+  url: https://jtdtype.com/typeface/Array
 - name: Autocode
   myfonts_url: https://www.myfonts.com/collections/autocode-font-avp
 - name: Autoscape
   url: https://lineto.com/typefaces/autoscape
+- name: Azo Mono
+  url: https://www.r-typography.com/fonts/azo-mono
+- name: Ballinger Mono
+  url: https://signalfoundry.com/typefaces/ballinger-mono
 - name: Berkeley Mono
   url: https://berkeleygraphics.com/typefaces/berkeley-mono/
   description: OCR-B inspired
@@ -36,6 +48,17 @@
   url: http://fonts.4thfebruary.com.ua/codename-coder-4f/
 - name: Comic Code
   url: https://tosche.net/fonts/comic-code
+- name: Consolas
+  source_url: https://www.lucasfonts.com/fonts/consolas/
+  url: https://learn.microsoft.com/en-us/typography/font-list/consolas
+  myfonts_url: https://www.myfonts.com/collections/consolas-font-microsoft-corporation
+  designer: Luc(as) de Groot
+  foundry: Microsoft Corporation
+  publisher: Microsoft Corporation
+  notes:
+    - bundled with Windows
+- name: Covik Sans Mono
+  url: https://ohnotype.co/fonts/covik
 - name: Cubiculum
   myfonts_url: https://www.myfonts.com/collections/cubiculum-font-johan-winge
 - name: Dank Mono
@@ -46,6 +69,10 @@
   url: https://www.daltonmaag.com/font-library/darkmode-mono.html
 - name: Debugger
   url: https://dharmatype.com/debugger
+- name: Degular Mono
+  url: https://ohnotype.co/fonts/degular
+- name: Dico
+  url: https://www.boldmonday.com/typeface/dico/
 - name: Eco Coding
   myfonts_url: https://www.myfonts.com/collections/eco-coding-font-s-core
 - name: Ellograph
@@ -62,6 +89,32 @@
   url: https://www.monolisa.dev/
   tags:
   - recommended
+- name: GT Maru Mono
+  url: https://www.gt-maru.com/#monospaced
+- name: Graebenbach
+  url: https://camelot-typefaces.com/graebenbach-mono
+- name: Karl Mono
+  url: https://www.sourcetype.com/typefaces/4573/karl-mono
+- name: Lab Grotesque Mono
+  url: https://lettersfromsweden.se/font/lab-grotesque-mono/
+- name: Logic Monospace
+  url: https://mckltype.com/logic-monospace
+- name: Lucida Console
+  url: https://lucidafonts.com/collections/lucida-console
+  descr: '[but shipped with windows]'
+- name: MD IO
+  url: https://mass-driver.com/typefaces/md-io/
+- name: MD System Mono
+  url: https://mass-driver.com/typefaces/md-system/
+- name: Matter Mono
+  url: https://displaay.net/typeface/matter-collection/matter-mono/
+- name: Monolisa
+  url: https://www.monolisa.dev/
+- name: Montris Mono
+  url: https://www.r-typography.com/fonts/montris-mono?weight=737
+- name: NT Bau Mono
+  url: https://nodotypefoundry.com/typefaces/nt-bau-mono/
+>>>>>>> 04f4202d3df52f789c10eb21574ae4ff2104d27d
 - name: Native
   url: https://fortfoundry.com/fonts/native
   description: '[regular weight is free]'
@@ -71,6 +124,10 @@
   - recommended
   - ligatures
   - true italic
+- name: Panel Mono
+  url: https://pstypelab.com/panel-mono
+- name: Pentameter
+  url: https://occupantfonts.com/fonts/pentameter/
 - name: Pragmata Pro
   url: https://fsd.it/shop/fonts/pragmatapro/
   tags:
@@ -79,6 +136,10 @@
   myfonts_url: https://www.myfonts.com/collections/resolution-font-emil-kozole
 - name: Senpai Coder
   url: https://dharmatype.com/senpai-coder
+- name: Simplon Mono
+  url: https://www.swisstypefaces.com/fonts/simplon/#Mono
+- name: System85
+  url: https://www.colophon-foundry.org/typefaces/system85/glyphs
 - name: TheSansMono
   url: https://www.lucasfonts.com/fonts/the-sans-mono
   description: used in some O'Reilly & Associates books
@@ -87,3 +148,7 @@
   description: includes a coding variant
 - name: Vivala Code
   myfonts_url: https://www.myfonts.com/collections/vivala-code-font-johannes-hoffmann
+- name: Xanti Mono
+  url: https://www.c-a-s-t.com/typefaces/xanti-typewriter/
+- name: Zeitung Mono
+  url: https://underware.nl/fonts/zeitung_mono/
