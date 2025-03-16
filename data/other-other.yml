@@ -2,9 +2,6 @@
 - name: Average Mono
   fontlibrary_url: https://fontlibrary.org/en/font/average-mono
   description: an "average" of 13 variants of Courier.
-- name: IBM Courier
-  url: https://gitlab.freedesktop.org/xorg/font/ibm-type1
-  description: 'distributed in Type 1 format with X11.'
 - name: Bitstream Courier 10 Pitch
   url: https://gitlab.freedesktop.org/xorg/font/bitstream-type1
   description: |-
@@ -68,6 +65,9 @@
 - name: FF Elementa
   myfonts_url: https://www.myfonts.com/collections/elementa-pro-font-fontfont
   description: '[old]'
+- name: IBM Courier
+  url: https://gitlab.freedesktop.org/xorg/font/ibm-type1
+  description: 'distributed in Type 1 format with X11.'
 - name: Typist Slab Mono
   myfonts_url: https://www.myfonts.com/collections/typist-slab-font-vanderkeur
   description: '[old-ish]'

@@ -19,6 +19,10 @@
   url: https://www.taf-studio.com/retail-fonts/antikor/
 - name: Archive Grotesk Mono (AG Mono)
   url: https://scifipoetry.de/archive-grotesk-mono/
+- name: Arial Monospaced
+  myfonts_url: https://www.myfonts.com/collections/arial-font-monotype-imaging
+  tags:
+    - monospace-version-of-known-font
 - name: Arkibal Mono
   url: https://elements.envato.com/arkibal-mono-F98DXM
 - name: ASM
@@ -75,8 +79,6 @@
   url: https://lineto.com/typefaces/bradford-mono
 - name: Brown Mono
   url: https://lineto.com/typefaces/brown-mono
-- name: Centima Mono
-  url: http://www.tipografiaramis.com/centima-mono.html
 - name: Bodoni Egyptian Mono
   url: https://shinntype.com/bodoni-egyptian/
 - name: Bradford Mono
@@ -87,6 +89,10 @@
     - wild
 - name: Centima Mono
   url: http://www.tipografiaramis.com/centima-mono.html
+- name: Century Schoolbook Monospace
+  myfonts_url: https://www.myfonts.com/products/century-schoolbook-monospaced-10058-century-schoolbook-435037
+  tags:
+    - monospace-version-of-known-font
 - name: Chromatic Mono
   url: https://www.colophon-foundry.org/typefaces/chromatic-mono
 - name: Circular Mono
@@ -199,7 +205,7 @@
   foundry: FontFont
 - name: FF Magda Clean Mono
   myfonts_url: https://www.myfonts.com/collections/ff-magda-clean-mono-font-fontfont
-- name: Nexus Typewriter
+- name: FF Nexus Typewriter
   myfonts_url: https://www.myfonts.com/collections/nexus-typewriter-pro-font-martin-majoor
 - name: FF Typestar OCR
   myfonts_url: https://www.myfonts.com/collections/ff-typestar-ocr-font-fontfont
@@ -237,6 +243,14 @@
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Heimat Mono
   myfonts_url: https://www.myfonts.com/collections/heimat-mono-font-atlasfontfoundry
+- name: Helvetica
+  description: |-
+    has the following monospace variants:
+    -   [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono) - based on URW Nimbus Sans, a Helvetica clone
+    -   [Helvetica Monospaced](https://www.myfonts.com/collections/helvetica-monospaced-font-linotype)
+    -   [Monospace 821](https://www.myfonts.com/collections/monospace-821-font-bitstream)
+  tags:
+    - monospace-version-of-known-font
 - name: Heptagroan
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Hyperfont
@@ -370,6 +384,10 @@
     perforated lettering style
 - name: PF Das Grot Mono
   url: https://parachutefonts.com/typeface/Das-Grot-Mono
+- name: PF DIN Monospaced
+  url: https://parachutefonts.com/typeface/DIN-Monospace
+  tags:
+    - monospace-version-of-known-font
 - name: Pitch
   url: https://klim.co.nz/retail-fonts/pitch/
   description: '[old typewriter inspired]'
@@ -453,6 +471,10 @@
   myfonts_url: https://www.myfonts.com/collections/smith-premier-nf-font-nicks-fonts
   tagged:
     old-timey: true
+- name: ITC Souvenir Monospaced
+  myfonts_url: https://www.myfonts.com/collections/souvenir-monospaced-font-itc
+  tags:
+    - monospace-version-of-known-font
 - name: Spot Mono
   url: https://www.schick-toikka.com/spot-mono
 - name: Struct Mono
@@ -493,6 +515,17 @@
   description: '[old-ish]'
 - name: Unica77 Mono
   url: https://lineto.com/typefaces/unica77-mono
+  tags:
+    - monospace-version-of-known-font
+- name: Univers Next Typewriter
+  description: |-
+    includes the following:
+    -   [430 Regular](https://www.myfonts.com/products/typewriter-pro-430-regular-3-univers-next-356583)
+    -   [431 Italic](https://www.myfonts.com/products/pro-431-typewriter-italic-univers-next-356590)
+    -   [630 Bold](https://www.myfonts.com/products/pro-630-typewriter-bold-univers-next-356596)
+    -   [631 Bold Italic](https://www.myfonts.com/products/pro-631-typewriter-bold-italic-univers-next-356600)
+  tags:
+    - monospace-version-of-known-font
 - name: Unotype
   myfonts_url: https://www.myfonts.com/collections/unotype-font-monotype-imaging
 - name: Valentine
@@ -504,6 +537,8 @@
   myfonts_url: https://www.myfonts.com/collections/vidilex-font-scriptorium
 - name: Vin Mono Pro
   myfonts_url: https://www.myfonts.com/collections/vin-mono-pro-font-mint-type
+- name: VLNL TP Kurier
+  myfonts_url: https://www.myfonts.com/collections/vlnl-tp-kurier-font-vetteletters
 - name: Vulf Mono
   url: https://ohnotype.co/fonts/vulf
   via: https://realdougwilson.com/writing/coding-with-character
@@ -513,28 +548,3 @@
   myfonts_url: https://www.myfonts.com/collections/wire-type-mono-font-thomas-kading
 - name: Wudoo Mono
   myfonts_url: https://www.myfonts.com/collections/wudoo-font-vishnu-sathyan
-- name: VLNL TP Kurier
-  myfonts_url: https://www.myfonts.com/collections/vlnl-tp-kurier-font-vetteletters
-- name: Arial Monospaced
-  myfonts_url: https://www.myfonts.com/collections/arial-font-monotype-imaging
-- name: Century Schoolbook Monospace
-  myfonts_url: https://www.myfonts.com/products/century-schoolbook-monospaced-10058-century-schoolbook-435037
-- name: PF DIN Monospaced
-  url: https://parachutefonts.com/typeface/DIN-Monospace
-- name: ITC Souvenir Monospaced
-  myfonts_url: https://www.myfonts.com/collections/souvenir-monospaced-font-itc
-- name: Univers Next Typewriter
-  description: |-
-    includes the following:
-    -   [430 Regular](https://www.myfonts.com/products/typewriter-pro-430-regular-3-univers-next-356583)
-    -   [431 Italic](https://www.myfonts.com/products/pro-431-typewriter-italic-univers-next-356590)
-    -   [630 Bold](https://www.myfonts.com/products/pro-630-typewriter-bold-univers-next-356596)
-    -   [631 Bold Italic](https://www.myfonts.com/products/pro-631-typewriter-bold-italic-univers-next-356600)
-- name: Helvetica
-  description: |-
-    has the following monospace variants:
-    -   [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono) - based on URW Nimbus Sans, a Helvetica clone
-    -   [Helvetica Monospaced](https://www.myfonts.com/collections/helvetica-monospaced-font-linotype)
-    -   [Monospace 821](https://www.myfonts.com/collections/monospace-821-font-bitstream)
-- name: Unica77 Mono
-  url: https://lineto.com/typefaces/unica77-mono
