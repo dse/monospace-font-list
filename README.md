@@ -28,6 +28,14 @@ I am [not including grungy fonts](./grungy.md).
 Send an email to dsembry AT SIGN gmail PERIOD com if you know of any
 I've missed.  Or submit a patch or pull request.
 
+## Notes
+
+**FREE** means free of cost.  Not necessarily FOSS.
+
+**CODING** means it has at least the **bare** minimum of coding
+features: distinguished digit zero and upper case O, and distinguished
+digit one and lower case L.
+
 ## Icon Fonts
 
 Just in case you want some impossibly fancy shell prompts.
