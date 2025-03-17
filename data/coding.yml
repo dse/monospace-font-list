@@ -598,6 +598,8 @@
 - name: Tamzen
   source_url: https://github.com/sunaku/tamzen-font
   description: 'tamsyn in ttf, other formats'
+- name: Terminal Land Mono
+  github_url: https://github.com/neatnik/terminal-land-mono
 - name: Terminus
   url: https://terminus-font.sourceforge.net/
 - name: Termsyn
