@@ -5,13 +5,10 @@
 - name: 1403 Vintage Mono
   url: https://1403.slantedhall.com/
   description: line printer inspired
-  tags:
-    - retro
-    - line printer
 - name: 64-SRC
   myfonts_url: https://www.myfonts.com/fonts/ilott-type/64-src/
-  tags:
-  - retro
+- name: Adelle Mono
+  url: https://www.myfonts.com/collections/adelle-mono-font-type-together
 - name: Aeroport
   url: https://www.fontspring.com/fonts/brownfox/aeroport
   coding: true
@@ -21,6 +18,13 @@
   url: https://rosettatype.com/AdapterMonoPE
 - name: Adelle Mono
   url: https://www.type-together.com/adelle-mono-font
+- name: Almarena Mono
+  url: https://www.myfonts.com/collections/almarena-mono-font-almarena
+  notes: |
+    This is confusing.  So, Almarena Mono is a family of eight fonts.
+    Four are proportional; four are actual monospace.
+    The monospace variants are the ones with "FW" in the name,
+    meaning "fixed width".
 - name: Arazatí
   url: https://www.fontspring.com/fonts/underground/arazati
   notes: |
@@ -29,6 +33,10 @@
   url: https://www.futurefonts.xyz/rudiger/arnold
 - name: Array Mono
   url: https://jtdtype.com/typeface/Array
+- name: ASM
+  url: https://www.myfonts.com/collections/asm-font-textaxis
+- name: ATC Harris
+  url: https://www.myfonts.com/collections/atc-harris-font-avondale-type-co
 - name: Autocode
   myfonts_url: https://www.myfonts.com/collections/autocode-font-avp
 - name: Autoscape
@@ -43,8 +51,6 @@
 - name: Berkeley Mono
   url: https://berkeleygraphics.com/typefaces/berkeley-mono/
   description: OCR-B inspired
-  tags:
-    - recommended
 - name: Best Choice
   url: https://dharmatype.com/best-choice
 - name: Calling Code
@@ -85,8 +91,6 @@
   myfonts_url: https://www.myfonts.com/collections/cubiculum-font-johan-winge
 - name: Dank Mono
   url: https://philpl.gumroad.com/l/dank-mono
-  tags:
-    - recommended
 - name: Darkmode Mono
   url: https://www.daltonmaag.com/font-library/darkmode-mono.html
 - name: Debugger
@@ -95,6 +99,8 @@
   url: https://ohnotype.co/fonts/degular
 - name: Dico
   url: https://www.boldmonday.com/typeface/dico/
+- name: Droid Sans Mono (commercial)
+  url: https://www.myfonts.com/collections/droid-sans-mono-pro-font-ascender-corp
 - name: Eco Coding
   myfonts_url: https://www.myfonts.com/collections/eco-coding-font-s-core
 - name: Ellograph
@@ -105,8 +111,18 @@
   url: https://www.gt-maru.com/#monospaced
 - name: Graebenbach
   url: https://camelot-typefaces.com/graebenbach-mono
+- name: Gravitica Mono
+  url: https://www.myfonts.com/collections/gravitica-mono-font-ckhans-fonts
+- name: Grotesk Remix Monospace
+  url: https://www.myfonts.com/collections/grotesk-remix-monospace-font-benbenworld
+- name: Inklination Mono
+  url: https://www.myfonts.com/collections/inklination-font-emtype-foundry
+  notes: |
+    Inklination is a typeface family with both proportional and monospace varieties.
 - name: Karl Mono
   url: https://www.sourcetype.com/typefaces/4573/karl-mono
+- name: Ki
+  url: https://www.myfonts.com/collections/ki-font-mint-type
 - name: Klamp 205
   url: https://www.fontspring.com/fonts/talbot-type/klamp-205-mono
   coding: true
@@ -120,6 +136,8 @@
 - name: Lucida Console
   url: https://lucidafonts.com/collections/lucida-console
   description: '[paid but shipped with windows]'
+- name: Lucida Grande Mono
+  url: https://www.myfonts.com/collections/lucida-grande-mono-w1-g-font-monotype-imaging
 - name: MD IO
   url: https://mass-driver.com/typefaces/md-io/
 - name: MD System Mono
@@ -132,13 +150,13 @@
 - name: Mingray Mono
   url: https://www.fontspring.com/fonts/rekord/mingray-mono
   coding: true
+- name: Moki Mono
+  url: https://www.myfonts.com/products/mono-moki-117843
 - name: Monoflow
   url: https://www.fontspring.com/fonts/finaltype/monoflow
   coding: true
 - name: Monolisa
   url: https://www.monolisa.dev/
-  tags:
-    - recommended
 - name: Montris Mono
   url: https://www.r-typography.com/fonts/montris-mono?weight=737
 - name: NT Bau Mono
@@ -146,20 +164,16 @@
 - name: Native
   url: https://fortfoundry.com/fonts/native
   description: '[regular weight is free]'
+- name: Nekst Mono
+  url: https://www.myfonts.com/collections/nekst-mono-font-dzianis-serabrakou
 - name: Operator Mono
   url: https://typography.com/blog/introducing-operator
-  tags:
-    - recommended
-    - ligatures
-    - true italic
 - name: Panel Mono
   url: https://pstypelab.com/panel-mono
 - name: Pentameter
   url: https://occupantfonts.com/fonts/pentameter/
 - name: Pragmata Pro
   url: https://fsd.it/shop/fonts/pragmatapro/
-  tags:
-    - recommended
 - name: Resolution
   myfonts_url: https://www.myfonts.com/collections/resolution-font-emil-kozole
 - name: Senpai Coder
@@ -168,6 +182,12 @@
   url: https://www.swisstypefaces.com/fonts/simplon/#Mono
 - name: System85
   url: https://www.colophon-foundry.org/typefaces/system85/glyphs
+- name: TB Matrix
+  url: https://www.myfonts.com/collections/matrix-font-trueblue
+- name: Telidon
+  url: https://www.myfonts.com/collections/telidon-font-typodermic
+  notes: |
+    dot matrix printer
 - name: TG Frekuent Mono
   url: https://www.fontspring.com/fonts/tegami-type/tg-frekuent-mono
   coding: true

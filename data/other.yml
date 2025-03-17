@@ -30,11 +30,6 @@
     also known as [Befunge](https://ermineii.github.io/befont.html)
 - name: Bino Mono
   url: https://www.fontyukle.net/font/Bino-Mono
-- name: Bitstream Courier 10 Pitch
-  url: https://gitlab.freedesktop.org/xorg/font/bitstream-type1
-  description: 'distributed in Type 1 format with X11.'
-  notes:
-    - basis of Courier Code
 - name: BIZ UDMincho
   uncut_url: https://uncut.wtf/monospace/biz-udmincho/
   gfonts_url: https://fonts.google.com/specimen/BIZ+UDMincho
@@ -52,8 +47,11 @@
   description: old-timey inspired
 - name: Computer Speak
   fontlibrary_url: https://fontlibrary.org/en/font/computer-speak
-- name: Courier
-  variants:
+- name: Courier 10 Pitch (Bitstream)
+  url: https://gitlab.freedesktop.org/xorg/font/bitstream-type1
+  description: 'distributed in Type 1 format with X11.'
+  notes:
+    - basis of Courier Code
 - name: Courier Prime
   url: https://quoteunquoteapps.com/courierprime/
   description: |-
