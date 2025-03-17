@@ -449,6 +449,14 @@
   myfonts_url: https://www.myfonts.com/collections/polli-sans-font-will-albin-clark
 - name: Prestige Elite Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/prestige-elite-std
+- name: Prestige 12 (Tilde)
+  url: https://www.myfonts.com/collections/prestige-12-font-tilde
+- name: Prestige 12 Pitch (Bitstream)
+  url: https://www.myfonts.com/collections/prestige-12-pitch-font-bitstream
+- name: Prestige Elite M (URW)
+  url: https://www.myfonts.com/collections/prestige-elite-font-urw
+- name: Prestige Elite (Linotype)
+  url: https://www.myfonts.com/collections/prestige-elite-font-linotype
 - name: Prima Sans Mono
   foundry: Bitstream
   myfonts_url: https://www.myfonts.com/collections/prima-sans-monospace-font-bitstream
