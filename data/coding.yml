@@ -396,7 +396,7 @@
   description: 'a variant of IBM Plex Mono'
 - name: M+ Fonts
   url: https://mplusfonts.github.io/
-- name: Maple Font
+- name: Maple Mono
   source_url: https://github.com/subframe7536/maple-font
 - name: Menlo
   description: bundled with macOS, derived from Deja Vu
