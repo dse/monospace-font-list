@@ -11,7 +11,7 @@
 - name: 64-SRC
   myfonts_url: https://www.myfonts.com/fonts/ilott-type/64-src/
   tags:
-  - retro
+    - retro
 - name: Aeroport
   url: https://www.fontspring.com/fonts/brownfox/aeroport
   coding: true
