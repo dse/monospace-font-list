@@ -339,9 +339,9 @@
   myfonts_url: https://www.myfonts.com/collections/typewriter-mt-inactive-font-monotype-imaging
   descr: two old-timeys and a sans-serif
   variants:
-  - name: Typewriter Regular (old-timey)
-  - name: Typewriter Elite (old-timey)
-  - name: Typewriter Gothic (sans-serif)
+    - name: Typewriter Regular (old-timey)
+    - name: Typewriter Elite (old-timey)
+    - name: Typewriter Gothic (sans-serif)
 - name: MVB Fantabular
   myfonts_url: https://www.myfonts.com/collections/mvb-fantabular-font-mvb
 - name: MVB Fantabular Sans
