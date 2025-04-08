@@ -11,6 +11,8 @@
 - name: Average Mono (Courier)
   fontlibrary_url: https://fontlibrary.org/en/font/average-mono
   description: an "average" of 13 variants of Courier.
+  tags:
+    - courier
 - name: Azeret Mono
   uncut_url: https://uncut.wtf/monospace/azeret-mono/
   fontshare_url: https://www.fontshare.com/fonts/azeret-mono
@@ -35,6 +37,8 @@
   description: 'distributed in Type 1 format with X11.'
   notes:
     - basis of Courier Code
+  tags:
+    - courier
 - name: BIZ UDMincho
   uncut_url: https://uncut.wtf/monospace/biz-udmincho/
   gfonts_url: https://fonts.google.com/specimen/BIZ+UDMincho
@@ -63,6 +67,8 @@
       description: is a sans-serif variant
     - name: Courier Prime Code
       description: a sans-serif variant with coding features
+  tags:
+    - courier
 - name: Crystal
   url: http://www.povray.org/povlegal.html
   description: (via <https://www.lowing.org/fonts/>)
@@ -126,12 +132,16 @@
 - name: GNU FreeMono (Courier)
   url: https://www.gnu.org/software/freefont/
   description: is derived from Nimbus Mono.
+  tags:
+    - courier
 - name: Heming
   uncut_url: https://uncut.wtf/monospace/heming/
   behance_url: https://www.behance.net/gallery/142001915/Heming-Free-Variable-Font?locale=en_US
 - name: IBM Courier (Type 1)
   url: https://gitlab.freedesktop.org/xorg/font/ibm-type1
   description: 'distributed in Type 1 format with X11.'
+  tags:
+    - courier
 - name: Isonorm Monospaced
   url: https://fontsgeek.com/fonts/Isonorm-Monospaced-Regular
   via: https://davidawindham.com/fonts/
@@ -194,6 +204,8 @@
   description: "is URW++'s Courier clone, distributed with Ghostscript."
   notes:
     - basis of TeX Gyre Cursor and GNU FreeMono
+  tags:
+    - courier
 - name: Normafixed
   dafont_url: https://www.dafont.com/normafixed.font
 - name: NotCourierSans
@@ -303,6 +315,8 @@
 - name: TeX Gyre Cursor (Courier)
   url: https://www.gust.org.pl/projects/e-foundry/tex-gyre/index_html
   description: 'adds Vietnamese glyphs, etc. to Nimbus Mono.'
+  tags:
+    - courier
 - name: Thermo
   url: https://lineto.com/typefaces/thermo
   description: '[display]'
@@ -311,6 +325,8 @@
   description: based on an old LED display
 - name: TLWG Fonts (TWLG Mono and TWLG Typo, Courier clones)
   url: https://github.com/tlwg/fonts-tlwg/tree/master
+  tags:
+    - courier
 - name: Topaz-8
   fonts2u_url: https://fonts2u.com/topaz-8.font
   description: recreation of an Amiga font

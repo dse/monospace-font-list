@@ -109,25 +109,41 @@
 - name: Courier (Elsner+Flake)
   myfonts_url: https://www.myfonts.com/collections/courier-b-font-elsner-flake
   descr: by Elsner+Flake.
+  tags:
+    - courier
 - name: Courier Line Draw (Monotype)
   myfonts_url: https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging
   descr: from Monotype.
+  tags:
+    - courier
 - name: Courier M (URW)
   myfonts_url: https://www.myfonts.com/collections/courier-font-urw
   descr: by URW.
+  tags:
+    - courier
 - name: Courier PS (Monotype)
   myfonts_url: https://www.myfonts.com/collections/courier-ps-font-monotype-imaging
   descr: by Monotype.
+  tags:
+    - courier
 - name: Courier SB (Scangraphic Digital)
   myfonts_url: https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection
   descr: by Scangraphic Digital
+  tags:
+    - courier
 - name: Courier (ParaType)
   url: https://www.fontspring.com/fonts/paratype/courier
+  tags:
+    - courier
 - name: Courier Sans Mono
   url: https://lineto.com/typefaces/courier-sans-mono
   descr: from Lineto.
+  tags:
+    - courier
 - name: Courier Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/courier-std
+  tags:
+    - courier
 - name: Cumberland
   myfonts_url: https://www.myfonts.com/collections/cumberland-font-monotype-imaging
 - name: Cygnito Mono
@@ -204,6 +220,8 @@
   coding: sort of
 - name: Foundation Mono (Courier)
   url: https://www.fontspring.com/fonts/fontsite/foundation-mono
+  tags:
+    - courier
 - name: Founders Grotesk Mono
   url: https://klim.co.nz/retail-fonts/founders-grotesk-mono/
 - name: Functor Mono
