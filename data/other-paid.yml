@@ -314,12 +314,20 @@
   url: https://lineto.com/typefaces/lettera-mono
 - name: Letter Gothic ES (FontSite)
   url: https://www.fontspring.com/fonts/fontsite/letter-gothic-fs
+  tags:
+    - letter gothic
 - name: Letter Gothic Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/letter-gothic-std
+  tags:
+    - letter gothic
 - name: Letter Gothic 12 Pitch (Bitstream)
   url: https://www.myfonts.com/collections/letter-gothic-font-bitstream
+  tags:
+    - letter gothic
 - name: FF Letter Gothic Mono
   url: https://www.myfonts.com/collections/letter-gothic-mono-font-fontfont
+  tags:
+    - letter gothic
 - name: Linefeed
   url: https://typodermicfonts.com/linefeed/
   description: '[line printer inspired]'
@@ -390,41 +398,75 @@
 - name: OCR-A Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/ocr-a-std
   coding: sort of
+  tags:
+    - ocr-a
 - name: OCR-A (SoftMaker)
   url: https://www.fontspring.com/fonts/softmaker/ocr-a
   coding: sort of
+  tags:
+    - ocr-a
 - name: OCR-A EF (Elsner+Flake)
   url: https://www.myfonts.com/collections/ocra-font-elsner-flake
+  tags:
+    - ocr-a
 - name: OCR-A (FontSite)
   url: https://www.fontspring.com/fonts/fontsite/ocr-a
   coding: sort of
+  tags:
+    - ocr-a
 - name: OCR-A (Bitstream)
   url: https://www.myfonts.com/collections/ocr-a-font-bitstream
+  tags:
+    - ocr-a
 - name: OCR-A M (URW)
   url: https://www.myfonts.com/collections/ocra-font-urw
+  tags:
+    - ocr-a
 - name: OCR-A Extended (Monotype)
   url: https://www.myfonts.com/collections/ocr-a-extended-font-monotype-imaging
+  tags:
+    - ocr-a
 - name: OCR-A (Linotype)
   url: https://www.myfonts.com/collections/ocr-a-inactive-font-linotype
+  tags:
+    - ocr-a
 - name: OCR-A EF Pro (Elsner+Flake)
   url: https://www.myfonts.com/collections/ocr-a-ef-pro-font-elsner-flake
+  tags:
+    - ocr-a
 - name: OCR-A AI (Apply Interactive)
   url: https://www.myfonts.com/collections/ocr-a-ai-font-apply-interactive
+  tags:
+    - ocr-a
 - name: OCR-B Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/ocr-b-std
   coding: sort of
+  tags:
+    - ocr-b
 - name: OCR-B (Bitstream)
   url: https://www.myfonts.com/collections/ocr-b-font-bitstream
+  tags:
+    - ocr-b
 - name: OCR-B (Linotype)
   url: https://www.myfonts.com/collections/ocr-b-2-font-linotype
+  tags:
+    - ocr-b
 - name: OCR-B SB (Scangraphic Digital)
   url: https://www.myfonts.com/collections/ocr-b-sb-font-scangraphic-digital-type-collection
+  tags:
+    - ocr-b
 - name: OCR-B Letterpress M (URW)
   url: https://www.myfonts.com/collections/ocr-b-letterpress-font-urw
+  tags:
+    - ocr-b
 - name: OCR-B (Tilde)
   url: https://www.myfonts.com/collections/ocr-b-10-font-tilde
+  tags:
+    - ocr-b
 - name: OCR-B EF (Elsner+Flake)
   url: https://www.myfonts.com/collections/ocr-b-font-elsner-flake
+  tags:
+    - ocr-b
 - name: OCRJ
   myfonts_url: https://www.myfonts.com/collections/ocrj-font-test-pilot-collective
 - name: Odisseia
@@ -443,12 +485,20 @@
   url: http://www.ourpolitesocietytype.net/fonts/ops-placard/
 - name: Orator Pitch (Bitstream)
   url: https://www.myfonts.com/products/10-pitch-orator-434431
+  tags:
+    - orator
 - name: Orator 15 Pitch (Bitstream)
   url: https://www.myfonts.com/products/15-pitch-orator-434436
+  tags:
+    - orator
 - name: Orator FS (FontSite)
   url: https://www.fontspring.com/fonts/fontsite/orator-fs
+  tags:
+    - orator
 - name: Orator Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/orator-std
+  tags:
+    - orator
 - name: Panama Monospace
   url: https://www.featuredtype.com/typefaces/panama
 - name: Panoptica
@@ -478,6 +528,8 @@
   myfonts_url: https://www.myfonts.com/collections/polli-sans-font-will-albin-clark
 - name: Prestige Elite Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/prestige-elite-std
+  tags:
+    - prestige
 - name: Prima Sans Mono
   foundry: Bitstream
   myfonts_url: https://www.myfonts.com/collections/prima-sans-monospace-font-bitstream

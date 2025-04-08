@@ -162,6 +162,8 @@
   url: https://ctan.org/tex-archive/fonts/urw/lettergothic
   notes: |
     PostScript Type 1 font
+  tags:
+    - letter gothic
 - name: Linux Libertine Mono
   url: https://sourceforge.net/projects/linuxlibertine/
 - name: Lovematrix

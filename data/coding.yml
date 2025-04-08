@@ -472,6 +472,8 @@
   fontlibrary_url: https://fontlibrary.org/en/font/lektoncode
 - name: Letter Gothic Code
   source_url: https://github.com/jamesxmcintosh/LetterGothicCode
+  tags:
+    - letter gothic
 - name: Liberation Mono
   source_url: https://github.com/liberationfonts/liberation-fonts
   tags:
@@ -566,6 +568,8 @@
   description: early work in progress
 - name: OCR A Extended
   url: https://www.wfonts.com/font/ocr-a-extended
+  tags:
+    - ocr-a
 - name: Office Code Pro
   source_url: https://github.com/nathco/Office-Code-Pro
   description: |-
