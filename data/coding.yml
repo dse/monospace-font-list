@@ -330,8 +330,6 @@
     - recommended
 - name: Generic Mono II
   source_url: https://github.com/organicplanning/hackedfonts
-- name: Gintronic
-  url: https://markfromberg.com/projects/gintronic
 - name: Glass TTY
   url: https://caglrc.cc/glasstty/
   description: |
