@@ -549,6 +549,7 @@
   description: |
     based on Noto Mono, with modified versions of the lower case I and L.
 - name: Necto Mono
+  url: https://www.collletttivo.it/typefaces/necto-mono
   uncut_url: https://uncut.wtf/monospace/necto-mono/
 - name: Neomatrix Code
   fontlibrary_url: https://fontlibrary.org/en/font/neomatrixcode
@@ -556,9 +557,9 @@
   source_url: https://github.com/hckiang/font-new-heterodox-mono
 - name: NK57 Monospace
   dafont_url: https://www.dafont.com/nk57-monospace.font
-- name: Noto Fonts
+- name: Noto Sans Mono
+  url: https://fonts.google.com/noto/specimen/Noto+Sans+Mono
   source_url: https://github.com/notofonts
-  description: includes Noto Sans Mono
 - name: Nova Mono
   gfonts_url: https://fonts.google.com/specimen/Nova+Mono
 - name: Ocodo Mono
@@ -742,9 +743,6 @@
   download_url: https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf
   tags:
     - bitmap
-- name: Sydnie
-  url: https://fontsgeek.com/fonts/Sydnie-Regular
-  via: https://davidawindham.com/fonts/
 - name: Tamsyn
   url: http://www.fial.com/~scott/tamsyn-font/
   description: bitmap-only
@@ -813,6 +811,10 @@
   source_url: https://github.com/tonsky/font-writer
 - name: Wumpus Mono
   source_url: https://github.com/vaughantype/wumpus-mono/
+- name: X Fonts for Windows
+  url: https://www.hassings.dk/lars/fonts.html]
+  notes:
+    - .fon format
 - name: X11 Fonts
   url: https://gitlab.freedesktop.org/xorg/font
   description: |-
