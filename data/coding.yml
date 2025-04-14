@@ -606,6 +606,17 @@
   url: https://overpassfont.org/
 - name: Oxygen Mono
   gfonts_url: https://fonts.google.com/specimen/Oxygen+Mono
+- name: Peep
+  source_url: https://github.com/greemo/peep-font
+  notes:
+    - previously listed here as Zevv Peep
+- name: Perfect DOS VGA fonts
+  url: https://laemeur.sdf.org/fonts/
+  description: 'includes Less Perfect, More Perfect, and Perfect'
+  tags:
+    - retro
+    - microcomputer
+    - IBM PC
 - name: Pet Me
   url: https://www.kreativekorp.com/software/fonts/c64/
   description: 'the Commodore VIC-20, C64, and C128 font family'
@@ -616,13 +627,6 @@
     - VIC-20
     - Commodore 64
     - Commodore 128
-- name: Perfect DOS VGA fonts
-  url: https://laemeur.sdf.org/fonts/
-  description: 'includes Less Perfect, More Perfect, and Perfect'
-  tags:
-    - retro
-    - microcomputer
-    - IBM PC
 - name: Pixel Carnage
   dafont_url: https://www.dafont.com/pixelcarnage.d870
 - name: Pointfree
@@ -689,6 +693,8 @@
   url: https://abrudz.github.io/SAX2/
 - name: Selectric (by Paradox 2005)
   url: https://www.dafont.com/selectric.font
+  notes:
+    - courier
 - name: Serious Shaans
   url: https://kabeech.github.io/serious-shanns/
   description: if you like Comic Sans
@@ -705,13 +711,15 @@
     - recommended
 - name: SGI Screen
   url: https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/
+  osx_port_url: https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
   description: |-
     if this is a Unix system and you know this
   variants: |- 
     -   also [bitmaps](https://www.gnome-look.org/p/998527/)
-    -   also https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
+    -   also 
   tags:
     - bitmap
+    - pcf
 - name: Share Tech Mono
   gfonts_url: https://fonts.google.com/specimen/Share+Tech+Mono
 - name: Sometype Mono
@@ -770,11 +778,13 @@
     - old-timey
 - name: TXTT
   url: https://tug.org/FontCatalogue/txtt/
+  notes:
+    - available as PS Type 1 and some other older formats.
 - name: Ubuntu Monospace
   url: https://design.ubuntu.com/font
   tags:
     - recommended
-- name: Unix-originated terminal fonts for Windows
+    - name: Unix-originated terminal fonts for Windows
   url: http://christian.lestrade.free.fr/fonts.html
   description: |-
     Includes some of the X fonts and some VGA fonts.  Also apparently includes VT330?
@@ -835,5 +845,3 @@
 - name: Zed Mono
   source_url: https://github.com/zed-industries/zed-fonts
   description: 'based on Iosevka'
-- name: Zevv Peep
-  source_url: https://github.com/greemo/peep-font
