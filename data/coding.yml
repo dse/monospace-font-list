@@ -139,7 +139,7 @@
   tags:
     - recommended
 - name: Chivo Mono
-  source_url: https://github.com/namesmt/chivo
+  source_url: https://github.com/Omnibus-Type/Chivo
   description: you probably want the Nerd Font linked from therein.
   descr: you probably want the Nerd Font linked from therein.
 - name: Classic Console Neue
