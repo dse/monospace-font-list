@@ -32,7 +32,9 @@
 -   [CMU Typewriter (based on Computer Modern Typewriter)](https://fontlibrary.org/en/font/cmu-typewriter)
 -   [Compagnon](https://velvetyne.fr/fonts/compagnon/)
 -   [Computer Speak](https://fontlibrary.org/en/font/computer-speak)
--   Courier
+-   [Courier 10 Pitch (Bitstream)](https://gitlab.freedesktop.org/xorg/font/bitstream-type1)
+    -   Notes:
+        -   basis of Courier Code
 -   [Courier Prime](https://quoteunquoteapps.com/courierprime/)
     -   Variants:
         -   Courier Prime Sans
@@ -165,7 +167,7 @@
 
 ## Paid
 
-243 typefaces listed here.
+263 typefaces listed here.
 
 -   [8 Point Lining Typewriter No. 1](https://a2-type.co.uk/8-point-lining-typewriter-no-1)
     -   Notes:
@@ -184,7 +186,7 @@
 -   [Ahamono](https://hanken.co/products/ahamono)
 -   [Alto Mono (Thiemich)](https://www.typeby.com/fonts/alto-mono)
     -   Notes:
-        -   not related to damieng's free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
+        -   not related to damieng\'s free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
 -   [Antikor Mono](https://www.taf-studio.com/retail-fonts/antikor/)
 -   [Archive Grotesk Mono (AG Mono)](https://scifipoetry.de/archive-grotesk-mono/)
 -   [Arial Monospaced](https://www.myfonts.com/collections/arial-font-monotype-imaging)
@@ -205,10 +207,12 @@
 -   [Bistro Mono](https://dharmatype.com/bistro-mono)
 -   [Bitstream Pica 10 Pitch](https://www.myfonts.com/collections/pica-10-pitch-font-bitstream)
 -   [Blackbox Mono](https://www.psyops.com/blackbox-mono/)
+-   [Bodoni Egyptian Mono](https://www.myfonts.com/collections/bodoni-egyptian-mono-font-shinntype)
 -   [Botanika Mono](https://www.suitcasetype.com/fonts/botanika/glyphs/mono-regular)
 -   [Bradford Mono](https://lineto.com/typefaces/bradford-mono)
 -   [Brown Mono](https://lineto.com/typefaces/brown-mono)
 -   [Bodoni Egyptian Mono](https://shinntype.com/bodoni-egyptian/)
+-   [Caleb Mono](https://www.myfonts.com/collections/caleb-mono-font-brenners-template)
 -   [Capibara Mono](https://www.boldmonday.com/typeface/capibara/)
 -   [Centima Mono](http://www.tipografiaramis.com/centima-mono.html)
 -   [Century Schoolbook Monospace](https://www.myfonts.com/products/century-schoolbook-monospaced-10058-century-schoolbook-435037)
@@ -217,7 +221,7 @@
 -   [Colón Mono](http://www.tipografiaramis.com/coloacuten-mono.html)
 -   [Concursico Mono BTN](https://www.youworkforthem.com/font/19425/concursico-mono-btn)
 -   [Coordinates](https://processtypefoundry.com/fonts/coordinates/)
--   [Courier (Elsner+Flake)](https://www.myfonts.com/collections/courier-b-font-elsner-flake)
+-   [Courier EF (Elsner+Flake)](https://www.myfonts.com/collections/courier-b-font-elsner-flake)
     by Elsner+Flake.
 -   [Courier Line Draw (Monotype)](https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging)
     from Monotype.
@@ -231,6 +235,11 @@
 -   [Courier Sans Mono](https://lineto.com/typefaces/courier-sans-mono)
     from Lineto.
 -   [Courier Std (Adobe)](https://www.fontspring.com/fonts/adobe/courier-std)
+-   [Courier New OS (Monotype)](https://www.myfonts.com/collections/courier-new-font-monotype-imaging)
+-   [Courier 10 Pitch WGL (Bitstream)](https://www.myfonts.com/collections/courier-10-pitch-wgl4-inactive-font-bitstream)
+-   [Monotype Courier 12](https://www.myfonts.com/collections/courier-twelve-mt-font-monotype-imaging)
+-   [Fontcraft Courier (Scriptorium)](https://www.myfonts.com/collections/fontcraft-courier-font-scriptorium)
+-   [Courier LT Round (Linotype)](https://www.myfonts.com/collections/courier-lt-round-font-linotype)
 -   [Cumberland](https://www.myfonts.com/collections/cumberland-font-monotype-imaging)
 -   [Cygnito Mono](https://www.myfonts.com/collections/cygnito-mono-pro-font-atk-studio)
 -   [DF Staple Mono](https://www.myfonts.com/collections/df-staple-mono-font-dutchfonts)
@@ -243,6 +252,7 @@
 -   [Doire](https://www.myfonts.com/collections/doire-font-evertype)
 -   [Dossier](https://tosche.net/fonts/dossier)
 -   [Dottie](http://ingrimayne.com/fonts2/typewriter.htm)
+    -   [myfonts](https://www.myfonts.com/collections/dottie-font-ingrimayne-type)
 -   [EB Jessica](https://www.myfonts.com/collections/eb-jessica-font-erik-bertell)
 -   [EF Cash Monospaced](https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake)
 -   [EF Techno Script](https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake)
@@ -281,6 +291,7 @@
 -   [Grey Mono](https://lineto.com/typefaces/grey-mono)
 -   [Gridlite](https://rosettatype.com/GridlitePE)
 -   [Guida Mono](https://www.colophon-foundry.org/typefaces/guida-mono)
+-   [Harmonia Sans Mono](https://www.myfonts.com/products/harmonia-sans-mono-pack-package-431585)
 -   [HeartMatrixed](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Heimat Mono](https://www.myfonts.com/collections/heimat-mono-font-atlasfontfoundry)
 -   Helvetica
@@ -321,6 +332,7 @@
 -   [Monoela](https://www.myfonts.com/collections/monoela-font-interfont)
 -   [Monofonto](https://www.fontspring.com/fonts/typodermic/monofonto)
 -   [Monoist](https://hanken.co/products/monoist)
+-   [Monoska](https://www.myfonts.com/collections/monoska-font-atk-studio)
 -   [Monosten](https://www.colophon-foundry.org/typefaces/monosten)
 -   [Monosten Stencil](https://www.colophon-foundry.org/typefaces/monosten-stencil)
 -   [Monostep](https://www.myfonts.com/collections/monostep-font-yokkmokk?srsltid=AfmBOoqno5fgZH1DJ4LtsgSkZpVWq9gatAHeaurM7x4If7sG4OoDpGsl)
@@ -356,6 +368,10 @@
 -   [OCR-A (Linotype)](https://www.myfonts.com/collections/ocr-a-inactive-font-linotype)
 -   [OCR-A EF Pro (Elsner+Flake)](https://www.myfonts.com/collections/ocr-a-ef-pro-font-elsner-flake)
 -   [OCR-A AI (Apply Interactive)](https://www.myfonts.com/collections/ocr-a-ai-font-apply-interactive)
+-   [OCR-A Tribute Monospaced](https://www.myfonts.com/collections/ocr-a-tribute-font-linotype)
+    -   Notes:
+        -   Entire family contains three monospaces and three proportionals
+-   [OCR-B Std (Adobe)](https://www.fontspring.com/fonts/adobe/ocr-b-std)
 -   [OCR-B Std (Adobe)](https://www.fontspring.com/fonts/adobe/ocr-b-std)
 -   [OCR-B (Bitstream)](https://www.myfonts.com/collections/ocr-b-font-bitstream)
 -   [OCR-B (Linotype)](https://www.myfonts.com/collections/ocr-b-2-font-linotype)
@@ -364,6 +380,7 @@
 -   [OCR-B (Tilde)](https://www.myfonts.com/collections/ocr-b-10-font-tilde)
 -   [OCR-B EF (Elsner+Flake)](https://www.myfonts.com/collections/ocr-b-font-elsner-flake)
 -   [OCRJ](https://www.myfonts.com/collections/ocrj-font-test-pilot-collective)
+-   [OCRK](https://www.myfonts.com/collections/ocrk-font-test-pilot-collective)
 -   [Odisseia](https://www.myfonts.com/collections/odisseia-font-niramekko)
 -   [Olive Green Mono](https://www.myfonts.com/collections/olive-green-mono-font-schriftgestaltung)
 -   [Olympia Light](https://www.myfonts.com/collections/olympia-font-linotype)
@@ -385,7 +402,14 @@
 -   [Plotter Mono](https://www.typotheque.com/fonts/plotter-mono)
 -   [Polli Sans Mono](https://www.myfonts.com/collections/polli-sans-font-will-albin-clark)
 -   [Prestige Elite Std (Adobe)](https://www.fontspring.com/fonts/adobe/prestige-elite-std)
+-   [Prestige 12 (Tilde)](https://www.myfonts.com/collections/prestige-12-font-tilde)
+-   [Prestige 12 Pitch (Bitstream)](https://www.myfonts.com/collections/prestige-12-pitch-font-bitstream)
+-   [Prestige Elite M (URW)](https://www.myfonts.com/collections/prestige-elite-font-urw)
+-   [Prestige Elite (Linotype)](https://www.myfonts.com/collections/prestige-elite-font-linotype)
 -   [Prima Sans Mono](https://www.myfonts.com/collections/prima-sans-monospace-font-bitstream)
+-   [printf](https://www.myfonts.com/collections/printf-font-typodermic)
+    -   Notes:
+        -   chainprinter vibes; a bit grungy
 -   [PTL Manual Mono](https://www.myfonts.com/collections/manual-mono-font-primetype)
 -   [PTL Notes Tec Mono](https://www.myfonts.com/collections/notes-tec-mono-font-primetype)
 -   [Quadraat Sans Mono](https://www.typeby.com/fonts/quadraat-sans-mono)
@@ -423,10 +447,15 @@
 -   [Struct Mono](https://archetype-foundry.com/struct-mono)
 -   [Suisse Int'l Mono](https://www.swisstypefaces.com/fonts/suisse/#Int%E2%80%99l%20Mono)
 -   [Superstudio](https://lineto.com/typefaces/superstudio)
+-   [TT Commons Pro Mono](https://www.myfonts.com/products/tt-commonstm-pro-mono-package-package-930341)
+-   [TT Hoves Pro Mono](https://www.myfonts.com/products/tt-hoves-pro-mono-package-package-957657)
 -   [TT Norms Pro](https://www.fontspring.com/fonts/typetype/tt-norms-pro)
 -   [Tabulamore Script](https://tosche.net/fonts/tabulamore-script)
 -   [Teamhair](https://www.myfonts.com/collections/teamhair-font-evertype)
 -   [Telegramo](https://www.myfonts.com/collections/telegramo-font-volcano)
+-   [Terminax](https://www.myfonts.com/collections/terminax-font-monotype-imaging)
+    -   Notes:
+        -   lower case letters are substituted for small caps
 -   [Tezra Editor](https://commercialtype.com/catalog/terza_editor/)
 -   [The Future Mono](https://www.futurefonts.xyz/klim/the-future-mono)
 -   [Tired of Courier](http://ingrimayne.com/fonts2/typewriter.htm)

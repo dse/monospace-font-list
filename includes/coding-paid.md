@@ -1,17 +1,26 @@
-73 typefaces listed here.
+89 typefaces listed here.
 
 -   [0Arame Mono](https://www.fontspring.com/fonts/hitype/0arame-mono)
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
 -   [64-SRC](https://www.myfonts.com/fonts/ilott-type/64-src/)
+-   [Adelle Mono](https://www.myfonts.com/collections/adelle-mono-font-type-together)
 -   [Aeroport](https://www.fontspring.com/fonts/brownfox/aeroport)
 -   [Akkurat Mono](https://lineto.com/typefaces/akkurat-mono)
 -   [Adapter Mono](https://rosettatype.com/AdapterMonoPE)
 -   [Adelle Mono](https://www.type-together.com/adelle-mono-font)
+-   [Almarena Mono](https://www.myfonts.com/collections/almarena-mono-font-almarena)
+    -   Notes:
+        -   This is confusing.  So, Almarena Mono is a family of eight fonts.
+            Four are proportional; four are actual monospace.
+            The monospace variants are the ones with "FW" in the name,
+            meaning "fixed width".
 -   [Arazatí](https://www.fontspring.com/fonts/underground/arazati)
     -   Notes:
         -   digits are underlined
 -   [Arnold](https://www.futurefonts.xyz/rudiger/arnold)
 -   [Array Mono](https://jtdtype.com/typeface/Array)
+-   [ASM](https://www.myfonts.com/collections/asm-font-textaxis)
+-   [ATC Harris](https://www.myfonts.com/collections/atc-harris-font-avondale-type-co)
 -   [Autocode](https://www.myfonts.com/collections/autocode-font-avp)
 -   [Autoscape](https://lineto.com/typefaces/autoscape)
 -   [Azo Mono](https://www.r-typography.com/fonts/azo-mono)
@@ -42,27 +51,38 @@
 -   [Debugger](https://dharmatype.com/debugger)
 -   [Degular Mono](https://ohnotype.co/fonts/degular)
 -   [Dico](https://www.boldmonday.com/typeface/dico/)
+-   [Droid Sans Mono (commercial)](https://www.myfonts.com/collections/droid-sans-mono-pro-font-ascender-corp)
 -   [Eco Coding](https://www.myfonts.com/collections/eco-coding-font-s-core)
 -   [Ellograph](https://connary.com/ellograph.html)
 -   [Fakt Mono](https://www.typeby.com/fonts/fakt-mono)
 -   [GT Maru Mono](https://www.gt-maru.com/#monospaced)
+-   [Gintronic](https://markfromberg.com/projects/gintronic)
 -   [Graebenbach](https://camelot-typefaces.com/graebenbach-mono)
+-   [Gravitica Mono](https://www.myfonts.com/collections/gravitica-mono-font-ckhans-fonts)
+-   [Grotesk Remix Monospace](https://www.myfonts.com/collections/grotesk-remix-monospace-font-benbenworld)
+-   [Inklination Mono](https://www.myfonts.com/collections/inklination-font-emtype-foundry)
+    -   Notes:
+        -   Inklination is a typeface family with both proportional and monospace varieties.
 -   [Karl Mono](https://www.sourcetype.com/typefaces/4573/karl-mono)
+-   [Ki](https://www.myfonts.com/collections/ki-font-mint-type)
 -   [Klamp 205](https://www.fontspring.com/fonts/talbot-type/klamp-205-mono)
 -   [Lab Grotesque Mono](https://lettersfromsweden.se/font/lab-grotesque-mono/)
 -   [Lexia Mono](https://www.daltonmaag.com/font-library/lexia-mono.html)
 -   [Logic Monospace](https://mckltype.com/logic-monospace)
 -   [Lucida Console](https://lucidafonts.com/collections/lucida-console)
+-   [Lucida Grande Mono](https://www.myfonts.com/collections/lucida-grande-mono-w1-g-font-monotype-imaging)
 -   [MD IO](https://mass-driver.com/typefaces/md-io/)
 -   [MD System Mono](https://mass-driver.com/typefaces/md-system/)
 -   [Matahari Sans](https://www.fontspring.com/fonts/studio-sun/matahari-sans)
 -   [Matter Mono](https://displaay.net/typeface/matter-collection/matter-mono/)
 -   [Mingray Mono](https://www.fontspring.com/fonts/rekord/mingray-mono)
+-   [Moki Mono](https://www.myfonts.com/products/mono-moki-117843)
 -   [Monoflow](https://www.fontspring.com/fonts/finaltype/monoflow)
 -   [Monolisa](https://www.monolisa.dev/)
 -   [Montris Mono](https://www.r-typography.com/fonts/montris-mono?weight=737)
 -   [NT Bau Mono](https://nodotypefoundry.com/typefaces/nt-bau-mono/)
 -   [Native](https://fortfoundry.com/fonts/native)
+-   [Nekst Mono](https://www.myfonts.com/collections/nekst-mono-font-dzianis-serabrakou)
 -   [Operator Mono](https://typography.com/blog/introducing-operator)
 -   [Panel Mono](https://pstypelab.com/panel-mono)
 -   [Pentameter](https://occupantfonts.com/fonts/pentameter/)
@@ -70,7 +90,12 @@
 -   [Resolution](https://www.myfonts.com/collections/resolution-font-emil-kozole)
 -   [Senpai Coder](https://dharmatype.com/senpai-coder)
 -   [Simplon Mono](https://www.swisstypefaces.com/fonts/simplon/#Mono)
+-   [HK Simulacrum Mono](https://www.myfonts.com/collections/simulacrum-font-hanken-design-co)
 -   [System85](https://www.colophon-foundry.org/typefaces/system85/glyphs)
+-   [TB Matrix](https://www.myfonts.com/collections/matrix-font-trueblue)
+-   [Telidon](https://www.myfonts.com/collections/telidon-font-typodermic)
+    -   Notes:
+        -   dot matrix printer
 -   [TG Frekuent Mono](https://www.fontspring.com/fonts/tegami-type/tg-frekuent-mono)
 -   [TheSansMono](https://www.lucasfonts.com/fonts/the-sans-mono)
 -   [Triplicate](https://mbtype.com/fonts/triplicate/)

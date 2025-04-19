@@ -1,8 +1,7 @@
-218 typefaces listed here.
+219 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
 -   [3270font](https://github.com/rbanffy/3270font)
--   [A+](http://archive.vector.org.uk/resource/index.htm)
 -   [Aardvark Fixed](https://fontlibrary.org/en/font/aardvark-sans)
 -   [Acevedo](https://fontlibrary.org/en/font/acevedo)
 -   [Agave](https://b.agaric.net/page/agave)
@@ -43,7 +42,7 @@
 -   [Camingo Code](https://janfromm.de/typefaces/camingocode/)
 -   [Canton Typewriter Bitmap](https://github.com/dse/font-canton-typewriter-bitmap)
 -   [Cascadia Code](https://github.com/microsoft/cascadia-code)
--   [Chivo Mono](https://github.com/namesmt/chivo)
+-   [Chivo Mono](https://github.com/Omnibus-Type/Chivo)
     you probably want the Nerd Font linked from therein.
 -   [Classic Console Neue](https://webdraft.eu/fonts/classic-console/)
     -   Notes:
@@ -114,7 +113,6 @@
 -   [FS Regulate](https://fontstruct.com/fontstructions/show/947828/fs_regulate)
 -   [Geist](https://vercel.com/font)
 -   [Generic Mono II](https://github.com/organicplanning/hackedfonts)
--   [Gintronic](https://markfromberg.com/projects/gintronic)
 -   [Glass TTY](https://caglrc.cc/glasstty/)
 -   [GNU Unifont](https://unifoundry.com/unifont/)
 -   [Go Mono](https://go.dev/blog/go-fonts)
@@ -173,7 +171,7 @@
 -   [Luxi Mono](https://en.wikipedia.org/wiki/Luxi_fonts)
 -   [LVC Mono](https://fontlibrary.org/en/font/lvc-mono)
 -   [M+ Fonts](https://mplusfonts.github.io/)
--   [Maple Font](https://github.com/subframe7536/maple-font)
+-   [Maple Mono](https://github.com/subframe7536/maple-font)
 -   Menlo
 -   [Mensch](https://www.losttype.com/font/?name=mensch)
 -   [Meslo](https://github.com/andreberg/Meslo-Font)
@@ -193,12 +191,13 @@
 -   [MonteCarlo (programmer font)](https://www.bok.net/MonteCarlo/)
 -   [Nanum Gothic Coding](https://github.com/emersion/nanum-gothic-coding)
 -   [Natural Mono](https://fontlibrary.org/en/font/natural-mono)
--   Necto Mono
+-   [Necto Mono](https://www.collletttivo.it/typefaces/necto-mono)
     -   [uncut](https://uncut.wtf/monospace/necto-mono/)
 -   [Neomatrix Code](https://fontlibrary.org/en/font/neomatrixcode)
 -   [New Heterodox Mono](https://github.com/hckiang/font-new-heterodox-mono)
 -   [NK57 Monospace](https://www.dafont.com/nk57-monospace.font)
--   [Noto Fonts](https://github.com/notofonts)
+-   [Noto Sans Mono](https://fonts.google.com/noto/specimen/Noto+Sans+Mono)
+    -   [source](https://github.com/notofonts)
 -   [Nova Mono](https://fonts.google.com/specimen/Nova+Mono)
 -   [Ocodo Mono](https://github.com/ocodo/ocodo-mono)
 -   [OCR A Extended](https://www.wfonts.com/font/ocr-a-extended)
@@ -220,6 +219,10 @@
         -   a set of fonts in BDF, PCF, and .FON for X11 and Windows
 -   [Overpass](https://overpassfont.org/)
 -   [Oxygen Mono](https://fonts.google.com/specimen/Oxygen+Mono)
+-   [Peep](https://github.com/greemo/peep-font)
+    -   Notes:
+        -   previously listed here as Zevv Peep
+-   [Perfect DOS VGA fonts](https://laemeur.sdf.org/fonts/)
 -   [Pet Me](https://www.kreativekorp.com/software/fonts/c64/)
 -   [Perfect DOS VGA fonts](https://laemeur.sdf.org/fonts/)
 -   [Pixel Carnage](https://www.dafont.com/pixelcarnage.d870)
@@ -240,12 +243,15 @@
 -   [Sarasa Gothic Mono](https://picaq.github.io/sarasa/)
 -   [SAX2 APL font](https://abrudz.github.io/SAX2/)
 -   [Selectric (by Paradox 2005)](https://www.dafont.com/selectric.font)
+    -   Notes:
+        -   courier
 -   [Serious Shaans](https://kabeech.github.io/serious-shanns/)
     -   Notes:
         -   Based on Comic Mono, with legibility enhancements and a lighter weight.
 -   [Server Mono](https://servermono.com/)
 -   [SF Mono](https://developer.apple.com/fonts/)
 -   [SGI Screen](https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/)
+    -   [osx\_port](https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/)
     -   Variants:
         -   also [bitmaps](https://www.gnome-look.org/p/998527/)
         -   also https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
@@ -264,6 +270,8 @@
 -   [Sydnie](https://fontsgeek.com/fonts/Sydnie-Regular)
 -   [Tamsyn](http://www.fial.com/~scott/tamsyn-font/)
 -   [Tamzen](https://github.com/sunaku/tamzen-font)
+-   Terminal Land Mono
+    -   [github](https://github.com/neatnik/terminal-land-mono)
 -   [Terminus](https://terminus-font.sourceforge.net/)
 -   [Termsyn](https://sourceforge.net/projects/termsyn/)
 -   [ti92plus](https://github.com/sterpe/ti92plus)
@@ -272,6 +280,8 @@
 -   [Triskweline](https://www.netalive.org/tinkering/triskweline/)
 -   [TT2020](https://copypaste.wtf/TT2020/docs/)
 -   [TXTT](https://tug.org/FontCatalogue/txtt/)
+    -   Notes:
+        -   available as PS Type 1 and some other older formats.
 -   [Ubuntu Monospace](https://design.ubuntu.com/font)
 -   [Unix-originated terminal fonts for Windows](http://christian.lestrade.free.fr/fonts.html)
 -   [Unix PC 3B1](https://github.com/brandon-rhodes/unixpc-font-bdf)
@@ -285,6 +295,8 @@
     -   [uncut](https://uncut.wtf/monospace/whois/)
 -   [Writer](https://github.com/tonsky/font-writer)
 -   [Wumpus Mono](https://github.com/vaughantype/wumpus-mono/)
+-   [X Fonts for Windows](https://www.hassings.dk/lars/fonts.html])
+    -   Notes:
+        -   .fon format
 -   [X11 Fonts](https://gitlab.freedesktop.org/xorg/font)
 -   [Zed Mono](https://github.com/zed-industries/zed-fonts)
--   [Zevv Peep](https://github.com/greemo/peep-font)

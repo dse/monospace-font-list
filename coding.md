@@ -2,11 +2,10 @@
 
 ## Freely Available
 
-218 typefaces listed here.
+219 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
 -   [3270font](https://github.com/rbanffy/3270font)
--   [A+](http://archive.vector.org.uk/resource/index.htm)
 -   [Aardvark Fixed](https://fontlibrary.org/en/font/aardvark-sans)
 -   [Acevedo](https://fontlibrary.org/en/font/acevedo)
 -   [Agave](https://b.agaric.net/page/agave)
@@ -47,7 +46,7 @@
 -   [Camingo Code](https://janfromm.de/typefaces/camingocode/)
 -   [Canton Typewriter Bitmap](https://github.com/dse/font-canton-typewriter-bitmap)
 -   [Cascadia Code](https://github.com/microsoft/cascadia-code)
--   [Chivo Mono](https://github.com/namesmt/chivo)
+-   [Chivo Mono](https://github.com/Omnibus-Type/Chivo)
     you probably want the Nerd Font linked from therein.
 -   [Classic Console Neue](https://webdraft.eu/fonts/classic-console/)
     -   Notes:
@@ -118,7 +117,6 @@
 -   [FS Regulate](https://fontstruct.com/fontstructions/show/947828/fs_regulate)
 -   [Geist](https://vercel.com/font)
 -   [Generic Mono II](https://github.com/organicplanning/hackedfonts)
--   [Gintronic](https://markfromberg.com/projects/gintronic)
 -   [Glass TTY](https://caglrc.cc/glasstty/)
 -   [GNU Unifont](https://unifoundry.com/unifont/)
 -   [Go Mono](https://go.dev/blog/go-fonts)
@@ -177,7 +175,7 @@
 -   [Luxi Mono](https://en.wikipedia.org/wiki/Luxi_fonts)
 -   [LVC Mono](https://fontlibrary.org/en/font/lvc-mono)
 -   [M+ Fonts](https://mplusfonts.github.io/)
--   [Maple Font](https://github.com/subframe7536/maple-font)
+-   [Maple Mono](https://github.com/subframe7536/maple-font)
 -   Menlo
 -   [Mensch](https://www.losttype.com/font/?name=mensch)
 -   [Meslo](https://github.com/andreberg/Meslo-Font)
@@ -197,12 +195,13 @@
 -   [MonteCarlo (programmer font)](https://www.bok.net/MonteCarlo/)
 -   [Nanum Gothic Coding](https://github.com/emersion/nanum-gothic-coding)
 -   [Natural Mono](https://fontlibrary.org/en/font/natural-mono)
--   Necto Mono
+-   [Necto Mono](https://www.collletttivo.it/typefaces/necto-mono)
     -   [uncut](https://uncut.wtf/monospace/necto-mono/)
 -   [Neomatrix Code](https://fontlibrary.org/en/font/neomatrixcode)
 -   [New Heterodox Mono](https://github.com/hckiang/font-new-heterodox-mono)
 -   [NK57 Monospace](https://www.dafont.com/nk57-monospace.font)
--   [Noto Fonts](https://github.com/notofonts)
+-   [Noto Sans Mono](https://fonts.google.com/noto/specimen/Noto+Sans+Mono)
+    -   [source](https://github.com/notofonts)
 -   [Nova Mono](https://fonts.google.com/specimen/Nova+Mono)
 -   [Ocodo Mono](https://github.com/ocodo/ocodo-mono)
 -   [OCR A Extended](https://www.wfonts.com/font/ocr-a-extended)
@@ -224,6 +223,10 @@
         -   a set of fonts in BDF, PCF, and .FON for X11 and Windows
 -   [Overpass](https://overpassfont.org/)
 -   [Oxygen Mono](https://fonts.google.com/specimen/Oxygen+Mono)
+-   [Peep](https://github.com/greemo/peep-font)
+    -   Notes:
+        -   previously listed here as Zevv Peep
+-   [Perfect DOS VGA fonts](https://laemeur.sdf.org/fonts/)
 -   [Pet Me](https://www.kreativekorp.com/software/fonts/c64/)
 -   [Perfect DOS VGA fonts](https://laemeur.sdf.org/fonts/)
 -   [Pixel Carnage](https://www.dafont.com/pixelcarnage.d870)
@@ -244,12 +247,15 @@
 -   [Sarasa Gothic Mono](https://picaq.github.io/sarasa/)
 -   [SAX2 APL font](https://abrudz.github.io/SAX2/)
 -   [Selectric (by Paradox 2005)](https://www.dafont.com/selectric.font)
+    -   Notes:
+        -   courier
 -   [Serious Shaans](https://kabeech.github.io/serious-shanns/)
     -   Notes:
         -   Based on Comic Mono, with legibility enhancements and a lighter weight.
 -   [Server Mono](https://servermono.com/)
 -   [SF Mono](https://developer.apple.com/fonts/)
 -   [SGI Screen](https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/)
+    -   [osx\_port](https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/)
     -   Variants:
         -   also [bitmaps](https://www.gnome-look.org/p/998527/)
         -   also https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
@@ -268,6 +274,8 @@
 -   [Sydnie](https://fontsgeek.com/fonts/Sydnie-Regular)
 -   [Tamsyn](http://www.fial.com/~scott/tamsyn-font/)
 -   [Tamzen](https://github.com/sunaku/tamzen-font)
+-   Terminal Land Mono
+    -   [github](https://github.com/neatnik/terminal-land-mono)
 -   [Terminus](https://terminus-font.sourceforge.net/)
 -   [Termsyn](https://sourceforge.net/projects/termsyn/)
 -   [ti92plus](https://github.com/sterpe/ti92plus)
@@ -276,6 +284,8 @@
 -   [Triskweline](https://www.netalive.org/tinkering/triskweline/)
 -   [TT2020](https://copypaste.wtf/TT2020/docs/)
 -   [TXTT](https://tug.org/FontCatalogue/txtt/)
+    -   Notes:
+        -   available as PS Type 1 and some other older formats.
 -   [Ubuntu Monospace](https://design.ubuntu.com/font)
 -   [Unix-originated terminal fonts for Windows](http://christian.lestrade.free.fr/fonts.html)
 -   [Unix PC 3B1](https://github.com/brandon-rhodes/unixpc-font-bdf)
@@ -289,26 +299,37 @@
     -   [uncut](https://uncut.wtf/monospace/whois/)
 -   [Writer](https://github.com/tonsky/font-writer)
 -   [Wumpus Mono](https://github.com/vaughantype/wumpus-mono/)
+-   [X Fonts for Windows](https://www.hassings.dk/lars/fonts.html])
+    -   Notes:
+        -   .fon format
 -   [X11 Fonts](https://gitlab.freedesktop.org/xorg/font)
 -   [Zed Mono](https://github.com/zed-industries/zed-fonts)
--   [Zevv Peep](https://github.com/greemo/peep-font)
 
 ## Paid
 
-73 typefaces listed here.
+89 typefaces listed here.
 
 -   [0Arame Mono](https://www.fontspring.com/fonts/hitype/0arame-mono)
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
 -   [64-SRC](https://www.myfonts.com/fonts/ilott-type/64-src/)
+-   [Adelle Mono](https://www.myfonts.com/collections/adelle-mono-font-type-together)
 -   [Aeroport](https://www.fontspring.com/fonts/brownfox/aeroport)
 -   [Akkurat Mono](https://lineto.com/typefaces/akkurat-mono)
 -   [Adapter Mono](https://rosettatype.com/AdapterMonoPE)
 -   [Adelle Mono](https://www.type-together.com/adelle-mono-font)
+-   [Almarena Mono](https://www.myfonts.com/collections/almarena-mono-font-almarena)
+    -   Notes:
+        -   This is confusing.  So, Almarena Mono is a family of eight fonts.
+            Four are proportional; four are actual monospace.
+            The monospace variants are the ones with "FW" in the name,
+            meaning "fixed width".
 -   [Arazatí](https://www.fontspring.com/fonts/underground/arazati)
     -   Notes:
         -   digits are underlined
 -   [Arnold](https://www.futurefonts.xyz/rudiger/arnold)
 -   [Array Mono](https://jtdtype.com/typeface/Array)
+-   [ASM](https://www.myfonts.com/collections/asm-font-textaxis)
+-   [ATC Harris](https://www.myfonts.com/collections/atc-harris-font-avondale-type-co)
 -   [Autocode](https://www.myfonts.com/collections/autocode-font-avp)
 -   [Autoscape](https://lineto.com/typefaces/autoscape)
 -   [Azo Mono](https://www.r-typography.com/fonts/azo-mono)
@@ -339,27 +360,38 @@
 -   [Debugger](https://dharmatype.com/debugger)
 -   [Degular Mono](https://ohnotype.co/fonts/degular)
 -   [Dico](https://www.boldmonday.com/typeface/dico/)
+-   [Droid Sans Mono (commercial)](https://www.myfonts.com/collections/droid-sans-mono-pro-font-ascender-corp)
 -   [Eco Coding](https://www.myfonts.com/collections/eco-coding-font-s-core)
 -   [Ellograph](https://connary.com/ellograph.html)
 -   [Fakt Mono](https://www.typeby.com/fonts/fakt-mono)
 -   [GT Maru Mono](https://www.gt-maru.com/#monospaced)
+-   [Gintronic](https://markfromberg.com/projects/gintronic)
 -   [Graebenbach](https://camelot-typefaces.com/graebenbach-mono)
+-   [Gravitica Mono](https://www.myfonts.com/collections/gravitica-mono-font-ckhans-fonts)
+-   [Grotesk Remix Monospace](https://www.myfonts.com/collections/grotesk-remix-monospace-font-benbenworld)
+-   [Inklination Mono](https://www.myfonts.com/collections/inklination-font-emtype-foundry)
+    -   Notes:
+        -   Inklination is a typeface family with both proportional and monospace varieties.
 -   [Karl Mono](https://www.sourcetype.com/typefaces/4573/karl-mono)
+-   [Ki](https://www.myfonts.com/collections/ki-font-mint-type)
 -   [Klamp 205](https://www.fontspring.com/fonts/talbot-type/klamp-205-mono)
 -   [Lab Grotesque Mono](https://lettersfromsweden.se/font/lab-grotesque-mono/)
 -   [Lexia Mono](https://www.daltonmaag.com/font-library/lexia-mono.html)
 -   [Logic Monospace](https://mckltype.com/logic-monospace)
 -   [Lucida Console](https://lucidafonts.com/collections/lucida-console)
+-   [Lucida Grande Mono](https://www.myfonts.com/collections/lucida-grande-mono-w1-g-font-monotype-imaging)
 -   [MD IO](https://mass-driver.com/typefaces/md-io/)
 -   [MD System Mono](https://mass-driver.com/typefaces/md-system/)
 -   [Matahari Sans](https://www.fontspring.com/fonts/studio-sun/matahari-sans)
 -   [Matter Mono](https://displaay.net/typeface/matter-collection/matter-mono/)
 -   [Mingray Mono](https://www.fontspring.com/fonts/rekord/mingray-mono)
+-   [Moki Mono](https://www.myfonts.com/products/mono-moki-117843)
 -   [Monoflow](https://www.fontspring.com/fonts/finaltype/monoflow)
 -   [Monolisa](https://www.monolisa.dev/)
 -   [Montris Mono](https://www.r-typography.com/fonts/montris-mono?weight=737)
 -   [NT Bau Mono](https://nodotypefoundry.com/typefaces/nt-bau-mono/)
 -   [Native](https://fortfoundry.com/fonts/native)
+-   [Nekst Mono](https://www.myfonts.com/collections/nekst-mono-font-dzianis-serabrakou)
 -   [Operator Mono](https://typography.com/blog/introducing-operator)
 -   [Panel Mono](https://pstypelab.com/panel-mono)
 -   [Pentameter](https://occupantfonts.com/fonts/pentameter/)
@@ -367,7 +399,12 @@
 -   [Resolution](https://www.myfonts.com/collections/resolution-font-emil-kozole)
 -   [Senpai Coder](https://dharmatype.com/senpai-coder)
 -   [Simplon Mono](https://www.swisstypefaces.com/fonts/simplon/#Mono)
+-   [HK Simulacrum Mono](https://www.myfonts.com/collections/simulacrum-font-hanken-design-co)
 -   [System85](https://www.colophon-foundry.org/typefaces/system85/glyphs)
+-   [TB Matrix](https://www.myfonts.com/collections/matrix-font-trueblue)
+-   [Telidon](https://www.myfonts.com/collections/telidon-font-typodermic)
+    -   Notes:
+        -   dot matrix printer
 -   [TG Frekuent Mono](https://www.fontspring.com/fonts/tegami-type/tg-frekuent-mono)
 -   [TheSansMono](https://www.lucasfonts.com/fonts/the-sans-mono)
 -   [Triplicate](https://mbtype.com/fonts/triplicate/)

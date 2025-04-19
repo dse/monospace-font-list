@@ -28,7 +28,9 @@
 -   [CMU Typewriter (based on Computer Modern Typewriter)](https://fontlibrary.org/en/font/cmu-typewriter)
 -   [Compagnon](https://velvetyne.fr/fonts/compagnon/)
 -   [Computer Speak](https://fontlibrary.org/en/font/computer-speak)
--   Courier
+-   [Courier 10 Pitch (Bitstream)](https://gitlab.freedesktop.org/xorg/font/bitstream-type1)
+    -   Notes:
+        -   basis of Courier Code
 -   [Courier Prime](https://quoteunquoteapps.com/courierprime/)
     -   Variants:
         -   Courier Prime Sans
