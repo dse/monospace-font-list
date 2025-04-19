@@ -112,7 +112,7 @@
   source_url: https://github.com/microsoft/cascadia-code
   description: A fun coding font with a cursive italic, From Microsoft, the default font in Windows Terminal and now Visual Studio Code.
 - name: Chivo Mono
-  source_url: https://github.com/namesmt/chivo
+  source_url: https://github.com/Omnibus-Type/Chivo
   description: you probably want the Nerd Font linked from therein.
   descr: you probably want the Nerd Font linked from therein.
 - name: Classic Console Neue
@@ -150,9 +150,13 @@
 - name: Courier Code
   fontlibrary_url: https://fontlibrary.org/en/font/courier-code
   description: based on Bitstream Courier 10 Pitch v2.0
+  tags:
+    - courier
 - name: Courier Prime Code
   url: https://quoteunquoteapps.com/courierprime/
   description: one of the Courier Prime fonts
+  tags:
+    - courier
 - name: Cousine
   gfonts_url: https://fonts.google.com/specimen/Cousine
 - name: Cozette
@@ -265,8 +269,6 @@
   description: includes a mono variant
 - name: Generic Mono II
   source_url: https://github.com/organicplanning/hackedfonts
-- name: Gintronic
-  url: https://markfromberg.com/projects/gintronic
 - name: Glass TTY
   url: https://caglrc.cc/glasstty/
   description: |
@@ -372,6 +374,8 @@
   fontlibrary_url: https://fontlibrary.org/en/font/lektoncode
 - name: Letter Gothic Code
   source_url: https://github.com/jamesxmcintosh/LetterGothicCode
+  tags:
+    - letter gothic
 - name: Liberation Mono
   source_url: https://github.com/liberationfonts/liberation-fonts
 - name: Lilex
@@ -442,6 +446,7 @@
   description: |
     based on Noto Mono, with modified versions of the lower case I and L.
 - name: Necto Mono
+  url: https://www.collletttivo.it/typefaces/necto-mono
   uncut_url: https://uncut.wtf/monospace/necto-mono/
 - name: Neomatrix Code
   fontlibrary_url: https://fontlibrary.org/en/font/neomatrixcode
@@ -449,9 +454,9 @@
   source_url: https://github.com/hckiang/font-new-heterodox-mono
 - name: NK57 Monospace
   dafont_url: https://www.dafont.com/nk57-monospace.font
-- name: Noto Fonts
+- name: Noto Sans Mono
+  url: https://fonts.google.com/noto/specimen/Noto+Sans+Mono
   source_url: https://github.com/notofonts
-  description: includes Noto Sans Mono
 - name: Nova Mono
   gfonts_url: https://fonts.google.com/specimen/Nova+Mono
 - name: Ocodo Mono
@@ -459,6 +464,8 @@
   description: early work in progress
 - name: OCR A Extended
   url: https://www.wfonts.com/font/ocr-a-extended
+  tags:
+    - ocr-a
 - name: Office Code Pro
   source_url: https://github.com/nathco/Office-Code-Pro
   description: |-
@@ -487,9 +494,27 @@
   url: https://overpassfont.org/
 - name: Oxygen Mono
   gfonts_url: https://fonts.google.com/specimen/Oxygen+Mono
+- name: Peep
+  source_url: https://github.com/greemo/peep-font
+  notes:
+    - previously listed here as Zevv Peep
+- name: Perfect DOS VGA fonts
+  url: https://laemeur.sdf.org/fonts/
+  description: 'includes Less Perfect, More Perfect, and Perfect'
+  tags:
+    - retro
+    - microcomputer
+    - IBM PC
 - name: Pet Me
   url: https://www.kreativekorp.com/software/fonts/c64/
   description: 'the Commodore VIC-20, C64, and C128 font family'
+  tags:
+    - retro
+    - microcomputer
+    - PET
+    - VIC-20
+    - Commodore 64
+    - Commodore 128
 - name: Perfect DOS VGA fonts
   url: https://laemeur.sdf.org/fonts/
   description: 'includes Less Perfect, More Perfect, and Perfect'
@@ -549,6 +574,8 @@
   url: https://abrudz.github.io/SAX2/
 - name: Selectric (by Paradox 2005)
   url: https://www.dafont.com/selectric.font
+  notes:
+    - courier
 - name: Serious Shaans
   url: https://kabeech.github.io/serious-shanns/
   description: if you like Comic Sans
@@ -561,11 +588,15 @@
   description: '[free]'
 - name: SGI Screen
   url: https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/
+  osx_port_url: https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
   description: |-
     if this is a Unix system and you know this
   variants: |- 
     -   also [bitmaps](https://www.gnome-look.org/p/998527/)
     -   also https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
+  tags:
+    - bitmap
+    - pcf
 - name: Share Tech Mono
   gfonts_url: https://fonts.google.com/specimen/Share+Tech+Mono
 - name: Sometype Mono
@@ -589,6 +620,8 @@
 - name: Sun Gallant Demi
   source_url: https://github.com/dim13/gallant
   download_url: https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf
+  tags:
+    - bitmap
 - name: Sydnie
   url: https://fontsgeek.com/fonts/Sydnie-Regular
   via: https://davidawindham.com/fonts/
@@ -617,8 +650,13 @@
   url: https://copypaste.wtf/TT2020/docs/
 - name: TXTT
   url: https://tug.org/FontCatalogue/txtt/
+  notes:
+    - available as PS Type 1 and some other older formats.
 - name: Ubuntu Monospace
   url: https://design.ubuntu.com/font
+  tags:
+    - recommended
+    - name: Unix-originated terminal fonts for Windows
 - name: Unix-originated terminal fonts for Windows
   url: http://christian.lestrade.free.fr/fonts.html
   description: |-
@@ -645,6 +683,10 @@
   source_url: https://github.com/tonsky/font-writer
 - name: Wumpus Mono
   source_url: https://github.com/vaughantype/wumpus-mono/
+- name: X Fonts for Windows
+  url: https://www.hassings.dk/lars/fonts.html]
+  notes:
+    - .fon format
 - name: X11 Fonts
   url: https://gitlab.freedesktop.org/xorg/font
   description: |-
@@ -656,8 +698,12 @@
     -   Misc Fixed
     -   Sony Fixed
     -   Type 1 of Bitstream Courier
+  tags:
+    - retro
+    - Unix
+    - X Window System
+    - bitmap
+    - courier
 - name: Zed Mono
   source_url: https://github.com/zed-industries/zed-fonts
   description: 'based on Iosevka'
-- name: Zevv Peep
-  source_url: https://github.com/greemo/peep-font

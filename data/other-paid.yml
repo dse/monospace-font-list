@@ -25,9 +25,9 @@
 - name: Alto Mono (Thiemich)
   url: https://www.typeby.com/fonts/alto-mono
   description: |-
-    Thiemich's typeface
+    Thiemich\'s typeface
   notes: |-
-    not related to damieng's free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
+    not related to damieng\'s free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
 - name: Antikor Mono
   url: https://www.taf-studio.com/retail-fonts/antikor/
 - name: Archive Grotesk Mono (AG Mono)
@@ -107,22 +107,41 @@
 - name: Courier EF (Elsner+Flake)
   myfonts_url: https://www.myfonts.com/collections/courier-b-font-elsner-flake
   descr: by Elsner+Flake.
+  tags:
+    - courier
 - name: Courier Line Draw (Monotype)
   myfonts_url: https://www.myfonts.com/collections/courier-line-draw-font-monotype-imaging
   descr: from Monotype.
+  tags:
+    - courier
 - name: Courier M (URW)
   myfonts_url: https://www.myfonts.com/collections/courier-font-urw
   descr: by URW.
+  tags:
+    - courier
 - name: Courier PS (Monotype)
   myfonts_url: https://www.myfonts.com/collections/courier-ps-font-monotype-imaging
   descr: by Monotype.
+  tags:
+    - courier
 - name: Courier SB (Scangraphic Digital)
   myfonts_url: https://www.myfonts.com/collections/courier-sb-font-scangraphic-digital-type-collection
   descr: by Scangraphic Digital
+  tags:
+    - courier
 - name: Courier (ParaType)
   url: https://www.fontspring.com/fonts/paratype/courier
+  tags:
+    - courier
+- name: Courier Sans Mono
+  url: https://lineto.com/typefaces/courier-sans-mono
+  descr: from Lineto.
+  tags:
+    - courier
 - name: Courier Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/courier-std
+  tags:
+    - courier
 - name: Courier New OS (Monotype)
   url: https://www.myfonts.com/collections/courier-new-font-monotype-imaging
 - name: Courier 10 Pitch WGL (Bitstream)
@@ -133,9 +152,6 @@
   url: https://www.myfonts.com/collections/fontcraft-courier-font-scriptorium
 - name: Courier LT Round (Linotype)
   url: https://www.myfonts.com/collections/courier-lt-round-font-linotype
-- name: Courier Sans Mono
-  url: https://lineto.com/typefaces/courier-sans-mono
-  descr: from Lineto.
 - name: Cumberland
   myfonts_url: https://www.myfonts.com/collections/cumberland-font-monotype-imaging
 - name: Cygnito Mono
@@ -212,6 +228,8 @@
   url: https://www.fontspring.com/fonts/brownfox/formular
 - name: Foundation Mono (Courier)
   url: https://www.fontspring.com/fonts/fontsite/foundation-mono
+  tags:
+    - courier
 - name: Founders Grotesk Mono
   url: https://klim.co.nz/retail-fonts/founders-grotesk-mono/
 - name: Functor Mono
@@ -301,12 +319,20 @@
   url: https://lineto.com/typefaces/lettera-mono
 - name: Letter Gothic ES (FontSite)
   url: https://www.fontspring.com/fonts/fontsite/letter-gothic-fs
+  tags:
+    - letter gothic
 - name: Letter Gothic Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/letter-gothic-std
+  tags:
+    - letter gothic
 - name: Letter Gothic 12 Pitch (Bitstream)
   url: https://www.myfonts.com/collections/letter-gothic-font-bitstream
+  tags:
+    - letter gothic
 - name: FF Letter Gothic Mono
   url: https://www.myfonts.com/collections/letter-gothic-mono-font-fontfont
+  tags:
+    - letter gothic
 - name: Linefeed
   url: https://typodermicfonts.com/linefeed/
   description: '[line printer inspired]'
@@ -378,47 +404,88 @@
       One weight available free of cost.
 - name: OCR-A Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/ocr-a-std
+  coding: sort of
+  tags:
+    - ocr-a
 - name: OCR-A (SoftMaker)
   url: https://www.fontspring.com/fonts/softmaker/ocr-a
+  coding: sort of
+  tags:
+    - ocr-a
 - name: OCR-A EF (Elsner+Flake)
   url: https://www.myfonts.com/collections/ocra-font-elsner-flake
+  tags:
+    - ocr-a
 - name: OCR-A (FontSite)
   url: https://www.fontspring.com/fonts/fontsite/ocr-a
+  coding: sort of
+  tags:
+    - ocr-a
 - name: OCR-A (Bitstream)
   url: https://www.myfonts.com/collections/ocr-a-font-bitstream
+  tags:
+    - ocr-a
 - name: OCR-A M (URW)
   url: https://www.myfonts.com/collections/ocra-font-urw
+  tags:
+    - ocr-a
 - name: OCR-A Extended (Monotype)
   url: https://www.myfonts.com/collections/ocr-a-extended-font-monotype-imaging
+  tags:
+    - ocr-a
 - name: OCR-A (Linotype)
   url: https://www.myfonts.com/collections/ocr-a-inactive-font-linotype
+  tags:
+    - ocr-a
 - name: OCR-A EF Pro (Elsner+Flake)
   url: https://www.myfonts.com/collections/ocr-a-ef-pro-font-elsner-flake
+  tags:
+    - ocr-a
 - name: OCR-A AI (Apply Interactive)
   url: https://www.myfonts.com/collections/ocr-a-ai-font-apply-interactive
+  tags:
+    - ocr-a
 - name: OCR-A Tribute Monospaced
   url: https://www.myfonts.com/collections/ocr-a-tribute-font-linotype
   notes: |
     Entire family contains three monospaces and three proportionals
 - name: OCR-B Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/ocr-b-std
+  coding: sort of
+  tags:
+    - ocr-b
+- name: OCR-B Std (Adobe)
+  url: https://www.fontspring.com/fonts/adobe/ocr-b-std
+  tags:
+    - ocr-b
 - name: OCR-B (Bitstream)
   url: https://www.myfonts.com/collections/ocr-b-font-bitstream
+  tags:
+    - ocr-b
 - name: OCR-B (Linotype)
   url: https://www.myfonts.com/collections/ocr-b-2-font-linotype
+  tags:
+    - ocr-b
 - name: OCR-B SB (Scangraphic Digital)
   url: https://www.myfonts.com/collections/ocr-b-sb-font-scangraphic-digital-type-collection
+  tags:
+    - ocr-b
 - name: OCR-B Letterpress M (URW)
   url: https://www.myfonts.com/collections/ocr-b-letterpress-font-urw
+  tags:
+    - ocr-b
 - name: OCR-B (Tilde)
   url: https://www.myfonts.com/collections/ocr-b-10-font-tilde
+  tags:
+    - ocr-b
 - name: OCR-B EF (Elsner+Flake)
   url: https://www.myfonts.com/collections/ocr-b-font-elsner-flake
+  tags:
+    - ocr-b
 - name: OCRJ
   myfonts_url: https://www.myfonts.com/collections/ocrj-font-test-pilot-collective
 - name: OCRK
   myfonts_url: https://www.myfonts.com/collections/ocrk-font-test-pilot-collective
-
 - name: Odisseia
   myfonts_url: https://www.myfonts.com/collections/odisseia-font-niramekko
 - name: Olive Green Mono
@@ -435,12 +502,20 @@
   url: http://www.ourpolitesocietytype.net/fonts/ops-placard/
 - name: Orator Pitch (Bitstream)
   url: https://www.myfonts.com/products/10-pitch-orator-434431
+  tags:
+    - orator
 - name: Orator 15 Pitch (Bitstream)
   url: https://www.myfonts.com/products/15-pitch-orator-434436
+  tags:
+    - orator
 - name: Orator FS (FontSite)
   url: https://www.fontspring.com/fonts/fontsite/orator-fs
+  tags:
+    - orator
 - name: Orator Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/orator-std
+  tags:
+    - orator
 - name: Panama Monospace
   url: https://www.featuredtype.com/typefaces/panama
 - name: Panoptica
@@ -466,14 +541,24 @@
   myfonts_url: https://www.myfonts.com/collections/polli-sans-font-will-albin-clark
 - name: Prestige Elite Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/prestige-elite-std
+  tags:
+    - prestige
 - name: Prestige 12 (Tilde)
   url: https://www.myfonts.com/collections/prestige-12-font-tilde
+  tags:
+    - prestige
 - name: Prestige 12 Pitch (Bitstream)
   url: https://www.myfonts.com/collections/prestige-12-pitch-font-bitstream
+  tags:
+    - prestige
 - name: Prestige Elite M (URW)
   url: https://www.myfonts.com/collections/prestige-elite-font-urw
+  tags:
+    - prestige
 - name: Prestige Elite (Linotype)
   url: https://www.myfonts.com/collections/prestige-elite-font-linotype
+  tags:
+    - prestige
 - name: Prima Sans Mono
   foundry: Bitstream
   myfonts_url: https://www.myfonts.com/collections/prima-sans-monospace-font-bitstream
