@@ -165,8 +165,18 @@
 
 ## Paid
 
-242 typefaces listed here.
+243 typefaces listed here.
 
+-   [8 Point Lining Typewriter No. 1](https://a2-type.co.uk/8-point-lining-typewriter-no-1)
+    -   Notes:
+        -   This single style typeface is a digital interpretation of the 8
+            Point Lining Typewriter alphabet featured in the Barnhart Brothers
+            & Spindler Typeface specimen, published in the US c. 1908. Unusual
+            details, such as the flamboyant leg on the capital R; the
+            pronounced curve of the lowercase t; the exaggerated overhang on
+            the lowercase f; and the flourished numerals, give this typeface a
+            distinct appearance, which is pleasing to the eye, especially when
+            set in small point sizes.
 -   [Adaptive Mono](https://www.psyops.com/adaptive-mono/)
 -   [Adore Mono](https://garagefonts.com/font/adore-mono)
 -   [Adverb Mono](https://www.myfonts.com/collections/adverb-mono-font-rumors-foundry)

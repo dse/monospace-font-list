@@ -7,6 +7,8 @@
   description: line printer inspired
 - name: 64-SRC
   myfonts_url: https://www.myfonts.com/fonts/ilott-type/64-src/
+  tags:
+    - retro
 - name: Adelle Mono
   url: https://www.myfonts.com/collections/adelle-mono-font-type-together
 - name: Aeroport
@@ -53,6 +55,8 @@
   description: OCR-B inspired
 - name: Best Choice
   url: https://dharmatype.com/best-choice
+- name: Boing Mono
+  url: https://a2-type.co.uk/boing-mono
 - name: Calling Code
   url: https://dharmatype.com/calling-code
 - name: Carot Mono

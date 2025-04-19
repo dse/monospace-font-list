@@ -1,4 +1,4 @@
-72 typefaces listed here.
+73 typefaces listed here.
 
 -   [0Arame Mono](https://www.fontspring.com/fonts/hitype/0arame-mono)
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
@@ -19,6 +19,7 @@
 -   [BB Manual Mono](https://www.fontspring.com/fonts/bold_studio/bb-manual-mono-pro)
 -   [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/)
 -   [Best Choice](https://dharmatype.com/best-choice)
+-   [Boing Mono](https://a2-type.co.uk/boing-mono)
 -   [Calling Code](https://dharmatype.com/calling-code)
 -   [Carot Mono](https://www.stormtype.com/families/carot-mono)
 -   [Cartograph CF](https://connary.com/cartograph.html)
