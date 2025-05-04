@@ -1,4 +1,4 @@
-263 typefaces listed here.
+264 typefaces listed here.
 
 -   [8 Point Lining Typewriter No. 1](https://a2-type.co.uk/8-point-lining-typewriter-no-1)
     -   Notes:
@@ -186,6 +186,7 @@
 -   [Nice Weekend](https://www.myfonts.com/collections/nice-weekend-font-garagefonts)
 -   [URW Nimbus Sans Novus](https://www.fontspring.com/fonts/urw-type-foundry/urw-nimbus-sans-novus)
 -   [Nitti](https://www.boldmonday.com/typeface/nitti/)
+-   [NorB Typewriter](https://www.notationcentral.com/product/norb-typewriter/)
 -   [Nudica Mono](https://www.atipofoundry.com/fonts/nudica-mono)
     -   Notes:
         -   One weight available free of cost.

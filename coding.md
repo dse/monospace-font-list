@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-219 typefaces listed here.
+220 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
 -   [3270font](https://github.com/rbanffy/3270font)
@@ -94,6 +94,8 @@
         -   [dotted and slashed zero variants](https://www.cosmix.org/software/)
         -   [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
 -   [DSE Typewriter](https://github.com/dse/dse-typewriter-font)
+    -   Notes:
+        -   author says you'll probalby like his Old Timey Mono, based on Reproducing Typewriter, better.
 -   [DSE Typewriter Bitmap](https://github.com/dse/dse-typewriter-bitmap-font)
 -   [Edlo](https://github.com/ehamiter/Edlo)
 -   [Envy Code B](https://damieng.com/blog/2006/11/06/envy-code-b-font-available-in-ttf-format/)
@@ -213,6 +215,8 @@
 -   [Old School PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
     -   Notes:
         -   from which is derived [IBM Fonts](https://farsil.github.io/ibmfonts/)
+-   [Old Timey Mono](https://webonastick.com/fonts/old-timey-mono/)
+    -   [github](https://github.com/dse/old-timey-mono-font/)
 -   [OpenGenera fonts](https://archive.org/download/SymblicsOpenGenera)
     -   Notes:
         -   look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
