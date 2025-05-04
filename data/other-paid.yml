@@ -397,6 +397,9 @@
   url: https://www.fontspring.com/fonts/urw-type-foundry/urw-nimbus-sans-novus
 - name: Nitti
   url: https://www.boldmonday.com/typeface/nitti/
+- name: NorB Typewriter
+  url: https://www.notationcentral.com/product/norb-typewriter/
+  description: an emulation of IBM's Light Italic Selectric golfball
 - name: Nudica Mono
   url: https://www.atipofoundry.com/fonts/nudica-mono
   notes:

@@ -206,6 +206,8 @@
 - name: DSE Typewriter
   description: an old-timey monospace typeface you might use for coding
   source_url: https://github.com/dse/dse-typewriter-font
+  notes:
+    - author says you'll probalby like his Old Timey Mono, based on Reproducing Typewriter, better.
   tags:
     - my own
 - name: DSE Typewriter Bitmap
@@ -478,6 +480,12 @@
   url: https://int10h.org/oldschool-pc-fonts/fontlist/
   notes: |-
     from which is derived [IBM Fonts](https://farsil.github.io/ibmfonts/)
+- name: Old Timey Mono
+  url: https://webonastick.com/fonts/old-timey-mono/
+  github_url: https://github.com/dse/old-timey-mono-font/
+  description: based on Reproducing Typewriter
+  tags:
+    - my own
 - name: OpenGenera fonts
   url: https://archive.org/download/SymblicsOpenGenera
   notes: |-
