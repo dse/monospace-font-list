@@ -426,6 +426,19 @@
   description: based on the 7-pin DECwriter II printer
 - name: Monaspace
   url: https://monaspace.githubnext.com/
+  notes: |
+    A superfamily of typefaces.
+
+    The superfamilies are Neon, a neo-grotesque sans serif; Argon, a
+    humanist sans serif; Xenon, a slab serif; Radon, a handwriting
+    typeface; and Krypton, a 'mechanical' sans serif.
+
+    Monaspace's major innovation is called TEXTUAL HEALING.
+    Characters like 'm' and 'w', typically crowded in a monospace
+    typeface, can expand a little bit if they're next to characters
+    that can take a little less room, like 'i' and 'L'.  This reduces
+    what's called "uneven texture".
+    
   description: superfamily
 - name: Monego
   source_url: https://github.com/cseelus/monego
@@ -493,6 +506,9 @@
   url_2_url: https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera
 - name: Openstep Mono
   url: https://fontstruct.com/fontstructions/show/918633/openstep_mono
+- name: Opus One
+  github_url: https://github.com/chaychoong/OpusOne
+  url: https://blog.chay.dev/i-made-a-font/
 - name: Ormaxx
   url: https://web.archive.org/web/20060715183153/http://www.ormaxx.ch/stuff.php?nummer=1
   notes: |
