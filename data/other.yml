@@ -258,16 +258,17 @@
 - name: Raize
   url: https://www.softpedia.com/get/Others/Font-Utils/Raize-Font.shtml
   description: '[free]'
+  also_url: https://web.archive.org/web/20160507151851/http://www.raize.com/DevTools/Tools/RzFont.asp
 - name: Reader Sans Mono
   url: 'https://web.archive.org/web/20060706161201/http://catalogue.bl.uk/F/?func=file&file_name=help-characters#download_fonts'
   download: http://www.bl.uk/catalogues/tt0596m0.ttf
   notes: |
-    Can't find an official website.  Download link will have to do.
-    Not a particularly interesting or novel design, but its emphasis
-    is on Unicode support, with 1,269 characters and 22 additional
-    variants.
-
     The British Library commissioned Bitstream to create the typeface.
+    Unfortunately their web site doesn't contain info.
+
+    Reader Sans is not a particularly interesting or novel design, but
+    its emphasis is on Unicode support, with 1,269 characters and 22
+    additional variants.
   via: https://alanwood.net/unicode/fonts.html
 - name: Relaxed Typing Mono JP
   source_url: https://github.com/mshioda/relaxed-typing-mono-jp
