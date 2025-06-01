@@ -2,8 +2,12 @@
 - name: 0xProto
   source_url: https://github.com/0xType/0xProto
   description: |
-    A rather neat and fun monospace font with lots of features to differentiate the letters.
-    -   Includes a feature called **Texture Healing**, where characters like "m" and "w" can grow if the characters next to them can shrink.
+    A rather neat and fun monospace font with lots of features to
+    differentiate the letters.  Includes a feature called **Texture
+    Healing**, where characters like "m" and "w" can grow if the
+    characters next to them can shrink.
+
+    Github's Monaspace also has texture healing.
 - name: 3270font
   source_url: https://github.com/rbanffy/3270font
   description: |
@@ -98,6 +102,8 @@
     "A free retro monospaced font inspired by 20th century electrical and mechanical design"
   notes:
     - Do you like Routed Gothic?
+- name: BSU-Kermit
+  download_url: https://www.lowing.org/fonts/Free/BSU_Kermit.FON
 - name: Brutalist Mono
   source_url: https://github.com/BRUTALISM/Brutalist
   description: derived from Deja Vu Sans Mono
@@ -433,12 +439,13 @@
     humanist sans serif; Xenon, a slab serif; Radon, a handwriting
     typeface; and Krypton, a 'mechanical' sans serif.
 
-    Monaspace's major innovation is called TEXTUAL HEALING.
+    Monaspace's major innovation is called TEXTURE HEALING.
     Characters like 'm' and 'w', typically crowded in a monospace
     typeface, can expand a little bit if they're next to characters
     that can take a little less room, like 'i' and 'L'.  This reduces
     what's called "uneven texture".
-    
+
+    0xProto also has texture healing.    
   description: superfamily
 - name: Monego
   source_url: https://github.com/cseelus/monego
@@ -514,10 +521,20 @@
   notes: |
     a set of fonts in BDF, PCF, and .FON for X11 and Windows
   via: https://davidawindham.com/fonts/
+- name: Osaka
+  download_url: https://web.archive.org/web/20060218153823/http://osakattf.hp.infoseek.co.jp:80/converted/osaka.unicode.ttf.bz2
+  description: |
+    It's just Monaco with Japanese glyphs from Heisei Kaku Gothic.
+  via: 
+    - http://mundogeek.net/archivos/2006/11/18/fuentes-para-programacion/
+    - https://discourse.codinghorror.com/t/revisiting-programming-fonts/460/62
 - name: Overpass
   url: https://overpassfont.org/
 - name: Oxygen Mono
   gfonts_url: https://fonts.google.com/specimen/Oxygen+Mono
+- name: PCSANSI.FON
+  download_url: https://github.com/dcgrace/e93/raw/refs/heads/master/PCSANSI.FON
+  via: https://discourse.codinghorror.com/t/revisiting-programming-fonts/460/56
 - name: Peep
   source_url: https://github.com/greemo/peep-font
   notes:
@@ -605,6 +622,8 @@
   description: if you like Comic Sans
   notes: >-
     Based on Comic Mono, with legibility enhancements and a lighter weight.
+  see_also:
+    - Comic Shaans
 - name: Server Mono
   url: https://servermono.com/
 - name: SF Mono
@@ -623,6 +642,11 @@
     - pcf
 - name: Share Tech Mono
   gfonts_url: https://fonts.google.com/specimen/Share+Tech+Mono
+- name: SHELDON4.fon
+  url: https://www.lowing.org/fonts/Free/Sheldon4_License.txt
+  notes: |
+    modified version available:
+    https://web.archive.org/web/20090414084153/http://grosskurth.ca/typography/sheldon4.fon
 - name: Sometype Mono
   url: https://monospacedfont.com/
   source_url: https://github.com/dharmatype/Sometype-Mono
