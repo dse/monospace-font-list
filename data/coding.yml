@@ -306,7 +306,7 @@
 - name: Haskplex
   source_url: https://github.com/huytd/haskplex-font
   description: Hasklig + IBM Plex Mono
-- name: Hera Mono
+- name: Hera
   source_url: https://github.com/sayyadirfanali/Hera
   description: mixture of glyphs from other monospace fonts
 - name: Hermit
