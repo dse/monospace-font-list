@@ -55,9 +55,9 @@
   description: 'slight Comic Sans vibe - based on APL385'
 - name: APLX
   url: https://www.dyalog.com/aplx.htm
-- name: Arev
-  url: http://tavmjong.free.fr/FONTS/
   description: derived from Deja Vu Sans Mono
+# - name: Arev
+#   url: http://tavmjong.free.fr/FONTS/
 - name: Astigmata
   url: https://medium.com/codex/astigmata-my-monospace-programming-font-b28ccfa9b025
   description: |
