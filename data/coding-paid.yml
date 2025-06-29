@@ -27,6 +27,8 @@
     Four are proportional; four are actual monospace.
     The monospace variants are the ones with "FW" in the name,
     meaning "fixed width".
+- name: AOT Serial Mono
+  url: https://prioritypeco.com/product/aot-serial-mono/
 - name: Arazatí
   url: https://www.fontspring.com/fonts/underground/arazati
   notes: |
@@ -202,6 +204,8 @@
 - name: TheSansMono
   url: https://www.lucasfonts.com/fonts/the-sans-mono
   description: used in some O'Reilly & Associates books
+  notes:
+    - TheSansMonoCondensed is an older variant.
 - name: Triplicate
   url: https://mbtype.com/fonts/triplicate/
   description: includes a coding variant

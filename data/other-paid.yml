@@ -200,6 +200,8 @@
   url: https://lineto.com/typefaces/excellent
 - name: Fabrikat Mono
   url: https://www.hvdfonts.com/fonts/fabrikat-mono
+- name: Fairline Mono
+  url: https://www.youworkforthem.com/font/T27200/fairline-mono
 - name: Fedra Mono
   url: https://www.typotheque.com/fonts/fedra-mono
   foundry: Typotheque
@@ -277,6 +279,8 @@
 - name: Hyperfont
   url: https://en.wikipedia.org/wiki/HyperFont
   description: distributed with HyperTerminal
+- name: Ingram Mono
+  url: https://www.youworkforthem.com/font/T11571/ingram-mono
 - name: Igoe
   myfonts_url: https://www.myfonts.com/collections/igoe-font-linecreative
 - name: Ingrid Mono

@@ -63,8 +63,12 @@
   description: |
     Developer Jason Knight needed a custom font for his deteriorating
     vision before cataract surgery, and he created one.
+- name: Atari ST
+  url: http://www.modelb.bbcmicro.com/retro-fonts.html
 - name: Atarist
   source_url: https://github.com/ntwk/atarist-font
+- name: Teletext
+  url: http://www.modelb.bbcmicro.com/retro-fonts.html
 - name: Atkinson Hyperlegible Mono
   url: https://www.brailleinstitute.org/freefont/
   notes: |
