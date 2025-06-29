@@ -56,3 +56,13 @@ Just in case you want some impossibly fancy shell prompts.
 -   [Coding Font Tournament](https://www.codingfont.com/)
 
 -   [ProgrammingFonts.org](https://app.programmingfonts.org/)
+    -   [github](https://github.com/braver/programmingfonts)
+
+## Repositories Containing A Number of Fonts
+
+-   https://github.com/zhenruyan/codefont
+-   https://github.com/braver/programmingfonts
+
+## Other Font Sources
+
+-   [lowing.org](https://www.lowing.org/fonts/Free/?MD)
