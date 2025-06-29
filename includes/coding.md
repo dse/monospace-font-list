@@ -1,4 +1,4 @@
-220 typefaces listed here.
+226 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
 -   [3270font](https://github.com/rbanffy/3270font)
@@ -19,9 +19,10 @@
 -   [APL385](https://apl385.com/fonts/)
 -   [APL386](https://abrudz.github.io/APL386/)
 -   [APLX](https://www.dyalog.com/aplx.htm)
--   [Arev](http://tavmjong.free.fr/FONTS/)
 -   [Astigmata](https://medium.com/codex/astigmata-my-monospace-programming-font-b28ccfa9b025)
+-   [Atari ST](http://www.modelb.bbcmicro.com/retro-fonts.html)
 -   [Atarist](https://github.com/ntwk/atarist-font)
+-   [Teletext](http://www.modelb.bbcmicro.com/retro-fonts.html)
 -   [Atkinson Hyperlegible Mono](https://www.brailleinstitute.org/freefont/)
     -   Notes:
         -   Designed for people with visual impairments.
@@ -38,6 +39,8 @@
 -   [Brass Mono](https://github.com/fonsecapeter/brass_mono)
     -   Notes:
         -   Do you like Routed Gothic?
+-   BSU-Kermit
+    -   [download](https://www.lowing.org/fonts/Free/BSU_Kermit.FON)
 -   [Brutalist Mono](https://github.com/BRUTALISM/Brutalist)
 -   [Camingo Code](https://janfromm.de/typefaces/camingocode/)
 -   [Canton Typewriter Bitmap](https://github.com/dse/font-canton-typewriter-bitmap)
@@ -125,7 +128,7 @@
 -   [Hack](https://sourcefoundry.org/hack/)
 -   [Hasklig](https://github.com/i-tu/Hasklig)
 -   [Haskplex](https://github.com/huytd/haskplex-font)
--   [Hera Mono](https://github.com/sayyadirfanali/Hera)
+-   [Hera](https://github.com/sayyadirfanali/Hera)
 -   [Hermit](https://pcaro.es/hermit/)
 -   [HVDOSBox](https://download.cnet.com/hvdosbox-windows-terminal-fonts/3000-2094_4-10635163.html)
     -   Notes:
@@ -185,6 +188,20 @@
     -   [github](https://github.com/IdreesInc/Miracode)
 -   [mnicmp](https://fontlibrary.org/en/font/mnicmp)
 -   [Monaspace](https://monaspace.githubnext.com/)
+    -   Notes:
+        -   A superfamily of typefaces.
+            
+            The superfamilies are Neon, a neo-grotesque sans serif; Argon, a
+            humanist sans serif; Xenon, a slab serif; Radon, a handwriting
+            typeface; and Krypton, a 'mechanical' sans serif.
+            
+            Monaspace's major innovation is called TEXTURE HEALING.
+            Characters like 'm' and 'w', typically crowded in a monospace
+            typeface, can expand a little bit if they're next to characters
+            that can take a little less room, like 'i' and 'L'.  This reduces
+            what's called "uneven texture".
+            
+            0xProto also has texture healing.
 -   [Monego](https://github.com/cseelus/monego)
 -   [Monocraft](https://github.com/IdreesInc/Monocraft)
 -   [Monoid](https://larsenwork.com/monoid/)
@@ -218,11 +235,17 @@
         -   look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
     -   [url\_2](https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera)
 -   [Openstep Mono](https://fontstruct.com/fontstructions/show/918633/openstep_mono)
+-   [Opus One](https://blog.chay.dev/i-made-a-font/)
+    -   [github](https://github.com/chaychoong/OpusOne)
 -   [Ormaxx](https://web.archive.org/web/20060715183153/http://www.ormaxx.ch/stuff.php?nummer=1)
     -   Notes:
         -   a set of fonts in BDF, PCF, and .FON for X11 and Windows
+-   Osaka
+    -   [download](https://web.archive.org/web/20060218153823/http://osakattf.hp.infoseek.co.jp:80/converted/osaka.unicode.ttf.bz2)
 -   [Overpass](https://overpassfont.org/)
 -   [Oxygen Mono](https://fonts.google.com/specimen/Oxygen+Mono)
+-   PCSANSI.FON
+    -   [download](https://github.com/dcgrace/e93/raw/refs/heads/master/PCSANSI.FON)
 -   [Peep](https://github.com/greemo/peep-font)
     -   Notes:
         -   previously listed here as Zevv Peep
@@ -260,6 +283,10 @@
         -   also [bitmaps](https://www.gnome-look.org/p/998527/)
         -   also https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
 -   [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono)
+-   [SHELDON4.fon](https://www.lowing.org/fonts/Free/Sheldon4_License.txt)
+    -   Notes:
+        -   modified version available:
+            https://web.archive.org/web/20090414084153/http://grosskurth.ca/typography/sheldon4.fon
 -   [Sometype Mono](https://monospacedfont.com/)
     -   [source](https://github.com/dharmatype/Sometype-Mono)
 -   [Sono](https://usemodify.com/fonts/sono/)

@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-124 typefaces listed here.
+125 typefaces listed here.
 
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
 -   [Angelus III](https://www.myfonts.com/collections/angelus-iii-font-scriptorium)
@@ -119,6 +119,15 @@
 -   [QuickType Mono](https://fontsgeek.com/fonts/QuickType-Mono-Regular)
 -   [QuickType II Mono](https://fontsgeek.com/fonts/QuickType-II-Mono-Regular)
 -   [Raize](https://www.softpedia.com/get/Others/Font-Utils/Raize-Font.shtml)
+    -   [also](https://web.archive.org/web/20160507151851/http://www.raize.com/DevTools/Tools/RzFont.asp)
+-   [Reader Sans Mono](https://web.archive.org/web/20060706161201/http://catalogue.bl.uk/F/?func=file&file_name=help-characters#download_fonts)
+    -   Notes:
+        -   The British Library commissioned Bitstream to create the typeface.
+            Unfortunately their web site doesn't contain info.
+            
+            Reader Sans is not a particularly interesting or novel design, but
+            its emphasis is on Unicode support, with 1,269 characters and 22
+            additional variants.
 -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
 -   [Retro Type 3 PostScript Fonts](https://unifoundry.com/retro/index.html)
 -   [Retroscape](https://fontlibrary.org/en/font/retroscape)
@@ -167,7 +176,7 @@
 
 ## Paid
 
-264 typefaces listed here.
+266 typefaces listed here.
 
 -   [8 Point Lining Typewriter No. 1](https://a2-type.co.uk/8-point-lining-typewriter-no-1)
     -   Notes:
@@ -264,6 +273,7 @@
 -   [Euclid Mono](https://www.swisstypefaces.com/lab/#Euclid%20Mono)
 -   [Excellent](https://lineto.com/typefaces/excellent)
 -   [Fabrikat Mono](https://www.hvdfonts.com/fonts/fabrikat-mono)
+-   [Fairline Mono](https://www.youworkforthem.com/font/T27200/fairline-mono)
 -   [Fedra Mono](https://www.typotheque.com/fonts/fedra-mono)
 -   [Feggolite Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [FF Attribute Mono](https://viktornuebel.com/retail-fonts/attribute/)
@@ -297,6 +307,7 @@
 -   Helvetica
 -   [Heptagroan](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Hyperfont](https://en.wikipedia.org/wiki/HyperFont)
+-   [Ingram Mono](https://www.youworkforthem.com/font/T11571/ingram-mono)
 -   [Igoe](https://www.myfonts.com/collections/igoe-font-linecreative)
 -   [Ingrid Mono](https://www.myfonts.com/collections/ingrid-mono-font-jorg-schmitt)
 -   [Interstate Mono](https://fonts.adobe.com/fonts/interstate-mono)

@@ -1,4 +1,4 @@
-264 typefaces listed here.
+266 typefaces listed here.
 
 -   [8 Point Lining Typewriter No. 1](https://a2-type.co.uk/8-point-lining-typewriter-no-1)
     -   Notes:
@@ -95,6 +95,7 @@
 -   [Euclid Mono](https://www.swisstypefaces.com/lab/#Euclid%20Mono)
 -   [Excellent](https://lineto.com/typefaces/excellent)
 -   [Fabrikat Mono](https://www.hvdfonts.com/fonts/fabrikat-mono)
+-   [Fairline Mono](https://www.youworkforthem.com/font/T27200/fairline-mono)
 -   [Fedra Mono](https://www.typotheque.com/fonts/fedra-mono)
 -   [Feggolite Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [FF Attribute Mono](https://viktornuebel.com/retail-fonts/attribute/)
@@ -128,6 +129,7 @@
 -   Helvetica
 -   [Heptagroan](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Hyperfont](https://en.wikipedia.org/wiki/HyperFont)
+-   [Ingram Mono](https://www.youworkforthem.com/font/T11571/ingram-mono)
 -   [Igoe](https://www.myfonts.com/collections/igoe-font-linecreative)
 -   [Ingrid Mono](https://www.myfonts.com/collections/ingrid-mono-font-jorg-schmitt)
 -   [Interstate Mono](https://fonts.adobe.com/fonts/interstate-mono)

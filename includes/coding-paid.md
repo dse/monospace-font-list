@@ -1,4 +1,4 @@
-89 typefaces listed here.
+90 typefaces listed here.
 
 -   [0Arame Mono](https://www.fontspring.com/fonts/hitype/0arame-mono)
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
@@ -14,6 +14,7 @@
             Four are proportional; four are actual monospace.
             The monospace variants are the ones with "FW" in the name,
             meaning "fixed width".
+-   [AOT Serial Mono](https://prioritypeco.com/product/aot-serial-mono/)
 -   [Arazatí](https://www.fontspring.com/fonts/underground/arazati)
     -   Notes:
         -   digits are underlined
@@ -98,6 +99,8 @@
         -   dot matrix printer
 -   [TG Frekuent Mono](https://www.fontspring.com/fonts/tegami-type/tg-frekuent-mono)
 -   [TheSansMono](https://www.lucasfonts.com/fonts/the-sans-mono)
+    -   Notes:
+        -   TheSansMonoCondensed is an older variant.
 -   [Triplicate](https://mbtype.com/fonts/triplicate/)
 -   [TT Autonomous](https://www.fontspring.com/fonts/typetype/tt-autonomous)
 -   [TT Interphases Pro](https://www.fontspring.com/fonts/typetype/tt-interphases-pro)
