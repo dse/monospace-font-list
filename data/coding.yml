@@ -418,8 +418,7 @@
   description: bundled with macOS, derived from Deja Vu
   # [MesloLGS NF](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts)
 - name: Mensch
-  url: https://www.losttype.com/font/?name=mensch
-  description: '[pay what you want]'
+  url: https://robey.lag.net/2010/06/21/mensch-font.html
 - name: Meslo
   source_url: https://github.com/andreberg/Meslo-Font
   description: Menlo (derived from Deja Vu) with some tweaks
