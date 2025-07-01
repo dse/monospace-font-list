@@ -66,3 +66,9 @@ Just in case you want some impossibly fancy shell prompts.
 ## Other Font Sources
 
 -   [lowing.org](https://www.lowing.org/fonts/Free/?MD)
+
+## Other Font Lists
+
+-   https://github.com/brabadu/awesome-fonts
+-   https://github.com/gabrielelana/awesome-terminal-fonts
+-   https://github.com/Gaafar/dev-fonts
