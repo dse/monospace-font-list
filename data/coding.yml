@@ -735,7 +735,7 @@
 - name: Wumpus Mono
   source_url: https://github.com/vaughantype/wumpus-mono/
 - name: X Fonts for Windows
-  url: https://www.hassings.dk/lars/fonts.html]
+  url: https://www.hassings.dk/lars/fonts.html
   notes:
     - .fon format
 - name: X11 Fonts
