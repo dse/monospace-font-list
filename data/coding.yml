@@ -700,7 +700,7 @@
   url: https://www.netalive.org/tinkering/triskweline/
 - name: TT2020
   url: https://copypaste.wtf/TT2020/docs/
-- name: TXTT
+- name: TxFonts
   url: https://tug.org/FontCatalogue/txtt/
   notes:
     - available as PS Type 1 and some other older formats.
