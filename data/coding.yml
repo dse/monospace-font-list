@@ -136,15 +136,15 @@
   description: |-
     if you like Comic Sans
   notes: |-
-    forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
-- name: Comic Shaans
+    forked from [comic shanns](https://github.com/shannpersand/comic-shanns)
+- name: Comic Shanns
   github_url: https://github.com/shannpersand/comic-shanns
   notes: >-
     V2 released with support for accented characters, math symbols, and other symbols.
-- name: Comic Shaans Mono
+- name: Comic Shanns Mono
   github_url: https://github.com/jesusmgg/comic-shanns-mono
   notes: >-
-    Based on Comic Shaans v2 with metrics adjusted and even more additional characters.
+    Based on Comic Shanns v2 with metrics adjusted and even more additional characters.
 - name: Commit Mono
   url: https://commitmono.com/
   description: |
@@ -620,13 +620,13 @@
   url: https://www.dafont.com/selectric.font
   notes:
     - courier
-- name: Serious Shaans
+- name: Serious Shanns
   url: https://kabeech.github.io/serious-shanns/
   description: if you like Comic Sans
   notes: >-
     Based on Comic Mono, with legibility enhancements and a lighter weight.
   see_also:
-    - Comic Shaans
+    - Comic Shanns
 - name: Server Mono
   url: https://servermono.com/
 - name: SF Mono
@@ -699,7 +699,7 @@
   url: https://www.netalive.org/tinkering/triskweline/
 - name: TT2020
   url: https://copypaste.wtf/TT2020/docs/
-- name: TXTT
+- name: TxFonts
   url: https://tug.org/FontCatalogue/txtt/
   notes:
     - available as PS Type 1 and some other older formats.
