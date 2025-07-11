@@ -293,10 +293,15 @@
   url: https://go.dev/blog/go-fonts
 - name: Gohu
   url: https://font.gohu.org/
+- name: Coogle Sans Code
+  github_url: https://github.com/googlefonts/googlesans-code
+  notes:
+    - based on Google Sans Mono, which see.
 - name: Google Sans Mono
   source_url: https://github.com/mehant-kr/Google-Sans-Mono
   description: |-
-    a/k/a Product Sans Mono
+    a/k/a Product Sans Mono, an older version of Google
+    Sans Code.
   via_url: https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/
 - name: Grid15
   url: https://typedrawers.com/discussion/964/grid15-futuristic-geometric-monospace
