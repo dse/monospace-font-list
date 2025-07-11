@@ -1,4 +1,4 @@
-226 typefaces listed here.
+227 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
 -   [3270font](https://github.com/rbanffy/3270font)
@@ -53,14 +53,14 @@
 -   [Code New Roman](https://www.dafont.com/code-new-roman.font)
 -   [Comic Mono](https://dtinth.github.io/comic-mono-font/)
     -   Notes:
-        -   forked from [comic shaans](https://github.com/shannpersand/comic-shanns)
--   Comic Shaans
+        -   forked from [comic shanns](https://github.com/shannpersand/comic-shanns)
+-   Comic Shanns
     -   Notes:
         -   V2 released with support for accented characters, math symbols, and other symbols.
     -   [github](https://github.com/shannpersand/comic-shanns)
--   Comic Shaans Mono
+-   Comic Shanns Mono
     -   Notes:
-        -   Based on Comic Shaans v2 with metrics adjusted and even more additional characters.
+        -   Based on Comic Shanns v2 with metrics adjusted and even more additional characters.
     -   [github](https://github.com/jesusmgg/comic-shanns-mono)
 -   [Commit Mono](https://commitmono.com/)
 -   [Consola Mono](https://fontlibrary.org/en/font/consolamono)
@@ -122,6 +122,10 @@
 -   [GNU Unifont](https://unifoundry.com/unifont/)
 -   [Go Mono](https://go.dev/blog/go-fonts)
 -   [Gohu](https://font.gohu.org/)
+-   Coogle Sans Code
+    -   Notes:
+        -   based on Google Sans Mono, which see.
+    -   [github](https://github.com/googlefonts/googlesans-code)
 -   [Google Sans Mono](https://github.com/mehant-kr/Google-Sans-Mono)
     -   [via](https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/)
 -   [Grid15](https://typedrawers.com/discussion/964/grid15-futuristic-geometric-monospace)
@@ -178,7 +182,7 @@
 -   [M+ Fonts](https://mplusfonts.github.io/)
 -   [Maple Mono](https://github.com/subframe7536/maple-font)
 -   Menlo
--   [Mensch](https://www.losttype.com/font/?name=mensch)
+-   [Mensch](https://robey.lag.net/2010/06/21/mensch-font.html)
 -   [Meslo](https://github.com/andreberg/Meslo-Font)
 -   [Metrickal](https://github.com/davelab6/metrickal-typeface)
 -   [Meyrin CERN](https://github.com/optional-is/Meyrin)
@@ -272,7 +276,7 @@
 -   [Selectric (by Paradox 2005)](https://www.dafont.com/selectric.font)
     -   Notes:
         -   courier
--   [Serious Shaans](https://kabeech.github.io/serious-shanns/)
+-   [Serious Shanns](https://kabeech.github.io/serious-shanns/)
     -   Notes:
         -   Based on Comic Mono, with legibility enhancements and a lighter weight.
 -   [Server Mono](https://servermono.com/)
@@ -310,7 +314,7 @@
         -   based on [Ti92Pluspc](https://fontsgeek.com/fonts/Ti92Pluspc-Regular)
 -   [Triskweline](https://www.netalive.org/tinkering/triskweline/)
 -   [TT2020](https://copypaste.wtf/TT2020/docs/)
--   [TXTT](https://tug.org/FontCatalogue/txtt/)
+-   [TxFonts](https://tug.org/FontCatalogue/txtt/)
     -   Notes:
         -   available as PS Type 1 and some other older formats.
 -   [Ubuntu Monospace](https://design.ubuntu.com/font)
@@ -326,7 +330,7 @@
     -   [uncut](https://uncut.wtf/monospace/whois/)
 -   [Writer](https://github.com/tonsky/font-writer)
 -   [Wumpus Mono](https://github.com/vaughantype/wumpus-mono/)
--   [X Fonts for Windows](https://www.hassings.dk/lars/fonts.html])
+-   [X Fonts for Windows](https://www.hassings.dk/lars/fonts.html)
     -   Notes:
         -   .fon format
 -   [X11 Fonts](https://gitlab.freedesktop.org/xorg/font)
