@@ -1,0 +1,17 @@
+ABCDEFGHIJKLM       send(to, from, count)
+NOPQRSTUVWXYZ       register short *to, *from;
+abcdefghijklm       register count;
+nopqrstuvwxyz       {
+0123456789'"`            register n = (count + 7) / 8;
+.,:;!?+-*/^<=>           switch (count %% 8) {
+()[]{}#$%&@_|~\          case 0: do { *to = *from++;
+                         case 7:      *to = *from++;
+oO08 iIlL1               case 6:      *to = *from++;
+g9qCGQ 8%&               case 5:      *to = *from++;
+<([{}])>                 case 4:      *to = *from++;
+.,:; -_=                 case 3:      *to = *from++;
+                         case 2:      *to = *from++;
+                         case 1:      *to = *from++;
+                                    } while (--n > 0);
+                         }
+                    }
