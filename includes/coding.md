@@ -1,4 +1,4 @@
-226 typefaces listed here.
+227 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
 -   [3270font](https://github.com/rbanffy/3270font)
@@ -122,6 +122,10 @@
 -   [GNU Unifont](https://unifoundry.com/unifont/)
 -   [Go Mono](https://go.dev/blog/go-fonts)
 -   [Gohu](https://font.gohu.org/)
+-   Coogle Sans Code
+    -   Notes:
+        -   based on Google Sans Mono, which see.
+    -   [github](https://github.com/googlefonts/googlesans-code)
 -   [Google Sans Mono](https://github.com/mehant-kr/Google-Sans-Mono)
     -   [via](https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/)
 -   [Grid15](https://typedrawers.com/discussion/964/grid15-futuristic-geometric-monospace)
