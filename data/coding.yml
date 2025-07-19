@@ -315,6 +315,8 @@
   description: mixture of glyphs from other monospace fonts
 - name: Hermit
   url: https://pcaro.es/hermit/
+  previews:
+    - previews/Hermit/Hermit-Regular.preview.png
 - name: HVDOSBox
   url: https://download.cnet.com/hvdosbox-windows-terminal-fonts/3000-2094_4-10635163.html
   notes: |

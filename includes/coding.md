@@ -130,6 +130,8 @@
 -   [Haskplex](https://github.com/huytd/haskplex-font)
 -   [Hera](https://github.com/sayyadirfanali/Hera)
 -   [Hermit](https://pcaro.es/hermit/)
+    -   Previews:
+        -   ![previews/Hermit/Hermit-Regular.preview.png](previews/Hermit/Hermit-Regular.preview.png)
 -   [HVDOSBox](https://download.cnet.com/hvdosbox-windows-terminal-fonts/3000-2094_4-10635163.html)
     -   Notes:
         -   .FON bitmap font for use with Windows

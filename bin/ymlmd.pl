@@ -79,6 +79,9 @@ package My::Item {
                 $self->{variants} = $variants;
             }
         }
+
+        my $previews = delete $data->{previews};
+        $self->{previews} = $previews if defined $previews;
     }
 
     sub add_urls {
@@ -183,8 +186,17 @@ package My::Item {
                 }
             }
         }
-        $str =~ s{^(?=[^\r\n])}{$indent}gm;
 
+        my $previews = $self->{previews};
+        if (defined $previews) {
+            printf STDERR ("PREVIEWS\n");
+            $str .= "    -   Previews:\n";
+            foreach my $preview (@$previews) {
+                $str .= "        -   ![${preview}](${preview})\n";
+            }
+        }
+
+        $str =~ s{^(?=[^\r\n])}{$indent}gm;
         return $str;
     }
 
