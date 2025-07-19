@@ -167,6 +167,8 @@
   description: one of the Courier Prime fonts
   tags:
     - courier
+  previews:
+    - previews/CourierPrime/Courier_Prime_Code.preview.png
 - name: Cousine
   gfonts_url: https://fonts.google.com/specimen/Cousine
 - name: Cozette
