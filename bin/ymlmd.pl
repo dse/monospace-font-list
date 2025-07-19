@@ -24,6 +24,7 @@ while (<>) {
 package My::Item {
     use Data::Dumper;
     use JSON::XS;
+    use File::Basename qw(basename);
 
     sub new {
         my ($class, $data) = @_;
@@ -189,10 +190,19 @@ package My::Item {
 
         my $previews = $self->{previews};
         if (defined $previews) {
-            printf STDERR ("PREVIEWS\n");
             $str .= "    -   Previews:\n";
             foreach my $preview (@$previews) {
-                $str .= "        -   ![${preview}](${preview})\n";
+                if (!defined $preview) {
+                    printf STDERR ("UNDEFINED PREVIEW IN $name\n");
+                }
+                my $font_name;
+                {
+                    local $/ = "\n";
+                    $font_name = basename($preview);
+                }
+                $font_name =~ s{\.preview\.png$}{};
+                $str .= "        -   ${font_name}<br>\n";
+                $str .= "            ![${preview}](${preview})\n";
             }
         }
 

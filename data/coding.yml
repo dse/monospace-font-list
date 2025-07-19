@@ -8,23 +8,40 @@
     characters next to them can shrink.
 
     Github's Monaspace also has texture healing.
+  previews:
+    - previews/0xProto/0xProto-Regular.preview.png
+    - previews/0xProto/0xProto-Italic.preview.png
 - name: 3270font
   source_url: https://github.com/rbanffy/3270font
   description: |
     Based on the archetypal IBM 3270 mainframe terminal.  Goes great with cool-retro-term.
+  previews:
+    - previews/3270/3270-Regular.preview.png
+    - previews/3270/3270SemiCondensed-Regular.preview.png
+    - previews/3270/3270Condensed-Regular.preview.png
 - name: Aardvark Fixed
   fontlibrary_url: https://fontlibrary.org/en/font/aardvark-sans
   description: 'a mix of Iosevka, Misc Fixed 6x13, and Office Code Pro'
+  previews:
+    - previews/AardvarkFixed/aardvark-fixed-regular.preview.png
+    - previews/AardvarkFixed/aardvark-fixed-italic.preview.png
 - name: Acevedo
   fontlibrary_url: https://fontlibrary.org/en/font/acevedo
+  previews:
+    - previews/Acevedo/acevedo.preview.png
 - name: Agave
   url: https://b.agaric.net/page/agave
+  previews:
+    - previews/Agave/Agave-Regular.preview.png
+    - previews/Agave/Agave-Regular-slashed.preview.png
 - name: Alto Mono (damieng)
   url: https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/
   description: |-
     damieng's bitmap font, based on the Xerox Alto, an early GUI workstation from 1973 
   notes: |-
     not related to Thiemich's paid [Alto Mono](https://www.typeby.com/fonts/alto-mono)
+  previews:
+    - previews/AltoMonoDamienG/AltoMono.preview.png
 - name: Amazon Ember Mono
   url: https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography
   description: |-
@@ -32,30 +49,51 @@
     Mono, download the font bundle.  One of the files in the .zip file
     is `amazon_typography_all.zip`; you will find Amazon Ember Mono
     there.
+  previews:
+    - previews/AmazonEmberMono/AmazonEmberMono_Rg.preview.png
 - name: Anka/Coder
   url: https://usemodify.com/fonts/anka-coder/
   gfonts_url: https://code.google.com/p/anka-coder-fonts/
   fontlibrary_url: https://fontlibrary.org/en/font/anka-coder
+  previews:
+    - previews/AnkaCoder/AnkaCoder-r.preview.png
+    - previews/AnkaCoder/AnkaCoder-i.preview.png
+    - previews/AnkaCoder/AnkaCoder-C87-r.preview.png
+    - previews/AnkaCoder/AnkaCoder-C75-r.preview.png
 - name: Anomaly Mono
   source_url: https://github.com/benbusby/anomaly-mono
   description: |
     a cute monospace font with a retro-futuristic segmented-LED vibe
+  previews:
+    - previews/AnomalyMono/AnomalyMono-Regular.preview.png
 - name: Anonymous Pro
   url: https://www.marksimonson.com/fonts/view/anonymous-pro
+  previews:
+    - previews/AnonymousPro/anonymous-pro.preview.png
+    - previews/AnonymousPro/anonymous-pro-i.preview.png
 - name: Another Man's Treasure
   url: https://www.kreativekorp.com/software/fonts/trs80/
   description: 'the TRS-80 font family'
 - name: APL2741
   url: https://apl385.com/fonts/
+  previews:
+    - previews/APL2741/apl2741.preview.png
 - name: APL385
   url: https://apl385.com/fonts/
   description: 'slight Comic Sans vibe - use APL386 instead'
+  previews:
+    - previews/APL385/apl385.preview.png
 - name: APL386
   url: https://abrudz.github.io/APL386/
   description: 'slight Comic Sans vibe - based on APL385'
+  previews:
+    - previews/APL386/APL386.preview.png
 - name: APLX
   url: https://www.dyalog.com/aplx.htm
   description: derived from Deja Vu Sans Mono
+  previews:
+    - previews/APLX/aplx_unicode_mac.preview.png
+    - previews/APLX/aplx_unicode.preview.png
 # - name: Arev
 #   url: http://tavmjong.free.fr/FONTS/
 - name: Astigmata
@@ -63,6 +101,8 @@
   description: |
     Developer Jason Knight needed a custom font for his deteriorating
     vision before cataract surgery, and he created one.
+  previews:
+    - previews/Astigmata/astigmata-regular.preview.png
 - name: Atari ST
   url: http://www.modelb.bbcmicro.com/retro-fonts.html
 - name: Atarist
@@ -73,95 +113,158 @@
   url: https://www.brailleinstitute.org/freefont/
   notes: |
     Designed for people with visual impairments.
+  previews:
+    - previews/AtkinsonHyperlegibleMono/AtkinsonHyperlegibleMono-Regular.preview.png
+    - previews/AtkinsonHyperlegibleMono/AtkinsonHyperlegibleMono-RegularItalic.preview.png
 - name: AudioLink Mono
   url: https://audiolink.dev/
   description: and AudioLink Console
+  previews:
+    - previews/AudioLinkMono/AudioLinkConsole-Regular.preview.png
+    - previews/AudioLinkMono/AudioLinkMono-Regular.preview.png
 - name: Aurulent Sans Mono
   dafont_url: https://www.dafont.com/aurulent-sans-mono.font
+  previews:
+    - previews/AurulentSansMono/AurulentSansMono-Regular.preview.png
 - name: Basically A Mono
   uncut_url: https://uncut.wtf/monospace/basically-a-mono/
   url: https://experi.mentallydesigned.com/type/bam/
   description: |
     This is basically a geometric sans-serif monospace font.
+  previews:
+    - previews/BasicallyAMono/BasicallyAMono-Regular.preview.png
 - name: Binchotan
   url: https://rvklein.me/proj/binchotan/
+  previews:
+    - previews/Binchotan/binchotan-sharp.preview.png
 - name: Bizcat
   url: https://robey.lag.net/2020/02/09/bizcat-bitmap-font.html
   description: |
     A thick bitmap coding font.
+  previews:
 - name: Bmono
   source_url: https://github.com/NNBnh/bmono
   description: |
     A custom build of Iosevka with some simplified symbols.
+  previews:
+    - previews/Bmono/bmono-regular.preview.png
+    - previews/Bmono/bmono-italic.preview.png
 - name: Borg Sans Mono
   source_url: https://github.com/marnen/borg-sans-mono
   description: Droid Sans Mono with ligatures and slashed zero
+  previews:
+    - previews/BorgSansMono/BorgSansMono.preview.png
 - name: BPmono
   url: https://backpacker.gr/fonts/5
+  previews:
+    - previews/BPmono/BPmono.preview.png
+    - previews/BPmono/BPmonoStencil.preview.png
 - name: BPtypewrite
   url: https://backpacker.gr/fonts/10
+  previews:
+    - previews/BPtypewrite/BPtypewrite.preview.png
+    - previews/BPtypewrite/BPtypewriteItalic.preview.png
 - name: Brass Mono
   source_url: https://github.com/fonsecapeter/brass_mono
   description: |
     "A free retro monospaced font inspired by 20th century electrical and mechanical design"
   notes:
     - Do you like Routed Gothic?
+  previews:
+    - previews/BrassMono/BrassMono-Regular.preview.png
+    - previews/BrassMono/BrassMono-Italic.preview.png
 - name: BSU-Kermit
   download_url: https://www.lowing.org/fonts/Free/BSU_Kermit.FON
+  previews:
 - name: Brutalist Mono
   source_url: https://github.com/BRUTALISM/Brutalist
   description: derived from Deja Vu Sans Mono
+  previews:
+    - previews/BrutalistMono/BrutalistMono.preview.png
 - name: Camingo Code
   url: https://janfromm.de/typefaces/camingocode/
+  previews:
+    - previews/CamingoCode/CamingoCode-Regular.preview.png
+    - previews/CamingoCode/CamingoCode-Italic.preview.png
 - name: Canton Typewriter Bitmap
   description: a coding-friendly Latin-1 font inspired by Caxton
   source_url: https://github.com/dse/font-canton-typewriter-bitmap
   tags:
     - my own
+  previews:
 - name: Cascadia Code
   source_url: https://github.com/microsoft/cascadia-code
   description: A fun coding font with a cursive italic, From Microsoft, the default font in Windows Terminal and now Visual Studio Code.
+  previews:
 - name: Chivo Mono
   source_url: https://github.com/Omnibus-Type/Chivo
   description: you probably want the Nerd Font linked from therein.
   descr: you probably want the Nerd Font linked from therein.
+  previews:
+    - previews/ChivoMono/ChivoMono-Regular.preview.png
+    - previews/ChivoMono/ChivoMono-Italic.preview.png
 - name: Classic Console Neue
   url: https://webdraft.eu/fonts/classic-console/
   notes: >-
     8x16 bitmap IBM style font
+  previews:
+    - previews/ClassicConsoleNeue/clacon2.preview.png
 - name: Code New Roman
   dafont_url: https://www.dafont.com/code-new-roman.font
+  previews:
+    - previews/CodeNewRoman/Code_New_Roman.preview.png
+    - previews/CodeNewRoman/Code_New_Roman_i.preview.png
 - name: Comic Mono
   url: https://dtinth.github.io/comic-mono-font/
   description: |-
     if you like Comic Sans
   notes: |-
     forked from [comic shanns](https://github.com/shannpersand/comic-shanns)
+  previews:
+    - previews/ComicMono/ComicMono.preview.png
 - name: Comic Shanns
   github_url: https://github.com/shannpersand/comic-shanns
   notes: >-
     V2 released with support for accented characters, math symbols, and other symbols.
+  previews:
+    - previews/ComicShanns/comic-shanns-2.preview.png
 - name: Comic Shanns Mono
   github_url: https://github.com/jesusmgg/comic-shanns-mono
   notes: >-
     Based on Comic Shanns v2 with metrics adjusted and even more additional characters.
+  previews:
+    - previews/ComicShannsMono/ComicShannsMono-Regular.preview.png
 - name: Commit Mono
   url: https://commitmono.com/
   description: |
     A coding font designed for familiarity and neutrality.
     Has a "Smart Kerning" feature, similar to 0xProto's "Texture Healing".
+  previews:
+    - previews/CommitMono/CommitMono-400-Regular.preview.png
+    - previews/CommitMono/CommitMono-400-Italic.preview.png
 - name: Consola Mono
   fontlibrary_url: https://fontlibrary.org/en/font/consolamono
+  previews:
+    - previews/ConsolaMono/ConsolaMono.preview.png
 - name: Conta
   url: https://fontesk.com/conta-typeface/
+  previews:
+    - previews/Conta/Conta-Regular.preview.png
+    - previews/Conta/Conta-Italic.preview.png
+    - previews/Conta/ContaMono-Regular.preview.png
+    - previews/Conta/ContaMono-Italic.preview.png
+    - previews/Conta/ContaPixel-Regular.preview.png
+    - previews/Conta/ContaPixel-Italic.preview.png
 - name: Corbi Mono S
   fontlibrary_url: https://fontlibrary.org/fr/font/corbi-mono-s
   description: Libertinus Mono with a slashed zero by default
+  previews:
 - name: Courier Code
   fontlibrary_url: https://fontlibrary.org/en/font/courier-code
   description: based on Bitstream Courier 10 Pitch v2.0
   tags:
     - courier
+  previews:
 - name: Courier Prime Code
   url: https://quoteunquoteapps.com/courierprime/
   description: one of the Courier Prime fonts
@@ -169,52 +272,90 @@
     - courier
   previews:
     - previews/CourierPrime/Courier_Prime_Code.preview.png
+  previews:
 - name: Cousine
   gfonts_url: https://fonts.google.com/specimen/Cousine
+  previews:
+    - previews/Cousine/Cousine-Regular.preview.png
+    - previews/Cousine/Cousine-Italic.preview.png
 - name: Cozette
   source_url: https://github.com/slavfox/Cozette
+  previews:
 - name: CP Mono
   source_url: https://github.com/chrissimpkins/codeface/tree/master/fonts/cp-mono
+  previews:
+    - previews/CPMono/CPMono_v07_Plain.preview.png
 - name: Creep
   source_url: https://github.com/romeovs/creep
+  previews:
 - name: Creep2
   source_url: https://github.com/raymond-w-ko/creep2
+  previews:
 - name: D2 Coding
   source_url: https://github.com/Joungkyun/font-d2coding
   description: based on Nanum Barun Coding
+  previews:
+    - previews/D2Coding/D2Coding.preview.png
 - name: DM Mono
   source_url: https://github.com/googlefonts/dm-mono
+  previews:
 - name: DaddyTimeMono
   source_url: https://github.com/BourgeoisBear/DaddyTimeMono
+  previews:
+    - previews/DaddyTimeMono/DaddyTimeMono.preview.png
 - name: Dave
   source_url: https://github.com/i-e-b/Dave
   description: A monospace programming font built for unambiguous legibility above all else
+  previews:
+    - previews/Dave/dave.preview.png
+    - previews/Dave/Dave_italic.preview.png
 - name: DEC Terminal Modern
   dafont_url: https://www.dafont.com/dec-terminal-modern.font
+  previews:
+    - previews/DECTerminalModern/dec_terminal_modern.preview.png
 - name: Deferral
   source_url: https://github.com/brianbruggeman/Deferral
   description: work in progress
+  previews:
+    - previews/Deferral/Deferral-Narrow.preview.png
+    - previews/Deferral/Deferral-Regular.preview.png
+    - previews/Deferral/Deferral-Square.preview.png
 - name: Deja Vu Sans Code
   source_url: https://github.com/SSNikolaevich/DejaVuSansCode
   description: derived from Deja Vu Sans Mono
+  previews:
+    - previews/DejaVuSansCode/DejaVuSansCode.preview.png
 - name: Deja Vu Sans Mono
   url: https://dejavu-fonts.github.io/
   notes: |-
     based on [Bitstream Vera Fonts](https://download.gnome.org/sources/ttf-bitstream-vera/1.10/)
+  previews:
+    - previews/DejaVuSansMono/DejaVuSansMono.preview.png
 - name: Departure Mono
   url: https://departuremono.com/
   github_url: https://github.com/rektdeckard/departure-mono
+  previews:
+    - previews/DepartureMono/DepartureMono-Regular.preview.png
 - name: Dina Bitmap
   url: https://www.dcmembers.com/jibsen/download/61/
-- name: Dina Font TTF
+  previews:
+- name: Dina Remastered (Dina Bitmap in TTF)
   source_url: https://github.com/zshoals/Dina-Font-TTF-Remastered
+  previews:
+    - previews/DinaRemastered/DinaRemaster-Regular.preview.png
+    - previews/DinaRemastered/DinaRemasterII.preview.png
 - name: Drafting\* Mono
   url: https://indestructibletype.com/Drafting/
+  previews:
+    - previews/DraftingMono/DraftingMono-Regular.preview.png
+    - previews/DraftingMono/DraftingMono-Italic.preview.png
 - name: Droid Sans Mono
   url: https://damieng.com/blog/2007/11/14/droid-sans-mono-great-coding-font/
   variants: |-
     -   [dotted and slashed zero variants](https://www.cosmix.org/software/)
     -   [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
+  previews:
+    - previews/DroidSansMono/DroidSansMono.preview.png
 - name: DSE Typewriter
   description: an old-timey monospace typeface you might use for coding
   source_url: https://github.com/dse/dse-typewriter-font
@@ -222,120 +363,209 @@
     - author says you'll probalby like his Old Timey Mono, based on Reproducing Typewriter, better.
   tags:
     - my own
+  previews:
+    - previews/DSETypewriter/dse-typewriter-font.preview.png
 - name: DSE Typewriter Bitmap
   description: an old-timey bitmap monospace typeface you might use for coding
   source_url: https://github.com/dse/dse-typewriter-bitmap-font
   tags:
     - my own
+  previews:
+    - previews/DSETypewriterBitmap/typewriter-oldstyle.preview.png
+    - previews/DSETypewriterBitmap/typewriter.preview.png
 - name: Edlo
   source_url: https://github.com/ehamiter/Edlo
+  previews:
+    - previews/Edlo/edlo.preview.png
 - name: Envy Code B
   url: https://damieng.com/blog/2006/11/06/envy-code-b-font-available-in-ttf-format/
+  previews:
+    - previews/EnvyCodeB/Envy_Code_B_10pt.preview.png
 - name: Envy Code R
   url: https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released/
+  previews:
 - name: Everson Mono
   url: https://www.evertype.com/emono/
   description: shareware
+  previews:
+    - previews/EversonMono/Everson_Mono.preview.png
 - name: Fairfax
   url: https://www.kreativekorp.com/software/fonts/fairfax/
   description: 'bitmap font, huge Unicode repertoire'
+  previews:
+    - previews/Fairfax/Fairfax.preview.png
+    - previews/Fairfax/FairfaxItalic.preview.png
 - name: Fairfax HD
   url: https://www.kreativekorp.com/software/fonts/fairfaxhd/
   description: 'scalable vector font, huge Unicode repertoire'
+  previews:
+    - previews/FairfaxHD/FairfaxHD.preview.png
 - name: Fairfax Serif
   fonts2u_url: https://fonts2u.com/fairfax-serif.font
+  previews:
+    - previews/Fairfax/FairfaxSerif.preview.png
 - name: Fantasque Sans Mono
   source_url: https://github.com/belluzj/fantasque-sans
   description: |-
     if you like Comic Sans and are not a hater
   notes: |-
     f/k/a Cosmic Sans Neue Mono
+  previews:
+    - previews/FantasqueSansMono/FantasqueSansMono-Regular.preview.png
+    - previews/FantasqueSansMono/FantasqueSansMono-Italic.preview.png
 - name: Fifteen
   fontlibrary_url: https://fontlibrary.org/en/font/fifteen
   description: see also Quinze
+  previews:
+    - previews/Fifteen/FifteenNarrow.preview.png
 - name: Fira Code
   source_url: https://github.com/tonsky/FiraCode
   description: has ligatures
+  previews:
+    - previews/FiraCode/FiraCode-Regular.preview.png
 - name: Fira Cousine
   source_url: https://github.com/macduy/FiraCousine
   description: Cousine + Fira Code's punct marks and ligatures
+  previews:
+    - previews/FiraCousine/FiraCousine-Regular.preview.png
+    - previews/FiraCousine/FiraCousine-Italic.preview.png
 - name: Fira Flott
   source_url: https://github.com/kosimst/FiraFlott
   description: |-
     Operator Mono alternative based on FiraCode and FlottFlott
+  previews:
+    - previews/FiraFlott/FiraFlott_FiraCode_Medium.preview.png
+    - previews/FiraFlott/FiraFlott_FlottFlott_Italic.preview.png
 - name: Fira Mono
   source_url: https://github.com/mozilla/Fira
   description: from mozilla
+  previews:
+    - previews/FiraMono/FiraMono-Regular.preview.png
 - name: Fixedsys Excelsior
   source_url: https://github.com/kika/fixedsys
+  previews:
+    - previews/FixedsysExcelsior/FSEX302.preview.png
+    - previews/FixedsysExcelsior/FSEX302-alt.preview.png
 - name: Flexi IBM VGA
   url: https://int10h.org/blog/2018/05/flexi-ibm-vga-scalable-truetype-font/
   description: scalable version of IBM VGA font
+  previews:
+    - previews/FlexiIBMVGA/Flexi_IBM_VGA_False_437.preview.png
+    - previews/FlexiIBMVGA/Flexi_IBM_VGA_False.preview.png
+    - previews/FlexiIBMVGA/Flexi_IBM_VGA_True_437.preview.png
+    - previews/FlexiIBMVGA/Flexi_IBM_VGA_True.preview.png
 - name: fn0t
   url: https://www.dafontfree.net/freefonts-fn0t-f99496.htm
+  previews:
+    - previews/fn0t/fn0t.preview.png
 - name: Fragment Mono
   source_url: https://github.com/weiweihuanghuang/fragment-mono
   description: 'based on URW Nimbus Sans, a Helvetica clone'
+  previews:
+    - previews/FragmentMono/FragmentMono-Regular.preview.png
+    - previews/FragmentMono/FragmentMono-Italic.preview.png
 - name: FS Regulate
   url: https://fontstruct.com/fontstructions/show/947828/fs_regulate
+  previews:
+    - previews/FSRegulate/fs-regulate.preview.png
 - name: Geist
   url: https://vercel.com/font
   description: includes a mono variant
+  previews:
+    - previews/GeistMono/GeistMono-Regular.preview.png
 - name: Generic Mono II
   source_url: https://github.com/organicplanning/hackedfonts
+  previews:
+    - previews/GenericMonoII/generic.preview.png
 - name: Glass TTY
   url: https://caglrc.cc/glasstty/
   description: |
     This VT220 font also pairs quite well with cool-retro-term.
+  previews:
+    - previews/GlassTTY/Glass_TTY_VT220.preview.png
 - name: GNU Unifont
   url: https://unifoundry.com/unifont/
   description: |
     A bitmap font with quite extensive Unicode coverage.
+  previews:
+    - previews/GNUUnifont/unifont-16.0.04.preview.png
 - name: Go Mono
   url: https://go.dev/blog/go-fonts
+  previews:
+    - previews/GoMono/Go-Italic.preview.png
+    - previews/GoMono/Go-Regular.preview.png
+    - previews/GoMono/Go-Mono.preview.png
+    - previews/GoMono/Go-Mono-Italic.preview.png
 - name: Gohu
   url: https://font.gohu.org/
+  previews:
+    - previews/Gohu/koemadea-gohufont-11.preview.png
+    - previews/Gohu/koemadea-gohufont-14.preview.png
+    - previews/Gohu/koemadea-gohufont-uni-11.preview.png
+    - previews/Gohu/koemadea-gohufont-uni-14.preview.png
 - name: Coogle Sans Code
   github_url: https://github.com/googlefonts/googlesans-code
   notes:
     - based on Google Sans Mono, which see.
+  previews:
 - name: Google Sans Mono
   source_url: https://github.com/mehant-kr/Google-Sans-Mono
   description: |-
     a/k/a Product Sans Mono, an older version of Google
     Sans Code.
   via_url: https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/
+  previews:
+    - previews/GoogleSansMono/Google-Sans-Mono-Regular.preview.png
+    - previews/GoogleSansMono/Google-Sans-Mono-Italic.preview.png
 - name: Grid15
   url: https://typedrawers.com/discussion/964/grid15-futuristic-geometric-monospace
   description: work in progress
+  previews:
 - name: Hack
   url: https://sourcefoundry.org/hack/
   description: derived from Deja Vu Sans Mono
+  previews:
+    - previews/Hack/Hack-Regular.preview.png
+    - previews/Hack/Hack-Italic.preview.png
 - name: Hasklig
   source_url: https://github.com/i-tu/Hasklig
   description: adds ligatures to Deja Vu derived typeface Hack
+  previews:
+    - previews/Hasklig/Hasklig-Regular.preview.png
+    - previews/Hasklig/Hasklig-It.preview.png
 - name: Haskplex
   source_url: https://github.com/huytd/haskplex-font
   description: Hasklig + IBM Plex Mono
+  previews:
+    - previews/Haskplex/Haskplex-Regular.preview.png
+    - previews/Haskplex/Haskplex-Italic.preview.png
 - name: Hera
   source_url: https://github.com/sayyadirfanali/Hera
   description: mixture of glyphs from other monospace fonts
+  previews:
+    - previews/HeraMono/Hera.preview.png
 - name: Hermit
   url: https://pcaro.es/hermit/
   previews:
     - previews/Hermit/Hermit-Regular.preview.png
+    - previews/Hermit/Hermit-RegularItalic.preview.png
+  previews:
 - name: HVDOSBox
   url: https://download.cnet.com/hvdosbox-windows-terminal-fonts/3000-2094_4-10635163.html
   notes: |
     .FON bitmap font for use with Windows
   via: https://davidawindham.com/fonts/
+  previews:
 - name: HVRaster
   via: https://davidawindham.com/fonts/
+  previews:
 - name: HVTerminal
   via: https://davidawindham.com/fonts/
+  previews:
 - name: IBM Fonts
   url: https://farsil.github.io/ibmfonts/
   description: 'IBM system fonts in BDF format, derived from the [PX Plus](https://int10h.org/oldschool-pc-fonts/fontlist/) fonts'
+  previews:
 - name: IBM Plex
   url: https://www.ibm.com/plex/
   description: |-
@@ -344,12 +574,22 @@
     -   [iA Writer Mono](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono)
     -   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
     -   [Terminex](https://github.com/vsalvino/terminex) [free] derived from IBM Plex Mono
+  previews:
 - name: Illinois Mono
   source_url: https://github.com/MadSimple/illinois-mono
   description: 'based on an interesting project called [Lexend](https://www.lexend.com/)'
+  previews:
+    - previews/IllinoisMono/Illinois_Mono_Regular.preview.png
 - name: Illusion
   source_url: https://github.com/tomonic-x/Illusion
   description: '[japanese]'
+  previews:
+    - previews/Illusion/Illusion-N-Regular.preview.png
+    - previews/Illusion/Illusion-N-Italic.preview.png
+    - previews/Illusion/Illusion-W-Regular.preview.png
+    - previews/Illusion/Illusion-W-Italic.preview.png
+    - previews/Illusion/Illusion-Z-Regular.preview.png
+    - previews/Illusion/Illusion-Z-Italic.preview.png
 - name: Inconsolata
   url: https://levien.com/type/myfonts/inconsolata.html
   description: |
@@ -360,88 +600,208 @@
     -   [Inconsolata-dz](https://nodnod.net/posts/inconsolata-dz/), another altered Inconsolata
     -   [Inconsolata Go](https://levien.com/type/myfonts/inconsolata/), Inconsolata author's alteration with straight quotes
     -   [Inconsolata LGC](https://github.com/DeLaGuardo/Inconsolata-LGC) - adds Cyrillic alphabet
+  previews:
+    - previews/Inconsolata/Inconsolata-Regular.preview.png
+    - previews/Inconsolata/Inconsolata_Condensed-Regular.preview.png
+    - previews/Inconsolata/Inconsolata_Expanded-Regular.preview.png
 - name: Input Mono
   url: https://input.djr.com/
   description: 'personal use free, public-facing use paid'
+  previews:
+    - previews/InputMono/InputMono-Regular.preview.png
+    - previews/InputMono/InputMono-Italic.preview.png
+    - previews/InputMono/InputMonoNarrow-Regular.preview.png
+    - previews/InputMono/InputMonoCondensed-Regular.preview.png
+    - previews/InputMono/InputMonoCompressed-Regular.preview.png
 - name: Intel One Mono
   url: https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html
   description: |
     Intel is no exception to the "every company needs a custom font now" rule.
     This one gives off a line printer vibe.
+  previews:
+    - previews/IntelOneMono/IntelOneMono-Regular.preview.png
+    - previews/IntelOneMono/IntelOneMono-Italic.preview.png
 - name: Iosevka
   url: https://typeof.net/Iosevka/
   variants: |-
     -   [Iosevka VardanPro](https://github.com/varp/VardanPro-Fonts)
+  previews:
+    - previews/Iosevka/Iosevka-Regular.preview.png
+    - previews/Iosevka/Iosevka-Italic.preview.png
 - name: Jetbrains Mono
   url: https://www.jetbrains.com/lp/mono/
+  previews:
+    - previews/JetBrainsMono/JetBrainsMono-Regular.preview.png
+    - previews/JetBrainsMono/JetBrainsMono-Italic.preview.png
 - name: Jozsika
   source_url: https://github.com/nilcons/jozsika
   description: 'a customized version of Iosevka'
+  previews:
+    - previews/Jozsika/jozsika-regular.preview.png
+    - previews/Jozsika/jozsika-italic.preview.png
 - name: Julia Mono
   url: https://juliamono.netlify.app/
+  previews:
+    - previews/JuliaMono/JuliaMono-Regular.preview.png
+    - previews/JuliaMono/JuliaMono-RegularItalic.preview.png
 - name: jxyahei
   source_url: https://github.com/zhenruyan/codefont/blob/master/readme_en.md
+  previews:
+    - previews/jxyahei/JXYHBD.preview.png
+    - previews/jxyahei/JXYH.preview.png
+    - previews/jxyahei/lmyahei.preview.png
+    - previews/jxyahei/YHHT.preview.png
+    - previews/jxyahei/正黑.preview.png
 - name: Karen
   source_url: https://github.com/amaya382/karen
+  previews:
 - name: Kode Mono
   gfonts_url: https://fonts.google.com/specimen/Kode+Mono
+  previews:
+    - previews/KodeMono/KodeMono-Regular.preview.png
 - name: Lab Mono
   source_url: https://github.com/hatsumatsu/Lab-Mono
+  previews:
+    - previews/LabMono/LabMono-Regular.preview.png
 - name: Lavender
   source_url: https://github.com/hirigaray/lavender-font
+  previews:
 - name: League Mono
   url: https://www.theleagueofmoveabletype.com/league-mono
+  previews:
+    - previews/LeagueMono/LeagueMono-Regular.preview.png
 - name: Lekton Code
   fontlibrary_url: https://fontlibrary.org/en/font/lektoncode
+  previews:
+    - previews/LektonCode/LektonCode-Regular.preview.png
+    - previews/LektonCode/LektonCode-Italic.preview.png
 - name: Letter Gothic Code
   source_url: https://github.com/jamesxmcintosh/LetterGothicCode
   tags:
     - letter gothic
+  previews:
+    - previews/LetterGothicCode/LetterGothicCode-R.preview.png
+    - previews/LetterGothicCode/LetterGothicCode-I.preview.png
 - name: Liberation Mono
   source_url: https://github.com/liberationfonts/liberation-fonts
+  previews:
+    - previews/LiberationMono/LiberationMono-Regular.preview.png
+    - previews/LiberationMono/LiberationMono-Italic.preview.png
 - name: Lilex
   source_url: https://github.com/mishamyrt/Lilex
+  previews:
+    - previews/Lilex/Lilex-Regular.preview.png
+    - previews/Lilex/Lilex-Italic.preview.png
 - name: Linux Console Fonts for Windows
   url: http://underpop.online.fr/l/linux-console-fonts-for-windows-in-ttf-and-fon/
   description: in .TTF and .FON
+  previews:
+    - previews/LinuxConsoleFontsForWindows/miscfb__.preview.png
+    - previews/LinuxConsoleFontsForWindows/misc-fixed.preview.png
+    - previews/LinuxConsoleFontsForWindows/miscfs__.preview.png
 - name: Linux Libertine
   url: https://sourceforge.net/projects/linuxlibertine/
   description: includes a mono variant
+  previews:
+    - previews/LinuxLibertine/LinBiolinum_Rah.preview.png
+    - previews/LinuxLibertine/LinBiolinum_RIah.preview.png
+    - previews/LinuxLibertine/LinLibertine_Rah.preview.png
+    - previews/LinuxLibertine/LinLibertine_RIah.preview.png
+    - previews/LinuxLibertine/LinLibertine_I.preview.png
 - name: LispM
   source_url: https://github.com/unjordy/LispM-Font
+  previews:
+    - previews/LispM/LispM-Monospace.preview.png
 - name: Lotion
   url: https://font.nina.coffee/
+  previews:
+    - previews/Lotion/Lotion-Regular.preview.png
+    - previews/Lotion/Lotion-RegularItalic.preview.png
 - name: Luculent
   url: https://usemodify.com/fonts/luculent/
+  previews:
+    - previews/Luculent/luculent.preview.png
+    - previews/Luculent/luculenti.preview.png
 - name: Luxi Mono
   url: https://en.wikipedia.org/wiki/Luxi_fonts
   description: (download link on that page)
+  previews:
+    - previews/Luxi/luximr.preview.png
+    - previews/Luxi/luximri.preview.png
+    - previews/Luxi/luxirr.preview.png
+    - previews/Luxi/luxirri.preview.png
+    - previews/Luxi/luxisr.preview.png
+    - previews/Luxi/luxisri.preview.png
 - name: LVC Mono
   fontlibrary_url: https://fontlibrary.org/en/font/lvc-mono
   description: 'a variant of IBM Plex Mono'
+  previews:
+    - previews/LVCMono/LVCMono.preview.png
+    - previews/LVCMono/LVCMono-Italic.preview.png
 - name: M+ Fonts
   url: https://mplusfonts.github.io/
+  previews:
+    - previews/Mplus/Mplus1Code-Regular.preview.png
+    - previews/Mplus/Mplus2-Regular.preview.png
+    - previews/Mplus/MplusCodeLatin50-Regular.preview.png
+    - previews/Mplus/MplusCodeLatin60-Regular.preview.png
 - name: Maple Mono
   source_url: https://github.com/subframe7536/maple-font
+  previews:
+    - previews/MapleMono/MapleMono-Regular.preview.png
+    - previews/MapleMono/MapleMono-Italic.preview.png
+    - previews/MapleMono/MapleMonoNormal-Regular.preview.png
+    - previews/MapleMono/MapleMonoNormal-Italic.preview.png
 - name: Menlo
   description: bundled with macOS, derived from Deja Vu
   # [MesloLGS NF](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts)
+  previews:
+    - previews/Menlo/Menlo-Regular.preview.png
+    - previews/Menlo/Menlo-Italic.preview.png
 - name: Mensch
   url: https://robey.lag.net/2010/06/21/mensch-font.html
+  previews:
+    - previews/Mensch/mensch.preview.png
 - name: Meslo
   source_url: https://github.com/andreberg/Meslo-Font
   description: Menlo (derived from Deja Vu) with some tweaks
+  previews:
+    - previews/Meslo/MesloLGL-Regular.preview.png
+    - previews/Meslo/MesloLGL-Italic.preview.png
+    - previews/Meslo/MesloLGLDZ-Regular.preview.png
+    - previews/Meslo/MesloLGLDZ-Italic.preview.png
+    - previews/Meslo/MesloLGM-Italic.preview.png
+    - previews/Meslo/MesloLGM-Regular.preview.png
+    - previews/Meslo/MesloLGMDZ-Regular.preview.png
+    - previews/Meslo/MesloLGMDZ-Italic.preview.png
+    - previews/Meslo/MesloLGS-Regular.preview.png
+    - previews/Meslo/MesloLGS-Italic.preview.png
+    - previews/Meslo/MesloLGSDZ-Regular.preview.png
+    - previews/Meslo/MesloLGSDZ-Italic.preview.png
 - name: Metrickal
   source_url: https://github.com/davelab6/metrickal-typeface
+  previews:
+    - previews/Metrickal/Metrickal-Regular.preview.png
 - name: Meyrin CERN
   source_url: https://github.com/optional-is/Meyrin
+  previews:
+    - previews/Meyrin/Meyrin.preview.png
 - name: Miracode
   github_url: https://github.com/IdreesInc/Miracode
   notes:
     - vectorized version of Monocraft, the Minecraft font
+  previews:
+    - previews/Miracode/Miracode.preview.png
 - name: mnicmp
   fontlibrary_url: https://fontlibrary.org/en/font/mnicmp
   description: based on the 7-pin DECwriter II printer
+  previews:
+    - previews/mnicmp/mnicmp.preview.png
+    - previews/mnicmp/mnicmp-Italic.preview.png
+    - previews/mnicmp/mnicmpSquare-Regular.preview.png
+    - previews/mnicmp/mnicmpSquare-Italic.preview.png
+    - previews/mnicmp/mnicmpStar-Regular.preview.png
+    - previews/mnicmp/mnicmpStar-Italic.preview.png
 - name: Monaspace
   url: https://monaspace.githubnext.com/
   notes: |
@@ -459,47 +819,100 @@
 
     0xProto also has texture healing.    
   description: superfamily
+  previews:
+    - previews/Monaspace/MonaspaceArgon-Regular.preview.png
+    - previews/Monaspace/MonaspaceArgon-Italic.preview.png
+    - previews/Monaspace/MonaspaceKrypton-Regular.preview.png
+    - previews/Monaspace/MonaspaceKrypton-Italic.preview.png
+    - previews/Monaspace/MonaspaceNeon-Regular.preview.png
+    - previews/Monaspace/MonaspaceNeon-Italic.preview.png
+    - previews/Monaspace/MonaspaceRadon-Regular.preview.png
+    - previews/Monaspace/MonaspaceRadon-Italic.preview.png
+    - previews/Monaspace/MonaspaceXenon-Regular.preview.png
+    - previews/Monaspace/MonaspaceXenon-Italic.preview.png
 - name: Monego
   source_url: https://github.com/cseelus/monego
   description: monaco with bold and italic variants
+  previews:
+    - previews/Monego/Monego-Regular.preview.png
+    - previews/Monego/Monego-Italic.preview.png
 - name: Monocraft
   source_url: https://github.com/IdreesInc/Monocraft
   description: do you like Minecraft?
+  previews:
+    - previews/Monocraft/Monocraft-Bold.preview.png
+    - previews/Monocraft/Monocraft-Italic.preview.png
 - name: Monoid
   url: https://larsenwork.com/monoid/
+  previews:
+    - previews/Monoid/Monoid-Regular.preview.png
+    - previews/Monoid/Monoid-Italic.preview.png
 - name: Mononoki
   url: https://madmalik.github.io/mononoki/
+  previews:
+    - previews/Mononoki/mononoki-Regular.preview.png
+    - previews/Mononoki/mononoki-Italic.preview.png
 - name: MonoOne
   source_url: https://github.com/zlsa/monoOne
+  previews:
+    - previews/MonoOne/monoOne.preview.png
 - name: MonteCarlo (programmer font)
   url: https://www.bok.net/MonteCarlo/
+  previews:
+    - previews/MonteCarlo/gonzalez-MonteCarloFixed12.preview.png
 - name: Nanum Gothic Coding
   source_url: https://github.com/emersion/nanum-gothic-coding
+  previews:
+    - previews/NanumGothicCoding/NanumGothicCoding-Regular.preview.png
 - name: Natural Mono
   fontlibrary_url: https://fontlibrary.org/en/font/natural-mono
   description: |
     based on Noto Mono, with modified versions of the lower case I and L.
+  previews:
+    - previews/NaturalMono/Natural_Mono_Alt-Regular.preview.png
+    - previews/NaturalMono/Natural_Mono-Regular.preview.png
 - name: Necto Mono
   url: https://www.collletttivo.it/typefaces/necto-mono
   uncut_url: https://uncut.wtf/monospace/necto-mono/
+  previews:
+    - previews/NectoMono/NectoMono-Regular.preview.png
 - name: Neomatrix Code
   fontlibrary_url: https://fontlibrary.org/en/font/neomatrixcode
+  previews:
+    - previews/NeomatrixCode/NeomatrixCode.preview.png
 - name: New Heterodox Mono
   source_url: https://github.com/hckiang/font-new-heterodox-mono
+  previews:
+    - previews/NewHeterodoxMono/NewHeterodoxMonoA-Book.preview.png
 - name: NK57 Monospace
   dafont_url: https://www.dafont.com/nk57-monospace.font
+  previews:
+    - previews/NK57Monospace/NK57_Monospace_No_Rg.preview.png
+    - previews/NK57Monospace/NK57_Monospace_No_Rg_It.preview.png
 - name: Noto Sans Mono
   url: https://fonts.google.com/noto/specimen/Noto+Sans+Mono
   source_url: https://github.com/notofonts
+  previews:
+    - previews/NotoSansMono/NotoSansMono-Regular.preview.png
+    - previews/NotoSansMono/NotoSansMono_Condensed-Regular.preview.png
 - name: Nova Mono
   gfonts_url: https://fonts.google.com/specimen/Nova+Mono
+  previews:
+    - previews/NovaMono/NovaMono-Regular.preview.png
 - name: Ocodo Mono
   source_url: https://github.com/ocodo/ocodo-mono
   description: early work in progress
+  previews:
+    - previews/OcodoMono/OcodoMono-Light.preview.png
+    - previews/OcodoMono/OcodoMono-Thin.preview.png
 - name: OCR A Extended
   url: https://www.wfonts.com/font/ocr-a-extended
   tags:
     - ocr-a
+  previews:
+    - previews/OCRAExtended/ocraextended.preview.png
+    - previews/OCRAExtended/OCR_A_Extended_Regular.preview.png
+    - previews/OCRAExtended/ocraext.preview.png
 - name: Office Code Pro
   source_url: https://github.com/nathco/Office-Code-Pro
   description: |-
@@ -508,31 +921,49 @@
     -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
         -   derived from Source Code Pro and Noto Sans JP.
         -   No significant changes other than mixing.
+  previews:
+    - previews/OfficeCodePro/OfficeCodePro-Regular.preview.png
+    - previews/OfficeCodePro/OfficeCodePro-RegularItalic.preview.png
+    - previews/OfficeCodePro/OfficeCodeProD-Regular.preview.png
+    - previews/OfficeCodePro/OfficeCodeProD-RegularItalic.preview.png
 - name: Old School PC Fonts
   url: https://int10h.org/oldschool-pc-fonts/fontlist/
   notes: |-
     from which is derived [IBM Fonts](https://farsil.github.io/ibmfonts/)
+  previews:
 - name: Old Timey Mono
   url: https://webonastick.com/fonts/old-timey-mono/
   github_url: https://github.com/dse/old-timey-mono-font/
   description: based on Reproducing Typewriter
   tags:
     - my own
+  previews:
+    - previews/OldTimeyMono/OldTimeyMono.preview.png
+    - previews/OldTimeyMono/OldTimeyMonoCond.preview.png
+    - previews/OldTimeyMono/OldTimeyMonoComp.preview.png
+    - previews/OldTimeyMono/OldTimeyCode.preview.png
 - name: OpenGenera fonts
   url: https://archive.org/download/SymblicsOpenGenera
   notes: |-
     look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
   url_2_url: https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera
+  previews:
 - name: Openstep Mono
   url: https://fontstruct.com/fontstructions/show/918633/openstep_mono
+  previews:
+    - previews/OpenStepMono/openstep-mono.preview.png
 - name: Opus One
   github_url: https://github.com/chaychoong/OpusOne
   url: https://blog.chay.dev/i-made-a-font/
+  previews:
+    - previews/OpusOne/OpusOne-Regular.preview.png
+    - previews/OpusOne/OpusOne-RegularItalic.preview.png
 - name: Ormaxx
   url: https://web.archive.org/web/20060715183153/http://www.ormaxx.ch/stuff.php?nummer=1
   notes: |
     a set of fonts in BDF, PCF, and .FON for X11 and Windows
   via: https://davidawindham.com/fonts/
+  previews:
 - name: Osaka
   download_url: https://web.archive.org/web/20060218153823/http://osakattf.hp.infoseek.co.jp:80/converted/osaka.unicode.ttf.bz2
   description: |
@@ -540,17 +971,26 @@
   via: 
     - http://mundogeek.net/archivos/2006/11/18/fuentes-para-programacion/
     - https://discourse.codinghorror.com/t/revisiting-programming-fonts/460/62
+  previews:
+    - previews/Osaka/osaka.unicode.preview.png
 - name: Overpass
   url: https://overpassfont.org/
+  previews:
+    - previews/OverpassMono/overpass-mono-regular.preview.png
 - name: Oxygen Mono
   gfonts_url: https://fonts.google.com/specimen/Oxygen+Mono
+  previews:
+    - previews/OxygenMono/OxygenMono-Regular.preview.png
 - name: PCSANSI.FON
   download_url: https://github.com/dcgrace/e93/raw/refs/heads/master/PCSANSI.FON
   via: https://discourse.codinghorror.com/t/revisiting-programming-fonts/460/56
+  previews:
 - name: Peep
   source_url: https://github.com/greemo/peep-font
   notes:
     - previously listed here as Zevv Peep
+  previews:
+    - previews/Peep/peep8x16.preview.png
 - name: Perfect DOS VGA fonts
   url: https://laemeur.sdf.org/fonts/
   description: 'includes Less Perfect, More Perfect, and Perfect'
@@ -558,6 +998,11 @@
     - retro
     - microcomputer
     - IBM PC
+  previews:
+    - previews/PerfectDOSVGA/Perfect_DOS_VGA_437.preview.png
+    - previews/PerfectDOSVGA/Perfect_DOS_VGA_437_Win.preview.png
+    - previews/PerfectDOSVGA/LessPerfectDOSVGA.preview.png
+    - previews/PerfectDOSVGA/MorePerfectDOSVGA.preview.png
 - name: Pet Me
   url: https://www.kreativekorp.com/software/fonts/c64/
   description: 'the Commodore VIC-20, C64, and C128 font family'
@@ -568,19 +1013,30 @@
     - VIC-20
     - Commodore 64
     - Commodore 128
+  previews:
 - name: Perfect DOS VGA fonts
   url: https://laemeur.sdf.org/fonts/
   description: 'includes Less Perfect, More Perfect, and Perfect'
+  previews:
 - name: Pixel Carnage
   dafont_url: https://www.dafont.com/pixelcarnage.d870
+  previews:
 - name: Pointfree
   dafont_url: https://www.dafont.com/pointfree.font
   description: if you like Comic Sans and are not a hater
+  previews:
+    - previews/Pointfree/pointfree.preview.png
 - name: Print Char 21 and PR Number 3
   url: https://www.kreativekorp.com/software/fonts/apple2/
   description: 'the Apple II fonts'
+  previews:
+    - previews/AppleIIKK/PrintChar21.preview.png
+    - previews/AppleIIKK/PRNumber3.preview.png
 - name: Profont
   url: https://tobiasjung.name/profont/
+  previews:
+    - previews/ProFont/ProFontWindows.preview.png
+    - previews/ProFont/ProFontWindowsTweaked.preview.png
 - name: Proggy Fonts
   source_url: https://github.com/bluescan/proggyfonts
   description: |-
@@ -599,36 +1055,72 @@
         -   Proggy Opti
         -   Progsole
         -   Speedy
+  previews:
+    - previews/ProggyFonts/ProggyClean.preview.png
+    - previews/ProggyFonts/ProggyCrossed_Regular.preview.png
+    - previews/ProggyFonts/ProggyDotted_Regular.preview.png
+    - previews/ProggyFonts/ProggySmall.preview.png
+    - previews/ProggyFonts/ProggySquare.preview.png
+    - previews/ProggyFonts/ProggyTiny.preview.png
+    - previews/ProggyFonts/ProggyVector-Regular.preview.png
+    - previews/ProggyFonts/ProggyVector-Dotted.preview.png
 - name: PT Mono
   gfonts_url: https://fonts.google.com/specimen/PT+Mono
+  previews:
+    - previews/PTMono/PTMono-Regular.preview.png
 - name: Quinze
   fontlibrary_url: https://fontlibrary.org/en/font/quinze
   description: see also Fifteen
+  previews:
+    - previews/Fifteen/QuinzeNarrow.preview.png
 - name: Recursive
   url: https://www.recursive.design/
   variants: |-
     -   [Recursive Mono Affine](https://github.com/idan/recursiveMonoAffine) is a different build of Recursive
+  previews:
+    - previews/RecursiveMono/RecMonoCasual-Regular-1.085.preview.png
+    - previews/RecursiveMono/RecMonoCasual-Italic-1.085.preview.png
+    - previews/RecursiveMono/RecMonoDuotone-Regular-1.085.preview.png
+    - previews/RecursiveMono/RecMonoDuotone-Italic-1.085.preview.png
+    - previews/RecursiveMono/RecMonoLinear-Regular-1.085.preview.png
+    - previews/RecursiveMono/RecMonoLinear-Italic-1.085.preview.png
+    - previews/RecursiveMono/RecMonoSemicasual-Regular-1.085.preview.png
+    - previews/RecursiveMono/RecMonoSemicasual-Italic-1.085.preview.png
 - name: Reddit Mono
   gfonts_url: https://fonts.google.com/specimen/Reddit+Mono
+  previews:
+    - previews/RedditMono/RedditMono-Regular.preview.png
 - name: Red Hat Mono
   gfonts_url: https://fonts.google.com/specimen/Red+Hat+Mono
+  previews:
+    - previews/RedHatMono/RedHatMono-Regular.preview.png
+    - previews/RedHatMono/RedHatMono-Italic.preview.png
 - name: retro fonts
   url: http://www.modelb.bbcmicro.com/retro-fonts.html
   description: '[free] - teletext and Atari ST fonts'
+  previews:
 - name: Roboto Mono
   source_url: https://github.com/googlefonts/roboto
+  previews:
+    - previews/RobotoMono/RobotoMono-Regular.preview.png
+    - previews/RobotoMono/RobotoMono-Italic.preview.png
 - name: romfont
   source_url: https://github.com/spacerace/romfont
   description: collection of PC ROM fonts
+  previews:
 - name: Sarasa Gothic Mono
   url: https://picaq.github.io/sarasa/
   description: derived from Source Han Sans and Iosevka
+  previews:
 - name: SAX2 APL font
   url: https://abrudz.github.io/SAX2/
+  previews:
+    - previews/SAX2/SAX2.preview.png
 - name: Selectric (by Paradox 2005)
   url: https://www.dafont.com/selectric.font
   notes:
     - courier
+  previews:
 - name: Serious Shanns
   url: https://kabeech.github.io/serious-shanns/
   description: if you like Comic Sans
@@ -636,11 +1128,18 @@
     Based on Comic Mono, with legibility enhancements and a lighter weight.
   see_also:
     - Comic Shanns
+  previews:
+    - previews/SeriousShanns/SeriousShanns-Regular.preview.png
+    - previews/SeriousShanns/SeriousShanns-Italic.preview.png
 - name: Server Mono
   url: https://servermono.com/
+  previews:
+    - previews/ServerMono/ServerMono-Regular.preview.png
+    - previews/ServerMono/ServerMono-RegularSlanted.preview.png
 - name: SF Mono
   url: https://developer.apple.com/fonts/
   description: '[free]'
+  previews:
 - name: SGI Screen
   url: https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/
   osx_port_url: https://njr.sabi.net/2015/11/01/sgi-screen-fonts-converted-for-os-x/
@@ -652,101 +1151,202 @@
   tags:
     - bitmap
     - pcf
+  previews:
 - name: Share Tech Mono
   gfonts_url: https://fonts.google.com/specimen/Share+Tech+Mono
+  previews:
+    - previews/ShareTechMono/ShareTechMono-Regular.preview.png
 - name: SHELDON4.fon
   url: https://www.lowing.org/fonts/Free/Sheldon4_License.txt
   notes: |
     modified version available:
     https://web.archive.org/web/20090414084153/http://grosskurth.ca/typography/sheldon4.fon
+  previews:
 - name: Sometype Mono
   url: https://monospacedfont.com/
   source_url: https://github.com/dharmatype/Sometype-Mono
+  previews:
+    - previews/SometypeMono/SometypeMono-Regular.preview.png
+    - previews/SometypeMono/SometypeMono-RegularItalic.preview.png
 - name: Sono
   url: https://usemodify.com/fonts/sono/
+  previews:
+    - previews/Sono/Sono-Regular.preview.png
+    - previews/Sono/SonoSans-Regular.preview.png
 - name: Source Code Pro
   source_url: https://github.com/adobe-fonts/source-code-pro
   description: from adobe
+  previews:
+    - previews/SourceCodePro/SourceCodePro-Regular.preview.png
+    - previews/SourceCodePro/SourceCodePro-It.preview.png
 - name: Space Mono
   gfonts_url: https://fonts.google.com/specimen/Space+Mono
+  previews:
+    - previews/SpaceMono/SpaceMono-Regular.preview.png
+    - previews/SpaceMono/SpaceMono-Italic.preview.png
 - name: Spleen
   url: https://www.cambus.net/spleen-monospaced-bitmap-fonts/
+  previews:
+    - previews/Spleen/spleen-6x12.preview.png
+    - previews/Spleen/spleen-8x16.preview.png
+    - previews/Spleen/spleen-12x24.preview.png
+    - previews/Spleen/spleen-16x32.preview.png
+    - previews/Spleen/spleen-32x64.preview.png
 - name: Spline Sans Mono
   gfonts_url: https://fonts.google.com/specimen/Spline+Sans+Mono
+  previews:
+    - previews/SplineSansMono/SplineSansMono-Regular.preview.png
+    - previews/SplineSansMono/SplineSansMono-Italic.preview.png
 - name: String Literal 437
   fonts2u_url: https://fonts2u.com/string-literal-437-medium.font
+  previews:
+    - previews/StringLiteral437/Str437.preview.png
 - name: Sudo
   url: https://www.kutilek.de/sudo-font/
+  previews:
+    - previews/Sudo/Sudo-Regular.preview.png
+    - previews/Sudo/Sudo-Italic.preview.png
+    - previews/Sudo/SudoUI-Regular.preview.png
+    - previews/Sudo/SudoUI-Italic.preview.png
 - name: Sun Gallant Demi
   source_url: https://github.com/dim13/gallant
   download_url: https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf
   tags:
     - bitmap
+  previews:
+    - previews/SunGallantDemi/gallant12x22.preview.png
 - name: Sydnie
   url: https://fontsgeek.com/fonts/Sydnie-Regular
   via: https://davidawindham.com/fonts/
+  previews:
+    - previews/Sydnie/Sydnie_Regular.preview.png
 - name: Tamsyn
   url: http://www.fial.com/~scott/tamsyn-font/
   description: bitmap-only
+  previews:
 - name: Tamzen
   source_url: https://github.com/sunaku/tamzen-font
   description: 'tamsyn in ttf, other formats'
+  previews:
+    - previews/Tamzen/Tamzen5x9b.preview.png
+    - previews/Tamzen/Tamzen5x9r.preview.png
+    - previews/Tamzen/Tamzen6x12b.preview.png
+    - previews/Tamzen/Tamzen6x12r.preview.png
+    - previews/Tamzen/Tamzen7x13b.preview.png
+    - previews/Tamzen/Tamzen7x13r.preview.png
+    - previews/Tamzen/Tamzen7x14b.preview.png
+    - previews/Tamzen/Tamzen7x14r.preview.png
+    - previews/Tamzen/Tamzen8x15b.preview.png
+    - previews/Tamzen/Tamzen8x15r.preview.png
+    - previews/Tamzen/Tamzen8x16b.preview.png
+    - previews/Tamzen/Tamzen8x16r.preview.png
+    - previews/Tamzen/Tamzen10x20b.preview.png
+    - previews/Tamzen/Tamzen10x20r.preview.png
 - name: Terminal Land Mono
   github_url: https://github.com/neatnik/terminal-land-mono
+  previews:
+    - previews/TerminalLandMono/TerminalLandMono-Regular.preview.png
+    - previews/TerminalLandMono/TerminalLandMono-Italic.preview.png
+    - previews/TerminalLandMono/TerminalLandMonoSans-Regular.preview.png
+    - previews/TerminalLandMono/TerminalLandMonoSans-Italic.preview.png
 - name: Terminus
   url: https://terminus-font.sourceforge.net/
+  previews:
 - name: Termsyn
   url: https://sourceforge.net/projects/termsyn/
   description: based on Terminus and Tamsyn/Tamzen
+  previews:
 - name: ti92plus
   source_url: https://github.com/sterpe/ti92plus
   description: |-
     TI92PLUSPC.TTF with encoding fixes
   notes: |-
     based on [Ti92Pluspc](https://fontsgeek.com/fonts/Ti92Pluspc-Regular)
+  previews:
+    - previews/TI92PLUSPC/Ti92Pluspc_Regular.preview.png
+    - previews/TI92PLUSPC/Ti92Pluspc-unicode.preview.png
 - name: Triskweline
   url: https://www.netalive.org/tinkering/triskweline/
+  previews:
+    - previews/Triskweline/trisk.preview.png
 - name: TT2020
   url: https://copypaste.wtf/TT2020/docs/
+  previews:
+    - previews/TT2020/TT2020Base-Regular.preview.png
+    - previews/TT2020/TT2020Base-Italic.preview.png
 - name: TxFonts
   url: https://tug.org/FontCatalogue/txtt/
   notes:
     - available as PS Type 1 and some other older formats.
+  previews:
+    - previews/TxFonts/txbtt.preview.png
+    - previews/TxFonts/txtt.preview.png
 - name: Ubuntu Monospace
   url: https://design.ubuntu.com/font
   tags:
     - recommended
-    - name: Unix-originated terminal fonts for Windows
+  previews:
+    - previews/UbuntuMonospace/UbuntuMono-R.preview.png
+    - previews/UbuntuMonospace/UbuntuMono-RI.preview.png
 - name: Unix-originated terminal fonts for Windows
   url: http://christian.lestrade.free.fr/fonts.html
   description: |-
     Includes some of the X fonts and some VGA fonts.  Also apparently includes VT330?
+  previews:
 - name: Unix PC 3B1
   source_url: https://github.com/brandon-rhodes/unixpc-font-bdf
+  previews:
 - name: UNSCII
   url: http://viznut.fi/unscii/
+  previews:
+    - previews/Unscii/unscii-8-alt.preview.png
+    - previews/Unscii/unscii-8-fantasy.preview.png
+    - previews/Unscii/unscii-8-mcr.preview.png
+    - previews/Unscii/unscii-8.preview.png
+    - previews/Unscii/unscii-8-tall.preview.png
+    - previews/Unscii/unscii-8-thin.preview.png
+    - previews/Unscii/unscii-16-full.preview.png
+    - previews/Unscii/unscii-16.preview.png
 - name: VCR OSD Mono
   dafont_url: https://www.dafont.com/vcr-osd-mono.font
+  previews:
+    - previews/VCROSDMono/VCR_OSD_MONO_1.001.preview.png
 - name: Verily Serif Mono
   url: https://usemodify.com/fonts/verily-serif-mono/
+  previews:
+    - previews/VerilySerifMono/VerilySerifMono.preview.png
 - name: Victor Mono
   source_url: https://github.com/rubjo/victor-mono
+  previews:
+    - previews/VictorMono/VictorMono-Regular.preview.png
+    - previews/VictorMono/VictorMono-Italic.preview.png
 - name: VT323
   source_url: https://github.com/phoikoi/VT323
+  previews:
+    - previews/VT323/VT323-Regular.preview.png
 - name: WenQuanYi Black
   url: http://wenq.org/wqy2/index.cgi?FontGuide#_4
   description: '[chinese]'
+  previews:
 - name: Whois Mono
   uncut_url: https://uncut.wtf/monospace/whois/
   source_url: https://github.com/raphaelbastide/Whois-mono
+  previews:
+    - previews/WhoisMono/whois-mono.preview.png
 - name: Writer
   source_url: https://github.com/tonsky/font-writer
+  previews:
+    - previews/Writer/Writer-Regular.preview.png
+    - previews/Writer/Writer-Italic.preview.png
 - name: Wumpus Mono
   source_url: https://github.com/vaughantype/wumpus-mono/
+  previews:
+    - previews/WumpusMono/WumpusMonoDemo-Regular.preview.png
 - name: X Fonts for Windows
   url: https://www.hassings.dk/lars/fonts.html
   notes:
     - .fon format
+  previews:
 - name: X11 Fonts
   url: https://gitlab.freedesktop.org/xorg/font
   description: |-
@@ -764,6 +1364,10 @@
     - X Window System
     - bitmap
     - courier
+  previews:
 - name: Zed Mono
   source_url: https://github.com/zed-industries/zed-fonts
   description: 'based on Iosevka'
+  previews:
+    - previews/ZedMono/zed-mono-regular.preview.png
+    - previews/ZedMono/zed-mono-italic.preview.png

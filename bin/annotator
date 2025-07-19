@@ -1,0 +1,17 @@
+#!/usr/bin/env perl
+use warnings;
+use strict;
+use List::Util qw(max);
+use Text::Tabs qw(expand);
+my @lines;
+while (<>) {
+    s{\R\z}{};
+    $_ = expand($_);
+    push(@lines, $_);
+}
+my $max_len = max map { length($_) } @lines;
+@lines = map { sprintf("%-*s", $max_len, $_) } @lines;
+s{%}{%%}g for @lines;
+s{\\}{\\\\}g for @lines;
+print("$_\n") foreach @lines;
+
