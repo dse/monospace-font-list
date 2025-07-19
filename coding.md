@@ -72,6 +72,8 @@
 -   [Corbi Mono S](https://fontlibrary.org/fr/font/corbi-mono-s)
 -   [Courier Code](https://fontlibrary.org/en/font/courier-code)
 -   [Courier Prime Code](https://quoteunquoteapps.com/courierprime/)
+    -   Previews:
+        -   ![previews/CourierPrime/Courier_Prime_Code.preview.png](previews/CourierPrime/Courier_Prime_Code.preview.png)
 -   [Cousine](https://fonts.google.com/specimen/Cousine)
 -   [Cozette](https://github.com/slavfox/Cozette)
 -   [CP Mono](https://github.com/chrissimpkins/codeface/tree/master/fonts/cp-mono)
