@@ -1215,6 +1215,9 @@
     - bitmap
   previews:
     - previews/SunGallantDemi/gallant12x22.preview.png
+- name: SUSE Mono
+  url: https://www.suse.com/c/suse-releases-suse-mono-italics-and-more-in-a-packed-update-to-its-type-family/
+  github_url: https://github.com/SUSE/suse-font
 - name: Sydnie
   url: https://fontsgeek.com/fonts/Sydnie-Regular
   via: https://davidawindham.com/fonts/
