@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-125 typefaces listed here.
+127 typefaces listed here.
 
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
 -   [Angelus III](https://www.myfonts.com/collections/angelus-iii-font-scriptorium)
@@ -15,6 +15,7 @@
     -   [fontshare](https://www.fontshare.com/fonts/azeret-mono)
     -   [uncut](https://uncut.wtf/monospace/azeret-mono/)
 -   [B612 Mono](https://b612-font.com/)
+    -   [googlefonts](https://fonts.google.com/specimen/B612+Mono?query=mono)
 -   [Basier Mono](https://www.atipofoundry.com/fonts/basier-mono)
 -   [Bedstead](https://bjh21.me.uk/bedstead/)
 -   [Befont](https://codeberg.org/Wezl/fonts#befont-https-ermineii-github-io-befont-html)
@@ -28,6 +29,7 @@
     -   [microsoft](https://learn.microsoft.com/en-us/typography/font-list/biz-udmincho-medium)
     -   [uncut](https://uncut.wtf/monospace/biz-udmincho/)
 -   [BQN386](https://dzaima.github.io/BQN386/)
+-   [Bytesized](https://fonts.google.com/specimen/Bytesized)
 -   [CATV 6x12 9](https://fontlibrary.org/en/font/catv-6x12-9)
 -   [CMU Typewriter (based on Computer Modern Typewriter)](https://fontlibrary.org/en/font/cmu-typewriter)
 -   [Compagnon](https://velvetyne.fr/fonts/compagnon/)
@@ -76,11 +78,13 @@
 -   [Letter Gothic (URW)](https://ctan.org/tex-archive/fonts/urw/lettergothic)
     -   Notes:
         -   PostScript Type 1 font
+-   [Libertinus Mono](https://fonts.google.com/specimen/Libertinus+Mono)
 -   [Linux Libertine Mono](https://sourceforge.net/projects/linuxlibertine/)
 -   [Lovematrix](https://fontlibrary.org/en/font/dejavu-markup)
 -   LT Superior Mono
     -   [uncut](https://uncut.wtf/monospace/lt-superior-mono/)
 -   [Major Mono Display](https://www.emreparlak.com/major/)
+    -   [googlefonts](https://fonts.google.com/specimen/Major+Mono+Display?categoryFilters=Appearance:%2FMonospace%2FMonospace)
 -   [Manaspace](https://www.zone38.net/font/)
 -   [Marista](https://calculatedimages.blogspot.com/2013/07/marista-my-second-professional-font.html)
 -   [Martian Mono](https://evilmartians.com/products/martian-mono)

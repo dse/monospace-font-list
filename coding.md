@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-227 typefaces listed here.
+233 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
     -   Previews:
@@ -61,6 +61,7 @@
         -   AnomalyMono-Regular<br>
             ![previews/AnomalyMono/AnomalyMono-Regular.preview.png](previews/AnomalyMono/AnomalyMono-Regular.preview.png)
 -   [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
+    -   [googlefonts](https://fonts.google.com/specimen/Anonymous+Pro)
     -   Previews:
         -   anonymous-pro<br>
             ![previews/AnonymousPro/anonymous-pro.preview.png](previews/AnonymousPro/anonymous-pro.preview.png)
@@ -95,6 +96,7 @@
 -   [Atkinson Hyperlegible Mono](https://www.brailleinstitute.org/freefont/)
     -   Notes:
         -   Designed for people with visual impairments.
+    -   [googlefonts](https://fonts.google.com/specimen/Atkinson+Hyperlegible+Mono)
     -   Previews:
         -   AtkinsonHyperlegibleMono-Regular<br>
             ![previews/AtkinsonHyperlegibleMono/AtkinsonHyperlegibleMono-Regular.preview.png](previews/AtkinsonHyperlegibleMono/AtkinsonHyperlegibleMono-Regular.preview.png)
@@ -164,8 +166,11 @@
             ![previews/CamingoCode/CamingoCode-Italic.preview.png](previews/CamingoCode/CamingoCode-Italic.preview.png)
 -   [Canton Typewriter Bitmap](https://github.com/dse/font-canton-typewriter-bitmap)
 -   [Cascadia Code](https://github.com/microsoft/cascadia-code)
+    -   [googlefonts](https://fonts.google.com/specimen/Cascadia+Code)
+-   [Cascadia Mono](https://fonts.google.com/specimen/Cascadia+Mono)
 -   [Chivo Mono](https://github.com/Omnibus-Type/Chivo)
     you probably want the Nerd Font linked from therein.
+    -   [googlefonts](https://fonts.google.com/specimen/Chivo+Mono)
     -   Previews:
         -   ChivoMono-Regular<br>
             ![previews/ChivoMono/ChivoMono-Regular.preview.png](previews/ChivoMono/ChivoMono-Regular.preview.png)
@@ -230,6 +235,7 @@
 -   [Corbi Mono S](https://fontlibrary.org/fr/font/corbi-mono-s)
 -   [Courier Code](https://fontlibrary.org/en/font/courier-code)
 -   [Courier Prime Code](https://quoteunquoteapps.com/courierprime/)
+    -   [googlefonts](https://fonts.google.com/specimen/Courier+Prime)
     -   Previews:
         -   Courier_Prime_Code<br>
             ![previews/CourierPrime/Courier_Prime_Code.preview.png](previews/CourierPrime/Courier_Prime_Code.preview.png)
@@ -251,6 +257,7 @@
         -   D2Coding<br>
             ![previews/D2Coding/D2Coding.preview.png](previews/D2Coding/D2Coding.preview.png)
 -   [DM Mono](https://github.com/googlefonts/dm-mono)
+    -   [googlefonts](https://fonts.google.com/specimen/DM+Mono)
 -   [DaddyTimeMono](https://github.com/BourgeoisBear/DaddyTimeMono)
     -   Previews:
         -   DaddyTimeMono<br>
@@ -360,6 +367,7 @@
         -   FifteenNarrow<br>
             ![previews/Fifteen/FifteenNarrow.preview.png](previews/Fifteen/FifteenNarrow.preview.png)
 -   [Fira Code](https://github.com/tonsky/FiraCode)
+    -   [googlefonts](https://fonts.google.com/specimen/Fira+Code)
     -   Previews:
         -   FiraCode-Regular<br>
             ![previews/FiraCode/FiraCode-Regular.preview.png](previews/FiraCode/FiraCode-Regular.preview.png)
@@ -376,6 +384,7 @@
         -   FiraFlott_FlottFlott_Italic<br>
             ![previews/FiraFlott/FiraFlott_FlottFlott_Italic.preview.png](previews/FiraFlott/FiraFlott_FlottFlott_Italic.preview.png)
 -   [Fira Mono](https://github.com/mozilla/Fira)
+    -   [googlefonts](https://fonts.google.com/specimen/Fira+Mono)
     -   Previews:
         -   FiraMono-Regular<br>
             ![previews/FiraMono/FiraMono-Regular.preview.png](previews/FiraMono/FiraMono-Regular.preview.png)
@@ -400,6 +409,7 @@
         -   fn0t<br>
             ![previews/fn0t/fn0t.preview.png](previews/fn0t/fn0t.preview.png)
 -   [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono)
+    -   [googlefonts](https://fonts.google.com/specimen/Fragment+Mono)
     -   Previews:
         -   FragmentMono-Regular<br>
             ![previews/FragmentMono/FragmentMono-Regular.preview.png](previews/FragmentMono/FragmentMono-Regular.preview.png)
@@ -410,6 +420,7 @@
         -   fs-regulate<br>
             ![previews/FSRegulate/fs-regulate.preview.png](previews/FSRegulate/fs-regulate.preview.png)
 -   [Geist](https://vercel.com/font)
+    -   [googlefonts](https://fonts.google.com/specimen/Geist+Mono)
     -   Previews:
         -   GeistMono-Regular<br>
             ![previews/GeistMono/GeistMono-Regular.preview.png](previews/GeistMono/GeistMono-Regular.preview.png)
@@ -445,7 +456,7 @@
             ![previews/Gohu/koemadea-gohufont-uni-11.preview.png](previews/Gohu/koemadea-gohufont-uni-11.preview.png)
         -   koemadea-gohufont-uni-14<br>
             ![previews/Gohu/koemadea-gohufont-uni-14.preview.png](previews/Gohu/koemadea-gohufont-uni-14.preview.png)
--   Coogle Sans Code
+-   [Coogle Sans Code](https://fonts.google.com/specimen/Google+Sans+Code)
     -   Notes:
         -   based on Google Sans Mono, which see.
     -   [github](https://github.com/googlefonts/googlesans-code)
@@ -492,6 +503,7 @@
 -   HVTerminal
 -   [IBM Fonts](https://farsil.github.io/ibmfonts/)
 -   [IBM Plex](https://www.ibm.com/plex/)
+    -   [googlefonts](https://fonts.google.com/specimen/IBM+Plex+Mono)
     -   Variants:
         -   [iA Writer Mono](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono)
         -   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
@@ -515,6 +527,7 @@
         -   Illusion-Z-Italic<br>
             ![previews/Illusion/Illusion-Z-Italic.preview.png](previews/Illusion/Illusion-Z-Italic.preview.png)
 -   [Inconsolata](https://levien.com/type/myfonts/inconsolata.html)
+    -   [googlefonts](https://fonts.google.com/specimen/Inconsolata)
     -   Variants:
         -   [Inconsolata Light](https://github.com/googlefonts/Inconsolata/blob/main/fonts/ttf/Inconsolata-Light.ttf)
         -   [Inconsolata-g](https://leonardo-m.livejournal.com/77079.html), Inconsolata with some changes
@@ -541,6 +554,7 @@
         -   InputMonoCompressed-Regular<br>
             ![previews/InputMono/InputMonoCompressed-Regular.preview.png](previews/InputMono/InputMonoCompressed-Regular.preview.png)
 -   [Intel One Mono](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html)
+    -   [googlefonts](https://fonts.google.com/specimen/Intel+One+Mono)
     -   Previews:
         -   IntelOneMono-Regular<br>
             ![previews/IntelOneMono/IntelOneMono-Regular.preview.png](previews/IntelOneMono/IntelOneMono-Regular.preview.png)
@@ -555,6 +569,7 @@
         -   Iosevka-Italic<br>
             ![previews/Iosevka/Iosevka-Italic.preview.png](previews/Iosevka/Iosevka-Italic.preview.png)
 -   [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
+    -   [googlefonts](https://fonts.google.com/specimen/JetBrains+Mono)
     -   Previews:
         -   JetBrainsMono-Regular<br>
             ![previews/JetBrainsMono/JetBrainsMono-Regular.preview.png](previews/JetBrainsMono/JetBrainsMono-Regular.preview.png)
@@ -599,6 +614,7 @@
         -   LeagueMono-Regular<br>
             ![previews/LeagueMono/LeagueMono-Regular.preview.png](previews/LeagueMono/LeagueMono-Regular.preview.png)
 -   [Lekton Code](https://fontlibrary.org/en/font/lektoncode)
+    -   [googlefonts](https://fonts.google.com/specimen/Lekton)
     -   Previews:
         -   LektonCode-Regular<br>
             ![previews/LektonCode/LektonCode-Regular.preview.png](previews/LektonCode/LektonCode-Regular.preview.png)
@@ -678,7 +694,9 @@
             ![previews/LVCMono/LVCMono.preview.png](previews/LVCMono/LVCMono.preview.png)
         -   LVCMono-Italic<br>
             ![previews/LVCMono/LVCMono-Italic.preview.png](previews/LVCMono/LVCMono-Italic.preview.png)
+-   [LXGW WenKai Mono TC](https://fonts.google.com/specimen/LXGW+WenKai+Mono+TC)
 -   [M+ Fonts](https://mplusfonts.github.io/)
+    -   [googlefonts](https://fonts.google.com/specimen/M+PLUS+1+Code)
     -   Previews:
         -   Mplus1Code-Regular<br>
             ![previews/Mplus/Mplus1Code-Regular.preview.png](previews/Mplus/Mplus1Code-Regular.preview.png)
@@ -832,6 +850,7 @@
         -   gonzalez-MonteCarloFixed12<br>
             ![previews/MonteCarlo/gonzalez-MonteCarloFixed12.preview.png](previews/MonteCarlo/gonzalez-MonteCarloFixed12.preview.png)
 -   [Nanum Gothic Coding](https://github.com/emersion/nanum-gothic-coding)
+    -   [googlefonts](https://fonts.google.com/specimen/Nanum+Gothic+Coding)
     -   Previews:
         -   NanumGothicCoding-Regular<br>
             ![previews/NanumGothicCoding/NanumGothicCoding-Regular.preview.png](previews/NanumGothicCoding/NanumGothicCoding-Regular.preview.png)
@@ -862,6 +881,7 @@
             ![previews/NK57Monospace/NK57_Monospace_No_Rg_It.preview.png](previews/NK57Monospace/NK57_Monospace_No_Rg_It.preview.png)
 -   [Noto Sans Mono](https://fonts.google.com/noto/specimen/Noto+Sans+Mono)
     -   [source](https://github.com/notofonts)
+    -   [googlefonts](https://fonts.google.com/specimen/Noto+Sans+Mono)
     -   Previews:
         -   NotoSansMono-Regular<br>
             ![previews/NotoSansMono/NotoSansMono-Regular.preview.png](previews/NotoSansMono/NotoSansMono-Regular.preview.png)
@@ -886,6 +906,7 @@
         -   ocraext<br>
             ![previews/OCRAExtended/ocraext.preview.png](previews/OCRAExtended/ocraext.preview.png)
 -   [Office Code Pro](https://github.com/nathco/Office-Code-Pro)
+    -   [googlefonts](https://fonts.google.com/specimen/Source+Code+Pro)
     -   Variants:
         -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
             -   derived from Source Code Pro and Noto Sans JP.
@@ -936,7 +957,8 @@
     -   Previews:
         -   osaka.unicode<br>
             ![previews/Osaka/osaka.unicode.preview.png](previews/Osaka/osaka.unicode.preview.png)
--   [Overpass](https://overpassfont.org/)
+-   [Overpass Mono](https://overpassfont.org/)
+    -   [googlefonts](https://fonts.google.com/specimen/Overpass+Mono)
     -   Previews:
         -   overpass-mono-regular<br>
             ![previews/OverpassMono/overpass-mono-regular.preview.png](previews/OverpassMono/overpass-mono-regular.preview.png)
@@ -1039,6 +1061,7 @@
             ![previews/RedHatMono/RedHatMono-Italic.preview.png](previews/RedHatMono/RedHatMono-Italic.preview.png)
 -   [retro fonts](http://www.modelb.bbcmicro.com/retro-fonts.html)
 -   [Roboto Mono](https://github.com/googlefonts/roboto)
+    -   [googlefonts](https://fonts.google.com/specimen/Roboto+Mono)
     -   Previews:
         -   RobotoMono-Regular<br>
             ![previews/RobotoMono/RobotoMono-Regular.preview.png](previews/RobotoMono/RobotoMono-Regular.preview.png)
@@ -1081,14 +1104,17 @@
     -   Notes:
         -   modified version available:
             https://web.archive.org/web/20090414084153/http://grosskurth.ca/typography/sheldon4.fon
+-   [Sixtyfour](https://fonts.google.com/specimen/Sixtyfour)
 -   [Sometype Mono](https://monospacedfont.com/)
     -   [source](https://github.com/dharmatype/Sometype-Mono)
+    -   [googlefonts](https://fonts.google.com/specimen/Sometype+Mono)
     -   Previews:
         -   SometypeMono-Regular<br>
             ![previews/SometypeMono/SometypeMono-Regular.preview.png](previews/SometypeMono/SometypeMono-Regular.preview.png)
         -   SometypeMono-RegularItalic<br>
             ![previews/SometypeMono/SometypeMono-RegularItalic.preview.png](previews/SometypeMono/SometypeMono-RegularItalic.preview.png)
 -   [Sono](https://usemodify.com/fonts/sono/)
+    -   [googlefonts](https://fonts.google.com/specimen/Sono)
     -   Previews:
         -   Sono-Regular<br>
             ![previews/Sono/Sono-Regular.preview.png](previews/Sono/Sono-Regular.preview.png)
@@ -1143,6 +1169,9 @@
     -   Previews:
         -   gallant12x22<br>
             ![previews/SunGallantDemi/gallant12x22.preview.png](previews/SunGallantDemi/gallant12x22.preview.png)
+-   [SUSE Mono](https://www.suse.com/c/suse-releases-suse-mono-italics-and-more-in-a-packed-update-to-its-type-family/)
+    -   [googlefonts](https://fonts.google.com/specimen/SUSE+Mono)
+    -   [github](https://github.com/SUSE/suse-font)
 -   [Sydnie](https://fontsgeek.com/fonts/Sydnie-Regular)
     -   Previews:
         -   Sydnie_Regular<br>
@@ -1218,11 +1247,13 @@
         -   txtt<br>
             ![previews/TxFonts/txtt.preview.png](previews/TxFonts/txtt.preview.png)
 -   [Ubuntu Monospace](https://design.ubuntu.com/font)
+    -   [googlefonts](https://fonts.google.com/specimen/Ubuntu+Mono)
     -   Previews:
         -   UbuntuMono-R<br>
             ![previews/UbuntuMonospace/UbuntuMono-R.preview.png](previews/UbuntuMonospace/UbuntuMono-R.preview.png)
         -   UbuntuMono-RI<br>
             ![previews/UbuntuMonospace/UbuntuMono-RI.preview.png](previews/UbuntuMonospace/UbuntuMono-RI.preview.png)
+-   [Ubuntu Sans Mono](https://fonts.google.com/specimen/Ubuntu+Sans+Mono)
 -   [Unix-originated terminal fonts for Windows](http://christian.lestrade.free.fr/fonts.html)
 -   [Unix PC 3B1](https://github.com/brandon-rhodes/unixpc-font-bdf)
 -   [UNSCII](http://viznut.fi/unscii/)
@@ -1252,12 +1283,14 @@
         -   VerilySerifMono<br>
             ![previews/VerilySerifMono/VerilySerifMono.preview.png](previews/VerilySerifMono/VerilySerifMono.preview.png)
 -   [Victor Mono](https://github.com/rubjo/victor-mono)
+    -   [googlefonts](https://fonts.google.com/specimen/Victor+Mono)
     -   Previews:
         -   VictorMono-Regular<br>
             ![previews/VictorMono/VictorMono-Regular.preview.png](previews/VictorMono/VictorMono-Regular.preview.png)
         -   VictorMono-Italic<br>
             ![previews/VictorMono/VictorMono-Italic.preview.png](previews/VictorMono/VictorMono-Italic.preview.png)
 -   [VT323](https://github.com/phoikoi/VT323)
+    -   [googlefonts](https://fonts.google.com/specimen/VT323)
     -   Previews:
         -   VT323-Regular<br>
             ![previews/VT323/VT323-Regular.preview.png](previews/VT323/VT323-Regular.preview.png)
@@ -1267,6 +1300,7 @@
     -   Previews:
         -   whois-mono<br>
             ![previews/WhoisMono/whois-mono.preview.png](previews/WhoisMono/whois-mono.preview.png)
+-   [Workbench](https://fonts.google.com/specimen/Workbench)
 -   [Writer](https://github.com/tonsky/font-writer)
     -   Previews:
         -   Writer-Regular<br>
