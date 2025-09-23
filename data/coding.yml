@@ -21,7 +21,7 @@
     - previews/3270/3270Condensed-Regular.preview.png
 - name: Aardvark Fixed
   fontlibrary_url: https://fontlibrary.org/en/font/aardvark-sans
-  description: 'a mix of Iosevka, Misc Fixed 6x13, and Office Code Pro'
+  description: "a mix of Iosevka, Misc Fixed 6x13, and Office Code Pro"
   previews:
     - previews/AardvarkFixed/aardvark-fixed-regular.preview.png
     - previews/AardvarkFixed/aardvark-fixed-italic.preview.png
@@ -73,19 +73,19 @@
     - previews/AnonymousPro/anonymous-pro-i.preview.png
 - name: "Another Man's Treasure"
   url: https://www.kreativekorp.com/software/fonts/trs80/
-  description: 'the TRS-80 font family'
+  description: "the TRS-80 font family"
 - name: APL2741
   url: https://apl385.com/fonts/
   previews:
     - previews/APL2741/apl2741.preview.png
 - name: APL385
   url: https://apl385.com/fonts/
-  description: 'slight Comic Sans vibe - use APL386 instead'
+  description: "slight Comic Sans vibe - use APL386 instead"
   previews:
     - previews/APL385/apl385.preview.png
 - name: APL386
   url: https://abrudz.github.io/APL386/
-  description: 'slight Comic Sans vibe - based on APL385'
+  description: "slight Comic Sans vibe - based on APL385"
   previews:
     - previews/APL386/APL386.preview.png
 - name: APLX
@@ -391,13 +391,13 @@
     - previews/EversonMono/Everson_Mono.preview.png
 - name: Fairfax
   url: https://www.kreativekorp.com/software/fonts/fairfax/
-  description: 'bitmap font, huge Unicode repertoire'
+  description: "bitmap font, huge Unicode repertoire"
   previews:
     - previews/Fairfax/Fairfax.preview.png
     - previews/Fairfax/FairfaxItalic.preview.png
 - name: Fairfax HD
   url: https://www.kreativekorp.com/software/fonts/fairfaxhd/
-  description: 'scalable vector font, huge Unicode repertoire'
+  description: "scalable vector font, huge Unicode repertoire"
   previews:
     - previews/FairfaxHD/FairfaxHD.preview.png
 - name: Fairfax Serif
@@ -425,7 +425,7 @@
     - previews/FiraCode/FiraCode-Regular.preview.png
 - name: Fira Cousine
   source_url: https://github.com/macduy/FiraCousine
-  description: Cousine + Fira Code's punct marks and ligatures
+  description: "Cousine + Fira Code's punct marks and ligatures"
   previews:
     - previews/FiraCousine/FiraCousine-Regular.preview.png
     - previews/FiraCousine/FiraCousine-Italic.preview.png
@@ -460,7 +460,7 @@
     - previews/fn0t/fn0t.preview.png
 - name: Fragment Mono
   source_url: https://github.com/weiweihuanghuang/fragment-mono
-  description: 'based on URW Nimbus Sans, a Helvetica clone'
+  description: "based on URW Nimbus Sans, a Helvetica clone"
   previews:
     - previews/FragmentMono/FragmentMono-Regular.preview.png
     - previews/FragmentMono/FragmentMono-Italic.preview.png
@@ -564,7 +564,7 @@
   previews:
 - name: IBM Fonts
   url: https://farsil.github.io/ibmfonts/
-  description: 'IBM system fonts in BDF format, derived from the [PX Plus](https://int10h.org/oldschool-pc-fonts/fontlist/) fonts'
+  description: "IBM system fonts in BDF format, derived from the [PX Plus](https://int10h.org/oldschool-pc-fonts/fontlist/) fonts"
   previews:
 - name: IBM Plex
   url: https://www.ibm.com/plex/
@@ -577,12 +577,12 @@
   previews:
 - name: Illinois Mono
   source_url: https://github.com/MadSimple/illinois-mono
-  description: 'based on an interesting project called [Lexend](https://www.lexend.com/)'
+  description: "based on an interesting project called [Lexend](https://www.lexend.com/)"
   previews:
     - previews/IllinoisMono/Illinois_Mono_Regular.preview.png
 - name: Illusion
   source_url: https://github.com/tomonic-x/Illusion
-  description: '[japanese]'
+  description: "[japanese]"
   previews:
     - previews/Illusion/Illusion-N-Regular.preview.png
     - previews/Illusion/Illusion-N-Italic.preview.png
@@ -606,7 +606,7 @@
     - previews/Inconsolata/Inconsolata_Expanded-Regular.preview.png
 - name: Input Mono
   url: https://input.djr.com/
-  description: 'personal use free, public-facing use paid'
+  description: "personal use free, public-facing use paid"
   previews:
     - previews/InputMono/InputMono-Regular.preview.png
     - previews/InputMono/InputMono-Italic.preview.png
@@ -635,7 +635,7 @@
     - previews/JetBrainsMono/JetBrainsMono-Italic.preview.png
 - name: Jozsika
   source_url: https://github.com/nilcons/jozsika
-  description: 'a customized version of Iosevka'
+  description: "a customized version of Iosevka"
   previews:
     - previews/Jozsika/jozsika-regular.preview.png
     - previews/Jozsika/jozsika-italic.preview.png
@@ -734,7 +734,7 @@
     - previews/Luxi/luxisri.preview.png
 - name: LVC Mono
   fontlibrary_url: https://fontlibrary.org/en/font/lvc-mono
-  description: 'a variant of IBM Plex Mono'
+  description: "a variant of IBM Plex Mono"
   previews:
     - previews/LVCMono/LVCMono.preview.png
     - previews/LVCMono/LVCMono-Italic.preview.png
@@ -993,7 +993,7 @@
     - previews/Peep/peep8x16.preview.png
 - name: Perfect DOS VGA fonts
   url: https://laemeur.sdf.org/fonts/
-  description: 'includes Less Perfect, More Perfect, and Perfect'
+  description: "includes Less Perfect, More Perfect, and Perfect"
   tags:
     - retro
     - microcomputer
@@ -1005,7 +1005,7 @@
     - previews/PerfectDOSVGA/MorePerfectDOSVGA.preview.png
 - name: Pet Me
   url: https://www.kreativekorp.com/software/fonts/c64/
-  description: 'the Commodore VIC-20, C64, and C128 font family'
+  description: "the Commodore VIC-20, C64, and C128 font family"
   tags:
     - retro
     - microcomputer
@@ -1016,7 +1016,7 @@
   previews:
 - name: Perfect DOS VGA fonts
   url: https://laemeur.sdf.org/fonts/
-  description: 'includes Less Perfect, More Perfect, and Perfect'
+  description: "includes Less Perfect, More Perfect, and Perfect"
   previews:
 - name: Pixel Carnage
   dafont_url: https://www.dafont.com/pixelcarnage.d870
@@ -1028,7 +1028,7 @@
     - previews/Pointfree/pointfree.preview.png
 - name: Print Char 21 and PR Number 3
   url: https://www.kreativekorp.com/software/fonts/apple2/
-  description: 'the Apple II fonts'
+  description: "the Apple II fonts"
   previews:
     - previews/AppleIIKK/PrintChar21.preview.png
     - previews/AppleIIKK/PRNumber3.preview.png
@@ -1097,7 +1097,7 @@
     - previews/RedHatMono/RedHatMono-Italic.preview.png
 - name: retro fonts
   url: http://www.modelb.bbcmicro.com/retro-fonts.html
-  description: '[free] - teletext and Atari ST fonts'
+  description: "[free] - teletext and Atari ST fonts"
   previews:
 - name: Roboto Mono
   source_url: https://github.com/googlefonts/roboto
@@ -1138,7 +1138,7 @@
     - previews/ServerMono/ServerMono-RegularSlanted.preview.png
 - name: SF Mono
   url: https://developer.apple.com/fonts/
-  description: '[free]'
+  description: "[free]"
   previews:
 - name: SGI Screen
   url: https://bitbucket.org/tarkasteve/sgi-screen-ttf/src/master/
@@ -1229,7 +1229,7 @@
   previews:
 - name: Tamzen
   source_url: https://github.com/sunaku/tamzen-font
-  description: 'tamsyn in ttf, other formats'
+  description: "tamsyn in ttf, other formats"
   previews:
     - previews/Tamzen/Tamzen5x9b.preview.png
     - previews/Tamzen/Tamzen5x9r.preview.png
@@ -1329,7 +1329,7 @@
     - previews/VT323/VT323-Regular.preview.png
 - name: WenQuanYi Black
   url: http://wenq.org/wqy2/index.cgi?FontGuide#_4
-  description: '[chinese]'
+  description: "[chinese]"
   previews:
 - name: Whois Mono
   uncut_url: https://uncut.wtf/monospace/whois/
@@ -1370,7 +1370,7 @@
   previews:
 - name: Zed Mono
   source_url: https://github.com/zed-industries/zed-fonts
-  description: 'based on Iosevka'
+  description: "based on Iosevka"
   previews:
     - previews/ZedMono/zed-mono-regular.preview.png
     - previews/ZedMono/zed-mono-italic.preview.png
