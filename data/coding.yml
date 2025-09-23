@@ -71,6 +71,7 @@
   previews:
     - previews/AnonymousPro/anonymous-pro.preview.png
     - previews/AnonymousPro/anonymous-pro-i.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Anonymous+Pro
 - name: "Another Man's Treasure"
   url: https://www.kreativekorp.com/software/fonts/trs80/
   description: "the TRS-80 font family"
@@ -116,6 +117,7 @@
   previews:
     - previews/AtkinsonHyperlegibleMono/AtkinsonHyperlegibleMono-Regular.preview.png
     - previews/AtkinsonHyperlegibleMono/AtkinsonHyperlegibleMono-RegularItalic.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Atkinson+Hyperlegible+Mono
 - name: AudioLink Mono
   url: https://audiolink.dev/
   description: and AudioLink Console
@@ -196,6 +198,9 @@
   source_url: https://github.com/microsoft/cascadia-code
   description: A fun coding font with a cursive italic, From Microsoft, the default font in Windows Terminal and now Visual Studio Code.
   previews:
+  gfonts_url: https://fonts.google.com/specimen/Cascadia+Code
+- name: Cascadia Mono
+  gfonts_url: https://fonts.google.com/specimen/Cascadia+Mono
 - name: Chivo Mono
   source_url: https://github.com/Omnibus-Type/Chivo
   description: you probably want the Nerd Font linked from therein.
@@ -203,6 +208,7 @@
   previews:
     - previews/ChivoMono/ChivoMono-Regular.preview.png
     - previews/ChivoMono/ChivoMono-Italic.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Chivo+Mono
 - name: Classic Console Neue
   url: https://webdraft.eu/fonts/classic-console/
   notes: >-
@@ -273,6 +279,7 @@
   previews:
     - previews/CourierPrime/Courier_Prime_Code.preview.png
   previews:
+  gfonts_url: https://fonts.google.com/specimen/Courier+Prime
 - name: Cousine
   gfonts_url: https://fonts.google.com/specimen/Cousine
   previews:
@@ -298,6 +305,7 @@
     - previews/D2Coding/D2Coding.preview.png
 - name: DM Mono
   source_url: https://github.com/googlefonts/dm-mono
+  gfonts_url: https://fonts.google.com/specimen/DM+Mono
   previews:
 - name: DaddyTimeMono
   source_url: https://github.com/BourgeoisBear/DaddyTimeMono
@@ -423,6 +431,7 @@
   description: has ligatures
   previews:
     - previews/FiraCode/FiraCode-Regular.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Fira+Code
 - name: Fira Cousine
   source_url: https://github.com/macduy/FiraCousine
   description: "Cousine + Fira Code's punct marks and ligatures"
@@ -441,6 +450,7 @@
   description: from mozilla
   previews:
     - previews/FiraMono/FiraMono-Regular.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Fira+Mono
 - name: Fixedsys Excelsior
   source_url: https://github.com/kika/fixedsys
   previews:
@@ -464,6 +474,7 @@
   previews:
     - previews/FragmentMono/FragmentMono-Regular.preview.png
     - previews/FragmentMono/FragmentMono-Italic.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Fragment+Mono
 - name: FS Regulate
   url: https://fontstruct.com/fontstructions/show/947828/fs_regulate
   previews:
@@ -473,6 +484,7 @@
   description: includes a mono variant
   previews:
     - previews/GeistMono/GeistMono-Regular.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Geist+Mono
 - name: Generic Mono II
   source_url: https://github.com/organicplanning/hackedfonts
   previews:
@@ -508,6 +520,7 @@
   notes:
     - based on Google Sans Mono, which see.
   previews:
+  gfonts_url: https://fonts.google.com/specimen/Google+Sans+Code
 - name: Google Sans Mono
   source_url: https://github.com/mehant-kr/Google-Sans-Mono
   description: |-
@@ -574,6 +587,7 @@
     -   [iA Writer Mono](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono)
     -   [Perplexed](https://github.com/phoikoi/perplexed) - fork of IBM Plex Mono with Powerline glyphs
     -   [Terminex](https://github.com/vsalvino/terminex) [free] derived from IBM Plex Mono
+  gfonts_url: https://fonts.google.com/specimen/IBM+Plex+Mono
   previews:
 - name: Illinois Mono
   source_url: https://github.com/MadSimple/illinois-mono
@@ -604,6 +618,7 @@
     - previews/Inconsolata/Inconsolata-Regular.preview.png
     - previews/Inconsolata/Inconsolata_Condensed-Regular.preview.png
     - previews/Inconsolata/Inconsolata_Expanded-Regular.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Inconsolata
 - name: Input Mono
   url: https://input.djr.com/
   description: "personal use free, public-facing use paid"
@@ -621,6 +636,7 @@
   previews:
     - previews/IntelOneMono/IntelOneMono-Regular.preview.png
     - previews/IntelOneMono/IntelOneMono-Italic.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Intel+One+Mono
 - name: Iosevka
   url: https://typeof.net/Iosevka/
   variants: |-
@@ -633,6 +649,7 @@
   previews:
     - previews/JetBrainsMono/JetBrainsMono-Regular.preview.png
     - previews/JetBrainsMono/JetBrainsMono-Italic.preview.png
+  gfonts_url: https://fonts.google.com/specimen/JetBrains+Mono
 - name: Jozsika
   source_url: https://github.com/nilcons/jozsika
   description: "a customized version of Iosevka"
@@ -675,6 +692,7 @@
   previews:
     - previews/LektonCode/LektonCode-Regular.preview.png
     - previews/LektonCode/LektonCode-Italic.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Lekton
 - name: Letter Gothic Code
   source_url: https://github.com/jamesxmcintosh/LetterGothicCode
   tags:
@@ -738,6 +756,8 @@
   previews:
     - previews/LVCMono/LVCMono.preview.png
     - previews/LVCMono/LVCMono-Italic.preview.png
+- name: LXGW WenKai Mono TC
+  gfonts_url: https://fonts.google.com/specimen/LXGW+WenKai+Mono+TC
 - name: M+ Fonts
   url: https://mplusfonts.github.io/
   previews:
@@ -745,6 +765,7 @@
     - previews/Mplus/Mplus2-Regular.preview.png
     - previews/Mplus/MplusCodeLatin50-Regular.preview.png
     - previews/Mplus/MplusCodeLatin60-Regular.preview.png
+  gfonts_url: https://fonts.google.com/specimen/M+PLUS+1+Code
 - name: Maple Mono
   source_url: https://github.com/subframe7536/maple-font
   previews:
@@ -864,6 +885,7 @@
   source_url: https://github.com/emersion/nanum-gothic-coding
   previews:
     - previews/NanumGothicCoding/NanumGothicCoding-Regular.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Nanum+Gothic+Coding
 - name: Natural Mono
   fontlibrary_url: https://fontlibrary.org/en/font/natural-mono
   description: |
@@ -895,10 +917,12 @@
   previews:
     - previews/NotoSansMono/NotoSansMono-Regular.preview.png
     - previews/NotoSansMono/NotoSansMono_Condensed-Regular.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Noto+Sans+Mono
 - name: Nova Mono
   gfonts_url: https://fonts.google.com/specimen/Nova+Mono
   previews:
     - previews/NovaMono/NovaMono-Regular.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Nova+Mono
 - name: Ocodo Mono
   source_url: https://github.com/ocodo/ocodo-mono
   description: early work in progress
@@ -926,6 +950,7 @@
     - previews/OfficeCodePro/OfficeCodePro-RegularItalic.preview.png
     - previews/OfficeCodePro/OfficeCodeProD-Regular.preview.png
     - previews/OfficeCodePro/OfficeCodeProD-RegularItalic.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Source+Code+Pro
 - name: Old School PC Fonts
   url: https://int10h.org/oldschool-pc-fonts/fontlist/
   notes: |-
@@ -973,10 +998,11 @@
     - https://discourse.codinghorror.com/t/revisiting-programming-fonts/460/62
   previews:
     - previews/Osaka/osaka.unicode.preview.png
-- name: Overpass
+- name: Overpass Mono
   url: https://overpassfont.org/
   previews:
     - previews/OverpassMono/overpass-mono-regular.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Overpass+Mono
 - name: Oxygen Mono
   gfonts_url: https://fonts.google.com/specimen/Oxygen+Mono
   previews:
@@ -1068,6 +1094,7 @@
   gfonts_url: https://fonts.google.com/specimen/PT+Mono
   previews:
     - previews/PTMono/PTMono-Regular.preview.png
+  gfonts_url: https://fonts.google.com/specimen/PT+Mono
 - name: Quinze
   fontlibrary_url: https://fontlibrary.org/en/font/quinze
   description: see also Fifteen
@@ -1104,6 +1131,7 @@
   previews:
     - previews/RobotoMono/RobotoMono-Regular.preview.png
     - previews/RobotoMono/RobotoMono-Italic.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Roboto+Mono
 - name: romfont
   source_url: https://github.com/spacerace/romfont
   description: collection of PC ROM fonts
@@ -1162,17 +1190,21 @@
     modified version available:
     https://web.archive.org/web/20090414084153/http://grosskurth.ca/typography/sheldon4.fon
   previews:
+- name: Sixtyfour
+  gfonts_url: https://fonts.google.com/specimen/Sixtyfour
 - name: Sometype Mono
   url: https://monospacedfont.com/
   source_url: https://github.com/dharmatype/Sometype-Mono
   previews:
     - previews/SometypeMono/SometypeMono-Regular.preview.png
     - previews/SometypeMono/SometypeMono-RegularItalic.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Sometype+Mono
 - name: Sono
   url: https://usemodify.com/fonts/sono/
   previews:
     - previews/Sono/Sono-Regular.preview.png
     - previews/Sono/SonoSans-Regular.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Sono
 - name: Source Code Pro
   source_url: https://github.com/adobe-fonts/source-code-pro
   description: from adobe
@@ -1218,6 +1250,7 @@
 - name: SUSE Mono
   url: https://www.suse.com/c/suse-releases-suse-mono-italics-and-more-in-a-packed-update-to-its-type-family/
   github_url: https://github.com/SUSE/suse-font
+  gfonts_url: https://fonts.google.com/specimen/SUSE+Mono
 - name: Sydnie
   url: https://fontsgeek.com/fonts/Sydnie-Regular
   via: https://davidawindham.com/fonts/
@@ -1291,6 +1324,9 @@
   previews:
     - previews/UbuntuMonospace/UbuntuMono-R.preview.png
     - previews/UbuntuMonospace/UbuntuMono-RI.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Ubuntu+Mono
+- name: Ubuntu Sans Mono
+  gfonts_url: https://fonts.google.com/specimen/Ubuntu+Sans+Mono
 - name: Unix-originated terminal fonts for Windows
   url: http://christian.lestrade.free.fr/fonts.html
   description: |-
@@ -1323,10 +1359,12 @@
   previews:
     - previews/VictorMono/VictorMono-Regular.preview.png
     - previews/VictorMono/VictorMono-Italic.preview.png
+  gfonts_url: https://fonts.google.com/specimen/Victor+Mono
 - name: VT323
   source_url: https://github.com/phoikoi/VT323
   previews:
     - previews/VT323/VT323-Regular.preview.png
+  gfonts_url: https://fonts.google.com/specimen/VT323
 - name: WenQuanYi Black
   url: http://wenq.org/wqy2/index.cgi?FontGuide#_4
   description: "[chinese]"
@@ -1336,6 +1374,8 @@
   source_url: https://github.com/raphaelbastide/Whois-mono
   previews:
     - previews/WhoisMono/whois-mono.preview.png
+- name: Workbench
+  gfonts_url: https://fonts.google.com/specimen/Workbench
 - name: Writer
   source_url: https://github.com/tonsky/font-writer
   previews:
