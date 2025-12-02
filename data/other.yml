@@ -21,6 +21,7 @@
 - name: B612 Mono
   url: https://b612-font.com/
   description: cockpit screen font
+  gfonts_url: https://fonts.google.com/specimen/B612+Mono?query=mono
 - name: Basier Mono
   url: https://www.atipofoundry.com/fonts/basier-mono
   description: pay what you want
@@ -46,6 +47,10 @@
 - name: BQN386
   url: https://dzaima.github.io/BQN386/
   description: '[apl]'
+- name: Bytesized
+  gfonts_url: https://fonts.google.com/specimen/Bytesized
+  description: |
+    a 3x4 bitmap font lol.
 - name: CATV 6x12 9
   fontlibrary_url: https://fontlibrary.org/en/font/catv-6x12-9
 - name: CMU Typewriter (based on Computer Modern Typewriter)
@@ -167,6 +172,8 @@
     PostScript Type 1 font
   tags:
     - letter gothic
+- name: Libertinus Mono
+  gfonts_url: https://fonts.google.com/specimen/Libertinus+Mono
 - name: Linux Libertine Mono
   url: https://sourceforge.net/projects/linuxlibertine/
 - name: Lovematrix
@@ -176,6 +183,7 @@
   uncut_url: https://uncut.wtf/monospace/lt-superior-mono/
 - name: Major Mono Display
   url: https://www.emreparlak.com/major/
+  gfonts_url: https://fonts.google.com/specimen/Major+Mono+Display?categoryFilters=Appearance:%2FMonospace%2FMonospace
 - name: Manaspace
   url: https://www.zone38.net/font/
 - name: Marista
