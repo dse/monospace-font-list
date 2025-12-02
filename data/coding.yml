@@ -860,6 +860,9 @@
   url: https://www.bok.net/MonteCarlo/
   previews:
     - previews/MonteCarlo/gonzalez-MonteCarloFixed12.preview.png
+- name: Myna Mono
+  github_url: https://github.com/sayyadirfanali/Myna
+  description: monospace typeface designed for symbol-rich programming
 - name: Nanum Gothic Coding
   source_url: https://github.com/emersion/nanum-gothic-coding
   previews:
