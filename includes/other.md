@@ -1,4 +1,4 @@
-127 typefaces listed here.
+128 typefaces listed here.
 
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
 -   [Angelus III](https://www.myfonts.com/collections/angelus-iii-font-scriptorium)
@@ -56,6 +56,7 @@
 -   [F25 DaisyWheel](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_DaisyWheel)
 -   [F25 Typewriter Condensed](http://f25.cc/index.php?F25_Fonts:Monospaced:F25_Typewriter_Condensed)
 -   [Fifteen Twenty](https://github.com/scruss/FifteenTwenty)
+-   [Fliege Mono](https://github.com/PavelLaptev/Fliege-mono)
 -   [Générale Mono](https://fontlibrary.org/en/font/generalemono)
 -   [Générale Station](https://www.tunera.xyz/fonts/generale-station/)
 -   [Glovis](https://fontsempire.com/font/glovis-download/)
@@ -149,6 +150,7 @@
 -   [SpiderWire](https://codeberg.org/Wezl/fonts#spiderwire-https-ermineii-github-io-spiderwire-html)
 -   [Squareshooter Mono](https://fontsgeek.com/fonts/SquareShooter-Mono-Regular)
 -   [Steps-Mono](https://velvetyne.fr/fonts/steps-mono/)
+    -   [source](https://github.com/raphaelbastide/steps-mono)
     -   [uncut](https://uncut.wtf/monospace/steps-mono/)
 -   [SV Basic Manual](https://www.dafont.com/sv-basic-manual.font)
 -   [Sweet16Font](https://github.com/kmar/Sweet16Font/tree/master)

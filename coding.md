@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-233 typefaces listed here.
+249 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
     -   Previews:
@@ -56,6 +56,7 @@
             ![previews/AnkaCoder/AnkaCoder-C87-r.preview.png](previews/AnkaCoder/AnkaCoder-C87-r.preview.png)
         -   AnkaCoder-C75-r<br>
             ![previews/AnkaCoder/AnkaCoder-C75-r.preview.png](previews/AnkaCoder/AnkaCoder-C75-r.preview.png)
+-   [Annotation Mono](https://github.com/qwerasd205/AnnotationMono)
 -   [Anomaly Mono](https://github.com/benbusby/anomaly-mono)
     -   Previews:
         -   AnomalyMono-Regular<br>
@@ -112,6 +113,8 @@
     -   Previews:
         -   AurulentSansMono-Regular<br>
             ![previews/AurulentSansMono/AurulentSansMono-Regular.preview.png](previews/AurulentSansMono/AurulentSansMono-Regular.preview.png)
+-   [autonoe](https://github.com/blobject/autonoe)
+-   [Bearcast](https://github.com/kmwtr/Barecast)
 -   [Basically A Mono](https://experi.mentallydesigned.com/type/bam/)
     -   [uncut](https://uncut.wtf/monospace/basically-a-mono/)
     -   Previews:
@@ -182,6 +185,7 @@
     -   Previews:
         -   clacon2<br>
             ![previews/ClassicConsoleNeue/clacon2.preview.png](previews/ClassicConsoleNeue/clacon2.preview.png)
+-   [CNXT](https://github.com/cbytensky/cnxt)
 -   [Code New Roman](https://www.dafont.com/code-new-roman.font)
     -   Previews:
         -   Code_New_Roman<br>
@@ -239,6 +243,7 @@
     -   Previews:
         -   Courier_Prime_Code<br>
             ![previews/CourierPrime/Courier_Prime_Code.preview.png](previews/CourierPrime/Courier_Prime_Code.preview.png)
+-   [Courier Typewriter](https://github.com/ecoPervious/Courier-Typewritter-Fonts)
 -   [Cousine](https://fonts.google.com/specimen/Cousine)
     -   Previews:
         -   Cousine-Regular<br>
@@ -467,6 +472,7 @@
             ![previews/GoogleSansMono/Google-Sans-Mono-Regular.preview.png](previews/GoogleSansMono/Google-Sans-Mono-Regular.preview.png)
         -   Google-Sans-Mono-Italic<br>
             ![previews/GoogleSansMono/Google-Sans-Mono-Italic.preview.png](previews/GoogleSansMono/Google-Sans-Mono-Italic.preview.png)
+-   [Greybeard](https://github.com/flowchartsman/greybeard)
 -   [Grid15](https://typedrawers.com/discussion/964/grid15-futuristic-geometric-monospace)
 -   [Hack](https://sourcefoundry.org/hack/)
     -   Previews:
@@ -486,6 +492,7 @@
             ![previews/Haskplex/Haskplex-Regular.preview.png](previews/Haskplex/Haskplex-Regular.preview.png)
         -   Haskplex-Italic<br>
             ![previews/Haskplex/Haskplex-Italic.preview.png](previews/Haskplex/Haskplex-Italic.preview.png)
+-   [Hasubi Mono](https://github.com/eliheuer/hasubi-mono)
 -   [Hera](https://github.com/sayyadirfanali/Hera)
     -   Previews:
         -   Hera<br>
@@ -501,6 +508,7 @@
         -   .FON bitmap font for use with Windows
 -   HVRaster
 -   HVTerminal
+-   [IBM3161 Font](https://github.com/wyatt8740/IBM3161-font)
 -   [IBM Fonts](https://farsil.github.io/ibmfonts/)
 -   [IBM Plex](https://www.ibm.com/plex/)
     -   [googlefonts](https://fonts.google.com/specimen/IBM+Plex+Mono)
@@ -599,6 +607,7 @@
             ![previews/jxyahei/YHHT.preview.png](previews/jxyahei/YHHT.preview.png)
         -   正黑<br>
             ![previews/jxyahei/正黑.preview.png](previews/jxyahei/正黑.preview.png)
+-   [KakwaFont](https://github.com/kakwa/kakwafont)
 -   [Karen](https://github.com/amaya382/karen)
 -   [Kode Mono](https://fonts.google.com/specimen/Kode+Mono)
     -   Previews:
@@ -781,6 +790,7 @@
             ![previews/mnicmp/mnicmpStar-Regular.preview.png](previews/mnicmp/mnicmpStar-Regular.preview.png)
         -   mnicmpStar-Italic<br>
             ![previews/mnicmp/mnicmpStar-Italic.preview.png](previews/mnicmp/mnicmpStar-Italic.preview.png)
+-   [mno16](https://github.com/sevmeyer/mno16)
 -   [Monaspace](https://monaspace.githubnext.com/)
     -   Notes:
         -   A superfamily of typefaces.
@@ -845,10 +855,13 @@
     -   Previews:
         -   monoOne<br>
             ![previews/MonoOne/monoOne.preview.png](previews/MonoOne/monoOne.preview.png)
+-   [Monotional](https://github.com/regularhunter/monotional-font)
 -   [MonteCarlo (programmer font)](https://www.bok.net/MonteCarlo/)
     -   Previews:
         -   gonzalez-MonteCarloFixed12<br>
             ![previews/MonteCarlo/gonzalez-MonteCarloFixed12.preview.png](previews/MonteCarlo/gonzalez-MonteCarloFixed12.preview.png)
+-   Myna Mono
+    -   [github](https://github.com/sayyadirfanali/Myna)
 -   [Nanum Gothic Coding](https://github.com/emersion/nanum-gothic-coding)
     -   [googlefonts](https://fonts.google.com/specimen/Nanum+Gothic+Coding)
     -   Previews:
@@ -934,6 +947,7 @@
             ![previews/OldTimeyMono/OldTimeyMonoComp.preview.png](previews/OldTimeyMono/OldTimeyMonoComp.preview.png)
         -   OldTimeyCode<br>
             ![previews/OldTimeyMono/OldTimeyCode.preview.png](previews/OldTimeyMono/OldTimeyCode.preview.png)
+-   [Omelette Pixel Fonts](https://github.com/Bananattack/omelette_font)
 -   [OpenGenera fonts](https://archive.org/download/SymblicsOpenGenera)
     -   Notes:
         -   look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
@@ -1254,6 +1268,7 @@
         -   UbuntuMono-RI<br>
             ![previews/UbuntuMonospace/UbuntuMono-RI.preview.png](previews/UbuntuMonospace/UbuntuMono-RI.preview.png)
 -   [Ubuntu Sans Mono](https://fonts.google.com/specimen/Ubuntu+Sans+Mono)
+-   [undefined medium](https://github.com/andirueckel/undefined-medium)
 -   [Unix-originated terminal fonts for Windows](http://christian.lestrade.free.fr/fonts.html)
 -   [Unix PC 3B1](https://github.com/brandon-rhodes/unixpc-font-bdf)
 -   [UNSCII](http://viznut.fi/unscii/)
@@ -1274,6 +1289,7 @@
             ![previews/Unscii/unscii-16-full.preview.png](previews/Unscii/unscii-16-full.preview.png)
         -   unscii-16<br>
             ![previews/Unscii/unscii-16.preview.png](previews/Unscii/unscii-16.preview.png)
+-   [Vazir](https://github.com/rastikerdar/vazir-code-font)
 -   [VCR OSD Mono](https://www.dafont.com/vcr-osd-mono.font)
     -   Previews:
         -   VCR_OSD_MONO_1.001<br>
@@ -1300,6 +1316,7 @@
     -   Previews:
         -   whois-mono<br>
             ![previews/WhoisMono/whois-mono.preview.png](previews/WhoisMono/whois-mono.preview.png)
+-   [Willy](https://github.com/PELock/Willy-Monospaced-Font)
 -   [Workbench](https://fonts.google.com/specimen/Workbench)
 -   [Writer](https://github.com/tonsky/font-writer)
     -   Previews:
