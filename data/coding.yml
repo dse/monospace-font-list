@@ -60,6 +60,19 @@
     - previews/AnkaCoder/AnkaCoder-i.preview.png
     - previews/AnkaCoder/AnkaCoder-C87-r.preview.png
     - previews/AnkaCoder/AnkaCoder-C75-r.preview.png
+- name: Annotation Mono
+  source_url: https://github.com/qwerasd205/AnnotationMono
+  description: |
+    “Annotation Mono is a lovingly crafted handwriting-style monospace font.
+
+    “Annotation Mono is an idealized handwriting; using letter forms
+    inspired by monospace bitmap fonts, legibility is maximized while
+    retaining a hand-written character.
+
+    “Its variable weights make Annotation Mono ideal for a wide variety
+    of use cases other than code, including labels and headings. Given
+    its hand-written look, you could even use it for comic lettering
+    if you want.”
 - name: Anomaly Mono
   source_url: https://github.com/benbusby/anomaly-mono
   description: |
@@ -128,6 +141,16 @@
   dafont_url: https://www.dafont.com/aurulent-sans-mono.font
   previews:
     - previews/AurulentSansMono/AurulentSansMono-Regular.preview.png
+- name: autonoe
+  source_url: https://github.com/blobject/autonoe
+  description: |
+    “autonoe is a fixed-width, 7x14, bold-only, unicode, bitmap typeface.”
+- name: Bearcast
+  source_url: https://github.com/kmwtr/Barecast
+  description: |
+    “Barecast is a monospaced typeface designed with inspiration from
+    silk screen printing on PCB. This font supports ASCII
+    characters. Anyone can use it freely.”
 - name: Basically A Mono
   uncut_url: https://uncut.wtf/monospace/basically-a-mono/
   url: https://experi.mentallydesigned.com/type/bam/
@@ -215,6 +238,13 @@
     8x16 bitmap IBM style font
   previews:
     - previews/ClassicConsoleNeue/clacon2.preview.png
+- name: CNXT
+  source_url: https://github.com/cbytensky/cnxt
+  description: |
+    “9×20 Bitmap monospaced font. ‘cnxt’ stands for ‘Constantine’s Nine
+    to Twenty’. Contains latin, greek, hebrew, cyrrilic, many symbols
+    and line drawing chars. gbdfed was used for creating. For building
+    rake is used.”
 - name: Code New Roman
   dafont_url: https://www.dafont.com/code-new-roman.font
   previews:
@@ -280,6 +310,12 @@
     - previews/CourierPrime/Courier_Prime_Code.preview.png
   previews:
   gfonts_url: https://fonts.google.com/specimen/Courier+Prime
+- name: Courier Typewriter
+  source_url: https://github.com/ecoPervious/Courier-Typewritter-Fonts
+  description: |
+    “Monospace font based on ‘Courier 10 Pitch’.
+
+    “Involving tweaks by @Thynson to get a better appearance.”
 - name: Cousine
   gfonts_url: https://fonts.google.com/specimen/Cousine
   previews:
@@ -530,6 +566,12 @@
   previews:
     - previews/GoogleSansMono/Google-Sans-Mono-Regular.preview.png
     - previews/GoogleSansMono/Google-Sans-Mono-Italic.preview.png
+- name: Greybeard
+  source_url: https://github.com/flowchartsman/greybeard
+  description: |
+    “Greybeard is a chunky monospaced bitmap programming font for all
+    you pixel-perfect nerds who don't like eyestrain. It's mostly a
+    vector port of UW ttyp0 with a few tweaks.”
 - name: Grid15
   url: https://typedrawers.com/discussion/964/grid15-futuristic-geometric-monospace
   description: work in progress
@@ -552,6 +594,15 @@
   previews:
     - previews/Haskplex/Haskplex-Regular.preview.png
     - previews/Haskplex/Haskplex-Italic.preview.png
+- name: Hasubi Mono
+  source_url: https://github.com/eliheuer/hasubi-mono
+  description: |
+    “Hasubi Mono (حاسوبي مونو) is an Arabic, Hebrew, and Latin
+    condensed horizontal-contrast monospace typeface designed by Eli
+    Heuer. Hasubi is a transliteration of ‘حاسوبي (my computer).’”
+
+    [Hopefully the integrity of the Arabic typography in this
+    description has not been sullied by the usual tomfoolery.]
 - name: Hera
   source_url: https://github.com/sayyadirfanali/Hera
   description: mixture of glyphs from other monospace fonts
@@ -575,6 +626,12 @@
 - name: HVTerminal
   via: https://davidawindham.com/fonts/
   previews:
+- name: IBM3161 Font
+  source_url: https://github.com/wyatt8740/IBM3161-font
+  description: |
+    A bitmap version of the IBM 3161 terminal font, and a TrueType
+    version with slightly fewer characters.  Also contains glyphs
+    from Unifont as a fallback.
 - name: IBM Fonts
   url: https://farsil.github.io/ibmfonts/
   description: "IBM system fonts in BDF format, derived from the [PX Plus](https://int10h.org/oldschool-pc-fonts/fontlist/) fonts"
@@ -669,6 +726,19 @@
     - previews/jxyahei/lmyahei.preview.png
     - previews/jxyahei/YHHT.preview.png
     - previews/jxyahei/正黑.preview.png
+- name: KakwaFont
+  source_url: https://github.com/kakwa/kakwafont
+  description: |
+    “KakwaFont is a 12 pixel monospaced bitmap font based on Terminus.
+
+    “I found Terminus too wide, so I have changed most glyphs in order
+    to have thin and clearly seperated characters.
+
+    “I tried to make a clear difference between "(" and "{", "1" and
+    "l", "0" and "O"...
+
+    “The result is a clear font, well suited for programming and
+    terminal.”
 - name: Karen
   source_url: https://github.com/amaya382/karen
   previews:
@@ -823,6 +893,13 @@
     - previews/mnicmp/mnicmpSquare-Italic.preview.png
     - previews/mnicmp/mnicmpStar-Regular.preview.png
     - previews/mnicmp/mnicmpStar-Italic.preview.png
+- name: mno16
+  source_url: https://github.com/sevmeyer/mno16
+  description: |
+    “A minimalist monospaced font.
+    Distinct ASCII characters.
+    Tiny files to embed in code.
+    Best rendered at 16px.”
 - name: Monaspace
   url: https://monaspace.githubnext.com/
   notes: |
@@ -877,6 +954,14 @@
   source_url: https://github.com/zlsa/monoOne
   previews:
     - previews/MonoOne/monoOne.preview.png
+- name: Monotional
+  source_url: https://github.com/regularhunter/monotional-font
+  description: |
+    “Monotional is a humanist, monospace font based on DejaVu Sans
+    Mono and inspired by André Berg's Meslo. Its goal is to provide an
+    easily legible font for programming and technical work. There are
+    three variants of Monotional: Monotional (dotted zero),
+    MonotionalSZ (slashed zero), and MonotionalAZ (ambiguous zero).”
 - name: MonteCarlo (programmer font)
   url: https://www.bok.net/MonteCarlo/
   previews:
@@ -970,6 +1055,15 @@
     - previews/OldTimeyMono/OldTimeyMonoCond.preview.png
     - previews/OldTimeyMono/OldTimeyMonoComp.preview.png
     - previews/OldTimeyMono/OldTimeyCode.preview.png
+- name: Omelette Pixel Fonts
+  source_url: https://github.com/Bananattack/omelette_font
+  description: |
+    “Omelette Pixel Fonts is a set of monospace pixel fonts and
+    icons. There are multiple font sizes (eg. large, tall, thin,
+    thick, small, tiny), along with different visual variants
+    (eg. plain, horizontal shadow, vertical shadow) and formats
+    (packed texture, individual image files, PNG, GIF, BDF, SVG, TTF,
+    CHR). Additionally, there are icon sets and button sets.”
 - name: OpenGenera fonts
   url: https://archive.org/download/SymblicsOpenGenera
   notes: |-
@@ -1330,6 +1424,13 @@
   gfonts_url: https://fonts.google.com/specimen/Ubuntu+Mono
 - name: Ubuntu Sans Mono
   gfonts_url: https://fonts.google.com/specimen/Ubuntu+Sans+Mono
+- name: undefined medium
+  source_url: https://github.com/andirueckel/undefined-medium
+  description: |
+    “undefined medium is a free and open-source pixel grid-based
+    monospace typeface with some double-spaced characters; in some
+    applications, for example most terminal emulators, double-spaced
+    characters need to be followed by an additional space character.”
 - name: Unix-originated terminal fonts for Windows
   url: http://christian.lestrade.free.fr/fonts.html
   description: |-
@@ -1349,6 +1450,10 @@
     - previews/Unscii/unscii-8-thin.preview.png
     - previews/Unscii/unscii-16-full.preview.png
     - previews/Unscii/unscii-16.preview.png
+- name: Vazir
+  source_url: https://github.com/rastikerdar/vazir-code-font
+  description: |
+    A Persian (Farsi) Monospaced Font
 - name: VCR OSD Mono
   dafont_url: https://www.dafont.com/vcr-osd-mono.font
   previews:
@@ -1377,6 +1482,12 @@
   source_url: https://github.com/raphaelbastide/Whois-mono
   previews:
     - previews/WhoisMono/whois-mono.preview.png
+- name: Willy
+  source_url: https://github.com/PELock/Willy-Monospaced-Font
+  description: |
+    A font created for the purpose of displaying ASCII art.
+    Initially created in the form of a bitmap, someone
+    converted it to a Windows `.fon` format font.
 - name: Workbench
   gfonts_url: https://fonts.google.com/specimen/Workbench
 - name: Writer

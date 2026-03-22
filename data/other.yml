@@ -130,6 +130,14 @@
   description: '[private use]'
 - name: Fifteen Twenty
   source_url: https://github.com/scruss/FifteenTwenty
+- name: Fliege Mono
+  source_url: https://github.com/PavelLaptev/Fliege-mono
+  description: |
+    “It is a free monospaced typeface with a strong personality. It is
+    designed as a monospace font but with a human touch. In order to
+    make the font a bit more playful and less monotonous, the font has
+    ink traps and lowercase ascenders are slightly taller than
+    uppercase cap height.”
 - name: Générale Mono
   fontlibrary_url: https://fontlibrary.org/en/font/generalemono
 - name: Générale Station
@@ -321,6 +329,7 @@
   url: https://fontsgeek.com/fonts/SquareShooter-Mono-Regular
 - name: Steps-Mono
   uncut_url: https://uncut.wtf/monospace/steps-mono/
+  source_url: https://github.com/raphaelbastide/steps-mono
   url: https://velvetyne.fr/fonts/steps-mono/
 - name: SV Basic Manual
   dafont_url: https://www.dafont.com/sv-basic-manual.font
