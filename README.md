@@ -2,7 +2,7 @@
 
 https://github.com/dse/monospace-font-list
 
-**716 typefaces listed**
+**733 typefaces listed**
 
 ## The Lists
 
