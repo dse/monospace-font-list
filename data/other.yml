@@ -97,6 +97,15 @@
   source_url: https://github.com/dse/display-module-fonts
   tags:
     - my own
+- name: DMCA Sans Serif
+  url: https://typedesign.replit.app/dmcasansserif.html
+  description: |
+    DMCA Sans Serif is intended as a general purpose sans serif
+    font. Therefore, it is versatile enough to be used in most
+    circumstances of typesetting large amounts of text. It is not
+    suitable for terminal or command prompt environments, because it's
+    not fully hinted nor a bitmap font; Custom Font or Kissinger 2 is
+    recommended instead for that purpose.
 - name: Doto Mono
   gfonts_url: https://fonts.google.com/specimen/Doto
 - name: Effects Eighty

@@ -2,7 +2,7 @@
 
 ## Freely Available
 
-128 typefaces listed here.
+129 typefaces listed here.
 
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
 -   [Angelus III](https://www.myfonts.com/collections/angelus-iii-font-scriptorium)
@@ -48,6 +48,7 @@
 -   [DeluxeFont](https://zone38.net/font/#deluxefont)
 -   [Disket Mono](https://rostype.com/disket/)
 -   [Display Module Fonts](https://github.com/dse/display-module-fonts)
+-   [DMCA Sans Serif](https://typedesign.replit.app/dmcasansserif.html)
 -   [Doto Mono](https://fonts.google.com/specimen/Doto)
 -   [Effects Eighty](https://fontlibrary.org/th/font/effects-eighty)
 -   [EnvyPN](https://github.com/hicolour/envypn-font)
