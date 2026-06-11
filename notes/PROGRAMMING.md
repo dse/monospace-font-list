@@ -1,0 +1,139 @@
+-   IBM PC Fonts
+    -   The Ultimate Oldschool PC Font Pack
+    -   BigBlue Terminal
+    -   IBM VGA 9x16
+-   Bitstream Vera Sans Mono
+    -   DejaVu Sans Mono
+    -   Hack
+    -   Meslo
+    -   Espresso Mono
+-   0xProto
+-   3270
+-   Aardvark Fixed
+-   Agave
+-   Alto Mono
+-   Andalé Mono
+-   Anka/Coder
+-   Anonymous Pro
+-   APL385
+-   APL386
+-   Atkinson Hyperlegible Mono
+-   Berkeley Mono ($)
+-   Binchotan Sharp
+-   Borg Sans Mono
+-   Brass Mono
+-   BPmono
+-   Calling Code ($)
+-   CamingoCode
+-   Cartograph
+-   Cascadia Code
+-   Code New Roman
+-   Code Saver ($)
+-   Codelia ($)
+-   CodingFontTobi
+-   Comic Code ($)
+-   Comic Mono
+-   Consolamono
+-   Consolas
+-   Courier Prime Code
+-   Cousine
+-   Cozette
+-   D2Coding
+-   DaddyTimeMono
+-   Dank Mono ($)
+-   Darkmode Mono ($)
+-   Debugger ($)
+-   Departure Mono
+-   DM Mono
+-   Drafting* Mono
+-   Eco Coding
+-   Edlo
+-   Effects Eighty
+-   Eirian
+-   Ellograph
+-   EnvyCode B
+-   EnvyCode R
+-   Fairfax
+-   Fairfax Hax HD
+-   Fairfax HD
+-   Fairfax Serif
+-   Fantasque Sans Mono
+-   Fira Code
+-   Fira Mono
+-   Fixedsys
+-   Fragment Mono
+-   Geist Mono
+-   Generic Mono
+-   Gintronic
+-   Glass TTY
+-   Go Mono
+-   Gohufont
+-   Hasklig
+-   Hermit
+-   Heterodox Mono
+-   iA Writer Mono
+-   IBM Plex Mono
+-   Inconsolata
+-   Indicate Mono
+-   Input Mono
+-   Intel One Mono
+-   Iosevka
+-   JetBrains Mono
+-   Julia Mono
+-   Maple Mono
+-   League Mono
+-   Lilex
+-   Lotion
+-   Lucida Console, Lucida Sans Typewriter, et al.
+-   Luculent
+-   M PLUS Code
+-   Maple
+-   Martian Mono
+-   MD IO
+-   Mensch
+-   Misc Fixed series (X Window System)
+-   Monaco
+-   Monaspace
+-   Monocraft
+-   Monofoki
+-   Monoid
+-   Monolisa ($)
+-   Mononoki
+-   Nanum Gothic Coding
+-   Noto Mono
+-   Office Code Pro
+-   OpenDyslexic Mono
+-   Operator Mono ($)
+-   Overpass Mono
+-   Oxygen Mono
+-   Pointfree
+-   Pragmata Pro ($)
+-   Profont
+-   Proggy Clean
+-   Proggy Vector
+-   PT Mono
+-   Recursive
+-   Red Hat Mono
+-   Reddit Sans Mono
+-   Roboto Mono
+-   HON: Scientifica
+-   Senpai Coder ($)
+-   Serious Shanns
+-   Share Tech Mono
+-   SK Modernist Mono
+-   Sligoil
+-   Sometype Mono
+-   Sono
+-   Source Code Pro
+-   Spleen
+-   Sudo
+-   Tamzen
+-   Terminus
+-   TheSansMono ($)
+-   Twilio Sans Mono
+-   Ubuntu Mono
+-   UnifontEX
+-   Verily Serif Mono
+-   Victor Mono
+-   Vivala Code
+-   VT323
