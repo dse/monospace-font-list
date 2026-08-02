@@ -1,4 +1,4 @@
-266 typefaces listed here.
+267 typefaces listed here.
 
 -   [8 Point Lining Typewriter No. 1](https://a2-type.co.uk/8-point-lining-typewriter-no-1)
     -   Notes:
@@ -48,6 +48,8 @@
 -   [Centima Mono](http://www.tipografiaramis.com/centima-mono.html)
 -   [Century Schoolbook Monospace](https://www.myfonts.com/products/century-schoolbook-monospaced-10058-century-schoolbook-435037)
 -   [Chromatic Mono](https://www.colophon-foundry.org/typefaces/chromatic-mono)
+-   [CMM Coda](https://fontsinuse.com/typefaces/239918/cmm-coda)
+    -   [foundry](https://commatype.com/cmm-coda/)
 -   [Codo Mono](https://wearecolt.com/product/codo-mono/)
 -   [Colón Mono](http://www.tipografiaramis.com/coloacuten-mono.html)
 -   [Concursico Mono BTN](https://www.youworkforthem.com/font/19425/concursico-mono-btn)
@@ -83,7 +85,7 @@
 -   [Doire](https://www.myfonts.com/collections/doire-font-evertype)
 -   [Dossier](https://tosche.net/fonts/dossier)
 -   [Dottie](http://ingrimayne.com/fonts2/typewriter.htm)
-    -   [myfonts](https://www.myfonts.com/collections/dottie-font-ingrimayne-type)
+    -   [myfonts.com](https://www.myfonts.com/collections/dottie-font-ingrimayne-type)
 -   [EB Jessica](https://www.myfonts.com/collections/eb-jessica-font-erik-bertell)
 -   [EF Cash Monospaced](https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake)
 -   [EF Techno Script](https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake)
@@ -303,7 +305,7 @@
 -   Univers Next Typewriter
 -   [Unotype](https://www.myfonts.com/collections/unotype-font-monotype-imaging)
 -   [Valentine](https://lineto.com/typefaces/valentine)
-    -   [secondary](https://legacy.lineto.com/The+Fonts/Font+Categories/Monospaced+Fonts/Valentine/)
+    -   [legacy.lineto.com](https://legacy.lineto.com/The+Fonts/Font+Categories/Monospaced+Fonts/Valentine/)
 -   [Velos Mono](https://scifipoetry.de/velos-mono/)
 -   [Vida Mono32 Pro](https://www.stormtype.com/families/vida)
 -   [Vidilex](https://www.myfonts.com/collections/vidilex-font-scriptorium)

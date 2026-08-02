@@ -1068,7 +1068,7 @@
   url: https://archive.org/download/SymblicsOpenGenera
   notes: |-
     look in the `.tar.bz2` for `sys.sct/x11/fonts/bdf/genera`
-  url_2_url: https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera
+  url: https://github.com/minombreesjeff/LISP_machines/tree/master/opengenera2/sys.sct/x11/fonts/bdf/genera
   previews:
 - name: Openstep Mono
   url: https://fontstruct.com/fontstructions/show/918633/openstep_mono

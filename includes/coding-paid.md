@@ -43,8 +43,8 @@
 -   [Consolas](https://learn.microsoft.com/en-us/typography/font-list/consolas)
     -   Notes:
         -   bundled with Windows
-    -   [source](https://www.lucasfonts.com/fonts/consolas/)
-    -   [myfonts](https://www.myfonts.com/collections/consolas-font-microsoft-corporation)
+    -   [SOURCE](https://www.lucasfonts.com/fonts/consolas/)
+    -   [myfonts.com](https://www.myfonts.com/collections/consolas-font-microsoft-corporation)
 -   [Covik Sans Mono](https://ohnotype.co/fonts/covik)
 -   [Cubiculum](https://www.myfonts.com/collections/cubiculum-font-johan-winge)
 -   [Dank Mono](https://philpl.gumroad.com/l/dank-mono)
