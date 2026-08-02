@@ -96,6 +96,10 @@
   myfonts_url: https://www.myfonts.com/products/century-schoolbook-monospaced-10058-century-schoolbook-435037
 - name: Chromatic Mono
   url: https://www.colophon-foundry.org/typefaces/chromatic-mono
+- name: CMM Coda
+  urls:
+    "fontsinuse.com": "https://fontsinuse.com/typefaces/239918/cmm-coda"
+    "foundry": "https://commatype.com/cmm-coda/"
 - name: Codo Mono
   url: https://wearecolt.com/product/codo-mono/
 - name: Colón Mono
