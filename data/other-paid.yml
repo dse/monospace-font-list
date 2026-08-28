@@ -55,6 +55,7 @@
   url: https://commercialtype.com/catalog/atlas_typewriter
 - name: Auger Mono
   url: https://signalfoundry.com/typefaces/auger-mono
+  date_listed: 2026-08-27
 - name: ITC Avant Garde Mono
   url: "https://www.fonts4ever.com/product_info.php?products_id=592&set=0"
   foundry: Elsner+Flake
@@ -91,12 +92,14 @@
   url: https://shinntype.com/bodoni-egyptian/
 - name: Cake Mono
   url: https://store.typenetwork.com/foundry/caketype/fonts/cake-mono
+  date_listed: 2026-08-27
 - name: Caleb Mono
   url: https://www.myfonts.com/collections/caleb-mono-font-brenners-template
 - name: Capibara Mono
   url: https://www.boldmonday.com/typeface/capibara/
 - name: Centima Mono
   url: http://www.tipografiaramis.com/centima-mono.html
+  date_listed: 2026-08-02
 - name: Century Schoolbook Monospace
   myfonts_url: https://www.myfonts.com/products/century-schoolbook-monospaced-10058-century-schoolbook-435037
 - name: Chromatic Mono
@@ -110,6 +113,7 @@
 - name: CoFo Sans Mono
   urls:
     - https://contrastfoundry.com/typeface/cofo-sans-mono
+  date_listed: 2026-08-27
 - name: Colón Mono
   url: http://www.tipografiaramis.com/coloacuten-mono.html
 - name: Concursico Mono BTN
@@ -193,6 +197,7 @@
 - name: Droulers
   url: https://bureaubrut.com/family/droulers
   novelty: yes
+  date_listed: 2026-08-27
 - name: EB Jessica
   myfonts_url: https://www.myfonts.com/collections/eb-jessica-font-erik-bertell
 - name: EF Cash Monospaced
@@ -217,6 +222,7 @@
   url: https://www.hvdfonts.com/fonts/fabrikat-mono
 - name: Fairline Mono
   url: https://www.youworkforthem.com/font/T27200/fairline-mono
+  date_listed: 2025-06-29
 - name: Fedra Mono
   url: https://www.typotheque.com/fonts/fedra-mono
   foundry: Typotheque
@@ -296,17 +302,20 @@
   description: distributed with HyperTerminal
 - name: Ingram Mono
   url: https://www.youworkforthem.com/font/T11571/ingram-mono
+  date_listed: 2025-06-29
 - name: Igoe
   myfonts_url: https://www.myfonts.com/collections/igoe-font-linecreative
 - name: Iki Mono
   urls:
     - https://www.c-a-s-t.com/typefaces/iki-mono/
     - https://www.myfonts.com/collections/iki-mono-font-cast/
+  date_listed: 2026-08-27
 - name: Index Mono
   urls:
     - https://www.oldcitymailroom.com/index-mono
     - https://www.instagram.com/p/DF8BeHlRJYA
   grungy: yes
+  date_listed: 2026-08-27
 - name: Ingrid Mono
   myfonts_url: https://www.myfonts.com/collections/ingrid-mono-font-jorg-schmitt
 - name: Interstate Mono
@@ -342,11 +351,13 @@
   url: https://aisforfonts.com/knif
 - name: Kommuna
   url: https://type.tmpstate.net/preview/Kommuna/Normal/try/
+  date_listed: 2026-08-27
 - name: Larabiefont
   url: https://typodermicfonts.com/larabiefont/
   description: '[paid but regular is free]'
 - name: Leif Mono
   url: https://skriftkompani.no/typefaces/leif-mono
+  date_listed: 2026-08-27
 - name: Lettera Mono
   url: https://lineto.com/typefaces/lettera-mono
 
@@ -375,6 +386,7 @@
     > A monospaced serif typeface that explores the design challenges
     > of modular spacing, with each character individually crafted to
     > ensure consistent weight and proportion across the set.
+  date_listed: 2026-08-27
 - name: Linefeed
   url: https://typodermicfonts.com/linefeed/
   description: '[line printer inspired]'
@@ -384,6 +396,7 @@
     - https://eyeondesign.aiga.org/a-very-niche-very-logical-font-inspired-by-vintage-typewriters-python-script/
   adobe_fonts_url:
     - https://fonts.adobe.com/fonts/logic-monospace
+  date_listed: 2026-08-27
 - name: LTC Remington Typewriter
   myfonts_url: https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company
 - name: Lucida Sans Typewriter (Monotype)
@@ -405,6 +418,7 @@
 
     > Model pays tribute to the world of plastic model kits, drawing
     > inspiration from the iconic Japanese brand Tamiya.
+  date_listed: 2026-08-27
 - name: Mono Condensed
   myfonts_url: https://www.myfonts.com/collections/mono-condensed-font-paratype
 - name: Monoela
@@ -455,6 +469,7 @@
 - name: NorB Typewriter
   url: https://www.notationcentral.com/product/norb-typewriter/
   description: an emulation of IBM's Light Italic Selectric golfball
+  date_listed: 2026-05-03
 - name: Nudica Mono
   url: https://www.atipofoundry.com/fonts/nudica-mono
   notes:
@@ -730,6 +745,7 @@
   url: https://www.futurefonts.xyz/klim/the-future-mono
 - name: Timezone Mono
   url: https://haltypefaces.com/typeface/timezone
+  date_listed: 2026-08-27
 - name: Tired of Courier
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Transcript Mono

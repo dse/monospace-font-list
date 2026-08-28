@@ -107,6 +107,7 @@
     suitable for terminal or command prompt environments, because it's
     not fully hinted nor a bitmap font; Custom Font or Kissinger 2 is
     recommended instead for that purpose.
+  date_listed: 2026-03-22
 - name: Doto Mono
   gfonts_url: https://fonts.google.com/specimen/Doto
 - name: Effects Eighty
@@ -148,6 +149,7 @@
     make the font a bit more playful and less monotonous, the font has
     ink traps and lowercase ascenders are slightly taller than
     uppercase cap height.”
+  date_listed: 2026-03-22
 - name: Générale Mono
   fontlibrary_url: https://fontlibrary.org/en/font/generalemono
 - name: Générale Station
@@ -291,6 +293,7 @@
     its emphasis is on Unicode support, with 1,269 characters and 22
     additional variants.
   via: https://alanwood.net/unicode/fonts.html
+  date_listed: 2025-05-31
 - name: Relaxed Typing Mono JP
   source_url: https://github.com/mshioda/relaxed-typing-mono-jp
 - name: Retro Type 3 PostScript Fonts

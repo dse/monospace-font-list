@@ -73,6 +73,7 @@
     of use cases other than code, including labels and headings. Given
     its hand-written look, you could even use it for comic lettering
     if you want.”
+  date_listed: 2026-03-22
 - name: Anomaly Mono
   source_url: https://github.com/benbusby/anomaly-mono
   description: |
@@ -119,10 +120,12 @@
     - previews/Astigmata/astigmata-regular.preview.png
 - name: Atari ST
   url: http://www.modelb.bbcmicro.com/retro-fonts.html
+  date_listed: 2025-06-29
 - name: Atarist
   source_url: https://github.com/ntwk/atarist-font
 - name: Teletext
   url: http://www.modelb.bbcmicro.com/retro-fonts.html
+  date_listed: 2025-06-29
 - name: Atkinson Hyperlegible Mono
   url: https://www.brailleinstitute.org/freefont/
   notes: |
@@ -145,12 +148,14 @@
   source_url: https://github.com/blobject/autonoe
   description: |
     “autonoe is a fixed-width, 7x14, bold-only, unicode, bitmap typeface.”
+  date_listed: 2026-03-22
 - name: Bearcast
   source_url: https://github.com/kmwtr/Barecast
   description: |
     “Barecast is a monospaced typeface designed with inspiration from
     silk screen printing on PCB. This font supports ASCII
     characters. Anyone can use it freely.”
+  date_listed: 2026-03-22
 - name: Basically A Mono
   uncut_url: https://uncut.wtf/monospace/basically-a-mono/
   url: https://experi.mentallydesigned.com/type/bam/
@@ -200,7 +205,7 @@
     - previews/BrassMono/BrassMono-Italic.preview.png
 - name: BSU-Kermit
   download_url: https://www.lowing.org/fonts/Free/BSU_Kermit.FON
-  previews:
+  date_listed: 2025-05-31
 - name: Brutalist Mono
   source_url: https://github.com/BRUTALISM/Brutalist
   description: derived from Deja Vu Sans Mono
@@ -245,6 +250,7 @@
     to Twenty’. Contains latin, greek, hebrew, cyrrilic, many symbols
     and line drawing chars. gbdfed was used for creating. For building
     rake is used.”
+  date_listed: 2026-03-22
 - name: Code New Roman
   dafont_url: https://www.dafont.com/code-new-roman.font
   previews:
@@ -316,6 +322,7 @@
     “Monospace font based on ‘Courier 10 Pitch’.
 
     “Involving tweaks by @Thynson to get a better appearance.”
+  date_listed: 2026-03-22
 - name: Cousine
   gfonts_url: https://fonts.google.com/specimen/Cousine
   previews:
@@ -361,6 +368,7 @@
       > Datatype uses OpenType ligature substitution to transform
       > simple text expressions like {b:30,70,50,90} into visual
       > charts—no JavaScript required.
+  date_listed: 2026-08-27
 - name: Dave
   source_url: https://github.com/i-e-b/Dave
   description: A monospace programming font built for unambiguous legibility above all else
@@ -565,10 +573,11 @@
     - previews/Gohu/koemadea-gohufont-14.preview.png
     - previews/Gohu/koemadea-gohufont-uni-11.preview.png
     - previews/Gohu/koemadea-gohufont-uni-14.preview.png
-- name: Coogle Sans Code
+- name: Google Sans Code
   github_url: https://github.com/googlefonts/googlesans-code
   notes:
     - based on Google Sans Mono, which see.
+  date_listed: 2025-07-11
   previews:
   gfonts_url: https://fonts.google.com/specimen/Google+Sans+Code
 - name: Google Sans Mono
@@ -586,6 +595,7 @@
     “Greybeard is a chunky monospaced bitmap programming font for all
     you pixel-perfect nerds who don't like eyestrain. It's mostly a
     vector port of UW ttyp0 with a few tweaks.”
+  date_listed: 2026-03-22
 - name: Grid15
   url: https://typedrawers.com/discussion/964/grid15-futuristic-geometric-monospace
   description: work in progress
@@ -617,6 +627,7 @@
 
     [Hopefully the integrity of the Arabic typography in this
     description has not been sullied by the usual tomfoolery.]
+  date_listed: 2026-03-22
 - name: Hera
   source_url: https://github.com/sayyadirfanali/Hera
   description: mixture of glyphs from other monospace fonts
@@ -646,6 +657,7 @@
     A bitmap version of the IBM 3161 terminal font, and a TrueType
     version with slightly fewer characters.  Also contains glyphs
     from Unifont as a fallback.
+  date_listed: 2026-03-22
 - name: IBM Fonts
   url: https://farsil.github.io/ibmfonts/
   description: "IBM system fonts in BDF format, derived from the [PX Plus](https://int10h.org/oldschool-pc-fonts/fontlist/) fonts"
@@ -753,6 +765,7 @@
 
     “The result is a clear font, well suited for programming and
     terminal.”
+  date_listed: 2026-03-22
 - name: Karen
   source_url: https://github.com/amaya382/karen
   previews:
@@ -919,6 +932,7 @@
     Distinct ASCII characters.
     Tiny files to embed in code.
     Best rendered at 16px.”
+  date_listed: 2026-03-22
 - name: Monaspace
   url: https://monaspace.githubnext.com/
   notes: |
@@ -981,6 +995,7 @@
     easily legible font for programming and technical work. There are
     three variants of Monotional: Monotional (dotted zero),
     MonotionalSZ (slashed zero), and MonotionalAZ (ambiguous zero).”
+  date_listed: 2026-03-22
 - name: MonteCarlo (programmer font)
   url: https://www.bok.net/MonteCarlo/
   previews:
@@ -988,6 +1003,7 @@
 - name: Myna Mono
   github_url: https://github.com/sayyadirfanali/Myna
   description: monospace typeface designed for symbol-rich programming
+  date_listed: 2025-09-23
 - name: Nanum Gothic Coding
   source_url: https://github.com/emersion/nanum-gothic-coding
   previews:
@@ -1074,6 +1090,7 @@
     - previews/OldTimeyMono/OldTimeyMonoCond.preview.png
     - previews/OldTimeyMono/OldTimeyMonoComp.preview.png
     - previews/OldTimeyMono/OldTimeyCode.preview.png
+  date_listed: 2025-05-03
 - name: Omelette Pixel Fonts
   source_url: https://github.com/Bananattack/omelette_font
   description: |
@@ -1083,6 +1100,7 @@
     (eg. plain, horizontal shadow, vertical shadow) and formats
     (packed texture, individual image files, PNG, GIF, BDF, SVG, TTF,
     CHR). Additionally, there are icon sets and button sets.”
+  date_listed: 2026-03-22
 - name: OpenGenera fonts
   url: https://archive.org/download/SymblicsOpenGenera
   notes: |-
@@ -1099,6 +1117,7 @@
   previews:
     - previews/OpusOne/OpusOne-Regular.preview.png
     - previews/OpusOne/OpusOne-RegularItalic.preview.png
+  date_listed: 2025-05-26
 - name: Ormaxx
   url: https://web.archive.org/web/20060715183153/http://www.ormaxx.ch/stuff.php?nummer=1
   notes: |
@@ -1114,6 +1133,7 @@
     - https://discourse.codinghorror.com/t/revisiting-programming-fonts/460/62
   previews:
     - previews/Osaka/osaka.unicode.preview.png
+  date_listed: 2025-05-31
 - name: Overpass Mono
   url: https://overpassfont.org/
   previews:
@@ -1126,7 +1146,7 @@
 - name: PCSANSI.FON
   download_url: https://github.com/dcgrace/e93/raw/refs/heads/master/PCSANSI.FON
   via: https://discourse.codinghorror.com/t/revisiting-programming-fonts/460/56
-  previews:
+  date_listed: 2025-06-29
 - name: Peep
   source_url: https://github.com/greemo/peep-font
   notes:
@@ -1305,7 +1325,7 @@
   notes: |
     modified version available:
     https://web.archive.org/web/20090414084153/http://grosskurth.ca/typography/sheldon4.fon
-  previews:
+  date_listed: 2025-05-31
 - name: Sixtyfour
   gfonts_url: https://fonts.google.com/specimen/Sixtyfour
 - name: Sometype Mono
@@ -1367,6 +1387,7 @@
   url: https://www.suse.com/c/suse-releases-suse-mono-italics-and-more-in-a-packed-update-to-its-type-family/
   github_url: https://github.com/SUSE/suse-font
   gfonts_url: https://fonts.google.com/specimen/SUSE+Mono
+  date_listed: 2025-09-23
 - name: Sydnie
   url: https://fontsgeek.com/fonts/Sydnie-Regular
   via: https://davidawindham.com/fonts/
@@ -1449,10 +1470,12 @@
   description: |
     A typeface based on and/or influenced by APL386 designed for
     the Uiua programming language.
+  date_listed: 2026-08-01
 - name: Uiua386 Color
   github_url: https://github.com/jonathanperret/uiua386color
   description: |
     Uiua386 with colors added.
+  date_listed: 2026-08-01
 - name: undefined medium
   source_url: https://github.com/andirueckel/undefined-medium
   description: |
@@ -1460,6 +1483,7 @@
     monospace typeface with some double-spaced characters; in some
     applications, for example most terminal emulators, double-spaced
     characters need to be followed by an additional space character.”
+  date_listed: 2026-03-22
 - name: Unix-originated terminal fonts for Windows
   url: http://christian.lestrade.free.fr/fonts.html
   description: |-
@@ -1483,6 +1507,7 @@
   source_url: https://github.com/rastikerdar/vazir-code-font
   description: |
     A Persian (Farsi) Monospaced Font
+  date_listed: 2026-03-22
 - name: VCR OSD Mono
   dafont_url: https://www.dafont.com/vcr-osd-mono.font
   previews:
@@ -1517,6 +1542,7 @@
     A font created for the purpose of displaying ASCII art.
     Initially created in the form of a bitmap, someone
     converted it to a Windows `.fon` format font.
+  date_listed: 2026-03-22
 - name: Workbench
   gfonts_url: https://fonts.google.com/specimen/Workbench
 - name: Writer

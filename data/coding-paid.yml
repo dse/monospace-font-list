@@ -29,6 +29,7 @@
     meaning "fixed width".
 - name: AOT Serial Mono
   url: https://prioritypeco.com/product/aot-serial-mono/
+  date_listed: 2025-06-29
 - name: Arazatí
   url: https://www.fontspring.com/fonts/underground/arazati
   notes: |
@@ -129,12 +130,14 @@
     > spur on the lowercase ‘a’, make it stand out from other
     > monospaced fonts.
 
+  date_listed: 2026-08-27
 - name: GT Maru Mono
   url: https://www.gt-maru.com/#monospaced
 - name: Gintronic
   url: https://markfromberg.com/projects/gintronic
 - name: Graebenbach Mono
   url: https://camelot-typefaces.com/graebenbach-mono
+  date_listed: 2026-08-27
 - name: Gravitica Mono
   url: https://www.myfonts.com/collections/gravitica-mono-font-ckhans-fonts
 - name: Grotesk Remix Monospace
@@ -169,6 +172,7 @@
 - name: Magi Mono
   url: https://skriftkompani.no/typefaces/magi-mono
   specimen: https://skriftkompani.no/filer/pdf/StoreNorskeMagiMono1.pdf
+  date_listed: 2026-08-27
 - name: Matahari Sans
   url: https://www.fontspring.com/fonts/studio-sun/matahari-sans
   coding: true
