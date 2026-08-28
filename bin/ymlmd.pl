@@ -3,7 +3,10 @@ use warnings;
 use strict;
 use YAML qw();
 use Scalar::Util qw(looks_like_number);
-use Carp::Always;
+# use Carp::Always;
+
+STDOUT->autoflush(1);
+STDERR->autoflush(1);
 
 local $/ = undef;
 while (<>) {
@@ -25,16 +28,39 @@ package My::Item {
     use Data::Dumper;
     use JSON::XS;
     use File::Basename qw(basename);
+    use URI;
+
+    our %KEYS;
+    BEGIN {
+        %KEYS = (
+            also_url         => "SECONDARY",
+            behance_url      => "behance.net",
+            dafont_url       => "dafont.com",
+            download_url     => "DOWNLOAD",
+            fontlibrary_url  => "fontlibrary.org",
+            fonts2u_url      => "fonts2u.com",
+            fontshare_url    => "fontshare.com",
+            fontsquirrel_url => "fontsquirrel.com",
+            gfonts_url       => "fonts.google.com",
+            github_url       => "github.com",
+            microsoft_url    => "microsoft.com",
+            myfonts_url      => "myfonts.com",
+            osx_port_url     => "OSX port",
+            secondary_url    => "SECONDARY",
+            source_url       => "SOURCE",
+            uncut_url        => "uncut.wtf",
+            url_2_url        => "SECONDARY",
+            usemodify_url    => "usemodify.com",
+            via_url          => "via",
+        );
+    }
 
     sub new {
         my ($class, $data) = @_;
         my $self = bless({}, $class);
         $self->{data} = decode_json(encode_json($data));
-        # print STDERR (Dumper($data));
-        # print STDERR (Dumper($self->{data}));
         $self->{orig_data} = $data;
         $self->init();
-        # print STDERR (Dumper($self));
         return $self;
     }
 
@@ -57,19 +83,17 @@ package My::Item {
             }
         }
 
-        $self->add_urls($data->{url}, undef, 1);
-        $self->add_urls($data->{urls}, undef, 1);
-
-        $self->add_urls($data->{source_url}, 'source_url', 1);
-        $self->add_urls($data->{fontlibrary_url}, 'fontlibrary_url', 1);
-        $self->add_urls($data->{fontsquirrel_url}, 'fontsquirrel_url', 1);
-        $self->add_urls($data->{myfonts_url}, 'myfonts_url', 1);
-        $self->add_urls($data->{gfonts_url}, 'gfonts_url', 1);
-        $self->add_urls($data->{dafont_url}, 'dafont_url', 1);
-        $self->add_urls($data->{fonts2u_url}, 'fonts2u_url', 1);
-
-        foreach my $key (sort grep { /_url$/i } keys %$data) {
+        if (exists $data->{url}) {
+            $self->add_urls($data->{url}, undef);
+            delete $data->{url};
+        }
+        if (exists $data->{urls}) {
+            $self->add_urls($data->{urls}, undef);
+            delete $data->{urls};
+        }
+        foreach my $key (grep { /_url$/ } keys %$data) {
             $self->add_urls($data->{$key}, $key);
+            delete $data->{$key};
         }
 
         my $variants = delete $data->{variants};
@@ -86,6 +110,52 @@ package My::Item {
     }
 
     sub add_urls {
+        my ($self, $url, $key) = @_;
+        local $Data::Dumper::Terse = 1;
+        local $Data::Dumper::Useqq = 1;
+        local $Data::Dumper::Indent = 0;
+        if (defined $key) {
+            if (exists $KEYS{$key}) {
+                $key = $KEYS{$key};
+                if (!defined $key) {
+                    $key = "(other)";
+                }
+            } else {
+                $key =~ s/_url$//;
+            }
+        }
+        if (ref $url eq "") {
+            if (defined $key && $key eq "PRIMARY") {
+                $key = undef;
+            }
+            if (defined $key) {
+                if (defined $self->{urls}->{PRIMARY}) {
+                    push(@{$self->{urls}->{$key}}, $url);
+                } else {
+                    $self->{urls}->{PRIMARY} = $url;
+                    if ($key eq "github.com") {
+                        push(@{$self->{urls}->{$key}}, $url);
+                    }
+                }
+            } else {
+                if (defined $self->{urls}->{PRIMARY}) {
+                    push(@{$self->{urls}->{SECONDARY}}, $url);
+                } else {
+                    $self->{urls}->{PRIMARY} = $url;
+                }
+            }
+        } elsif (ref $url eq "ARRAY") {
+            foreach my $url (@$url) {
+                $self->add_urls($url, $key);
+            }
+        } elsif (ref $url eq "HASH") {
+            foreach my $key (keys %$url) {
+                $self->add_urls($url->{$key}, $key);
+            }
+        }
+    }
+
+    sub old_add_urls {
         my ($self, $url, $key, $primary) = @_;
         return if !defined $url;
         if (defined $key) {
@@ -130,50 +200,51 @@ package My::Item {
             return $str;
         }
         my $str = "";
-        my $url = $self->{url};
-        if (defined $url) {
-            $str .= sprintf("-   [%s](%s)\n", $name, $url);
+
+        if (defined $self->{urls} && defined $self->{urls}->{PRIMARY}) {
+            my $primary_url = $self->{urls}->{PRIMARY};
+            $str .= sprintf("-   [%s](%s)\n", $name, $primary_url);
+            delete $self->{urls}->{PRIMARY};
         } else {
             $str .= sprintf("-   %s\n", $name);
         }
+
         my $descr = $self->{descr};
-        my $notes =  $self->{notes};
+        my $notes = $self->{notes};
         if (defined $descr) {
             $str .= indent(trimnorm($descr), "    ", "    ") . "\n";
         }
         if (defined $notes) {
-            # if (scalar @$notes == 1) {
-            #     $str .= "    -   Notes:\n";
-            #     $str .= indent(trimnorm($notes->[0]), "        ", "        ") . "\n";
-            # } else {
-                $str .= "    -   Notes:\n";
-                foreach my $note (@$notes) {
-                    $str .= indent(trimnorm($note), "        -   ", "            ") . "\n";
+            $str .= "    -   Notes:\n";
+            foreach my $note (@$notes) {
+                $str .= indent(trimnorm($note), "        -   ", "            ") . "\n";
+            }
+        }
+
+        if (defined $self->{urls} && defined $self->{urls}->{SECONDARY}) {
+            my $secondary_urls = $self->{urls}->{SECONDARY};
+            foreach my $url (@$secondary_urls) {
+                my $domain = eval { URI->new($url)->host } // "(other)";
+                $str .= sprintf("    -   [%s](%s)\n", $domain, $url);
+            }
+            delete $self->{urls}->{SECONDARY};
+        }
+
+        if (defined $self->{urls}) {
+            foreach my $key (sort keys %{$self->{urls}}) {
+                my @urls = @{$self->{urls}->{$key}};
+                if (scalar @urls == 1) {
+                    $str .= sprintf("    -   [%s](%s)\n", $key, $urls[0]);
+                } elsif (scalar @urls > 1) {
+                    $str .= sprintf("    -   %s:\n", $key);
+                    foreach my $url (@urls) {
+                        my $domain = eval { URI->new($url)->host } // "(other)";
+                        $str .= sprintf("        -   [%s](%s)\n", $domain, $url);
+                    }
                 }
-            # }
+            }
         }
-
-        my %urls;
-        foreach my $key (grep { /_url$/i } keys %$self) {
-            my $key_name = $key;
-            $key_name =~ s/_url$//i;
-            $urls{$key_name} = $self->{$key};
-        }
-
-        foreach my $key (sort keys %urls) {
-            delete $urls{$key} if defined $url && $urls{$key} eq $url;
-        }
-
-        $str .= sprintf("    -   [source](%s)\n",       delete $urls{source})       if defined $urls{source};
-        $str .= sprintf("    -   [fontlibrary](%s)\n",  delete $urls{fontlibrary})  if defined $urls{fontlibrary};
-        $str .= sprintf("    -   [fontsquirrel](%s)\n", delete $urls{fontsquirrel}) if defined $urls{fontsquirrel};
-        $str .= sprintf("    -   [fonts2u](%s)\n",      delete $urls{fonts2u})      if defined $urls{fonts2u};
-        $str .= sprintf("    -   [dafont](%s)\n",       delete $urls{dafont})       if defined $urls{dafont};
-        $str .= sprintf("    -   [googlefonts](%s)\n",  delete $urls{gfonts})       if defined $urls{gfonts};
-        $str .= sprintf("    -   [myfonts](%s)\n",      delete $urls{myfonts})      if defined $urls{myfonts};
-        foreach my $key (sort keys %urls) {
-            $str .= sprintf("    -   [%s](%s)\n", md_escape($key), $urls{$key});
-        }
+        delete $self->{urls};
 
         my $variants = $self->{variants};
         if (defined $variants) {
