@@ -206,11 +206,6 @@
   url: https://www.zone38.net/font/
 - name: Marista
   url: https://calculatedimages.blogspot.com/2013/07/marista-my-second-professional-font.html
-- name: Martian Mono
-  uncut_url: https://uncut.wtf/monospace/martian-mono/
-  url: https://evilmartians.com/products/martian-mono
-  source_url: https://github.com/evilmartians/mono
-  gfonts_url: https://fonts.google.com/specimen/Martian+Mono
 - name: Max Hana
   uncut_url: https://uncut.wtf/monospace/max-hana/
   source_url: https://github.com/max32002/max-hana

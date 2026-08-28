@@ -347,6 +347,20 @@
   source_url: https://github.com/BourgeoisBear/DaddyTimeMono
   previews:
     - previews/DaddyTimeMono/DaddyTimeMono.preview.png
+- name: Datatype
+  url: https://franktisellano.github.io/datatype/
+  source_url: https://github.com/franktisellano/datatype
+  description:
+    - |
+      **This one is kind of special.** If you want just the font, you
+      should just get IBM Plex Mono since this font is based on that.
+      Author description:
+      
+      > A variable OpenType font that turns text into inline charts.
+
+      > Datatype uses OpenType ligature substitution to transform
+      > simple text expressions like {b:30,70,50,90} into visual
+      > charts—no JavaScript required.
 - name: Dave
   source_url: https://github.com/i-e-b/Dave
   description: A monospace programming font built for unambiguous legibility above all else
@@ -843,6 +857,11 @@
     - previews/MapleMono/MapleMono-Italic.preview.png
     - previews/MapleMono/MapleMonoNormal-Regular.preview.png
     - previews/MapleMono/MapleMonoNormal-Italic.preview.png
+- name: Martian Mono
+  uncut_url: https://uncut.wtf/monospace/martian-mono/
+  url: https://evilmartians.com/products/martian-mono
+  source_url: https://github.com/evilmartians/mono
+  gfonts_url: https://fonts.google.com/specimen/Martian+Mono
 - name: Menlo
   description: bundled with macOS, derived from Deja Vu
   # [MesloLGS NF](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts)

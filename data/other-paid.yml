@@ -341,6 +341,14 @@
   url: https://www.myfonts.com/collections/letter-gothic-mono-font-fontfont
   tags:
     - letter gothic
+- name: Lettra Mono
+  url: https://pangrampangram.com/products/lettra-mono
+  description: |
+    Author description:
+
+    > A monospaced serif typeface that explores the design challenges
+    > of modular spacing, with each character individually crafted to
+    > ensure consistent weight and proportion across the set.
 - name: Linefeed
   url: https://typodermicfonts.com/linefeed/
   description: '[line printer inspired]'
@@ -364,6 +372,13 @@
   myfonts_url: https://www.myfonts.com/collections/mingray-mono-font-rekord
 - name: Mitigate
   url: https://typodermicfonts.com/mitigate/
+- name: Model mono
+  url: https://pangrampangram.com/products/model-mono
+  description: |
+    Author description:
+
+    > Model pays tribute to the world of plastic model kits, drawing
+    > inspiration from the iconic Japanese brand Tamiya.
 - name: Mono Condensed
   myfonts_url: https://www.myfonts.com/collections/mono-condensed-font-paratype
 - name: Monoela
