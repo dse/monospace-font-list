@@ -221,12 +221,6 @@ TwoPlus (MuirMcNeil, 2016)
 Gridnik née Politene (Wim Crouwel, Olivetti, 1974)
 ```
 
-NO:
-
-```
-NO: Alfredino           ??? https://fontsinuse.com/typefaces/244164/alfredino
-```
-
 -   The Best Monospace Typefaces - Part One
 
     https://pangrampangram.com/blogs/journal/best-monospace-typefaces
