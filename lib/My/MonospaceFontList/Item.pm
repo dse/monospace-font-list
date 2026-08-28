@@ -229,7 +229,7 @@ sub as_md {
                 $str .= indent(trimnorm($variants->[0]), "        ", "        ") . "\n";
             } else {
                 foreach my $sub_item (@$variants) {
-                    my $i = My::Item->new($sub_item);
+                    my $i = My::MonospaceFontList::Item->new($sub_item);
                     $str .= $i->as_md(%args, indent => ($indent . "        "));
                 }
             }
