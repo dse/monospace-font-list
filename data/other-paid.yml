@@ -340,6 +340,12 @@
 - name: Linefeed
   url: https://typodermicfonts.com/linefeed/
   description: '[line printer inspired]'
+- name: Logic Monospace
+  url: https://www.mckltype.com/typefaces/logic
+  via: 
+    - https://eyeondesign.aiga.org/a-very-niche-very-logical-font-inspired-by-vintage-typewriters-python-script/
+  adobe_fonts_url:
+    - https://fonts.adobe.com/fonts/logic-monospace
 - name: LTC Remington Typewriter
   myfonts_url: https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company
 - name: Lucida Sans Typewriter (Monotype)
