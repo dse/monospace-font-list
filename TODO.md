@@ -27,7 +27,6 @@ https://github.com/ouonline/ZhiMaMono
 Actual Mono             https://fontsinuse.com/typefaces/242658/actual-mono
 Aeonik Mono             https://fontsinuse.com/typefaces/184604/aeonik-mono
 Aeroport Mono           https://fontsinuse.com/typefaces/229741/aeroport-mono
-Aeroport Mono           https://fontsinuse.com/typefaces/229741/aeroport-mono
 Aether Mono             https://fontsinuse.com/typefaces/233303/aether-mono
 Affairs Mono            https://fontsinuse.com/typefaces/217562/affairs-mono
 Aktiv Grotesk           https://fontsinuse.com/typefaces/1297/aktiv-grotesk
@@ -58,7 +57,6 @@ CoFo Drifter            https://fontsinuse.com/typefaces/237487/cofo-drifter
 Covenant Mono           https://fontsinuse.com/typefaces/235173/pow-covenant-mono
 Daily Slab Mono         https://fontsinuse.com/typefaces/239947/abc-daily-slab-mono
 Diatype Mono            https://fontsinuse.com/typefaces/142814/abc-diatype-mono
-Diatype Mono            https://fontsinuse.com/typefaces/142814/abc-diatype-mono
 Director                https://fontsinuse.com/typefaces/186123/director-velvetyne
 Divenire Mono           https://fontsinuse.com/typefaces/232717/divenire-mono
 Drama               lol https://fontsinuse.com/typefaces/233777/bg-drama
@@ -73,11 +71,9 @@ Favorit Mono            https://fontsinuse.com/typefaces/45045/abc-favorit-mono
 Favorite                https://fontsinuse.com/typefaces/231245/ops-favorite
 Fedra Mono              https://fontsinuse.com/typefaces/6682/fedra-mono
 Figure Monospace        https://fontsinuse.com/typefaces/235653/figure-monospace
-Figure Monospace        https://fontsinuse.com/typefaces/235653/figure-monospace
 Forma DJR Mono          https://fontsinuse.com/typefaces/237409/forma-djr-mono
 Founders Grotesk Mono   https://fontsinuse.com/typefaces/42343/founders-grotesk-mono
 G2 Erika Mono           https://fontsinuse.com/typefaces/149248/g2-erika-mono
-GT America Mono         https://fontsinuse.com/typefaces/44422/gt-america-mono
 GT America Mono         https://fontsinuse.com/typefaces/44422/gt-america-mono
 GT Cinetype Mono        https://fontsinuse.com/typefaces/242671/gt-cinetype-mono
 GT Pressura M           https://fontsinuse.com/typefaces/42644/gt-pressura-mono
@@ -105,8 +101,6 @@ Maison Neue Mono        https://fontsinuse.com/typefaces/39088/maison-neue-mono
 Marfa Mono              https://fontsinuse.com/typefaces/178712/abc-marfa-mono
 Marjoree Mono           https://fontsinuse.com/typefaces/239943/marjoree-mono
 Martian Mono            https://fontsinuse.com/typefaces/194847/martian-mono
-Martian Mono            https://fontsinuse.com/typefaces/194847/martian-mono
-Martian Mono            https://fontsinuse.com/typefaces/194847/martian-mono
 Merchant Copy           https://fontsinuse.com/typefaces/242672/merchant-copy
 Mercure Transcript  lol https://fontsinuse.com/typefaces/234188/mercure-transcript
 Metodo Mono             https://fontsinuse.com/typefaces/230970/metodo-mono
@@ -120,7 +114,6 @@ Monotalic               https://fontsinuse.com/typefaces/83350/monotalic
 Monotype Typewriter     https://fontsinuse.com/typefaces/5124/monotype-typewriter
 Monument Grotesk Mono   https://fontsinuse.com/typefaces/129009/monument-grotesk-mono [also has a semi-mono]
 Muoto Mono              https://fontsinuse.com/typefaces/233292/muoto-mono
-Muoto Mono              https://fontsinuse.com/typefaces/233292/muoto-mono
 N. Block Mono           https://fontsinuse.com/typefaces/242381/narkiss-block-mono
 NB Int’l Mono           https://fontsinuse.com/typefaces/211343/nb-international-mono
 NB Typewriter           https://fontsinuse.com/typefaces/10009/nb-typewriter
@@ -130,12 +123,9 @@ NaN Weiss               https://fontsinuse.com/typefaces/131348/nan-weiss
 Name Mono               https://fontsinuse.com/typefaces/231407/name-mono
 Necto Mono              https://fontsinuse.com/typefaces/108838/necto-mono
 Neue Montreal Mono      https://fontsinuse.com/typefaces/232952/neue-montreal-mono
-Neue Montreal Mono      https://fontsinuse.com/typefaces/232952/neue-montreal-mono
 Neureal Mono            https://fontsinuse.com/typefaces/217959/neureal-mono
 Neureal Mono        ??? https://fontsinuse.com/typefaces/217959/neureal-mono
 Nomo Mono               https://fontsinuse.com/typefaces/232358/nomo-mono
-Nord Mono               https://fontsinuse.com/typefaces/220001/store-norske-nord-mono
-Nord Mono               https://fontsinuse.com/typefaces/220001/store-norske-nord-mono
 Nord Mono               https://fontsinuse.com/typefaces/220001/store-norske-nord-mono
 OCR-X                   https://fontsinuse.com/typefaces/231415/ocr-x
 OO Arketa               https://fontsinuse.com/typefaces/237510/oo-arketa
@@ -148,7 +138,6 @@ Oracle Triple       ??? https://fontsinuse.com/typefaces/170116/abc-oracle-tripl
 PCMyungjo               https://fontsinuse.com/typefaces/231470/pc-myungjo
 Panama                  https://fontsinuse.com/typefaces/46585/panama
 Pantasia                https://fontsinuse.com/typefaces/108830/pantasia
-Pantasia                https://fontsinuse.com/typefaces/108830/pantasia
 Parnaso Mono            https://fontsinuse.com/typefaces/235629/parnaso-mono
 Phonic Mono             https://fontsinuse.com/typefaces/233078/phonic-mono
 Piet Mono               https://fontsinuse.com/typefaces/233226/piet-mono
@@ -160,10 +149,8 @@ PolySans Mono           https://fontsinuse.com/typefaces/212546/polysans-mono
 Publico Text Mono       https://fontsinuse.com/typefaces/47442/publico-text-mono
 Qommodore               https://fontsinuse.com/typefaces/231579/qommodore
 Quadrant Text Mono      https://fontsinuse.com/typefaces/230859/quadrant-text-mono
-Quadrant Text Mono      https://fontsinuse.com/typefaces/230859/quadrant-text-mono
 RM Mono                 https://fontsinuse.com/typefaces/231490/rm-mono
 Renotype            ??? https://fontsinuse.com/typefaces/240423/renotype
-Review Mono             https://fontsinuse.com/typefaces/229469/review-mono
 Review Mono             https://fontsinuse.com/typefaces/229469/review-mono
 Right Grotesk Mono      https://fontsinuse.com/typefaces/233963/right-grotesk-mono
 Right Serif Mono        https://fontsinuse.com/typefaces/233970/right-serif-mono
@@ -175,9 +162,7 @@ Serial A                https://fontsinuse.com/typefaces/150241/serial-a
 Serial C                https://fontsinuse.com/typefaces/161124/serial-c
 Serial Typewriter Sans  https://fontsinuse.com/typefaces/237322/serial-typewriter-sans
 Shinka Mono             https://fontsinuse.com/typefaces/232968/shinka-mono
-Shinka Mono             https://fontsinuse.com/typefaces/232968/shinka-mono
 Simon Mono              https://fontsinuse.com/typefaces/107835/simon-mono
-Simplon Mono            https://fontsinuse.com/typefaces/7883/simplon-mono
 Simplon Mono            https://fontsinuse.com/typefaces/7883/simplon-mono
 Sligoil                 https://fontsinuse.com/typefaces/191311/sligoil
 Slussen Mono            https://fontsinuse.com/typefaces/188052/slussen-mono
@@ -196,7 +181,6 @@ TT Autonomous Mono      https://fontsinuse.com/typefaces/229124/tt-autonomous-mo
 TT Interphases Mono     https://fontsinuse.com/typefaces/244620/tt-interphases-mono
 Takt                    https://fontsinuse.com/typefaces/232254/takt
 Telder Mono HT          https://fontsinuse.com/typefaces/244668/telder-mono-ht
-Tempos Mono             https://fontsinuse.com/typefaces/230185/tempos-mono
 Tempos Mono             https://fontsinuse.com/typefaces/230185/tempos-mono
 Terza Editor            https://fontsinuse.com/typefaces/205980/terza-editor
 The Basics              (has a mono variant?) https://fontsinuse.com/typefaces/241748/thebasics
