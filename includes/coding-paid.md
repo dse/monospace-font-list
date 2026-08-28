@@ -1,4 +1,4 @@
-90 typefaces listed here.
+91 typefaces listed here.
 
 -   [0Arame Mono](https://www.fontspring.com/fonts/hitype/0arame-mono)
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
@@ -56,6 +56,7 @@
 -   [Eco Coding](https://www.myfonts.com/collections/eco-coding-font-s-core)
 -   [Ellograph](https://connary.com/ellograph.html)
 -   [Fakt Mono](https://www.typeby.com/fonts/fakt-mono)
+-   [Fraktion Mono](https://pangrampangram.com/products/fraktion-mono)
 -   [GT Maru Mono](https://www.gt-maru.com/#monospaced)
 -   [Gintronic](https://markfromberg.com/projects/gintronic)
 -   [Graebenbach](https://camelot-typefaces.com/graebenbach-mono)

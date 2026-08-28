@@ -1,4 +1,4 @@
-251 typefaces listed here.
+253 typefaces listed here.
 
 -   [0xProto](https://github.com/0xType/0xProto)
     -   Previews:
@@ -256,12 +256,14 @@
     -   Previews:
         -   D2Coding<br>
             ![previews/D2Coding/D2Coding.preview.png](previews/D2Coding/D2Coding.preview.png)
--   [DM Mono](https://github.com/googlefonts/dm-mono)
-    -   [fonts.google.com](https://fonts.google.com/specimen/DM+Mono)
+-   [DM Mono](https://fonts.google.com/specimen/DM+Mono)
+    -   [SOURCE](https://github.com/googlefonts/dm-mono)
 -   [DaddyTimeMono](https://github.com/BourgeoisBear/DaddyTimeMono)
     -   Previews:
         -   DaddyTimeMono<br>
             ![previews/DaddyTimeMono/DaddyTimeMono.preview.png](previews/DaddyTimeMono/DaddyTimeMono.preview.png)
+-   [Datatype](https://franktisellano.github.io/datatype/)
+    -   [SOURCE](https://github.com/franktisellano/datatype)
 -   [Dave](https://github.com/i-e-b/Dave)
     -   Previews:
         -   dave<br>
@@ -366,8 +368,8 @@
     -   Previews:
         -   FifteenNarrow<br>
             ![previews/Fifteen/FifteenNarrow.preview.png](previews/Fifteen/FifteenNarrow.preview.png)
--   [Fira Code](https://github.com/tonsky/FiraCode)
-    -   [fonts.google.com](https://fonts.google.com/specimen/Fira+Code)
+-   [Fira Code](https://fonts.google.com/specimen/Fira+Code)
+    -   [SOURCE](https://github.com/tonsky/FiraCode)
     -   Previews:
         -   FiraCode-Regular<br>
             ![previews/FiraCode/FiraCode-Regular.preview.png](previews/FiraCode/FiraCode-Regular.preview.png)
@@ -408,8 +410,8 @@
     -   Previews:
         -   fn0t<br>
             ![previews/fn0t/fn0t.preview.png](previews/fn0t/fn0t.preview.png)
--   [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono)
-    -   [fonts.google.com](https://fonts.google.com/specimen/Fragment+Mono)
+-   [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono)
+    -   [SOURCE](https://github.com/weiweihuanghuang/fragment-mono)
     -   Previews:
         -   FragmentMono-Regular<br>
             ![previews/FragmentMono/FragmentMono-Regular.preview.png](previews/FragmentMono/FragmentMono-Regular.preview.png)
@@ -461,8 +463,8 @@
         -   based on Google Sans Mono, which see.
     -   [fonts.google.com](https://fonts.google.com/specimen/Google+Sans+Code)
     -   [github.com](https://github.com/googlefonts/googlesans-code)
--   [Google Sans Mono](https://github.com/mehant-kr/Google-Sans-Mono)
-    -   [via](https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/)
+-   [Google Sans Mono](https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/)
+    -   [SOURCE](https://github.com/mehant-kr/Google-Sans-Mono)
     -   Previews:
         -   Google-Sans-Mono-Regular<br>
             ![previews/GoogleSansMono/Google-Sans-Mono-Regular.preview.png](previews/GoogleSansMono/Google-Sans-Mono-Regular.preview.png)
@@ -721,6 +723,10 @@
             ![previews/MapleMono/MapleMonoNormal-Regular.preview.png](previews/MapleMono/MapleMonoNormal-Regular.preview.png)
         -   MapleMonoNormal-Italic<br>
             ![previews/MapleMono/MapleMonoNormal-Italic.preview.png](previews/MapleMono/MapleMonoNormal-Italic.preview.png)
+-   [Martian Mono](https://evilmartians.com/products/martian-mono)
+    -   [SOURCE](https://github.com/evilmartians/mono)
+    -   [fonts.google.com](https://fonts.google.com/specimen/Martian+Mono)
+    -   [uncut.wtf](https://uncut.wtf/monospace/martian-mono/)
 -   Menlo
     -   Previews:
         -   Menlo-Regular<br>
@@ -914,8 +920,8 @@
             ![previews/OCRAExtended/OCR_A_Extended_Regular.preview.png](previews/OCRAExtended/OCR_A_Extended_Regular.preview.png)
         -   ocraext<br>
             ![previews/OCRAExtended/ocraext.preview.png](previews/OCRAExtended/ocraext.preview.png)
--   [Office Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
-    -   [SOURCE](https://github.com/nathco/Office-Code-Pro)
+-   [Office Code Pro](https://github.com/nathco/Office-Code-Pro)
+    -   [fonts.google.com](https://fonts.google.com/specimen/Source+Code+Pro)
     -   Variants:
         -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
             -   derived from Source Code Pro and Noto Sans JP.
@@ -1067,8 +1073,8 @@
         -   RedHatMono-Italic<br>
             ![previews/RedHatMono/RedHatMono-Italic.preview.png](previews/RedHatMono/RedHatMono-Italic.preview.png)
 -   [retro fonts](http://www.modelb.bbcmicro.com/retro-fonts.html)
--   [Roboto Mono](https://github.com/googlefonts/roboto)
-    -   [fonts.google.com](https://fonts.google.com/specimen/Roboto+Mono)
+-   [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
+    -   [SOURCE](https://github.com/googlefonts/roboto)
     -   Previews:
         -   RobotoMono-Regular<br>
             ![previews/RobotoMono/RobotoMono-Regular.preview.png](previews/RobotoMono/RobotoMono-Regular.preview.png)
@@ -1261,7 +1267,8 @@
         -   UbuntuMono-RI<br>
             ![previews/UbuntuMonospace/UbuntuMono-RI.preview.png](previews/UbuntuMonospace/UbuntuMono-RI.preview.png)
 -   [Ubuntu Sans Mono](https://fonts.google.com/specimen/Ubuntu+Sans+Mono)
--   [Uiua386](https://github.com/uiua-lang/uiua/raw/refs/heads/main/src/assets/Uiua386.ttf)
+-   [Uiua386](https://github.com/uiua-lang/uiua/tree/main/src/assets)
+    -   [DOWNLOAD](https://github.com/uiua-lang/uiua/raw/refs/heads/main/src/assets/Uiua386.ttf)
     -   [github.com](https://github.com/uiua-lang/uiua/tree/main/src/assets)
 -   [Uiua386 Color](https://github.com/jonathanperret/uiua386color)
     -   [github.com](https://github.com/jonathanperret/uiua386color)

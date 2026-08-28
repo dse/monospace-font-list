@@ -1,4 +1,4 @@
-129 typefaces listed here.
+128 typefaces listed here.
 
 -   [Amiri Typewriter](https://github.com/aliftype/amiri-typewriter)
 -   [Angelus III](https://www.myfonts.com/collections/angelus-iii-font-scriptorium)
@@ -21,9 +21,9 @@
 -   [Bitstream Courier 10 Pitch](https://gitlab.freedesktop.org/xorg/font/bitstream-type1)
     -   Notes:
         -   basis of Courier Code
--   [BIZ UDMincho](https://fonts.google.com/specimen/BIZ+UDMincho)
+-   [BIZ UDMincho](https://uncut.wtf/monospace/biz-udmincho/)
+    -   [fonts.google.com](https://fonts.google.com/specimen/BIZ+UDMincho)
     -   [microsoft.com](https://learn.microsoft.com/en-us/typography/font-list/biz-udmincho-medium)
-    -   [uncut.wtf](https://uncut.wtf/monospace/biz-udmincho/)
 -   [BQN386](https://dzaima.github.io/BQN386/)
 -   [Bytesized](https://fonts.google.com/specimen/Bytesized)
 -   [CATV 6x12 9](https://fontlibrary.org/en/font/catv-6x12-9)
@@ -84,10 +84,6 @@
     -   [fonts.google.com](https://fonts.google.com/specimen/Major+Mono+Display?categoryFilters=Appearance:%2FMonospace%2FMonospace)
 -   [Manaspace](https://www.zone38.net/font/)
 -   [Marista](https://calculatedimages.blogspot.com/2013/07/marista-my-second-professional-font.html)
--   [Martian Mono](https://evilmartians.com/products/martian-mono)
-    -   [SOURCE](https://github.com/evilmartians/mono)
-    -   [fonts.google.com](https://fonts.google.com/specimen/Martian+Mono)
-    -   [uncut.wtf](https://uncut.wtf/monospace/martian-mono/)
 -   [Max Hana](https://github.com/max32002/max-hana)
     -   [uncut.wtf](https://uncut.wtf/monospace/max-hana/)
 -   [Modd](http://nikolas.us.to/jmkfonts/)

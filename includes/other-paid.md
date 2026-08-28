@@ -1,4 +1,4 @@
-267 typefaces listed here.
+270 typefaces listed here.
 
 -   [8 Point Lining Typewriter No. 1](https://a2-type.co.uk/8-point-lining-typewriter-no-1)
     -   Notes:
@@ -48,8 +48,8 @@
 -   [Centima Mono](http://www.tipografiaramis.com/centima-mono.html)
 -   [Century Schoolbook Monospace](https://www.myfonts.com/products/century-schoolbook-monospaced-10058-century-schoolbook-435037)
 -   [Chromatic Mono](https://www.colophon-foundry.org/typefaces/chromatic-mono)
--   [CMM Coda](https://fontsinuse.com/typefaces/239918/cmm-coda)
-    -   [foundry](https://commatype.com/cmm-coda/)
+-   [CMM Coda](https://commatype.com/cmm-coda/)
+    -   [fontsinuse.com](https://fontsinuse.com/typefaces/239918/cmm-coda)
 -   [Codo Mono](https://wearecolt.com/product/codo-mono/)
 -   [Colón Mono](http://www.tipografiaramis.com/coloacuten-mono.html)
 -   [Concursico Mono BTN](https://www.youworkforthem.com/font/19425/concursico-mono-btn)
@@ -155,7 +155,10 @@
 -   [Letter Gothic Std (Adobe)](https://www.fontspring.com/fonts/adobe/letter-gothic-std)
 -   [Letter Gothic 12 Pitch (Bitstream)](https://www.myfonts.com/collections/letter-gothic-font-bitstream)
 -   [FF Letter Gothic Mono](https://www.myfonts.com/collections/letter-gothic-mono-font-fontfont)
+-   [Lettra Mono](https://pangrampangram.com/products/lettra-mono)
 -   [Linefeed](https://typodermicfonts.com/linefeed/)
+-   [Logic Monospace](https://www.mckltype.com/typefaces/logic)
+    -   [adobe_fonts](https://fonts.adobe.com/fonts/logic-monospace)
 -   [LTC Remington Typewriter](https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company)
 -   [Lucida Sans Typewriter (Monotype)](https://www.myfonts.com/collections/lucida-sans-typewriter-font-monotype-imaging)
 -   [Mabry Mono](https://www.colophon-foundry.org/typefaces/mabry-mono/proofer)
@@ -163,6 +166,7 @@
 -   [Maison Neue Mono](https://www.myfonts.com/products/maison-neue-mono-pack-package-616078)
 -   [Mingray Mono](https://www.myfonts.com/collections/mingray-mono-font-rekord)
 -   [Mitigate](https://typodermicfonts.com/mitigate/)
+-   [Model mono](https://pangrampangram.com/products/model-mono)
 -   [Mono Condensed](https://www.myfonts.com/collections/mono-condensed-font-paratype)
 -   [Monoela](https://www.myfonts.com/collections/monoela-font-interfont)
 -   [Monofonto](https://www.fontspring.com/fonts/typodermic/monofonto)
