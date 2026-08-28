@@ -1,13 +1,13 @@
-92 typefaces listed here.
+91 typefaces listed here.
 
 -   [0Arame Mono](https://www.fontspring.com/fonts/hitype/0arame-mono)
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
 -   [64-SRC](https://www.myfonts.com/fonts/ilott-type/64-src/)
 -   [Adelle Mono](https://www.myfonts.com/collections/adelle-mono-font-type-together)
+    -   [www.type-together.com](https://www.type-together.com/adelle-mono-font)
 -   [Aeroport](https://www.fontspring.com/fonts/brownfox/aeroport)
 -   [Akkurat Mono](https://lineto.com/typefaces/akkurat-mono)
 -   [Adapter Mono](https://rosettatype.com/AdapterMonoPE)
--   [Adelle Mono](https://www.type-together.com/adelle-mono-font)
 -   [Almarena Mono](https://www.myfonts.com/collections/almarena-mono-font-almarena)
     -   Notes:
         -   This is confusing.  So, Almarena Mono is a family of eight fonts.

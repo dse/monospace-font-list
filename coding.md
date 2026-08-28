@@ -167,8 +167,8 @@
         -   CamingoCode-Italic<br>
             ![previews/CamingoCode/CamingoCode-Italic.preview.png](previews/CamingoCode/CamingoCode-Italic.preview.png)
 -   [Canton Typewriter Bitmap](https://github.com/dse/font-canton-typewriter-bitmap)
--   [Cascadia Code](https://github.com/microsoft/cascadia-code)
-    -   [fonts.google.com](https://fonts.google.com/specimen/Cascadia+Code)
+-   [Cascadia Code](https://fonts.google.com/specimen/Cascadia+Code)
+    -   [SOURCE](https://github.com/microsoft/cascadia-code)
 -   [Cascadia Mono](https://fonts.google.com/specimen/Cascadia+Mono)
 -   [Chivo Mono](https://fonts.google.com/specimen/Chivo+Mono)
     you probably want the Nerd Font linked from therein.
@@ -389,8 +389,8 @@
             ![previews/FiraFlott/FiraFlott_FiraCode_Medium.preview.png](previews/FiraFlott/FiraFlott_FiraCode_Medium.preview.png)
         -   FiraFlott_FlottFlott_Italic<br>
             ![previews/FiraFlott/FiraFlott_FlottFlott_Italic.preview.png](previews/FiraFlott/FiraFlott_FlottFlott_Italic.preview.png)
--   [Fira Mono](https://github.com/mozilla/Fira)
-    -   [fonts.google.com](https://fonts.google.com/specimen/Fira+Mono)
+-   [Fira Mono](https://fonts.google.com/specimen/Fira+Mono)
+    -   [SOURCE](https://github.com/mozilla/Fira)
     -   Previews:
         -   FiraMono-Regular<br>
             ![previews/FiraMono/FiraMono-Regular.preview.png](previews/FiraMono/FiraMono-Regular.preview.png)
@@ -414,8 +414,8 @@
     -   Previews:
         -   fn0t<br>
             ![previews/fn0t/fn0t.preview.png](previews/fn0t/fn0t.preview.png)
--   [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono)
-    -   [SOURCE](https://github.com/weiweihuanghuang/fragment-mono)
+-   [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono)
+    -   [fonts.google.com](https://fonts.google.com/specimen/Fragment+Mono)
     -   Previews:
         -   FragmentMono-Regular<br>
             ![previews/FragmentMono/FragmentMono-Regular.preview.png](previews/FragmentMono/FragmentMono-Regular.preview.png)
@@ -462,10 +462,9 @@
             ![previews/Gohu/koemadea-gohufont-uni-11.preview.png](previews/Gohu/koemadea-gohufont-uni-11.preview.png)
         -   koemadea-gohufont-uni-14<br>
             ![previews/Gohu/koemadea-gohufont-uni-14.preview.png](previews/Gohu/koemadea-gohufont-uni-14.preview.png)
--   [Google Sans Code](https://github.com/googlefonts/googlesans-code)
+-   [Google Sans Code](https://fonts.google.com/specimen/Google+Sans+Code)
     -   Notes:
         -   based on Google Sans Mono, which see.
-    -   [fonts.google.com](https://fonts.google.com/specimen/Google+Sans+Code)
     -   [github.com](https://github.com/googlefonts/googlesans-code)
 -   [Google Sans Mono](https://github.com/mehant-kr/Google-Sans-Mono)
     -   [via](https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/)
@@ -924,8 +923,8 @@
             ![previews/OCRAExtended/OCR_A_Extended_Regular.preview.png](previews/OCRAExtended/OCR_A_Extended_Regular.preview.png)
         -   ocraext<br>
             ![previews/OCRAExtended/ocraext.preview.png](previews/OCRAExtended/ocraext.preview.png)
--   [Office Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
-    -   [SOURCE](https://github.com/nathco/Office-Code-Pro)
+-   [Office Code Pro](https://github.com/nathco/Office-Code-Pro)
+    -   [fonts.google.com](https://fonts.google.com/specimen/Source+Code+Pro)
     -   Variants:
         -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
             -   derived from Source Code Pro and Noto Sans JP.
@@ -1077,8 +1076,8 @@
         -   RedHatMono-Italic<br>
             ![previews/RedHatMono/RedHatMono-Italic.preview.png](previews/RedHatMono/RedHatMono-Italic.preview.png)
 -   [retro fonts](http://www.modelb.bbcmicro.com/retro-fonts.html)
--   [Roboto Mono](https://github.com/googlefonts/roboto)
-    -   [fonts.google.com](https://fonts.google.com/specimen/Roboto+Mono)
+-   [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
+    -   [SOURCE](https://github.com/googlefonts/roboto)
     -   Previews:
         -   RobotoMono-Regular<br>
             ![previews/RobotoMono/RobotoMono-Regular.preview.png](previews/RobotoMono/RobotoMono-Regular.preview.png)
@@ -1181,8 +1180,8 @@
             ![previews/Sudo/SudoUI-Regular.preview.png](previews/Sudo/SudoUI-Regular.preview.png)
         -   SudoUI-Italic<br>
             ![previews/Sudo/SudoUI-Italic.preview.png](previews/Sudo/SudoUI-Italic.preview.png)
--   [Sun Gallant Demi](https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf)
-    -   [SOURCE](https://github.com/dim13/gallant)
+-   [Sun Gallant Demi](https://github.com/dim13/gallant)
+    -   [DOWNLOAD](https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf)
     -   Previews:
         -   gallant12x22<br>
             ![previews/SunGallantDemi/gallant12x22.preview.png](previews/SunGallantDemi/gallant12x22.preview.png)
@@ -1271,7 +1270,8 @@
         -   UbuntuMono-RI<br>
             ![previews/UbuntuMonospace/UbuntuMono-RI.preview.png](previews/UbuntuMonospace/UbuntuMono-RI.preview.png)
 -   [Ubuntu Sans Mono](https://fonts.google.com/specimen/Ubuntu+Sans+Mono)
--   [Uiua386](https://github.com/uiua-lang/uiua/raw/refs/heads/main/src/assets/Uiua386.ttf)
+-   [Uiua386](https://github.com/uiua-lang/uiua/tree/main/src/assets)
+    -   [DOWNLOAD](https://github.com/uiua-lang/uiua/raw/refs/heads/main/src/assets/Uiua386.ttf)
     -   [github.com](https://github.com/uiua-lang/uiua/tree/main/src/assets)
 -   [Uiua386 Color](https://github.com/jonathanperret/uiua386color)
     -   [github.com](https://github.com/jonathanperret/uiua386color)
@@ -1305,8 +1305,8 @@
     -   Previews:
         -   VerilySerifMono<br>
             ![previews/VerilySerifMono/VerilySerifMono.preview.png](previews/VerilySerifMono/VerilySerifMono.preview.png)
--   [Victor Mono](https://fonts.google.com/specimen/Victor+Mono)
-    -   [SOURCE](https://github.com/rubjo/victor-mono)
+-   [Victor Mono](https://github.com/rubjo/victor-mono)
+    -   [fonts.google.com](https://fonts.google.com/specimen/Victor+Mono)
     -   Previews:
         -   VictorMono-Regular<br>
             ![previews/VictorMono/VictorMono-Regular.preview.png](previews/VictorMono/VictorMono-Regular.preview.png)
@@ -1318,8 +1318,8 @@
         -   VT323-Regular<br>
             ![previews/VT323/VT323-Regular.preview.png](previews/VT323/VT323-Regular.preview.png)
 -   [WenQuanYi Black](http://wenq.org/wqy2/index.cgi?FontGuide#_4)
--   [Whois Mono](https://github.com/raphaelbastide/Whois-mono)
-    -   [uncut.wtf](https://uncut.wtf/monospace/whois/)
+-   [Whois Mono](https://uncut.wtf/monospace/whois/)
+    -   [SOURCE](https://github.com/raphaelbastide/Whois-mono)
     -   Previews:
         -   whois-mono<br>
             ![previews/WhoisMono/whois-mono.preview.png](previews/WhoisMono/whois-mono.preview.png)
@@ -1348,16 +1348,16 @@
 
 ## Paid
 
-92 typefaces listed here.
+91 typefaces listed here.
 
 -   [0Arame Mono](https://www.fontspring.com/fonts/hitype/0arame-mono)
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
 -   [64-SRC](https://www.myfonts.com/fonts/ilott-type/64-src/)
 -   [Adelle Mono](https://www.myfonts.com/collections/adelle-mono-font-type-together)
+    -   [www.type-together.com](https://www.type-together.com/adelle-mono-font)
 -   [Aeroport](https://www.fontspring.com/fonts/brownfox/aeroport)
 -   [Akkurat Mono](https://lineto.com/typefaces/akkurat-mono)
 -   [Adapter Mono](https://rosettatype.com/AdapterMonoPE)
--   [Adelle Mono](https://www.type-together.com/adelle-mono-font)
 -   [Almarena Mono](https://www.myfonts.com/collections/almarena-mono-font-almarena)
     -   Notes:
         -   This is confusing.  So, Almarena Mono is a family of eight fonts.

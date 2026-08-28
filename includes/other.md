@@ -21,9 +21,9 @@
 -   [Bitstream Courier 10 Pitch](https://gitlab.freedesktop.org/xorg/font/bitstream-type1)
     -   Notes:
         -   basis of Courier Code
--   [BIZ UDMincho](https://fonts.google.com/specimen/BIZ+UDMincho)
+-   [BIZ UDMincho](https://uncut.wtf/monospace/biz-udmincho/)
+    -   [fonts.google.com](https://fonts.google.com/specimen/BIZ+UDMincho)
     -   [microsoft.com](https://learn.microsoft.com/en-us/typography/font-list/biz-udmincho-medium)
-    -   [uncut.wtf](https://uncut.wtf/monospace/biz-udmincho/)
 -   [BQN386](https://dzaima.github.io/BQN386/)
 -   [Bytesized](https://fonts.google.com/specimen/Bytesized)
 -   [CATV 6x12 9](https://fontlibrary.org/en/font/catv-6x12-9)

@@ -25,9 +25,9 @@
 -   [Bitstream Courier 10 Pitch](https://gitlab.freedesktop.org/xorg/font/bitstream-type1)
     -   Notes:
         -   basis of Courier Code
--   [BIZ UDMincho](https://fonts.google.com/specimen/BIZ+UDMincho)
+-   [BIZ UDMincho](https://uncut.wtf/monospace/biz-udmincho/)
+    -   [fonts.google.com](https://fonts.google.com/specimen/BIZ+UDMincho)
     -   [microsoft.com](https://learn.microsoft.com/en-us/typography/font-list/biz-udmincho-medium)
-    -   [uncut.wtf](https://uncut.wtf/monospace/biz-udmincho/)
 -   [BQN386](https://dzaima.github.io/BQN386/)
 -   [Bytesized](https://fonts.google.com/specimen/Bytesized)
 -   [CATV 6x12 9](https://fontlibrary.org/en/font/catv-6x12-9)
@@ -178,7 +178,7 @@
 
 ## Paid
 
-279 typefaces listed here.
+278 typefaces listed here.
 
 -   [8 Point Lining Typewriter No. 1](https://a2-type.co.uk/8-point-lining-typewriter-no-1)
     -   Notes:
@@ -230,8 +230,8 @@
 -   [Centima Mono](http://www.tipografiaramis.com/centima-mono.html)
 -   [Century Schoolbook Monospace](https://www.myfonts.com/products/century-schoolbook-monospaced-10058-century-schoolbook-435037)
 -   [Chromatic Mono](https://www.colophon-foundry.org/typefaces/chromatic-mono)
--   [CMM Coda](https://commatype.com/cmm-coda/)
-    -   [fontsinuse.com](https://fontsinuse.com/typefaces/239918/cmm-coda)
+-   [CMM Coda](https://fontsinuse.com/typefaces/239918/cmm-coda)
+    -   [foundry](https://commatype.com/cmm-coda/)
 -   [Codo Mono](https://wearecolt.com/product/codo-mono/)
 -   [CoFo Sans Mono](https://contrastfoundry.com/typeface/cofo-sans-mono)
 -   [Colón Mono](http://www.tipografiaramis.com/coloacuten-mono.html)
@@ -401,7 +401,6 @@
 -   [OCR-A Tribute Monospaced](https://www.myfonts.com/collections/ocr-a-tribute-font-linotype)
     -   Notes:
         -   Entire family contains three monospaces and three proportionals
--   [OCR-B Std (Adobe)](https://www.fontspring.com/fonts/adobe/ocr-b-std)
 -   [OCR-B Std (Adobe)](https://www.fontspring.com/fonts/adobe/ocr-b-std)
 -   [OCR-B (Bitstream)](https://www.myfonts.com/collections/ocr-b-font-bitstream)
 -   [OCR-B (Linotype)](https://www.myfonts.com/collections/ocr-b-2-font-linotype)
