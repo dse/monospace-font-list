@@ -264,9 +264,6 @@ NO: Alfredino           ??? https://fontsinuse.com/typefaces/244164/alfredino
     -   PF DIN Mono
         -   https://www.parachutefonts.com/typefaces/allfonts/din-mono-pro
 
--   Index Mono
-    -   https://www.instagram.com/p/DF8BeHlRJYA/
-
 -   Supply
     -   https://pangrampangram.com/products/supply
 

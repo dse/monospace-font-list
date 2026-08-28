@@ -302,6 +302,11 @@
   urls:
     - https://www.c-a-s-t.com/typefaces/iki-mono/
     - https://www.myfonts.com/collections/iki-mono-font-cast/
+- name: Index Mono
+  urls:
+    - https://www.oldcitymailroom.com/index-mono
+    - https://www.instagram.com/p/DF8BeHlRJYA
+  grungy: yes
 - name: Ingrid Mono
   myfonts_url: https://www.myfonts.com/collections/ingrid-mono-font-jorg-schmitt
 - name: Interstate Mono
