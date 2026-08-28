@@ -133,7 +133,7 @@
   url: https://www.gt-maru.com/#monospaced
 - name: Gintronic
   url: https://markfromberg.com/projects/gintronic
-- name: Graebenbach
+- name: Graebenbach Mono
   url: https://camelot-typefaces.com/graebenbach-mono
 - name: Gravitica Mono
   url: https://www.myfonts.com/collections/gravitica-mono-font-ckhans-fonts
@@ -166,6 +166,9 @@
   url: https://mass-driver.com/typefaces/md-io/
 - name: MD System Mono
   url: https://mass-driver.com/typefaces/md-system/
+- name: Magi Mono
+  url: https://skriftkompani.no/typefaces/magi-mono
+  specimen: https://skriftkompani.no/filer/pdf/StoreNorskeMagiMono1.pdf
 - name: Matahari Sans
   url: https://www.fontspring.com/fonts/studio-sun/matahari-sans
   coding: true

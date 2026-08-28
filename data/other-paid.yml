@@ -53,9 +53,12 @@
   url: https://www.fonts.gr/fonts/asty-monospaced
 - name: Atlas Typewriter
   url: https://commercialtype.com/catalog/atlas_typewriter
+- name: Auger Mono
+  url: https://signalfoundry.com/typefaces/auger-mono
 - name: ITC Avant Garde Mono
   url: "https://www.fonts4ever.com/product_info.php?products_id=592&set=0"
   foundry: Elsner+Flake
+  see_also: ITC Souvenir Monospaced
 - name: Base Monospace
   url: https://www.emigre.com/Fonts/Base-Monospace
 - name: Basis Grotesque Mono
@@ -86,6 +89,8 @@
   url: https://lineto.com/typefaces/brown-mono
 - name: Bodoni Egyptian Mono
   url: https://shinntype.com/bodoni-egyptian/
+- name: Cake Mono
+  url: https://store.typenetwork.com/foundry/caketype/fonts/cake-mono
 - name: Caleb Mono
   url: https://www.myfonts.com/collections/caleb-mono-font-brenners-template
 - name: Capibara Mono
@@ -102,6 +107,9 @@
     "foundry": "https://commatype.com/cmm-coda/"
 - name: Codo Mono
   url: https://wearecolt.com/product/codo-mono/
+- name: CoFo Sans Mono
+  urls:
+    - https://contrastfoundry.com/typeface/cofo-sans-mono
 - name: Colón Mono
   url: http://www.tipografiaramis.com/coloacuten-mono.html
 - name: Concursico Mono BTN
@@ -182,6 +190,9 @@
 - name: Dottie
   url: http://ingrimayne.com/fonts2/typewriter.htm
   myfonts_url: https://www.myfonts.com/collections/dottie-font-ingrimayne-type
+- name: Droulers
+  url: https://bureaubrut.com/family/droulers
+  novelty: yes
 - name: EB Jessica
   myfonts_url: https://www.myfonts.com/collections/eb-jessica-font-erik-bertell
 - name: EF Cash Monospaced
@@ -287,6 +298,10 @@
   url: https://www.youworkforthem.com/font/T11571/ingram-mono
 - name: Igoe
   myfonts_url: https://www.myfonts.com/collections/igoe-font-linecreative
+- name: Iki Mono
+  urls:
+    - https://www.c-a-s-t.com/typefaces/iki-mono/
+    - https://www.myfonts.com/collections/iki-mono-font-cast/
 - name: Ingrid Mono
   myfonts_url: https://www.myfonts.com/collections/ingrid-mono-font-jorg-schmitt
 - name: Interstate Mono
@@ -320,11 +335,16 @@
   description: '[one weight freely available]'
 - name: Knif Mono
   url: https://aisforfonts.com/knif
+- name: Kommuna
+  url: https://type.tmpstate.net/preview/Kommuna/Normal/try/
 - name: Larabiefont
   url: https://typodermicfonts.com/larabiefont/
   description: '[paid but regular is free]'
+- name: Leif Mono
+  url: https://skriftkompani.no/typefaces/leif-mono
 - name: Lettera Mono
   url: https://lineto.com/typefaces/lettera-mono
+
 - name: Letter Gothic ES (FontSite)
   url: https://www.fontspring.com/fonts/fontsite/letter-gothic-fs
   tags:
@@ -341,6 +361,7 @@
   url: https://www.myfonts.com/collections/letter-gothic-mono-font-fontfont
   tags:
     - letter gothic
+
 - name: Lettra Mono
   url: https://pangrampangram.com/products/lettra-mono
   description: |
@@ -434,6 +455,7 @@
   notes:
     - >-
       One weight available free of cost.
+
 - name: OCR-A Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/ocr-a-std
   coding: sort of
@@ -669,6 +691,7 @@
     old-timey: true
 - name: ITC Souvenir Monospaced
   myfonts_url: https://www.myfonts.com/collections/souvenir-monospaced-font-itc
+  see_also: ITC Avant Garde Mono
 - name: Spot Mono
   url: https://www.schick-toikka.com/spot-mono
 - name: Struct Mono
@@ -700,6 +723,8 @@
   url: https://commercialtype.com/catalog/terza_editor/
 - name: The Future Mono
   url: https://www.futurefonts.xyz/klim/the-future-mono
+- name: Timezone Mono
+  url: https://haltypefaces.com/typeface/timezone
 - name: Tired of Courier
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Transcript Mono

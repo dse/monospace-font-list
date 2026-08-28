@@ -26,21 +26,7 @@ https://github.com/ouonline/ZhiMaMono
 -   Monocraft: find reguar font
 
 ```
-Kommuna                 https://fontsinuse.com/typefaces/169885/kommuna
-Timezone Mono           https://fontsinuse.com/typefaces/231817/hal-timezone-mono
-Droulers                https://fontsinuse.com/typefaces/47974/droulers
-Alfredino           ??? https://fontsinuse.com/typefaces/244164/alfredino
-CoFo Sans Mono          https://fontsinuse.com/typefaces/165828/cofo-sans-mono
-Iki Mono                https://fontsinuse.com/typefaces/125407/iki-mono
-MD IO                   https://fontsinuse.com/typefaces/188444/md-io
-Leif Mono               https://fontsinuse.com/typefaces/234340/store-norske-leif-mono
-Magi Mono               https://fontsinuse.com/typefaces/220000/store-norske-magi-mono
-Gräbenbach Mono         https://fontsinuse.com/typefaces/41564/graebenbach-mono
-Auger Mono              https://fontsinuse.com/typefaces/156847/auger-mono
-Founders Grotesk Mono   https://fontsinuse.com/typefaces/42343/founders-grotesk-mono
-Fraktion Mono           https://fontsinuse.com/typefaces/138467/fraktion-mono
 bb-book Mono            https://fontsinuse.com/typefaces/81471/bb-book-mono
-Aglet Mono              https://fontsinuse.com/typefaces/134615/aglet-mono
 Favorite                https://fontsinuse.com/typefaces/231245/ops-favorite
 Xanh Mono               https://fontsinuse.com/typefaces/233659/xanh-mono
 Grosa Mono              https://fontsinuse.com/typefaces/246083/grosa-mono
@@ -204,7 +190,6 @@ Sprig Sans Mono         https://fontsinuse.com/typefaces/232942/sprig-sans-mono
 Takt                    https://fontsinuse.com/typefaces/232254/takt
 Modena Mono             https://fontsinuse.com/typefaces/229210/ek-modena-mono
 Necto Mono              https://fontsinuse.com/typefaces/108838/necto-mono
-Magi Mono               https://fontsinuse.com/typefaces/220000/store-norske-magi-mono
 NType 82 Mono           https://fontsinuse.com/typefaces/233369/ntype-82-mono
 BC Sklonar              https://fontsinuse.com/typefaces/44107/bc-sklonar
 Nord Mono               https://fontsinuse.com/typefaces/220001/store-norske-nord-mono
@@ -236,6 +221,12 @@ Nine Mono (Hamish Muir, Paul McNeil, 2013)
 TwoBit (MuirMcNeil, 2018)
 TwoPlus (MuirMcNeil, 2016)
 Gridnik née Politene (Wim Crouwel, Olivetti, 1974)
+```
+
+NO:
+
+```
+NO: Alfredino           ??? https://fontsinuse.com/typefaces/244164/alfredino
 ```
 
 -   The Best Monospace Typefaces - Part One
@@ -279,5 +270,6 @@ Gridnik née Politene (Wim Crouwel, Olivetti, 1974)
 -   Supply
     -   https://pangrampangram.com/products/supply
 
-
+-   https://skriftkompani.no/
+    -   has a few monospace typefaces
 
