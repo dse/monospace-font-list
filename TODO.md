@@ -256,9 +256,6 @@ Gridnik née Politene (Wim Crouwel, Olivetti, 1974)
     -   PF DIN Mono
         -   https://www.parachutefonts.com/typefaces/allfonts/din-mono-pro
 
--   Index Mono
-    -   https://www.instagram.com/p/DF8BeHlRJYA/
-
 -   Supply
     -   https://pangrampangram.com/products/supply
 
