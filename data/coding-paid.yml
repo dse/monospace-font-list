@@ -11,7 +11,9 @@
   tags:
     - retro
 - name: Adelle Mono
-  url: https://www.myfonts.com/collections/adelle-mono-font-type-together
+  urls:
+    - https://www.myfonts.com/collections/adelle-mono-font-type-together
+    - https://www.type-together.com/adelle-mono-font
   date_listed: 2025-03-16
 - name: Aeroport
   url: https://www.fontspring.com/fonts/brownfox/aeroport
@@ -21,9 +23,6 @@
   url: https://lineto.com/typefaces/akkurat-mono
 - name: Adapter Mono
   url: https://rosettatype.com/AdapterMonoPE
-- name: Adelle Mono
-  url: https://www.type-together.com/adelle-mono-font
-  date_listed: 2025-03-16
 - name: Almarena Mono
   url: https://www.myfonts.com/collections/almarena-mono-font-almarena
   notes: |
