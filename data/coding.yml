@@ -134,6 +134,7 @@
     - previews/AtkinsonHyperlegibleMono/AtkinsonHyperlegibleMono-Regular.preview.png
     - previews/AtkinsonHyperlegibleMono/AtkinsonHyperlegibleMono-RegularItalic.preview.png
   gfonts_url: https://fonts.google.com/specimen/Atkinson+Hyperlegible+Mono
+  date_listed: 2025-02-13
 - name: AudioLink Mono
   url: https://audiolink.dev/
   description: and AudioLink Console
@@ -203,6 +204,7 @@
   previews:
     - previews/BrassMono/BrassMono-Regular.preview.png
     - previews/BrassMono/BrassMono-Italic.preview.png
+  date_listed: 2025-02-20
 - name: BSU-Kermit
   download_url: https://www.lowing.org/fonts/Free/BSU_Kermit.FON
   date_listed: 2025-05-31
@@ -645,12 +647,15 @@
     .FON bitmap font for use with Windows
   via: https://davidawindham.com/fonts/
   previews:
+  date_listed: 2025-03-16
 - name: HVRaster
   via: https://davidawindham.com/fonts/
   previews:
+  date_listed: 2025-03-16
 - name: HVTerminal
   via: https://davidawindham.com/fonts/
   previews:
+  date_listed: 2025-03-16
 - name: IBM3161 Font
   source_url: https://github.com/wyatt8740/IBM3161-font
   description: |
@@ -814,6 +819,7 @@
     - previews/LinuxConsoleFontsForWindows/miscfb__.preview.png
     - previews/LinuxConsoleFontsForWindows/misc-fixed.preview.png
     - previews/LinuxConsoleFontsForWindows/miscfs__.preview.png
+  date_listed: 2025-04-14
 - name: Linux Libertine
   url: https://sourceforge.net/projects/linuxlibertine/
   description: includes a mono variant
@@ -1124,6 +1130,7 @@
     a set of fonts in BDF, PCF, and .FON for X11 and Windows
   via: https://davidawindham.com/fonts/
   previews:
+  date_listed: 2025-03-16
 - name: Osaka
   download_url: https://web.archive.org/web/20060218153823/http://osakattf.hp.infoseek.co.jp:80/converted/osaka.unicode.ttf.bz2
   description: |
@@ -1393,6 +1400,7 @@
   via: https://davidawindham.com/fonts/
   previews:
     - previews/Sydnie/Sydnie_Regular.preview.png
+  date_listed: 2025-03-16
 - name: Tamsyn
   url: http://www.fial.com/~scott/tamsyn-font/
   description: bitmap-only
@@ -1422,6 +1430,7 @@
     - previews/TerminalLandMono/TerminalLandMono-Italic.preview.png
     - previews/TerminalLandMono/TerminalLandMonoSans-Regular.preview.png
     - previews/TerminalLandMono/TerminalLandMonoSans-Italic.preview.png
+  date_listed: 2025-03-16
 - name: Terminus
   url: https://terminus-font.sourceforge.net/
   previews:

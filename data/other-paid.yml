@@ -10,6 +10,7 @@
     the lowercase f; and the flourished numerals, give this typeface a
     distinct appearance, which is pleasing to the eye, especially when
     set in small point sizes.
+  date_listed: 2025-04-04
 - name: Adaptive Mono
   url: https://www.psyops.com/adaptive-mono/
   foundry: PSY/Ops
@@ -17,6 +18,7 @@
   url: https://garagefonts.com/font/adore-mono
 - name: Adverb Mono
   url: https://www.myfonts.com/collections/adverb-mono-font-rumors-foundry
+  date_listed: 2025-03-16
 - name: Aglet Mono
   url: https://xyztype.com/fonts/aglet/aglet-mono
   via: https://realdougwilson.com/writing/coding-with-character
@@ -32,6 +34,7 @@
   url: https://www.taf-studio.com/retail-fonts/antikor/
 - name: Archive Grotesk Mono (AG Mono)
   url: https://scifipoetry.de/archive-grotesk-mono/
+  date_listed: 2025-02-20
 - name: Arial Monospaced
   myfonts_url: https://www.myfonts.com/collections/arial-font-monotype-imaging
 - name: Arkibal Mono
@@ -81,6 +84,7 @@
   foundry: PSY/Ops
 - name: Bodoni Egyptian Mono
   url: https://www.myfonts.com/collections/bodoni-egyptian-mono-font-shinntype
+  date_listed: 2025-03-16
 - name: Botanika Mono
   foundry: Suitcase Type Foundry
   url: https://www.suitcasetype.com/fonts/botanika/glyphs/mono-regular
@@ -95,6 +99,7 @@
   date_listed: 2026-08-27
 - name: Caleb Mono
   url: https://www.myfonts.com/collections/caleb-mono-font-brenners-template
+  date_listed: 2025-03-16
 - name: Capibara Mono
   url: https://www.boldmonday.com/typeface/capibara/
 - name: Centima Mono
@@ -104,6 +109,7 @@
   myfonts_url: https://www.myfonts.com/products/century-schoolbook-monospaced-10058-century-schoolbook-435037
 - name: Chromatic Mono
   url: https://www.colophon-foundry.org/typefaces/chromatic-mono
+  date_listed: 2025-02-20
 - name: CMM Coda
   urls:
     "fontsinuse.com": "https://fontsinuse.com/typefaces/239918/cmm-coda"
@@ -149,6 +155,7 @@
   url: https://www.fontspring.com/fonts/paratype/courier
   tags:
     - courier
+  date_listed: 2025-03-16
 - name: Courier Sans Mono
   url: https://lineto.com/typefaces/courier-sans-mono
   descr: from Lineto.
@@ -158,16 +165,22 @@
   url: https://www.fontspring.com/fonts/adobe/courier-std
   tags:
     - courier
+  date_listed: 2025-03-16
 - name: Courier New OS (Monotype)
   url: https://www.myfonts.com/collections/courier-new-font-monotype-imaging
+  date_listed: 2025-03-16
 - name: Courier 10 Pitch WGL (Bitstream)
   url: https://www.myfonts.com/collections/courier-10-pitch-wgl4-inactive-font-bitstream
+  date_listed: 2025-03-16
 - name: Monotype Courier 12
   url: https://www.myfonts.com/collections/courier-twelve-mt-font-monotype-imaging
+  date_listed: 2025-03-16
 - name: Fontcraft Courier (Scriptorium)
   url: https://www.myfonts.com/collections/fontcraft-courier-font-scriptorium
+  date_listed: 2025-03-16
 - name: Courier LT Round (Linotype)
   url: https://www.myfonts.com/collections/courier-lt-round-font-linotype
+  date_listed: 2025-03-16
 - name: Cumberland
   myfonts_url: https://www.myfonts.com/collections/cumberland-font-monotype-imaging
 - name: Cygnito Mono
@@ -214,6 +227,7 @@
   notes: |
     Free for personal use.
   via: https://davidawindham.com/fonts/ (indirectly)
+  date_listed: 2025-03-16
 - name: Euclid Mono
   url: https://www.swisstypefaces.com/lab/#Euclid%20Mono
 - name: Excellent
@@ -249,10 +263,12 @@
   myfonts_url: https://www.myfonts.com/collections/ff-typestar-ocr-font-fontfont
 - name: Formular
   url: https://www.fontspring.com/fonts/brownfox/formular
+  date_listed: 2025-03-16
 - name: Foundation Mono (Courier)
   url: https://www.fontspring.com/fonts/fontsite/foundation-mono
   tags:
     - courier
+  date_listed: 2025-03-16
 - name: Founders Grotesk Mono
   url: https://klim.co.nz/retail-fonts/founders-grotesk-mono/
 - name: Functor Mono
@@ -271,8 +287,10 @@
   url: https://www.colophon-foundry.org/typefaces/garton
 - name: Geigi Mono
   url: https://lineto.com/typefaces/geigy-mono
+  date_listed: 2025-03-16
 - name: Generisch Mono
   url: https://www.fontspring.com/fonts/akufadhl/generisch-mono
+  date_listed: 2025-03-16
 - name: Gemeli Mono
   url: https://productiontype.com/font/gemeli/gemeli-mono
 - name: Greenwood
@@ -283,8 +301,10 @@
   url: https://rosettatype.com/GridlitePE
 - name: Guida Mono
   url: https://www.colophon-foundry.org/typefaces/guida-mono
+  date_listed: 2025-02-20
 - name: Harmonia Sans Mono
   url: https://www.myfonts.com/products/harmonia-sans-mono-pack-package-431585
+  date_listed: 2025-03-16
 - name: HeartMatrixed
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Heimat Mono
@@ -336,6 +356,7 @@
   myfonts_url: https://www.myfonts.com/collections/jornada-mono-font-monotype-imaging
 - name: Joystix (video game)
   url: https://www.fontspring.com/fonts/typodermic/joystix
+  date_listed: 2025-03-16
 - name: Karben 105 Mono
   myfonts_url: https://www.myfonts.com/collections/karben-105-mono-font-talbot-type
 - name: Karben 205 Mono
@@ -365,18 +386,22 @@
   url: https://www.fontspring.com/fonts/fontsite/letter-gothic-fs
   tags:
     - letter gothic
+  date_listed: 2025-03-16
 - name: Letter Gothic Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/letter-gothic-std
   tags:
     - letter gothic
+  date_listed: 2025-03-16
 - name: Letter Gothic 12 Pitch (Bitstream)
   url: https://www.myfonts.com/collections/letter-gothic-font-bitstream
   tags:
     - letter gothic
+  date_listed: 2025-03-16
 - name: FF Letter Gothic Mono
   url: https://www.myfonts.com/collections/letter-gothic-mono-font-fontfont
   tags:
     - letter gothic
+  date_listed: 2025-03-16
 
 - name: Lettra Mono
   url: https://pangrampangram.com/products/lettra-mono
@@ -401,6 +426,7 @@
   myfonts_url: https://www.myfonts.com/collections/ltc-remington-typewriter-font-lanston-type-company
 - name: Lucida Sans Typewriter (Monotype)
   url: https://www.myfonts.com/collections/lucida-sans-typewriter-font-monotype-imaging
+  date_listed: 2025-03-16
 - name: Mabry Mono
   url: https://www.colophon-foundry.org/typefaces/mabry-mono/proofer
 - name: Maison Mono
@@ -425,15 +451,18 @@
   myfonts_url: https://www.myfonts.com/collections/monoela-font-interfont
 - name: Monofonto
   url: https://www.fontspring.com/fonts/typodermic/monofonto
+  date_listed: 2025-03-16
 - name: Monoist
   url: https://hanken.co/products/monoist
   description: '[paid but CHEAP]'
 - name: Monoska
   url: https://www.myfonts.com/collections/monoska-font-atk-studio
+  date_listed: 2025-03-16
 - name: Monosten
   url: https://www.colophon-foundry.org/typefaces/monosten
 - name: Monosten Stencil
   url: https://www.colophon-foundry.org/typefaces/monosten-stencil
+  date_listed: 2025-02-20
 - name: Monostep
   myfonts_url: https://www.myfonts.com/collections/monostep-font-yokkmokk?srsltid=AfmBOoqno5fgZH1DJ4LtsgSkZpVWq9gatAHeaurM7x4If7sG4OoDpGsl
   description: '[paid but at least one weight available free]'
@@ -464,6 +493,7 @@
   myfonts_url: https://www.myfonts.com/collections/nice-weekend-font-garagefonts
 - name: URW Nimbus Sans Novus
   url: https://www.fontspring.com/fonts/urw-type-foundry/urw-nimbus-sans-novus
+  date_listed: 2025-03-16
 - name: Nitti
   url: https://www.boldmonday.com/typeface/nitti/
 - name: NorB Typewriter
@@ -481,85 +511,100 @@
   coding: sort of
   tags:
     - ocr-a
+  date_listed: 2025-03-16
 - name: OCR-A (SoftMaker)
   url: https://www.fontspring.com/fonts/softmaker/ocr-a
   coding: sort of
   tags:
     - ocr-a
+  date_listed: 2025-03-16
 - name: OCR-A EF (Elsner+Flake)
   url: https://www.myfonts.com/collections/ocra-font-elsner-flake
   tags:
     - ocr-a
+  date_listed: 2025-03-16
 - name: OCR-A (FontSite)
   url: https://www.fontspring.com/fonts/fontsite/ocr-a
   coding: sort of
   tags:
     - ocr-a
+  date_listed: 2025-03-16
 - name: OCR-A (Bitstream)
   url: https://www.myfonts.com/collections/ocr-a-font-bitstream
   tags:
     - ocr-a
+  date_listed: 2025-03-16
 - name: OCR-A M (URW)
   url: https://www.myfonts.com/collections/ocra-font-urw
   tags:
     - ocr-a
+  date_listed: 2025-03-16
 - name: OCR-A Extended (Monotype)
   url: https://www.myfonts.com/collections/ocr-a-extended-font-monotype-imaging
   tags:
     - ocr-a
+  date_listed: 2025-03-16
 - name: OCR-A (Linotype)
   url: https://www.myfonts.com/collections/ocr-a-inactive-font-linotype
   tags:
     - ocr-a
+  date_listed: 2025-03-16
 - name: OCR-A EF Pro (Elsner+Flake)
   url: https://www.myfonts.com/collections/ocr-a-ef-pro-font-elsner-flake
   tags:
     - ocr-a
+  date_listed: 2025-03-16
 - name: OCR-A AI (Apply Interactive)
   url: https://www.myfonts.com/collections/ocr-a-ai-font-apply-interactive
   tags:
     - ocr-a
+  date_listed: 2025-03-16
 - name: OCR-A Tribute Monospaced
   url: https://www.myfonts.com/collections/ocr-a-tribute-font-linotype
   notes: |
     Entire family contains three monospaces and three proportionals
+  date_listed: 2025-03-16
 - name: OCR-B Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/ocr-b-std
   coding: sort of
   tags:
     - ocr-b
-- name: OCR-B Std (Adobe)
-  url: https://www.fontspring.com/fonts/adobe/ocr-b-std
-  tags:
-    - ocr-b
+  date_listed: 2025-03-16
 - name: OCR-B (Bitstream)
   url: https://www.myfonts.com/collections/ocr-b-font-bitstream
   tags:
     - ocr-b
+  date_listed: 2025-03-16
 - name: OCR-B (Linotype)
   url: https://www.myfonts.com/collections/ocr-b-2-font-linotype
   tags:
     - ocr-b
+  date_listed: 2025-03-16
 - name: OCR-B SB (Scangraphic Digital)
   url: https://www.myfonts.com/collections/ocr-b-sb-font-scangraphic-digital-type-collection
   tags:
     - ocr-b
+  date_listed: 2025-03-16
 - name: OCR-B Letterpress M (URW)
   url: https://www.myfonts.com/collections/ocr-b-letterpress-font-urw
   tags:
     - ocr-b
+  date_listed: 2025-03-16
 - name: OCR-B (Tilde)
   url: https://www.myfonts.com/collections/ocr-b-10-font-tilde
   tags:
     - ocr-b
+  date_listed: 2025-03-16
 - name: OCR-B EF (Elsner+Flake)
   url: https://www.myfonts.com/collections/ocr-b-font-elsner-flake
   tags:
     - ocr-b
+  date_listed: 2025-03-16
 - name: OCRJ
   myfonts_url: https://www.myfonts.com/collections/ocrj-font-test-pilot-collective
 - name: OCRK
   myfonts_url: https://www.myfonts.com/collections/ocrk-font-test-pilot-collective
+  date_listed: 2025-03-16
 - name: Odisseia
   myfonts_url: https://www.myfonts.com/collections/odisseia-font-niramekko
 - name: Olive Green Mono
@@ -578,18 +623,22 @@
   url: https://www.myfonts.com/products/10-pitch-orator-434431
   tags:
     - orator
+  date_listed: 2025-03-16
 - name: Orator 15 Pitch (Bitstream)
   url: https://www.myfonts.com/products/15-pitch-orator-434436
   tags:
     - orator
+  date_listed: 2025-03-16
 - name: Orator FS (FontSite)
   url: https://www.fontspring.com/fonts/fontsite/orator-fs
   tags:
     - orator
+  date_listed: 2025-03-16
 - name: Orator Std (Adobe)
   url: https://www.fontspring.com/fonts/adobe/orator-std
   tags:
     - orator
+  date_listed: 2025-03-16
 - name: Panama Monospace
   url: https://www.featuredtype.com/typefaces/panama
 - name: Panoptica
@@ -600,6 +649,7 @@
   url: https://www.colophon-foundry.org/typefaces/perfin
   description: |
     perforated lettering style
+  date_listed: 2025-02-20
 - name: PF Das Grot Mono
   url: https://parachutefonts.com/typeface/Das-Grot-Mono
 - name: PF DIN Monospaced
@@ -617,22 +667,27 @@
   url: https://www.fontspring.com/fonts/adobe/prestige-elite-std
   tags:
     - prestige
+  date_listed: 2025-03-16
 - name: Prestige 12 (Tilde)
   url: https://www.myfonts.com/collections/prestige-12-font-tilde
   tags:
     - prestige
+  date_listed: 2025-03-16
 - name: Prestige 12 Pitch (Bitstream)
   url: https://www.myfonts.com/collections/prestige-12-pitch-font-bitstream
   tags:
     - prestige
+  date_listed: 2025-03-16
 - name: Prestige Elite M (URW)
   url: https://www.myfonts.com/collections/prestige-elite-font-urw
   tags:
     - prestige
+  date_listed: 2025-03-16
 - name: Prestige Elite (Linotype)
   url: https://www.myfonts.com/collections/prestige-elite-font-linotype
   tags:
     - prestige
+  date_listed: 2025-03-16
 - name: Prima Sans Mono
   foundry: Bitstream
   myfonts_url: https://www.myfonts.com/collections/prima-sans-monospace-font-bitstream
@@ -640,6 +695,7 @@
   url: https://www.myfonts.com/collections/printf-font-typodermic
   notes: |
     chainprinter vibes; a bit grungy
+  date_listed: 2025-03-16
 - name: PTL Manual Mono
   myfonts_url: https://www.myfonts.com/collections/manual-mono-font-primetype
   foundry: Primetype
@@ -652,6 +708,7 @@
   description: '[paid but [demos](https://www.myfonts.com/collections/rational-tw-font-rene-bieder?tab=individualStyles) available]'
 - name: Realtime Rounded
   url: https://www.fontspring.com/fonts/juri-zaech/realtime-rounded
+  date_listed: 2025-03-16
 - name: Recipient
   url: https://processtypefoundry.com/fonts/recipient/
 - name: Relative Mono
@@ -723,10 +780,13 @@
   description: includes a monospace variant
 - name: TT Commons Pro Mono
   url: https://www.myfonts.com/products/tt-commonstm-pro-mono-package-package-930341
+  date_listed: 2025-03-16
 - name: TT Hoves Pro Mono
   url: https://www.myfonts.com/products/tt-hoves-pro-mono-package-package-957657
+  date_listed: 2025-03-16
 - name: TT Norms Pro
   url: https://www.fontspring.com/fonts/typetype/tt-norms-pro
+  date_listed: 2025-03-16
 - name: Tabulamore Script
   url: https://tosche.net/fonts/tabulamore-script
 - name: Teamhair
@@ -739,6 +799,7 @@
   url: https://www.myfonts.com/collections/terminax-font-monotype-imaging
   notes: |
     lower case letters are substituted for small caps
+  date_listed: 2025-03-16
 - name: Tezra Editor
   url: https://commercialtype.com/catalog/terza_editor/
 - name: The Future Mono
@@ -750,6 +811,7 @@
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Transcript Mono
   url: https://www.colophon-foundry.org/typefaces/transcript-mono
+  date_listed: 2025-02-20
 - name: Typewalk Mono 1915
   myfonts_url: https://www.myfonts.com/collections/typewalk-mono-1915-font-typocalypse
 - name: Typewriter Spool
@@ -758,6 +820,7 @@
     - >-
       CLN (clean), SFT (mildly grungy), and XRX (normal amount of grungy)
       varieties are available.
+  date_listed: 2025-01-29
 - name: Typist Slab Mono
   myfonts_url: https://www.myfonts.com/collections/typist-slab-font-vanderkeur
   description: '[old-ish]'
@@ -777,9 +840,11 @@
   secondary_url: https://legacy.lineto.com/The+Fonts/Font+Categories/Monospaced+Fonts/Valentine/
 - name: Velos Mono
   url: https://scifipoetry.de/velos-mono/
+  date_listed: 2025-02-20
 - name: Vida Mono32 Pro
   url: https://www.stormtype.com/families/vida
   via: https://davidawindham.com/fonts/ (indirectly)
+  date_listed: 2025-03-16
 - name: Vidilex
   myfonts_url: https://www.myfonts.com/collections/vidilex-font-scriptorium
 - name: Vin Mono Pro
@@ -798,3 +863,4 @@
 - name: Zeppelin 32 Mono
   url: https://www.stormtype.com/typefaces/4151
   via: https://davidawindham.com/fonts/ (indirectly)
+  date_listed: 2025-03-16

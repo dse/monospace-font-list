@@ -173,6 +173,7 @@
 - name: Isonorm Monospaced
   url: https://fontsgeek.com/fonts/Isonorm-Monospaced-Regular
   via: https://davidawindham.com/fonts/
+  date_listed: 2025-03-16
 - name: KP Monospaced
   url: https://tug.org/FontCatalogue/kpmonospaced/
 - name: Kawkab Mono
@@ -192,6 +193,7 @@
     PostScript Type 1 font
   tags:
     - letter gothic
+  date_listed: 2025-03-16
 - name: Libertinus Mono
   gfonts_url: https://fonts.google.com/specimen/Libertinus+Mono
 - name: Linux Libertine Mono
@@ -380,6 +382,7 @@
   description: |-
     Primarily a more realistic "grungy" typeface, but
     has a clean variant.
+  date_listed: 2025-03-16
 - name: Tye Paloon
   url: https://online-fonts.com/fonts/tye-paloon
   description: '[display]'
