@@ -1,4 +1,4 @@
-91 typefaces listed here.
+92 typefaces listed here.
 
 -   [0Arame Mono](https://www.fontspring.com/fonts/hitype/0arame-mono)
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
@@ -59,7 +59,7 @@
 -   [Fraktion Mono](https://pangrampangram.com/products/fraktion-mono)
 -   [GT Maru Mono](https://www.gt-maru.com/#monospaced)
 -   [Gintronic](https://markfromberg.com/projects/gintronic)
--   [Graebenbach](https://camelot-typefaces.com/graebenbach-mono)
+-   [Graebenbach Mono](https://camelot-typefaces.com/graebenbach-mono)
 -   [Gravitica Mono](https://www.myfonts.com/collections/gravitica-mono-font-ckhans-fonts)
 -   [Grotesk Remix Monospace](https://www.myfonts.com/collections/grotesk-remix-monospace-font-benbenworld)
 -   [Inklination Mono](https://www.myfonts.com/collections/inklination-font-emtype-foundry)
@@ -75,6 +75,7 @@
 -   [Lucida Grande Mono](https://www.myfonts.com/collections/lucida-grande-mono-w1-g-font-monotype-imaging)
 -   [MD IO](https://mass-driver.com/typefaces/md-io/)
 -   [MD System Mono](https://mass-driver.com/typefaces/md-system/)
+-   [Magi Mono](https://skriftkompani.no/typefaces/magi-mono)
 -   [Matahari Sans](https://www.fontspring.com/fonts/studio-sun/matahari-sans)
 -   [Matter Mono](https://displaay.net/typeface/matter-collection/matter-mono/)
 -   [Mingray Mono](https://www.fontspring.com/fonts/rekord/mingray-mono)

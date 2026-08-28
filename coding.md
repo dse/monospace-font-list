@@ -260,8 +260,8 @@
     -   Previews:
         -   D2Coding<br>
             ![previews/D2Coding/D2Coding.preview.png](previews/D2Coding/D2Coding.preview.png)
--   [DM Mono](https://fonts.google.com/specimen/DM+Mono)
-    -   [SOURCE](https://github.com/googlefonts/dm-mono)
+-   [DM Mono](https://github.com/googlefonts/dm-mono)
+    -   [fonts.google.com](https://fonts.google.com/specimen/DM+Mono)
 -   [DaddyTimeMono](https://github.com/BourgeoisBear/DaddyTimeMono)
     -   Previews:
         -   DaddyTimeMono<br>
@@ -372,8 +372,8 @@
     -   Previews:
         -   FifteenNarrow<br>
             ![previews/Fifteen/FifteenNarrow.preview.png](previews/Fifteen/FifteenNarrow.preview.png)
--   [Fira Code](https://fonts.google.com/specimen/Fira+Code)
-    -   [SOURCE](https://github.com/tonsky/FiraCode)
+-   [Fira Code](https://github.com/tonsky/FiraCode)
+    -   [fonts.google.com](https://fonts.google.com/specimen/Fira+Code)
     -   Previews:
         -   FiraCode-Regular<br>
             ![previews/FiraCode/FiraCode-Regular.preview.png](previews/FiraCode/FiraCode-Regular.preview.png)
@@ -389,8 +389,8 @@
             ![previews/FiraFlott/FiraFlott_FiraCode_Medium.preview.png](previews/FiraFlott/FiraFlott_FiraCode_Medium.preview.png)
         -   FiraFlott_FlottFlott_Italic<br>
             ![previews/FiraFlott/FiraFlott_FlottFlott_Italic.preview.png](previews/FiraFlott/FiraFlott_FlottFlott_Italic.preview.png)
--   [Fira Mono](https://fonts.google.com/specimen/Fira+Mono)
-    -   [SOURCE](https://github.com/mozilla/Fira)
+-   [Fira Mono](https://github.com/mozilla/Fira)
+    -   [fonts.google.com](https://fonts.google.com/specimen/Fira+Mono)
     -   Previews:
         -   FiraMono-Regular<br>
             ![previews/FiraMono/FiraMono-Regular.preview.png](previews/FiraMono/FiraMono-Regular.preview.png)
@@ -462,13 +462,13 @@
             ![previews/Gohu/koemadea-gohufont-uni-11.preview.png](previews/Gohu/koemadea-gohufont-uni-11.preview.png)
         -   koemadea-gohufont-uni-14<br>
             ![previews/Gohu/koemadea-gohufont-uni-14.preview.png](previews/Gohu/koemadea-gohufont-uni-14.preview.png)
--   [Coogle Sans Code](https://github.com/googlefonts/googlesans-code)
+-   [Google Sans Code](https://github.com/googlefonts/googlesans-code)
     -   Notes:
         -   based on Google Sans Mono, which see.
     -   [fonts.google.com](https://fonts.google.com/specimen/Google+Sans+Code)
     -   [github.com](https://github.com/googlefonts/googlesans-code)
--   [Google Sans Mono](https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/)
-    -   [SOURCE](https://github.com/mehant-kr/Google-Sans-Mono)
+-   [Google Sans Mono](https://github.com/mehant-kr/Google-Sans-Mono)
+    -   [via](https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/)
     -   Previews:
         -   Google-Sans-Mono-Regular<br>
             ![previews/GoogleSansMono/Google-Sans-Mono-Regular.preview.png](previews/GoogleSansMono/Google-Sans-Mono-Regular.preview.png)
@@ -624,8 +624,8 @@
     -   Previews:
         -   LeagueMono-Regular<br>
             ![previews/LeagueMono/LeagueMono-Regular.preview.png](previews/LeagueMono/LeagueMono-Regular.preview.png)
--   [Lekton Code](https://fontlibrary.org/en/font/lektoncode)
-    -   [fonts.google.com](https://fonts.google.com/specimen/Lekton)
+-   [Lekton Code](https://fonts.google.com/specimen/Lekton)
+    -   [fontlibrary.org](https://fontlibrary.org/en/font/lektoncode)
     -   Previews:
         -   LektonCode-Regular<br>
             ![previews/LektonCode/LektonCode-Regular.preview.png](previews/LektonCode/LektonCode-Regular.preview.png)
@@ -868,8 +868,8 @@
             ![previews/MonteCarlo/gonzalez-MonteCarloFixed12.preview.png](previews/MonteCarlo/gonzalez-MonteCarloFixed12.preview.png)
 -   [Myna Mono](https://github.com/sayyadirfanali/Myna)
     -   [github.com](https://github.com/sayyadirfanali/Myna)
--   [Nanum Gothic Coding](https://github.com/emersion/nanum-gothic-coding)
-    -   [fonts.google.com](https://fonts.google.com/specimen/Nanum+Gothic+Coding)
+-   [Nanum Gothic Coding](https://fonts.google.com/specimen/Nanum+Gothic+Coding)
+    -   [SOURCE](https://github.com/emersion/nanum-gothic-coding)
     -   Previews:
         -   NanumGothicCoding-Regular<br>
             ![previews/NanumGothicCoding/NanumGothicCoding-Regular.preview.png](previews/NanumGothicCoding/NanumGothicCoding-Regular.preview.png)
@@ -924,8 +924,8 @@
             ![previews/OCRAExtended/OCR_A_Extended_Regular.preview.png](previews/OCRAExtended/OCR_A_Extended_Regular.preview.png)
         -   ocraext<br>
             ![previews/OCRAExtended/ocraext.preview.png](previews/OCRAExtended/ocraext.preview.png)
--   [Office Code Pro](https://github.com/nathco/Office-Code-Pro)
-    -   [fonts.google.com](https://fonts.google.com/specimen/Source+Code+Pro)
+-   [Office Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
+    -   [SOURCE](https://github.com/nathco/Office-Code-Pro)
     -   Variants:
         -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
             -   derived from Source Code Pro and Noto Sans JP.
@@ -1077,8 +1077,8 @@
         -   RedHatMono-Italic<br>
             ![previews/RedHatMono/RedHatMono-Italic.preview.png](previews/RedHatMono/RedHatMono-Italic.preview.png)
 -   [retro fonts](http://www.modelb.bbcmicro.com/retro-fonts.html)
--   [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
-    -   [SOURCE](https://github.com/googlefonts/roboto)
+-   [Roboto Mono](https://github.com/googlefonts/roboto)
+    -   [fonts.google.com](https://fonts.google.com/specimen/Roboto+Mono)
     -   Previews:
         -   RobotoMono-Regular<br>
             ![previews/RobotoMono/RobotoMono-Regular.preview.png](previews/RobotoMono/RobotoMono-Regular.preview.png)
@@ -1271,8 +1271,7 @@
         -   UbuntuMono-RI<br>
             ![previews/UbuntuMonospace/UbuntuMono-RI.preview.png](previews/UbuntuMonospace/UbuntuMono-RI.preview.png)
 -   [Ubuntu Sans Mono](https://fonts.google.com/specimen/Ubuntu+Sans+Mono)
--   [Uiua386](https://github.com/uiua-lang/uiua/tree/main/src/assets)
-    -   [DOWNLOAD](https://github.com/uiua-lang/uiua/raw/refs/heads/main/src/assets/Uiua386.ttf)
+-   [Uiua386](https://github.com/uiua-lang/uiua/raw/refs/heads/main/src/assets/Uiua386.ttf)
     -   [github.com](https://github.com/uiua-lang/uiua/tree/main/src/assets)
 -   [Uiua386 Color](https://github.com/jonathanperret/uiua386color)
     -   [github.com](https://github.com/jonathanperret/uiua386color)
@@ -1349,7 +1348,7 @@
 
 ## Paid
 
-91 typefaces listed here.
+92 typefaces listed here.
 
 -   [0Arame Mono](https://www.fontspring.com/fonts/hitype/0arame-mono)
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
@@ -1410,7 +1409,7 @@
 -   [Fraktion Mono](https://pangrampangram.com/products/fraktion-mono)
 -   [GT Maru Mono](https://www.gt-maru.com/#monospaced)
 -   [Gintronic](https://markfromberg.com/projects/gintronic)
--   [Graebenbach](https://camelot-typefaces.com/graebenbach-mono)
+-   [Graebenbach Mono](https://camelot-typefaces.com/graebenbach-mono)
 -   [Gravitica Mono](https://www.myfonts.com/collections/gravitica-mono-font-ckhans-fonts)
 -   [Grotesk Remix Monospace](https://www.myfonts.com/collections/grotesk-remix-monospace-font-benbenworld)
 -   [Inklination Mono](https://www.myfonts.com/collections/inklination-font-emtype-foundry)
@@ -1426,6 +1425,7 @@
 -   [Lucida Grande Mono](https://www.myfonts.com/collections/lucida-grande-mono-w1-g-font-monotype-imaging)
 -   [MD IO](https://mass-driver.com/typefaces/md-io/)
 -   [MD System Mono](https://mass-driver.com/typefaces/md-system/)
+-   [Magi Mono](https://skriftkompani.no/typefaces/magi-mono)
 -   [Matahari Sans](https://www.fontspring.com/fonts/studio-sun/matahari-sans)
 -   [Matter Mono](https://displaay.net/typeface/matter-collection/matter-mono/)
 -   [Mingray Mono](https://www.fontspring.com/fonts/rekord/mingray-mono)

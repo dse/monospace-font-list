@@ -1,4 +1,4 @@
-270 typefaces listed here.
+279 typefaces listed here.
 
 -   [8 Point Lining Typewriter No. 1](https://a2-type.co.uk/8-point-lining-typewriter-no-1)
     -   Notes:
@@ -30,6 +30,7 @@
 -   [Ascender Sans Mono](https://www.myfonts.com/collections/ascender-sans-mono-font-ascender-corp)
 -   [Asty Monospaced](https://www.fonts.gr/fonts/asty-monospaced)
 -   [Atlas Typewriter](https://commercialtype.com/catalog/atlas_typewriter)
+-   [Auger Mono](https://signalfoundry.com/typefaces/auger-mono)
 -   [ITC Avant Garde Mono](https://www.fonts4ever.com/product_info.php?products_id=592&set=0)
 -   [Base Monospace](https://www.emigre.com/Fonts/Base-Monospace)
 -   [Basis Grotesque Mono](https://www.colophon-foundry.org/typefaces/basis-grotesque-mono)
@@ -43,6 +44,7 @@
 -   [Bradford Mono](https://lineto.com/typefaces/bradford-mono)
 -   [Brown Mono](https://lineto.com/typefaces/brown-mono)
 -   [Bodoni Egyptian Mono](https://shinntype.com/bodoni-egyptian/)
+-   [Cake Mono](https://store.typenetwork.com/foundry/caketype/fonts/cake-mono)
 -   [Caleb Mono](https://www.myfonts.com/collections/caleb-mono-font-brenners-template)
 -   [Capibara Mono](https://www.boldmonday.com/typeface/capibara/)
 -   [Centima Mono](http://www.tipografiaramis.com/centima-mono.html)
@@ -51,6 +53,7 @@
 -   [CMM Coda](https://commatype.com/cmm-coda/)
     -   [fontsinuse.com](https://fontsinuse.com/typefaces/239918/cmm-coda)
 -   [Codo Mono](https://wearecolt.com/product/codo-mono/)
+-   [CoFo Sans Mono](https://contrastfoundry.com/typeface/cofo-sans-mono)
 -   [Colón Mono](http://www.tipografiaramis.com/coloacuten-mono.html)
 -   [Concursico Mono BTN](https://www.youworkforthem.com/font/19425/concursico-mono-btn)
 -   [Coordinates](https://processtypefoundry.com/fonts/coordinates/)
@@ -86,6 +89,7 @@
 -   [Dossier](https://tosche.net/fonts/dossier)
 -   [Dottie](http://ingrimayne.com/fonts2/typewriter.htm)
     -   [myfonts.com](https://www.myfonts.com/collections/dottie-font-ingrimayne-type)
+-   [Droulers](https://bureaubrut.com/family/droulers)
 -   [EB Jessica](https://www.myfonts.com/collections/eb-jessica-font-erik-bertell)
 -   [EF Cash Monospaced](https://www.myfonts.com/collections/cash-monospaced-font-elsner-flake)
 -   [EF Techno Script](https://www.myfonts.com/collections/techno-script-ef-font-elsner-flake)
@@ -133,6 +137,10 @@
 -   [Hyperfont](https://en.wikipedia.org/wiki/HyperFont)
 -   [Ingram Mono](https://www.youworkforthem.com/font/T11571/ingram-mono)
 -   [Igoe](https://www.myfonts.com/collections/igoe-font-linecreative)
+-   [Iki Mono](https://www.c-a-s-t.com/typefaces/iki-mono/)
+    -   [www.myfonts.com](https://www.myfonts.com/collections/iki-mono-font-cast/)
+-   [Index Mono](https://www.oldcitymailroom.com/index-mono)
+    -   [www.instagram.com](https://www.instagram.com/p/DF8BeHlRJYA)
 -   [Ingrid Mono](https://www.myfonts.com/collections/ingrid-mono-font-jorg-schmitt)
 -   [Interstate Mono](https://fonts.adobe.com/fonts/interstate-mono)
 -   [Intimo](https://www.myfonts.com/collections/intimo-font-alias-collection)
@@ -149,7 +157,9 @@
 -   [Kettler](https://processtypefoundry.com/fonts/kettler/)
 -   [Klartext Mono](https://www.myfonts.com/collections/klartext-mono-font-fonts-with-love)
 -   [Knif Mono](https://aisforfonts.com/knif)
+-   [Kommuna](https://type.tmpstate.net/preview/Kommuna/Normal/try/)
 -   [Larabiefont](https://typodermicfonts.com/larabiefont/)
+-   [Leif Mono](https://skriftkompani.no/typefaces/leif-mono)
 -   [Lettera Mono](https://lineto.com/typefaces/lettera-mono)
 -   [Letter Gothic ES (FontSite)](https://www.fontspring.com/fonts/fontsite/letter-gothic-fs)
 -   [Letter Gothic Std (Adobe)](https://www.fontspring.com/fonts/adobe/letter-gothic-std)
@@ -298,6 +308,7 @@
         -   lower case letters are substituted for small caps
 -   [Tezra Editor](https://commercialtype.com/catalog/terza_editor/)
 -   [The Future Mono](https://www.futurefonts.xyz/klim/the-future-mono)
+-   [Timezone Mono](https://haltypefaces.com/typeface/timezone)
 -   [Tired of Courier](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Transcript Mono](https://www.colophon-foundry.org/typefaces/transcript-mono)
 -   [Typewalk Mono 1915](https://www.myfonts.com/collections/typewalk-mono-1915-font-typocalypse)
