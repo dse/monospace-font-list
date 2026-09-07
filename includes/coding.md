@@ -166,9 +166,9 @@
 -   [Cascadia Code](https://fonts.google.com/specimen/Cascadia+Code)
     -   [SOURCE](https://github.com/microsoft/cascadia-code)
 -   [Cascadia Mono](https://fonts.google.com/specimen/Cascadia+Mono)
--   [Chivo Mono](https://fonts.google.com/specimen/Chivo+Mono)
+-   [Chivo Mono](https://github.com/Omnibus-Type/Chivo)
     you probably want the Nerd Font linked from therein.
-    -   [SOURCE](https://github.com/Omnibus-Type/Chivo)
+    -   [fonts.google.com](https://fonts.google.com/specimen/Chivo+Mono)
     -   Previews:
         -   ChivoMono-Regular<br>
             ![previews/ChivoMono/ChivoMono-Regular.preview.png](previews/ChivoMono/ChivoMono-Regular.preview.png)
@@ -619,8 +619,8 @@
     -   Previews:
         -   LeagueMono-Regular<br>
             ![previews/LeagueMono/LeagueMono-Regular.preview.png](previews/LeagueMono/LeagueMono-Regular.preview.png)
--   [Lekton Code](https://fonts.google.com/specimen/Lekton)
-    -   [fontlibrary.org](https://fontlibrary.org/en/font/lektoncode)
+-   [Lekton Code](https://fontlibrary.org/en/font/lektoncode)
+    -   [fonts.google.com](https://fonts.google.com/specimen/Lekton)
     -   Previews:
         -   LektonCode-Regular<br>
             ![previews/LektonCode/LektonCode-Regular.preview.png](previews/LektonCode/LektonCode-Regular.preview.png)
@@ -863,8 +863,8 @@
             ![previews/MonteCarlo/gonzalez-MonteCarloFixed12.preview.png](previews/MonteCarlo/gonzalez-MonteCarloFixed12.preview.png)
 -   [Myna Mono](https://github.com/sayyadirfanali/Myna)
     -   [github.com](https://github.com/sayyadirfanali/Myna)
--   [Nanum Gothic Coding](https://fonts.google.com/specimen/Nanum+Gothic+Coding)
-    -   [SOURCE](https://github.com/emersion/nanum-gothic-coding)
+-   [Nanum Gothic Coding](https://github.com/emersion/nanum-gothic-coding)
+    -   [fonts.google.com](https://fonts.google.com/specimen/Nanum+Gothic+Coding)
     -   Previews:
         -   NanumGothicCoding-Regular<br>
             ![previews/NanumGothicCoding/NanumGothicCoding-Regular.preview.png](previews/NanumGothicCoding/NanumGothicCoding-Regular.preview.png)
@@ -1176,8 +1176,8 @@
             ![previews/Sudo/SudoUI-Regular.preview.png](previews/Sudo/SudoUI-Regular.preview.png)
         -   SudoUI-Italic<br>
             ![previews/Sudo/SudoUI-Italic.preview.png](previews/Sudo/SudoUI-Italic.preview.png)
--   [Sun Gallant Demi](https://github.com/dim13/gallant)
-    -   [DOWNLOAD](https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf)
+-   [Sun Gallant Demi](https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf)
+    -   [SOURCE](https://github.com/dim13/gallant)
     -   Previews:
         -   gallant12x22<br>
             ![previews/SunGallantDemi/gallant12x22.preview.png](previews/SunGallantDemi/gallant12x22.preview.png)
@@ -1266,8 +1266,7 @@
         -   UbuntuMono-RI<br>
             ![previews/UbuntuMonospace/UbuntuMono-RI.preview.png](previews/UbuntuMonospace/UbuntuMono-RI.preview.png)
 -   [Ubuntu Sans Mono](https://fonts.google.com/specimen/Ubuntu+Sans+Mono)
--   [Uiua386](https://github.com/uiua-lang/uiua/tree/main/src/assets)
-    -   [DOWNLOAD](https://github.com/uiua-lang/uiua/raw/refs/heads/main/src/assets/Uiua386.ttf)
+-   [Uiua386](https://github.com/uiua-lang/uiua/raw/refs/heads/main/src/assets/Uiua386.ttf)
     -   [github.com](https://github.com/uiua-lang/uiua/tree/main/src/assets)
 -   [Uiua386 Color](https://github.com/jonathanperret/uiua386color)
     -   [github.com](https://github.com/jonathanperret/uiua386color)
@@ -1301,15 +1300,15 @@
     -   Previews:
         -   VerilySerifMono<br>
             ![previews/VerilySerifMono/VerilySerifMono.preview.png](previews/VerilySerifMono/VerilySerifMono.preview.png)
--   [Victor Mono](https://github.com/rubjo/victor-mono)
-    -   [fonts.google.com](https://fonts.google.com/specimen/Victor+Mono)
+-   [Victor Mono](https://fonts.google.com/specimen/Victor+Mono)
+    -   [SOURCE](https://github.com/rubjo/victor-mono)
     -   Previews:
         -   VictorMono-Regular<br>
             ![previews/VictorMono/VictorMono-Regular.preview.png](previews/VictorMono/VictorMono-Regular.preview.png)
         -   VictorMono-Italic<br>
             ![previews/VictorMono/VictorMono-Italic.preview.png](previews/VictorMono/VictorMono-Italic.preview.png)
--   [VT323](https://fonts.google.com/specimen/VT323)
-    -   [SOURCE](https://github.com/phoikoi/VT323)
+-   [VT323](https://github.com/phoikoi/VT323)
+    -   [fonts.google.com](https://fonts.google.com/specimen/VT323)
     -   Previews:
         -   VT323-Regular<br>
             ![previews/VT323/VT323-Regular.preview.png](previews/VT323/VT323-Regular.preview.png)
