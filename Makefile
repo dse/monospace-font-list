@@ -6,7 +6,10 @@ MD_FILES := \
 	includes/other-paid.md \
 	includes/other.md
 
-default: coding.md other.md
+default: coding.md other.md regenerate-whats-new
+
+regenerate-whats-new: FORCE
+	rerun ./WHATSNEW.md | sponge ./WHATSNEW.md
 
 includes/%.md: data/%.yml Makefile $(SCRIPT)
 	$(SCRIPT) "$<" >"$@.tmp"
