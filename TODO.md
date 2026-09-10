@@ -10,6 +10,8 @@ https://github.com/tdarshana/Blex-Mono-Liga-Powerline
 
 https://github.com/ouonline/ZhiMaMono
 
+https://web.archive.org/web/20060422223800/http://www.arcavia.com/Software/ProgFont/
+
 -   Revisit to look for all instances of the following:
     -   Courier (did myfonts)
     -   Prestige (did myfonts)
@@ -204,45 +206,4 @@ TwoBit (MuirMcNeil, 2018)
 TwoPlus (MuirMcNeil, 2016)
 Gridnik née Politene (Wim Crouwel, Olivetti, 1974)
 ```
-
--   The Best Monospace Typefaces - Part One
-
-    https://pangrampangram.com/blogs/journal/best-monospace-typefaces
-
-    -   Supply Mono
-        -   https://pangrampangram.com/products/supply-mono
-    -   Pachinko Mono
-        -   https://aisforfonts.com/pachinko
-    -   Oracle Triple
-        -   https://abcdinamo.com/news/oracle-battling-an-ancient-system-of-triples
-    -   RM Mono
-        -   https://cotypefoundry.com/our-fonts/rm-mono/
-    -   Montiac
-        -   https://supercontinente.com/montiac/
-    
--   The Best Monospace Typefaces - Part Two
-
-    https://pangrampangram.com/blogs/journal/best-monospaced-typefaces-part-two
-    
-    -   Brut
-        -   https://off-type.com/products/brut
-    -   Air Mono
-        -   https://pangrampangram.com/products/air-mono
-    -   NaN Holo Mono
-        -   https://www.nan.xyz/fonts/nan-holo/
-    -   Vulf Mono
-        -   https://ohnotype.co/fonts/vulf
-
--   Monospace fonts: this #fontsunday your love is monospaced
-
-    https://www.typeroom.eu/content/monospace-fonts-fontsunday-your-love-monospaced
-    
-    -   PF DIN Mono
-        -   https://www.parachutefonts.com/typefaces/allfonts/din-mono-pro
-
--   Supply
-    -   https://pangrampangram.com/products/supply
-
--   https://skriftkompani.no/
-    -   has a few monospace typefaces
 
