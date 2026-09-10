@@ -147,6 +147,9 @@
   date_listed: 2026-08-27
 - name: GT Maru Mono
   url: https://www.gt-maru.com/#monospaced
+- name: Geita Mono
+  url: https://skriftkompani.no/typefaces/geita-mono
+  date_listed: 2026-09-06
 - name: Gintronic
   url: https://markfromberg.com/projects/gintronic
 - name: Graebenbach Mono
@@ -191,7 +194,6 @@
   url: https://mass-driver.com/typefaces/md-system/
 - name: Magi Mono
   url: https://skriftkompani.no/typefaces/magi-mono
-  specimen: https://skriftkompani.no/filer/pdf/StoreNorskeMagiMono1.pdf
   date_listed: 2026-08-27
 - name: Matahari Sans
   url: https://www.fontspring.com/fonts/studio-sun/matahari-sans
@@ -216,12 +218,18 @@
   url: https://www.r-typography.com/fonts/montris-mono?weight=737
 - name: NT Bau Mono
   url: https://nodotypefoundry.com/typefaces/nt-bau-mono/
+- name: NaN Holo Mono
+  url: https://www.nan.xyz/fonts/nan-holo/
+  date_listed: 2026-09-06
 - name: Native
   url: https://fortfoundry.com/fonts/native
   description: '[regular weight is free]'
 - name: Nekst Mono
   url: https://www.myfonts.com/collections/nekst-mono-font-dzianis-serabrakou
   date_listed: 2025-03-16
+- name: Nord Mono
+  url: https://skriftkompani.no/typefaces/nord-mono
+  date_listed: 2026-09-06
 - name: Operator Mono
   url: https://typography.com/blog/introducing-operator
 - name: Panel Mono

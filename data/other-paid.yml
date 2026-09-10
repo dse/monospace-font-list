@@ -24,6 +24,12 @@
   via: https://realdougwilson.com/writing/coding-with-character
 - name: Ahamono
   url: https://hanken.co/products/ahamono
+- name: Air Mono
+  url: https://pangrampangram.com/products/air-mono
+  date_listed: 2026-09-06
+  description: |
+    “A captivating fusion of brutalism and minimalism, with a subtle
+    nod to the sleek lines of aerospace design.”
 - name: Alto Mono (Thiemich)
   url: https://www.typeby.com/fonts/alto-mono
   description: |-
@@ -94,6 +100,10 @@
   url: https://lineto.com/typefaces/brown-mono
 - name: Bodoni Egyptian Mono
   url: https://shinntype.com/bodoni-egyptian/
+- name: Brut Mono
+  url: https://off-type.com/products/brut
+  date_listed: 2026-09-06
+  novelty: yes
 - name: Cake Mono
   url: https://store.typenetwork.com/foundry/caketype/fonts/cake-mono
   date_listed: 2026-08-27
@@ -350,6 +360,12 @@
   url: https://www.studiodilena.com/en/italian_typewriter.html
 - name: Ivory Mono
   url: https://lineto.com/typefaces/ivory-mono
+- name: Ja Mono
+  url: https://skriftkompani.no/typefaces/ja-mono
+  date_listed: 2026-09-06
+- name: Jazz Mono
+  url: https://skriftkompani.no/typefaces/jazz-mono
+  date_listed: 2026-09-06
 - name: JetJane Mono
   url: http://ingrimayne.com/fonts2/typewriter.htm
 - name: Jornada Mono
@@ -473,6 +489,9 @@
     - name: Typewriter Regular (old-timey)
     - name: Typewriter Elite (old-timey)
     - name: Typewriter Gothic (sans-serif)
+- name: Montiac Mono
+  url: https://supercontinente.com/typeface/montiac/
+  date_listed: 2026-09-06
 - name: MVB Fantabular
   myfonts_url: https://www.myfonts.com/collections/mvb-fantabular-font-mvb
 - name: MVB Fantabular Sans
@@ -639,6 +658,9 @@
   tags:
     - orator
   date_listed: 2025-03-16
+- name: Pachinko Mono
+  url: https://aisforfonts.com/pachinko
+  date_listed: 2026-09-06
 - name: Panama Monospace
   url: https://www.featuredtype.com/typefaces/panama
 - name: Panoptica
@@ -703,6 +725,9 @@
   myfonts_url: https://www.myfonts.com/collections/notes-tec-mono-font-primetype
 - name: Quadraat Sans Mono
   url: https://www.typeby.com/fonts/quadraat-sans-mono
+- name: RM Mono
+  url: https://cotypefoundry.com/our-fonts/rm-mono
+  date_listed: 2026-09-06
 - name: Rational TW
   myfonts_url: https://www.myfonts.com/collections/rational-tw-font-rene-bieder
   description: '[paid but [demos](https://www.myfonts.com/collections/rational-tw-font-rene-bieder?tab=individualStyles) available]'
@@ -758,6 +783,9 @@
   url: https://seankanedesign.gumroad.com/l/sk-modernist
 - name: Skagwae Mono
   url: http://ingrimayne.com/fonts2/typewriter.htm
+- name: Skandia Mono
+  url: https://skriftkompani.no/typefaces/skandia-mono
+  date_listed: 2026-09-06
 - name: Skurier
   myfonts_url: https://www.myfonts.com/collections/skurier-font-grin3
 - name: Skye Mono
@@ -778,6 +806,16 @@
 - name: Superstudio
   url: https://lineto.com/typefaces/superstudio
   description: includes a monospace variant
+- name: Supply Mono
+  url: https://pangrampangram.com/products/supply-mono
+  description: |
+    “Supply is the kind of typeface you reach for when you need
+    something that works hard and looks tight.  Inspired by the clean
+    utility of industrial design and the disciplined geometry of
+    architecture, Supply doesn’t mess around. It’s functional, sharp,
+    and always in control—your new go-to for layouts that need
+    structure and style.”
+  date_listed: 2026-09-06
 - name: TT Commons Pro Mono
   url: https://www.myfonts.com/products/tt-commonstm-pro-mono-package-package-930341
   date_listed: 2025-03-16
