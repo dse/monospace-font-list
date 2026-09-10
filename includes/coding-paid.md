@@ -1,4 +1,4 @@
-91 typefaces listed here.
+94 typefaces listed here.
 
 -   [0Arame Mono](https://www.fontspring.com/fonts/hitype/0arame-mono)
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
@@ -58,6 +58,7 @@
 -   [Fakt Mono](https://www.typeby.com/fonts/fakt-mono)
 -   [Fraktion Mono](https://pangrampangram.com/products/fraktion-mono)
 -   [GT Maru Mono](https://www.gt-maru.com/#monospaced)
+-   [Geita Mono](https://skriftkompani.no/typefaces/geita-mono)
 -   [Gintronic](https://markfromberg.com/projects/gintronic)
 -   [Graebenbach Mono](https://camelot-typefaces.com/graebenbach-mono)
 -   [Gravitica Mono](https://www.myfonts.com/collections/gravitica-mono-font-ckhans-fonts)
@@ -84,8 +85,10 @@
 -   [Monolisa](https://www.monolisa.dev/)
 -   [Montris Mono](https://www.r-typography.com/fonts/montris-mono?weight=737)
 -   [NT Bau Mono](https://nodotypefoundry.com/typefaces/nt-bau-mono/)
+-   [NaN Holo Mono](https://www.nan.xyz/fonts/nan-holo/)
 -   [Native](https://fortfoundry.com/fonts/native)
 -   [Nekst Mono](https://www.myfonts.com/collections/nekst-mono-font-dzianis-serabrakou)
+-   [Nord Mono](https://skriftkompani.no/typefaces/nord-mono)
 -   [Operator Mono](https://typography.com/blog/introducing-operator)
 -   [Panel Mono](https://pstypelab.com/panel-mono)
 -   [Pentameter](https://occupantfonts.com/fonts/pentameter/)

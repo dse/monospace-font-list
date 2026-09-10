@@ -25,9 +25,9 @@
 -   [Bitstream Courier 10 Pitch](https://gitlab.freedesktop.org/xorg/font/bitstream-type1)
     -   Notes:
         -   basis of Courier Code
--   [BIZ UDMincho](https://uncut.wtf/monospace/biz-udmincho/)
-    -   [fonts.google.com](https://fonts.google.com/specimen/BIZ+UDMincho)
+-   [BIZ UDMincho](https://fonts.google.com/specimen/BIZ+UDMincho)
     -   [microsoft.com](https://learn.microsoft.com/en-us/typography/font-list/biz-udmincho-medium)
+    -   [uncut.wtf](https://uncut.wtf/monospace/biz-udmincho/)
 -   [BQN386](https://dzaima.github.io/BQN386/)
 -   [Bytesized](https://fonts.google.com/specimen/Bytesized)
 -   [CATV 6x12 9](https://fontlibrary.org/en/font/catv-6x12-9)
@@ -67,8 +67,8 @@
 -   [Générale Station](https://www.tunera.xyz/fonts/generale-station/)
 -   [Glovis](https://fontsempire.com/font/glovis-download/)
 -   [GNU FreeMono (Courier)](https://www.gnu.org/software/freefont/)
--   [Heming](https://www.behance.net/gallery/142001915/Heming-Free-Variable-Font?locale=en_US)
-    -   [uncut.wtf](https://uncut.wtf/monospace/heming/)
+-   [Heming](https://uncut.wtf/monospace/heming/)
+    -   [behance.net](https://www.behance.net/gallery/142001915/Heming-Free-Variable-Font?locale=en_US)
 -   [IBM Courier (Type 1)](https://gitlab.freedesktop.org/xorg/font/ibm-type1)
 -   [Isonorm Monospaced](https://fontsgeek.com/fonts/Isonorm-Monospaced-Regular)
 -   [KP Monospaced](https://tug.org/FontCatalogue/kpmonospaced/)
@@ -144,8 +144,8 @@
     -   [SOURCE](https://gitlab.com/velvetyne/sligoil)
     -   [uncut.wtf](https://uncut.wtf/monospace/sligoil/)
 -   [SmallType Writing](https://www.dafont.com/smalltypewriting-medium.font)
--   [Snap-it Mono](https://gitlab.com/Alune/snap-it-mono-font)
-    -   [uncut.wtf](https://uncut.wtf/monospace/snapit-mono/)
+-   [Snap-it Mono](https://uncut.wtf/monospace/snapit-mono/)
+    -   [SOURCE](https://gitlab.com/Alune/snap-it-mono-font)
     -   [usemodify.com](https://usemodify.com/fonts/snap-it/)
 -   [SpiderWire](https://codeberg.org/Wezl/fonts#spiderwire-https-ermineii-github-io-spiderwire-html)
 -   [Squareshooter Mono](https://fontsgeek.com/fonts/SquareShooter-Mono-Regular)
@@ -178,7 +178,7 @@
 
 ## Paid
 
-278 typefaces listed here.
+287 typefaces listed here.
 
 -   [8 Point Lining Typewriter No. 1](https://a2-type.co.uk/8-point-lining-typewriter-no-1)
     -   Notes:
@@ -195,6 +195,7 @@
 -   [Adverb Mono](https://www.myfonts.com/collections/adverb-mono-font-rumors-foundry)
 -   [Aglet Mono](https://xyztype.com/fonts/aglet/aglet-mono)
 -   [Ahamono](https://hanken.co/products/ahamono)
+-   [Air Mono](https://pangrampangram.com/products/air-mono)
 -   [Alto Mono (Thiemich)](https://www.typeby.com/fonts/alto-mono)
     -   Notes:
         -   not related to damieng\'s free [Alto Mono](https://damieng.com/blog/2008/08/25/the-xerox-alto-mono-spaced-font-rises-again/) bitmap font
@@ -224,14 +225,15 @@
 -   [Bradford Mono](https://lineto.com/typefaces/bradford-mono)
 -   [Brown Mono](https://lineto.com/typefaces/brown-mono)
 -   [Bodoni Egyptian Mono](https://shinntype.com/bodoni-egyptian/)
+-   [Brut Mono](https://off-type.com/products/brut)
 -   [Cake Mono](https://store.typenetwork.com/foundry/caketype/fonts/cake-mono)
 -   [Caleb Mono](https://www.myfonts.com/collections/caleb-mono-font-brenners-template)
 -   [Capibara Mono](https://www.boldmonday.com/typeface/capibara/)
 -   [Centima Mono](http://www.tipografiaramis.com/centima-mono.html)
 -   [Century Schoolbook Monospace](https://www.myfonts.com/products/century-schoolbook-monospaced-10058-century-schoolbook-435037)
 -   [Chromatic Mono](https://www.colophon-foundry.org/typefaces/chromatic-mono)
--   [CMM Coda](https://commatype.com/cmm-coda/)
-    -   [fontsinuse.com](https://fontsinuse.com/typefaces/239918/cmm-coda)
+-   [CMM Coda](https://fontsinuse.com/typefaces/239918/cmm-coda)
+    -   [foundry](https://commatype.com/cmm-coda/)
 -   [Codo Mono](https://wearecolt.com/product/codo-mono/)
 -   [CoFo Sans Mono](https://contrastfoundry.com/typeface/cofo-sans-mono)
 -   [Colón Mono](http://www.tipografiaramis.com/coloacuten-mono.html)
@@ -328,6 +330,8 @@
 -   [Italian Plate No. 1 Mono](https://playtype.com/typefaces/italian-plate-no1-mono/)
 -   [Italian Typewriter](https://www.studiodilena.com/en/italian_typewriter.html)
 -   [Ivory Mono](https://lineto.com/typefaces/ivory-mono)
+-   [Ja Mono](https://skriftkompani.no/typefaces/ja-mono)
+-   [Jazz Mono](https://skriftkompani.no/typefaces/jazz-mono)
 -   [JetJane Mono](http://ingrimayne.com/fonts2/typewriter.htm)
 -   [Jornada Mono](https://www.myfonts.com/collections/jornada-mono-font-monotype-imaging)
 -   [Joystix (video game)](https://www.fontspring.com/fonts/typodermic/joystix)
@@ -371,6 +375,7 @@
         -   Typewriter Regular (old-timey)
         -   Typewriter Elite (old-timey)
         -   Typewriter Gothic (sans-serif)
+-   [Montiac Mono](https://supercontinente.com/typeface/montiac/)
 -   [MVB Fantabular](https://www.myfonts.com/collections/mvb-fantabular-font-mvb)
 -   [MVB Fantabular Sans](https://www.myfonts.com/collections/mvb-fantabular-sans-font-mvb)
     -   Variants:
@@ -420,6 +425,7 @@
 -   [Orator 15 Pitch (Bitstream)](https://www.myfonts.com/products/15-pitch-orator-434436)
 -   [Orator FS (FontSite)](https://www.fontspring.com/fonts/fontsite/orator-fs)
 -   [Orator Std (Adobe)](https://www.fontspring.com/fonts/adobe/orator-std)
+-   [Pachinko Mono](https://aisforfonts.com/pachinko)
 -   [Panama Monospace](https://www.featuredtype.com/typefaces/panama)
 -   [Panoptica](https://shinntype.com/panoptica-2/)
 -   [Parse Grotesk Mono](https://archetype-foundry.com/parse-grotesk-mono)
@@ -442,6 +448,7 @@
 -   [PTL Manual Mono](https://www.myfonts.com/collections/manual-mono-font-primetype)
 -   [PTL Notes Tec Mono](https://www.myfonts.com/collections/notes-tec-mono-font-primetype)
 -   [Quadraat Sans Mono](https://www.typeby.com/fonts/quadraat-sans-mono)
+-   [RM Mono](https://cotypefoundry.com/our-fonts/rm-mono)
 -   [Rational TW](https://www.myfonts.com/collections/rational-tw-font-rene-bieder)
 -   [Realtime Rounded](https://www.fontspring.com/fonts/juri-zaech/realtime-rounded)
 -   [Recipient](https://processtypefoundry.com/fonts/recipient/)
@@ -468,6 +475,7 @@
         -   One weight available at no cost.
 -   [SK Modernist Mono](https://seankanedesign.gumroad.com/l/sk-modernist)
 -   [Skagwae Mono](http://ingrimayne.com/fonts2/typewriter.htm)
+-   [Skandia Mono](https://skriftkompani.no/typefaces/skandia-mono)
 -   [Skurier](https://www.myfonts.com/collections/skurier-font-grin3)
 -   [Skye Mono](https://www.behance.net/gallery/44046525/Syke-Mono-Type-Family)
 -   [Smith Premier NF](https://www.myfonts.com/collections/smith-premier-nf-font-nicks-fonts)
@@ -476,6 +484,7 @@
 -   [Struct Mono](https://archetype-foundry.com/struct-mono)
 -   [Suisse Int'l Mono](https://www.swisstypefaces.com/fonts/suisse/#Int%E2%80%99l%20Mono)
 -   [Superstudio](https://lineto.com/typefaces/superstudio)
+-   [Supply Mono](https://pangrampangram.com/products/supply-mono)
 -   [TT Commons Pro Mono](https://www.myfonts.com/products/tt-commonstm-pro-mono-package-package-930341)
 -   [TT Hoves Pro Mono](https://www.myfonts.com/products/tt-hoves-pro-mono-package-package-957657)
 -   [TT Norms Pro](https://www.fontspring.com/fonts/typetype/tt-norms-pro)

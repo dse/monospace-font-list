@@ -1,6 +1,19 @@
 # What's New
 
 <!-- %%% START RERUN: ./bin/new.pl data/*.yml %%% -->
+## SUN 06-SEP-2026
+-   [Geita Mono](https://skriftkompani.no/typefaces/geita-mono)
+-   [NaN Holo Mono](https://www.nan.xyz/fonts/nan-holo/)
+-   [Nord Mono](https://skriftkompani.no/typefaces/nord-mono)
+-   [Air Mono](https://pangrampangram.com/products/air-mono)
+-   [Brut Mono](https://off-type.com/products/brut)
+-   [Ja Mono](https://skriftkompani.no/typefaces/ja-mono)
+-   [Jazz Mono](https://skriftkompani.no/typefaces/jazz-mono)
+-   [Montiac Mono](https://supercontinente.com/typeface/montiac/)
+-   [Pachinko Mono](https://aisforfonts.com/pachinko)
+-   [RM Mono](https://cotypefoundry.com/our-fonts/rm-mono)
+-   [Skandia Mono](https://skriftkompani.no/typefaces/skandia-mono)
+-   [Supply Mono](https://pangrampangram.com/products/supply-mono)
 ## THU 27-AUG-2026
 -   [Fraktion Mono](https://pangrampangram.com/products/fraktion-mono)
 -   [Graebenbach Mono](https://camelot-typefaces.com/graebenbach-mono)
@@ -47,7 +60,7 @@
 -   [Myna Mono](https://github.com/sayyadirfanali/Myna)
 -   [SUSE Mono](https://www.suse.com/c/suse-releases-suse-mono-italics-and-more-in-a-packed-update-to-its-type-family/)
 ## FRI 11-JUL-2025
--   [Google Sans Code](https://fonts.google.com/specimen/Google+Sans+Code)
+-   [Google Sans Code](https://github.com/googlefonts/googlesans-code)
 ## SUN 29-JUN-2025
 -   [AOT Serial Mono](https://prioritypeco.com/product/aot-serial-mono/)
 -   [Atari ST](http://www.modelb.bbcmicro.com/retro-fonts.html)
