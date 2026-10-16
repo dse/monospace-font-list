@@ -161,6 +161,8 @@
 - name: Grotesk Remix Monospace
   url: https://www.myfonts.com/collections/grotesk-remix-monospace-font-benbenworld
   date_listed: 2025-03-16
+- name: Houston Mono (coming soon)
+  url: https://usgraphics.com/products
 - name: Inklination Mono
   url: https://www.myfonts.com/collections/inklination-font-emtype-foundry
   notes: |
@@ -182,6 +184,8 @@
   foundry: Dalton Maag
 - name: Logic Monospace
   url: https://mckltype.com/logic-monospace
+- name: Los Alamos Mono (coming soon)
+  url: https://usgraphics.com/products
 - name: Lucida Console
   url: https://lucidafonts.com/collections/lucida-console
   description: '[paid but shipped with windows]'
