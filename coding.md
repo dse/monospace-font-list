@@ -167,12 +167,12 @@
         -   CamingoCode-Italic<br>
             ![previews/CamingoCode/CamingoCode-Italic.preview.png](previews/CamingoCode/CamingoCode-Italic.preview.png)
 -   [Canton Typewriter Bitmap](https://github.com/dse/font-canton-typewriter-bitmap)
--   [Cascadia Code](https://github.com/microsoft/cascadia-code)
-    -   [fonts.google.com](https://fonts.google.com/specimen/Cascadia+Code)
+-   [Cascadia Code](https://fonts.google.com/specimen/Cascadia+Code)
+    -   [SOURCE](https://github.com/microsoft/cascadia-code)
 -   [Cascadia Mono](https://fonts.google.com/specimen/Cascadia+Mono)
--   [Chivo Mono](https://github.com/Omnibus-Type/Chivo)
+-   [Chivo Mono](https://fonts.google.com/specimen/Chivo+Mono)
     you probably want the Nerd Font linked from therein.
-    -   [fonts.google.com](https://fonts.google.com/specimen/Chivo+Mono)
+    -   [SOURCE](https://github.com/Omnibus-Type/Chivo)
     -   Previews:
         -   ChivoMono-Regular<br>
             ![previews/ChivoMono/ChivoMono-Regular.preview.png](previews/ChivoMono/ChivoMono-Regular.preview.png)
@@ -260,8 +260,8 @@
     -   Previews:
         -   D2Coding<br>
             ![previews/D2Coding/D2Coding.preview.png](previews/D2Coding/D2Coding.preview.png)
--   [DM Mono](https://fonts.google.com/specimen/DM+Mono)
-    -   [SOURCE](https://github.com/googlefonts/dm-mono)
+-   [DM Mono](https://github.com/googlefonts/dm-mono)
+    -   [fonts.google.com](https://fonts.google.com/specimen/DM+Mono)
 -   [DaddyTimeMono](https://github.com/BourgeoisBear/DaddyTimeMono)
     -   Previews:
         -   DaddyTimeMono<br>
@@ -372,8 +372,8 @@
     -   Previews:
         -   FifteenNarrow<br>
             ![previews/Fifteen/FifteenNarrow.preview.png](previews/Fifteen/FifteenNarrow.preview.png)
--   [Fira Code](https://fonts.google.com/specimen/Fira+Code)
-    -   [SOURCE](https://github.com/tonsky/FiraCode)
+-   [Fira Code](https://github.com/tonsky/FiraCode)
+    -   [fonts.google.com](https://fonts.google.com/specimen/Fira+Code)
     -   Previews:
         -   FiraCode-Regular<br>
             ![previews/FiraCode/FiraCode-Regular.preview.png](previews/FiraCode/FiraCode-Regular.preview.png)
@@ -462,10 +462,9 @@
             ![previews/Gohu/koemadea-gohufont-uni-11.preview.png](previews/Gohu/koemadea-gohufont-uni-11.preview.png)
         -   koemadea-gohufont-uni-14<br>
             ![previews/Gohu/koemadea-gohufont-uni-14.preview.png](previews/Gohu/koemadea-gohufont-uni-14.preview.png)
--   [Google Sans Code](https://github.com/googlefonts/googlesans-code)
+-   [Google Sans Code](https://fonts.google.com/specimen/Google+Sans+Code)
     -   Notes:
         -   based on Google Sans Mono, which see.
-    -   [fonts.google.com](https://fonts.google.com/specimen/Google+Sans+Code)
     -   [github.com](https://github.com/googlefonts/googlesans-code)
 -   [Google Sans Mono](https://www.reddit.com/r/fonts/comments/s1mk81/google_has_a_new_monospaced_font/)
     -   [SOURCE](https://github.com/mehant-kr/Google-Sans-Mono)
@@ -624,8 +623,8 @@
     -   Previews:
         -   LeagueMono-Regular<br>
             ![previews/LeagueMono/LeagueMono-Regular.preview.png](previews/LeagueMono/LeagueMono-Regular.preview.png)
--   [Lekton Code](https://fonts.google.com/specimen/Lekton)
-    -   [fontlibrary.org](https://fontlibrary.org/en/font/lektoncode)
+-   [Lekton Code](https://fontlibrary.org/en/font/lektoncode)
+    -   [fonts.google.com](https://fonts.google.com/specimen/Lekton)
     -   Previews:
         -   LektonCode-Regular<br>
             ![previews/LektonCode/LektonCode-Regular.preview.png](previews/LektonCode/LektonCode-Regular.preview.png)
@@ -924,8 +923,8 @@
             ![previews/OCRAExtended/OCR_A_Extended_Regular.preview.png](previews/OCRAExtended/OCR_A_Extended_Regular.preview.png)
         -   ocraext<br>
             ![previews/OCRAExtended/ocraext.preview.png](previews/OCRAExtended/ocraext.preview.png)
--   [Office Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
-    -   [SOURCE](https://github.com/nathco/Office-Code-Pro)
+-   [Office Code Pro](https://github.com/nathco/Office-Code-Pro)
+    -   [fonts.google.com](https://fonts.google.com/specimen/Source+Code+Pro)
     -   Variants:
         -   [Relaxed Typing Mono JP](https://github.com/mshioda/relaxed-typing-mono-jp)
             -   derived from Source Code Pro and Noto Sans JP.
@@ -1181,8 +1180,8 @@
             ![previews/Sudo/SudoUI-Regular.preview.png](previews/Sudo/SudoUI-Regular.preview.png)
         -   SudoUI-Italic<br>
             ![previews/Sudo/SudoUI-Italic.preview.png](previews/Sudo/SudoUI-Italic.preview.png)
--   [Sun Gallant Demi](https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf)
-    -   [SOURCE](https://github.com/dim13/gallant)
+-   [Sun Gallant Demi](https://github.com/dim13/gallant)
+    -   [DOWNLOAD](https://web.archive.org/web/20210227104132/https://raw.githubusercontent.com/Zygo/xscreensaver/master/OSX/gallant12x22.ttf)
     -   Previews:
         -   gallant12x22<br>
             ![previews/SunGallantDemi/gallant12x22.preview.png](previews/SunGallantDemi/gallant12x22.preview.png)
@@ -1305,8 +1304,8 @@
     -   Previews:
         -   VerilySerifMono<br>
             ![previews/VerilySerifMono/VerilySerifMono.preview.png](previews/VerilySerifMono/VerilySerifMono.preview.png)
--   [Victor Mono](https://github.com/rubjo/victor-mono)
-    -   [fonts.google.com](https://fonts.google.com/specimen/Victor+Mono)
+-   [Victor Mono](https://fonts.google.com/specimen/Victor+Mono)
+    -   [SOURCE](https://github.com/rubjo/victor-mono)
     -   Previews:
         -   VictorMono-Regular<br>
             ![previews/VictorMono/VictorMono-Regular.preview.png](previews/VictorMono/VictorMono-Regular.preview.png)
@@ -1318,8 +1317,8 @@
         -   VT323-Regular<br>
             ![previews/VT323/VT323-Regular.preview.png](previews/VT323/VT323-Regular.preview.png)
 -   [WenQuanYi Black](http://wenq.org/wqy2/index.cgi?FontGuide#_4)
--   [Whois Mono](https://uncut.wtf/monospace/whois/)
-    -   [SOURCE](https://github.com/raphaelbastide/Whois-mono)
+-   [Whois Mono](https://github.com/raphaelbastide/Whois-mono)
+    -   [uncut.wtf](https://uncut.wtf/monospace/whois/)
     -   Previews:
         -   whois-mono<br>
             ![previews/WhoisMono/whois-mono.preview.png](previews/WhoisMono/whois-mono.preview.png)
@@ -1348,7 +1347,7 @@
 
 ## Paid
 
-94 typefaces listed here.
+96 typefaces listed here.
 
 -   [0Arame Mono](https://www.fontspring.com/fonts/hitype/0arame-mono)
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
@@ -1413,6 +1412,7 @@
 -   [Graebenbach Mono](https://camelot-typefaces.com/graebenbach-mono)
 -   [Gravitica Mono](https://www.myfonts.com/collections/gravitica-mono-font-ckhans-fonts)
 -   [Grotesk Remix Monospace](https://www.myfonts.com/collections/grotesk-remix-monospace-font-benbenworld)
+-   [Houston Mono (coming soon)](https://usgraphics.com/products)
 -   [Inklination Mono](https://www.myfonts.com/collections/inklination-font-emtype-foundry)
     -   Notes:
         -   Inklination is a typeface family with both proportional and monospace varieties.
@@ -1422,6 +1422,7 @@
 -   [Lab Grotesque Mono](https://lettersfromsweden.se/font/lab-grotesque-mono/)
 -   [Lexia Mono](https://www.daltonmaag.com/font-library/lexia-mono.html)
 -   [Logic Monospace](https://mckltype.com/logic-monospace)
+-   [Los Alamos Mono (coming soon)](https://usgraphics.com/products)
 -   [Lucida Console](https://lucidafonts.com/collections/lucida-console)
 -   [Lucida Grande Mono](https://www.myfonts.com/collections/lucida-grande-mono-w1-g-font-monotype-imaging)
 -   [MD IO](https://mass-driver.com/typefaces/md-io/)

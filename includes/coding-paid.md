@@ -1,4 +1,4 @@
-94 typefaces listed here.
+96 typefaces listed here.
 
 -   [0Arame Mono](https://www.fontspring.com/fonts/hitype/0arame-mono)
 -   [1403 Vintage Mono](https://1403.slantedhall.com/)
@@ -63,6 +63,7 @@
 -   [Graebenbach Mono](https://camelot-typefaces.com/graebenbach-mono)
 -   [Gravitica Mono](https://www.myfonts.com/collections/gravitica-mono-font-ckhans-fonts)
 -   [Grotesk Remix Monospace](https://www.myfonts.com/collections/grotesk-remix-monospace-font-benbenworld)
+-   [Houston Mono (coming soon)](https://usgraphics.com/products)
 -   [Inklination Mono](https://www.myfonts.com/collections/inklination-font-emtype-foundry)
     -   Notes:
         -   Inklination is a typeface family with both proportional and monospace varieties.
@@ -72,6 +73,7 @@
 -   [Lab Grotesque Mono](https://lettersfromsweden.se/font/lab-grotesque-mono/)
 -   [Lexia Mono](https://www.daltonmaag.com/font-library/lexia-mono.html)
 -   [Logic Monospace](https://mckltype.com/logic-monospace)
+-   [Los Alamos Mono (coming soon)](https://usgraphics.com/products)
 -   [Lucida Console](https://lucidafonts.com/collections/lucida-console)
 -   [Lucida Grande Mono](https://www.myfonts.com/collections/lucida-grande-mono-w1-g-font-monotype-imaging)
 -   [MD IO](https://mass-driver.com/typefaces/md-io/)
