@@ -2,771 +2,1347 @@
     "fonts": {
         "Adwaita Mono": {
             "main": "https://gitlab.gnome.org/GNOME/adwaita-fonts",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#adwaita-mono"
+            }
         },
         "Agave": {
             "main": "https://github.com/agarick/agave",
-            "license": "MIT"
+            "license": "MIT",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#agave"
+            }
         },
         "Anka/Coder": {
             "main": "https://github.com/loafer-mka/anka-coder-fonts",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#anka-coder"
+            }
         },
         "Annotation Mono": {
             "main": "https://qwerasd205.github.io/AnnotationMono/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#annotation-mono"
+            }
         },
         "Anonymous Pro": {
             "main": "http://www.marksimonson.com/fonts/view/anonymous-pro",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#anonymous-pro"
+            }
         },
         "APL2741": {
             "main": "http://apl385.com/fonts/index.htm",
-            "license": "public domain"
+            "license": "public domain",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#apl2741"
+            }
         },
         "APL385": {
             "main": "http://apl385.com/fonts/index.htm",
-            "license": "public domain"
+            "license": "public domain",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#apl385"
+            }
         },
         "Aporetic Sans Mono": {
             "main": "https://github.com/protesilaos/aporetic",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#aporetic-sans"
+            }
         },
         "Aporetic Serif Mono": {
             "main": "https://github.com/protesilaos/aporetic",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#aporetic-serif"
+            }
         },
         "Atkinson Hyperlegible Mono": {
             "main": "https://www.brailleinstitute.org/freefont/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#atkinson-hyperlegible"
+            }
         },
         "AudioLink Mono": {
             "main": "https://audiolink.dev",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#audio-link"
+            }
         },
         "Aurulent Sans Mono": {
             "main": "https://www.fontsquirrel.com/fonts/Aurulent-Sans-Mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#aurulent"
+            }
         },
         "Average Mono": {
             "main": "http://openfontlibrary.org/en/font/average-mono",
-            "license": "GNU GPL"
+            "license": "GNU GPL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#average"
+            }
         },
         "Azeret Mono": {
             "main": "https://github.com/displaay/Azeret",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#azeret"
+            }
         },
         "B612 Mono": {
             "main": "https://github.com/polarsys/b612",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#b612-mono"
+            }
         },
         "Bedstead": {
             "main": "https://bjh21.me.uk/bedstead/",
-            "license": "public domain"
+            "license": "public domain",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#bedstead"
+            }
         },
         "BigBlue Terminal": {
             "main": "https://int10h.org/blog/2015/12/bigblue-terminal-oldschool-fixed-width-font/",
-            "license": "CC BY-SA 4.0"
+            "license": "CC BY-SA 4.0",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#bigblue-terminal"
+            }
         },
         "Binchotan Sharp": {
             "main": "https://rvklein.me/proj/binchotan/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#binchotan-sharp"
+            }
         },
         "Bitstream Vera Sans Mono": {
             "main": "http://www.fontsquirrel.com/fonts/Bitstream-Vera-Sans-Mono",
-            "license": "Bitstream Vera"
+            "license": "Bitstream Vera",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#bitstream-vera"
+            }
         },
         "Borg Sans Mono": {
             "main": "https://github.com/marnen/borg-sans-mono",
-            "license": "Apache"
+            "license": "Apache",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#borg-sans-mono"
+            }
         },
         "BPmono": {
             "main": "http://www.fontsquirrel.com/fonts/BPmono",
-            "license": "CC BY-ND 3.0"
+            "license": "CC BY-ND 3.0",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#bpmono"
+            }
         },
         "Bront DejaVu Sans Mono": {
             "main": "https://github.com/chrismwendt/bront",
-            "license": "Bitstream Vera"
+            "license": "Bitstream Vera",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#bront-dejavu"
+            }
         },
         "Bront Ubuntu Mono": {
             "main": "https://github.com/chrismwendt/bront",
-            "license": "none"
+            "license": "none",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#bront-ubuntu"
+            }
         },
         "CamingoCode": {
             "main": "http://www.janfromm.de/typefaces/camingomono/camingocode",
-            "license": "CC BY-ND 3.0"
+            "license": "CC BY-ND 3.0",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#camingocode"
+            }
         },
         "Cartograph": {
             "main": "https://connary.com/cartograph.html",
-            "license": "commercial"
+            "license": "commercial",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#cartograph"
+            }
         },
         "Cascadia Code": {
             "main": "https://github.com/microsoft/cascadia-code",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#cascadia-code"
+            }
         },
         "Chivo Mono": {
             "main": "https://www.omnibus-type.com/fonts/chivo/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#chivo"
+            }
         },
         "Cilantro Code Mono": {
             "main": "https://github.com/DraftingDreamer/FontCilantroCode",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#cilantro-code-mono"
+            }
         },
         "Computer Modern Unicode Typewriter": {
             "main": "https://cm-unicode.sourceforge.io",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#cm-unicode"
+            }
         },
         "Code New Roman": {
             "main": "https://fontlibrary.org/en/font/code-new-roman",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#code-new-roman"
+            }
         },
         "Comic Mono": {
             "main": "https://dtinth.github.io/comic-mono-font/",
-            "license": "MIT"
+            "license": "MIT",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#comic-mono"
+            }
         },
         "Comic Shanns": {
             "main": "https://github.com/shannpersand/comic-shanns",
-            "license": "MIT"
+            "license": "MIT",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#comic-shanns"
+            }
         },
         "Commit Mono": {
             "main": "https://commitmono.com",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#commit-mono"
+            }
         },
         "Consola Mono": {
             "main": "http://openfontlibrary.org/en/font/consolamono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#consolamono"
+            }
         },
         "IBM Courier": {
             "main": "https://github.com/dse/font-og-courier",
-            "license": "permissive"
+            "license": "permissive",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#courier-ibm"
+            }
         },
         "IBM Courier (dot)": {
             "main": "https://github.com/dse/font-og-courier",
-            "license": "permissive"
+            "license": "permissive",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#courier-ibm-dotted"
+            }
         },
         "IBM Courier (slash)": {
             "main": "https://github.com/dse/font-og-courier",
-            "license": "permissive"
+            "license": "permissive",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#courier-ibm-slashed"
+            }
         },
         "Courier Prime": {
             "main": "https://quoteunquoteapps.com/courierprime",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#courier-prime"
+            }
         },
         "Courier Prime Code": {
             "main": "https://quoteunquoteapps.com/courierprime",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#courier-prime-code"
+            }
         },
         "Courier Prime Sans": {
             "main": "https://quoteunquoteapps.com/courierprime",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#courier-prime-sans"
+            }
         },
         "Cousine": {
             "main": "http://www.fontsquirrel.com/fonts/cousine",
-            "license": "Apache"
+            "license": "Apache",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#cousine"
+            }
         },
         "Cozette": {
             "main": "https://github.com/slavfox/Cozette",
-            "license": "MIT"
+            "license": "MIT",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#cozette"
+            }
         },
         "Cutive Mono": {
             "main": "https://fonts.google.com/specimen/Cutive+Mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#cutive"
+            }
         },
         "D2Coding": {
             "main": "https://github.com/naver/d2codingfont",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#d2coding"
+            }
         },
         "DaddyTimeMono": {
             "main": "https://github.com/BourgeoisBear/DaddyTimeMono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#daddytimemono"
+            }
         },
         "DejaVu Mono": {
             "main": "https://dejavu-fonts.github.io",
-            "license": "Bitstream Vera"
+            "license": "Bitstream Vera",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#dejavu"
+            }
         },
         "DejaVu Markup": {
             "main": "https://bdtechconcepts.com/DejaVu-Markup-Font.html",
-            "license": "Bitstream Vera"
+            "license": "Bitstream Vera",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#dejavu-markup"
+            }
         },
         "Departure Mono": {
             "main": "https://departuremono.com/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#departure-mono"
+            }
         },
         "DM Mono": {
             "main": "https://fonts.google.com/specimen/DM+Mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#dm-mono"
+            }
         },
         "DPSDbeyond": {
             "main": "https://backpacker.gr/fonts/11",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#dpsdbeyond"
+            }
         },
         "Drafting* Mono": {
             "main": "https://indestructibletype.com/Drafting/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#drafting"
+            }
         },
         "Droid Sans": {
             "main": "https://www.fontsquirrel.com/fonts/droid-sans-mono",
-            "license": "Apache"
+            "license": "Apache",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#droid-sans"
+            }
         },
         "Edlo": {
             "main": "https://github.com/ehamiter/Edlo",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#edlo"
+            }
         },
         "Effects Eighty": {
             "main": "http://openfontlibrary.org/en/font/effects-eighty",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#effects-eighty"
+            }
         },
         "Eirian": {
             "main": "https://ggbot.itch.io/eirian-font",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#eirian"
+            }
         },
         "Ellograph CF": {
             "main": "https://connary.com/ellograph.html",
-            "license": "commercial"
+            "license": "commercial",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#ellograph"
+            }
         },
         "Envy Code B": {
             "main": "https://damieng.com/blog/2006/11/06/envy-code-b-font-available-in-ttf-format/",
-            "license": "none"
+            "license": "none",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#envy-code-b"
+            }
         },
         "Envy Code R": {
             "main": "https://damieng.com/blog/2008/envy-code-r-preview-7-coding-font-released/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#envy-code-r"
+            }
         },
         "Fairfax": {
             "main": "http://www.kreativekorp.com/software/fonts/fairfax.shtml",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#fairfax"
+            }
         },
         "Fairfax Hax": {
             "main": "http://www.kreativekorp.com/software/fonts/fairfax.shtml",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#fairfax-hax"
+            }
         },
         "Fairfax HD": {
             "main": "http://www.kreativekorp.com/software/fonts/fairfaxhd.shtml",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#fairfax-hd"
+            }
         },
         "Fairfax Hax HD": {
             "main": "http://www.kreativekorp.com/software/fonts/fairfaxhd.shtml",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#fairfax-hd-hax"
+            }
         },
         "Fairfax Serif": {
             "main": "https://www.kreativekorp.com/software/fonts/fairfax/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#fairfax-serif"
+            }
         },
         "Fairfax Serif Hax": {
             "main": "https://www.kreativekorp.com/software/fonts/fairfax/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#fairfax-serif-hax"
+            }
         },
         "Fantasque Sans Mono": {
             "main": "https://github.com/belluzj/fantasque-sans",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#fantasque-sans"
+            }
         },
         "Fifteen": {
             "main": "http://openfontlibrary.org/en/font/fifteen",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#fifteen"
+            }
         },
         "Fira Mono": {
             "main": "https://github.com/mozilla/Fira",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#fira"
+            }
         },
         "Fira Code": {
             "main": "https://github.com/tonsky/FiraCode",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#firacode"
+            }
         },
         "Fixedsys": {
             "main": "https://web.archive.org/web/20160316105117/http://www.moviecorner.de/en/font-fixedsys-ttf/description",
-            "license": "GNU GPL"
+            "license": "GNU GPL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#fixedsys"
+            }
         },
         "Fixedsys Excelsior": {
             "main": "https://github.com/kika/fixedsys",
-            "license": "public domain"
+            "license": "public domain",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#fixedsys-ligatures"
+            }
         },
         "IBM 3270": {
             "main": "https://github.com/rbanffy/3270font",
-            "license": ""
+            "license": "",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#font3270"
+            }
         },
         "Fragment Mono": {
             "main": "https://github.com/weiweihuanghuang/fragment-mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#fragment-mono"
+            }
         },
         "Generic Mono II": {
             "main": "http://luc.devroye.org/fonts-75172.html",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#generic"
+            }
         },
         "Geist Mono": {
             "main": "https://vercel.com/font/mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#geist"
+            }
         },
         "Gintronic": {
             "main": "https://markfromberg.com/projects/gintronic/",
-            "license": "commercial"
+            "license": "commercial",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#gintronic"
+            }
         },
         "GNU Freefont": {
             "main": "https://www.gnu.org/software/freefont/",
-            "license": "GNU GPL"
+            "license": "GNU GPL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#gnu-freefont"
+            }
         },
         "Go Mono": {
             "main": "https://blog.golang.org/go-fonts",
-            "license": "MIT"
+            "license": "MIT",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#go-mono"
+            }
         },
         "Gohufont 11": {
             "main": "https://font.gohu.org",
-            "license": "WTFPL"
+            "license": "WTFPL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#gohufont-11"
+            }
         },
         "Gohufont 14": {
             "main": "https://font.gohu.org",
-            "license": "WTFPL"
+            "license": "WTFPL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#gohufont-14"
+            }
         },
         "Google Sans Code": {
             "main": "https://github.com/googlefonts/googlesans-code",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#google-sans-code"
+            }
         },
         "Hack": {
             "main": "https://github.com/chrissimpkins/Hack",
-            "license": "MIT"
+            "license": "MIT",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#hack"
+            }
         },
         "Hack Ligatured": {
             "main": "https://github.com/gaplo917/Ligatured-Hack",
-            "license": "GNU GPL"
+            "license": "GNU GPL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#hack-ligatured"
+            }
         },
         "Hasklig": {
             "main": "https://github.com/i-tu/Hasklig",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#hasklig"
+            }
         },
         "Hermit": {
             "main": "https://pcaro.es/p/hermit/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#hermit"
+            }
         },
         "Heterodox Mono": {
             "main": "https://github.com/hckiang/font-new-heterodox-mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#heterodox-mono"
+            }
         },
         "iA Writer Mono": {
             "main": "https://ia.net/topics/a-typographic-christmas",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#ia-writer-mono"
+            }
         },
         "IBM VGA 9x16": {
             "main": "https://int10h.org/oldschool-pc-fonts/fontlist/font?ibm_vga_9x16",
-            "license": "CC BY-SA 4.0"
+            "license": "CC BY-SA 4.0",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#ibm-vga"
+            }
         },
         "Inconsolata": {
             "main": "https://levien.com/type/myfonts/inconsolata.html",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#inconsolata"
+            }
         },
         "Inconsolata-g": {
             "main": "http://leonardo-m.livejournal.com/77079.html",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#inconsolata-g"
+            }
         },
         "InconsolataGo": {
             "main": "https://levien.com/type/myfonts/inconsolata.html",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#inconsolata-go"
+            }
         },
         "Inconsolata OTF": {
             "main": "https://levien.com/type/myfonts/inconsolata.html",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#inconsolata-otf"
+            }
         },
         "Indicate Mono": {
             "main": "https://jonastype.com/indicate-mono",
-            "license": "commercial"
+            "license": "commercial",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#indicate"
+            }
         },
         "Input Mono": {
             "main": "https://input.djr.com",
-            "license": "commercial"
+            "license": "commercial",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#input"
+            }
         },
         "Input Mono Compressed": {
             "main": "https://input.djr.com",
-            "license": "commercial"
+            "license": "commercial",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#input-compressed"
+            }
         },
         "Input Mono Condensed": {
             "main": "https://input.djr.com",
-            "license": "commercial"
+            "license": "commercial",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#input-condensed"
+            }
         },
         "Input Mono Narrow": {
             "main": "https://input.djr.com",
-            "license": "commercial"
+            "license": "commercial",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#input-narrow"
+            }
         },
         "Intel One Mono": {
             "main": "https://github.com/intel/intel-one-mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#intel-one-mono"
+            }
         },
         "Iosevka": {
             "main": "http://be5invis.github.io/Iosevka/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#iosevka"
+            }
         },
         "Iosevka Extended": {
             "main": "http://be5invis.github.io/Iosevka/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#iosevka-extended"
+            }
         },
         "Iosevka Slab": {
             "main": "http://be5invis.github.io/Iosevka/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#iosevka-slab"
+            }
         },
         "Iosevka Slab Extended": {
             "main": "http://be5invis.github.io/Iosevka/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#iosevka-slab-extended"
+            }
         },
         "Ioskeley Mono": {
             "main": "https://github.com/ahatem/IoskeleyMono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#ioskeley"
+            }
         },
         "JetBrains Mono": {
             "main": "https://www.jetbrains.com/lp/mono/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#jetbrainsmono"
+            }
         },
         "JuliaMono": {
             "main": "https://juliamono.netlify.app",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#julia-mono"
+            }
         },
         "Latin Modern Mono": {
             "main": "http://www.gust.org.pl/gust/projects/e-foundry/latin-modern",
-            "license": "GUST font license"
+            "license": "GUST font license",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#latin-modern"
+            }
         },
         "League Mono": {
             "main": "https://www.tylerfinck.com/leaguemono/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#league"
+            }
         },
         "Lekton": {
             "main": "http://www.fontsquirrel.com/fonts/lekton",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#lekton"
+            }
         },
         "Liberation Mono": {
             "main": "https://www.fontsquirrel.com/fonts/liberation-mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#liberation"
+            }
         },
         "Lilex": {
             "main": "https://github.com/mishamyrt/Lilex",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#lilex"
+            }
         },
         "Lotion": {
             "main": "https://font.nina.coffee",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#lotion"
+            }
         },
         "Luculent": {
             "main": "http://eastfarthing.com/luculent/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#luculent"
+            }
         },
         "Luxi Mono": {
             "main": "http://www.fontsquirrel.com/fonts/Luxi-Mono",
-            "license": "Luxi License"
+            "license": "Luxi License",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#luxi"
+            }
         },
         "Lyth Mono": {
             "main": "https://github.com/why-trv/LythMono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#lyth-mono"
+            }
         },
         "Maple Mono": {
             "main": "https://github.com/subframe7536/maple-font",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#maple"
+            }
         },
         "Martian Mono": {
             "main": "https://github.com/evilmartians/mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#martian-mono"
+            }
         },
         "MD IO": {
             "main": "https://io.mass-driver.com",
-            "license": "commercial"
+            "license": "commercial",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#md-io"
+            }
         },
         "Mensch": {
             "main": "https://robey.lag.net/2010/06/21/mensch-font.html",
-            "license": "Bitstream Vera"
+            "license": "Bitstream Vera",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#mensch"
+            }
         },
         "Meslo LG": {
             "main": "https://github.com/andreberg/Meslo-Font",
-            "license": "Bitstream Vera"
+            "license": "Bitstream Vera",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#meslo"
+            }
         },
         "Miracode": {
             "main": "https://github.com/IdreesInc/Miracode",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#miracode"
+            }
         },
         "Monaspace Argon": {
             "main": "https://monaspace.githubnext.com/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#monaspace-argon"
+            }
         },
         "Monaspace Krypton": {
             "main": "https://monaspace.githubnext.com/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#monaspace-krypton"
+            }
         },
         "Monaspace Neon": {
             "main": "https://monaspace.githubnext.com/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#monaspace-neon"
+            }
         },
         "Monaspace Radon": {
             "main": "https://monaspace.githubnext.com/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#monaspace-radon"
+            }
         },
         "Monaspace Xenon": {
             "main": "https://monaspace.githubnext.com/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#monaspace-xenon"
+            }
         },
         "Mona Sans Mono": {
             "main": "https://github.com/github/mona-sans",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#mona-sans-mono"
+            }
         },
         "Monocraft": {
             "main": "https://github.com/IdreesInc/Monocraft",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#monocraft"
+            }
         },
         "Monoflow": {
             "main": "https://finaltype.de/en/projects/monoflow",
-            "license": "commercial"
+            "license": "commercial",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#monoflow"
+            }
         },
         "Monofoki": {
             "main": "https://github.com/datMaffin/monofoki",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#monofoki"
+            }
         },
         "monofur": {
             "main": "http://www.dafont.com/monofur.font",
-            "license": "freeware"
+            "license": "freeware",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#monofur"
+            }
         },
         "Monoid": {
             "main": "http://larsenwork.com/monoid/",
-            "license": "MIT"
+            "license": "MIT",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#monoid"
+            }
         },
         "MonoLisa": {
             "main": "https://www.monolisa.dev",
-            "license": "commercial"
+            "license": "commercial",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#monolisa"
+            }
         },
         "mononoki": {
             "main": "https://github.com/madmalik/mononoki",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#mononoki"
+            }
         },
         "Myna": {
             "main": "https://github.com/sayyadirfanali/Myna",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#myna"
+            }
         },
         "M PLUS 1 Code": {
             "main": "https://mplusfonts.github.io",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#mplus"
+            }
         },
         "Nanum Gothic Coding": {
             "main": "https://github.com/naver/nanumfont",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#nanum-gothic-coding"
+            }
         },
         "Nimbus Mono PS": {
             "main": "https://www.fontsquirrel.com/fonts/nimbus-mono",
-            "license": "GNU GPL"
+            "license": "GNU GPL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#nimbus-mono"
+            }
         },
         "NK57 Monospace": {
             "main": "https://www.dafont.com/nk57-monospace.font",
-            "license": "public domain"
+            "license": "public domain",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#nk57"
+            }
         },
         "Nordwand Mono": {
             "main": "https://github.com/tywr/Nordwand-Mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#nordwand-mono"
+            }
         },
         "NotCourierSans": {
             "main": "http://www.fontsquirrel.com/fonts/NotCourierSans",
-            "license": "GNU GPL"
+            "license": "GNU GPL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#notcouriersans"
+            }
         },
         "Noto Sans Mono": {
             "main": "https://www.google.com/get/noto/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#noto"
+            }
         },
         "Nova Mono": {
             "main": "https://fonts.google.com/specimen/Nova+Mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#nova"
+            }
         },
         "Office Code Pro": {
             "main": "https://fontlibrary.org/en/font/office-code-pro",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#office-code-pro"
+            }
         },
         "Old Timey Code": {
             "main": "https://github.com/dse/old-timey-mono-font",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#old-timey"
+            }
         },
         "OpenDyslexic Mono": {
             "main": "https://www.opendyslexic.org",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#opendyslexic"
+            }
         },
         "Overpass Mono": {
             "main": "http://overpassfont.org",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#overpass"
+            }
         },
         "0xProto": {
             "main": "https://github.com/0xType/0xProto",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#oxproto"
+            }
         },
         "Oxygen Mono": {
             "main": "https://fonts.google.com/specimen/Oxygen+Mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#oxygen"
+            }
         },
         "Paper Mono": {
             "main": "https://github.com/paper-design/paper-mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#paper"
+            }
         },
         "IBM Plex Mono": {
             "main": "https://github.com/IBM/plex",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#plex-mono"
+            }
         },
         "Press Start 2P": {
             "main": "https://github.com/codeman38/PressStart2P",
-            "license": ""
+            "license": "",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#press-start-2p"
+            }
         },
         "ProFont": {
             "main": "http://tobiasjung.name/profont/",
-            "license": "MIT"
+            "license": "MIT",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#profont"
+            }
         },
         "Proggy Clean": {
             "main": "https://github.com/bluescan/proggyfonts/",
-            "license": "MIT"
+            "license": "MIT",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#proggy-clean"
+            }
         },
         "Proggy Vector": {
             "main": "https://github.com/bluescan/proggyfonts/",
-            "license": "MIT"
+            "license": "MIT",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#proggy-vector"
+            }
         },
         "psudoFont Liga Mono": {
             "main": "https://github.com/psudo-dev/psudofont-liga-mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#psudo"
+            }
         },
         "PT Mono": {
             "main": "https://www.paratype.com/fonts/pt/pt-mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#pt"
+            }
         },
         "Quinze": {
             "main": "http://openfontlibrary.org/en/font/fifteen",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#quinze"
+            }
         },
         "Recursive": {
             "main": "https://www.recursive.design",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#recursive-mono-linear"
+            }
         },
         "Reddit Mono": {
             "main": "https://redditsans.s-ings.com",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#reddit-sans"
+            }
         },
         "Red Hat Mono": {
             "main": "https://www.redhat.com/en/about/brand/standards/typography",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#redhat"
+            }
         },
         "Ricty Diminished": {
             "main": "https://rictyfonts.github.io/diminished",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#ricty-diminished"
+            }
         },
         "Roboto Mono": {
             "main": "https://fonts.google.com/specimen/Roboto+Mono",
-            "license": "Apache"
+            "license": "Apache",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#roboto"
+            }
         },
         "Sarasa Mono": {
             "main": "https://github.com/be5invis/Sarasa-Gothic",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#sarasa-mono"
+            }
         },
         "Sarasa Mono Slab": {
             "main": "https://github.com/be5invis/Sarasa-Gothic",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#sarasa-mono-slab"
+            }
         },
         "saxMono": {
             "main": "http://www.fontsquirrel.com/fonts/saxMono",
-            "license": "freeware"
+            "license": "freeware",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#sax"
+            }
         },
         "Scientifica": {
             "main": "https://github.com/nerdypepper/scientifica",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#scientifica"
+            }
         },
         "Sergamon": {
             "main": "https://sgmonda.com/sergamon",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#sergamon"
+            }
         },
         "Serious Shanns": {
             "main": "https://kabeech.github.io/serious-shanns/",
-            "license": "MIT"
+            "license": "MIT",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#serious-shanns"
+            }
         },
         "Share Tech Mono": {
             "main": "https://fonts.google.com/specimen/Share+Tech+Mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#share-tech"
+            }
         },
         "Sinclair QL": {
             "main": "https://fontstruct.com/fontstructions/show/917532",
-            "license": "CC BY-SA 3.0"
+            "license": "CC BY-SA 3.0",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#sinclair-ql"
+            }
         },
         "Sinclair QL Extended": {
             "main": "https://fontstruct.com/fontstructions/show/1104062",
-            "license": "CC BY-SA 3.0"
+            "license": "CC BY-SA 3.0",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#sinclair-ql-extended"
+            }
         },
         "Sk-Modernist": {
             "main": "https://seankanedesign.gumroad.com/l/sk-modernist",
-            "license": "commercial"
+            "license": "commercial",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#sk-modernist"
+            }
         },
         "Sligoil Micro": {
             "main": "https://velvetyne.fr/fonts/sligoil/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#sligoil"
+            }
         },
         "Sometype Mono": {
             "main": "http://monospacedfont.com/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#sometype-mono"
+            }
         },
         "Sono": {
             "main": "https://etceteratype.co/pages/sono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#sono"
+            }
         },
         "Source Code Pro": {
             "main": "https://github.com/adobe-fonts/source-code-pro",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#source-code-pro"
+            }
         },
         "Space Mono": {
             "main": "https://fonts.google.com/specimen/Space+Mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#space"
+            }
         },
         "Spleen": {
             "main": "https://www.cambus.net/spleen-monospaced-bitmap-fonts/",
-            "license": "BSD-2-Clause"
+            "license": "BSD-2-Clause",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#spleen"
+            }
         },
         "Sudo": {
             "main": "https://www.kutilek.de/sudo-font/",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#sudo"
+            }
         },
         "Terminus (Consoleet)": {
             "main": "https://inai.de/projects/consoleet/terminus",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#terminus-consoleet"
+            }
         },
         "Terminus (Consoleet, smooth)": {
             "main": "https://inai.de/projects/consoleet/terminus",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#terminus-consoleet-smooth"
+            }
         },
         "Terminus (TTF)": {
             "main": "https://files.ax86.net/terminus-ttf",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#terminus-ttf"
+            }
         },
         "TeX Gyre Cursor": {
             "main": "http://www.gust.org.pl/projects/e-foundry/tex-gyre",
-            "license": "GUST font license"
+            "license": "GUST font license",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#tex-gyre-cursor"
+            }
         },
         "Topaz (A1200)": {
             "main": "https://github.com/rewtnull/amigafonts",
-            "license": "GNU GPL"
+            "license": "GNU GPL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#topaz-a1200"
+            }
         },
         "Topaz (A500)": {
             "main": "https://github.com/rewtnull/amigafonts",
-            "license": "GNU GPL"
+            "license": "GNU GPL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#topaz-a500"
+            }
         },
         "Twilio Sans Mono": {
             "main": "https://github.com/twilio/twilio-sans-mono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#twilio-sans-mono"
+            }
         },
         "Ubuntu Mono": {
             "main": "http://font.ubuntu.com",
-            "license": "Ubuntu Font Licence"
+            "license": "Ubuntu Font Licence",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#ubuntu"
+            }
         },
         "GNU Unifont": {
             "main": "http://www.unifoundry.com/unifont.html",
-            "license": "GNU GPL"
+            "license": "GNU GPL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#unifont"
+            }
         },
         "UnifontEX": {
             "main": "https://github.com/stgiga/UnifontEX",
-            "license": "GNU GPL"
+            "license": "GNU GPL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#unifontex"
+            }
         },
         "Verily Serif Mono": {
             "main": "https://www.fontsquirrel.com/fonts/Verily-Serif-Mono",
-            "license": "Bitstream Vera"
+            "license": "Bitstream Vera",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#verily"
+            }
         },
         "Victor Mono": {
             "main": "https://rubjo.github.io/victor-mono/",
-            "license": "MIT"
+            "license": "MIT",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#victor-mono"
+            }
         },
         "VT323": {
             "main": "https://fedoraproject.org/wiki/VT323_Fonts",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#vt323"
+            }
         },
         "ZhiMa Mono": {
             "main": "https://github.com/ouonline/ZhiMaMono",
-            "license": "SIL OFL"
+            "license": "SIL OFL",
+            "urls": {
+                "programmingfonts.org": "https://www.programmingfonts.org/#zhima-mono"
+            }
         }
     }
 }
