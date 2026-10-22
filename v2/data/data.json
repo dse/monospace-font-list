@@ -9,6 +9,7 @@
         },
         "Agave": {
             "main": "https://github.com/agarick/agave",
+            "repo": "https://github.com/agarick/agave.git",
             "license": "MIT",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#agave"
@@ -16,6 +17,7 @@
         },
         "Anka/Coder": {
             "main": "https://github.com/loafer-mka/anka-coder-fonts",
+            "repo": "https://github.com/loafer-mka/anka-coder-fonts.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#anka-coder"
@@ -51,6 +53,7 @@
         },
         "Aporetic Sans Mono": {
             "main": "https://github.com/protesilaos/aporetic",
+            "repo": "https://github.com/protesilaos/aporetic.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#aporetic-sans"
@@ -58,6 +61,7 @@
         },
         "Aporetic Serif Mono": {
             "main": "https://github.com/protesilaos/aporetic",
+            "repo": "https://github.com/protesilaos/aporetic.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#aporetic-serif"
@@ -93,6 +97,7 @@
         },
         "Azeret Mono": {
             "main": "https://github.com/displaay/Azeret",
+            "repo": "https://github.com/displaay/Azeret.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#azeret"
@@ -100,6 +105,7 @@
         },
         "B612 Mono": {
             "main": "https://github.com/polarsys/b612",
+            "repo": "https://github.com/polarsys/b612.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#b612-mono"
@@ -135,6 +141,7 @@
         },
         "Borg Sans Mono": {
             "main": "https://github.com/marnen/borg-sans-mono",
+            "repo": "https://github.com/marnen/borg-sans-mono.git",
             "license": "Apache",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#borg-sans-mono"
@@ -149,6 +156,7 @@
         },
         "Bront DejaVu Sans Mono": {
             "main": "https://github.com/chrismwendt/bront",
+            "repo": "https://github.com/chrismwendt/bront.git",
             "license": "Bitstream Vera",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#bront-dejavu"
@@ -156,6 +164,7 @@
         },
         "Bront Ubuntu Mono": {
             "main": "https://github.com/chrismwendt/bront",
+            "repo": "https://github.com/chrismwendt/bront.git",
             "license": "none",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#bront-ubuntu"
@@ -177,6 +186,7 @@
         },
         "Cascadia Code": {
             "main": "https://github.com/microsoft/cascadia-code",
+            "repo": "https://github.com/microsoft/cascadia-code.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#cascadia-code"
@@ -191,6 +201,7 @@
         },
         "Cilantro Code Mono": {
             "main": "https://github.com/DraftingDreamer/FontCilantroCode",
+            "repo": "https://github.com/DraftingDreamer/FontCilantroCode.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#cilantro-code-mono"
@@ -219,6 +230,7 @@
         },
         "Comic Shanns": {
             "main": "https://github.com/shannpersand/comic-shanns",
+            "repo": "https://github.com/shannpersand/comic-shanns.git",
             "license": "MIT",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#comic-shanns"
@@ -240,6 +252,7 @@
         },
         "IBM Courier": {
             "main": "https://github.com/dse/font-og-courier",
+            "repo": "https://github.com/dse/font-og-courier.git",
             "license": "permissive",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#courier-ibm"
@@ -247,6 +260,7 @@
         },
         "IBM Courier (dot)": {
             "main": "https://github.com/dse/font-og-courier",
+            "repo": "https://github.com/dse/font-og-courier.git",
             "license": "permissive",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#courier-ibm-dotted"
@@ -254,6 +268,7 @@
         },
         "IBM Courier (slash)": {
             "main": "https://github.com/dse/font-og-courier",
+            "repo": "https://github.com/dse/font-og-courier.git",
             "license": "permissive",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#courier-ibm-slashed"
@@ -289,6 +304,7 @@
         },
         "Cozette": {
             "main": "https://github.com/slavfox/Cozette",
+            "repo": "https://github.com/slavfox/Cozette.git",
             "license": "MIT",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#cozette"
@@ -303,6 +319,7 @@
         },
         "D2Coding": {
             "main": "https://github.com/naver/d2codingfont",
+            "repo": "https://github.com/naver/d2codingfont.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#d2coding"
@@ -310,6 +327,7 @@
         },
         "DaddyTimeMono": {
             "main": "https://github.com/BourgeoisBear/DaddyTimeMono",
+            "repo": "https://github.com/BourgeoisBear/DaddyTimeMono.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#daddytimemono"
@@ -366,6 +384,7 @@
         },
         "Edlo": {
             "main": "https://github.com/ehamiter/Edlo",
+            "repo": "https://github.com/ehamiter/Edlo.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#edlo"
@@ -450,6 +469,7 @@
         },
         "Fantasque Sans Mono": {
             "main": "https://github.com/belluzj/fantasque-sans",
+            "repo": "https://github.com/belluzj/fantasque-sans.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#fantasque-sans"
@@ -464,6 +484,7 @@
         },
         "Fira Mono": {
             "main": "https://github.com/mozilla/Fira",
+            "repo": "https://github.com/mozilla/Fira.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#fira"
@@ -471,6 +492,7 @@
         },
         "Fira Code": {
             "main": "https://github.com/tonsky/FiraCode",
+            "repo": "https://github.com/tonsky/FiraCode.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#firacode"
@@ -485,6 +507,7 @@
         },
         "Fixedsys Excelsior": {
             "main": "https://github.com/kika/fixedsys",
+            "repo": "https://github.com/kika/fixedsys.git",
             "license": "public domain",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#fixedsys-ligatures"
@@ -492,6 +515,7 @@
         },
         "IBM 3270": {
             "main": "https://github.com/rbanffy/3270font",
+            "repo": "https://github.com/rbanffy/3270font.git",
             "license": "",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#font3270"
@@ -499,6 +523,7 @@
         },
         "Fragment Mono": {
             "main": "https://github.com/weiweihuanghuang/fragment-mono",
+            "repo": "https://github.com/weiweihuanghuang/fragment-mono.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#fragment-mono"
@@ -555,6 +580,7 @@
         },
         "Google Sans Code": {
             "main": "https://github.com/googlefonts/googlesans-code",
+            "repo": "https://github.com/googlefonts/googlesans-code.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#google-sans-code"
@@ -562,6 +588,7 @@
         },
         "Hack": {
             "main": "https://github.com/chrissimpkins/Hack",
+            "repo": "https://github.com/chrissimpkins/Hack.git",
             "license": "MIT",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#hack"
@@ -569,6 +596,7 @@
         },
         "Hack Ligatured": {
             "main": "https://github.com/gaplo917/Ligatured-Hack",
+            "repo": "https://github.com/gaplo917/Ligatured-Hack.git",
             "license": "GNU GPL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#hack-ligatured"
@@ -576,6 +604,7 @@
         },
         "Hasklig": {
             "main": "https://github.com/i-tu/Hasklig",
+            "repo": "https://github.com/i-tu/Hasklig.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#hasklig"
@@ -590,6 +619,7 @@
         },
         "Heterodox Mono": {
             "main": "https://github.com/hckiang/font-new-heterodox-mono",
+            "repo": "https://github.com/hckiang/font-new-heterodox-mono.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#heterodox-mono"
@@ -674,6 +704,7 @@
         },
         "Intel One Mono": {
             "main": "https://github.com/intel/intel-one-mono",
+            "repo": "https://github.com/intel/intel-one-mono.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#intel-one-mono"
@@ -709,6 +740,7 @@
         },
         "Ioskeley Mono": {
             "main": "https://github.com/ahatem/IoskeleyMono",
+            "repo": "https://github.com/ahatem/IoskeleyMono.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#ioskeley"
@@ -758,6 +790,7 @@
         },
         "Lilex": {
             "main": "https://github.com/mishamyrt/Lilex",
+            "repo": "https://github.com/mishamyrt/Lilex.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#lilex"
@@ -786,6 +819,7 @@
         },
         "Lyth Mono": {
             "main": "https://github.com/why-trv/LythMono",
+            "repo": "https://github.com/why-trv/LythMono.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#lyth-mono"
@@ -793,6 +827,7 @@
         },
         "Maple Mono": {
             "main": "https://github.com/subframe7536/maple-font",
+            "repo": "https://github.com/subframe7536/maple-font.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#maple"
@@ -800,6 +835,7 @@
         },
         "Martian Mono": {
             "main": "https://github.com/evilmartians/mono",
+            "repo": "https://github.com/evilmartians/mono.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#martian-mono"
@@ -821,6 +857,7 @@
         },
         "Meslo LG": {
             "main": "https://github.com/andreberg/Meslo-Font",
+            "repo": "https://github.com/andreberg/Meslo-Font.git",
             "license": "Bitstream Vera",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#meslo"
@@ -828,6 +865,7 @@
         },
         "Miracode": {
             "main": "https://github.com/IdreesInc/Miracode",
+            "repo": "https://github.com/IdreesInc/Miracode.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#miracode"
@@ -870,6 +908,7 @@
         },
         "Mona Sans Mono": {
             "main": "https://github.com/github/mona-sans",
+            "repo": "https://github.com/github/mona-sans.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#mona-sans-mono"
@@ -877,6 +916,7 @@
         },
         "Monocraft": {
             "main": "https://github.com/IdreesInc/Monocraft",
+            "repo": "https://github.com/IdreesInc/Monocraft.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#monocraft"
@@ -891,6 +931,7 @@
         },
         "Monofoki": {
             "main": "https://github.com/datMaffin/monofoki",
+            "repo": "https://github.com/datMaffin/monofoki.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#monofoki"
@@ -919,6 +960,7 @@
         },
         "mononoki": {
             "main": "https://github.com/madmalik/mononoki",
+            "repo": "https://github.com/madmalik/mononoki.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#mononoki"
@@ -926,6 +968,7 @@
         },
         "Myna": {
             "main": "https://github.com/sayyadirfanali/Myna",
+            "repo": "https://github.com/sayyadirfanali/Myna.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#myna"
@@ -940,6 +983,7 @@
         },
         "Nanum Gothic Coding": {
             "main": "https://github.com/naver/nanumfont",
+            "repo": "https://github.com/naver/nanumfont.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#nanum-gothic-coding"
@@ -961,6 +1005,7 @@
         },
         "Nordwand Mono": {
             "main": "https://github.com/tywr/Nordwand-Mono",
+            "repo": "https://github.com/tywr/Nordwand-Mono.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#nordwand-mono"
@@ -996,6 +1041,7 @@
         },
         "Old Timey Code": {
             "main": "https://github.com/dse/old-timey-mono-font",
+            "repo": "https://github.com/dse/old-timey-mono-font.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#old-timey"
@@ -1017,6 +1063,7 @@
         },
         "0xProto": {
             "main": "https://github.com/0xType/0xProto",
+            "repo": "https://github.com/0xType/0xProto.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#oxproto"
@@ -1031,6 +1078,7 @@
         },
         "Paper Mono": {
             "main": "https://github.com/paper-design/paper-mono",
+            "repo": "https://github.com/paper-design/paper-mono.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#paper"
@@ -1038,6 +1086,7 @@
         },
         "IBM Plex Mono": {
             "main": "https://github.com/IBM/plex",
+            "repo": "https://github.com/IBM/plex.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#plex-mono"
@@ -1045,6 +1094,7 @@
         },
         "Press Start 2P": {
             "main": "https://github.com/codeman38/PressStart2P",
+            "repo": "https://github.com/codeman38/PressStart2P.git",
             "license": "",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#press-start-2p"
@@ -1059,6 +1109,7 @@
         },
         "Proggy Clean": {
             "main": "https://github.com/bluescan/proggyfonts/",
+            "repo": "https://github.com/bluescan/proggyfonts/.git",
             "license": "MIT",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#proggy-clean"
@@ -1066,6 +1117,7 @@
         },
         "Proggy Vector": {
             "main": "https://github.com/bluescan/proggyfonts/",
+            "repo": "https://github.com/bluescan/proggyfonts/.git",
             "license": "MIT",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#proggy-vector"
@@ -1073,6 +1125,7 @@
         },
         "psudoFont Liga Mono": {
             "main": "https://github.com/psudo-dev/psudofont-liga-mono",
+            "repo": "https://github.com/psudo-dev/psudofont-liga-mono.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#psudo"
@@ -1129,6 +1182,7 @@
         },
         "Sarasa Mono": {
             "main": "https://github.com/be5invis/Sarasa-Gothic",
+            "repo": "https://github.com/be5invis/Sarasa-Gothic.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#sarasa-mono"
@@ -1136,6 +1190,7 @@
         },
         "Sarasa Mono Slab": {
             "main": "https://github.com/be5invis/Sarasa-Gothic",
+            "repo": "https://github.com/be5invis/Sarasa-Gothic.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#sarasa-mono-slab"
@@ -1150,6 +1205,7 @@
         },
         "Scientifica": {
             "main": "https://github.com/nerdypepper/scientifica",
+            "repo": "https://github.com/nerdypepper/scientifica.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#scientifica"
@@ -1220,6 +1276,7 @@
         },
         "Source Code Pro": {
             "main": "https://github.com/adobe-fonts/source-code-pro",
+            "repo": "https://github.com/adobe-fonts/source-code-pro.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#source-code-pro"
@@ -1276,6 +1333,7 @@
         },
         "Topaz (A1200)": {
             "main": "https://github.com/rewtnull/amigafonts",
+            "repo": "https://github.com/rewtnull/amigafonts.git",
             "license": "GNU GPL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#topaz-a1200"
@@ -1283,6 +1341,7 @@
         },
         "Topaz (A500)": {
             "main": "https://github.com/rewtnull/amigafonts",
+            "repo": "https://github.com/rewtnull/amigafonts.git",
             "license": "GNU GPL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#topaz-a500"
@@ -1290,6 +1349,7 @@
         },
         "Twilio Sans Mono": {
             "main": "https://github.com/twilio/twilio-sans-mono",
+            "repo": "https://github.com/twilio/twilio-sans-mono.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#twilio-sans-mono"
@@ -1311,6 +1371,7 @@
         },
         "UnifontEX": {
             "main": "https://github.com/stgiga/UnifontEX",
+            "repo": "https://github.com/stgiga/UnifontEX.git",
             "license": "GNU GPL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#unifontex"
@@ -1339,6 +1400,7 @@
         },
         "ZhiMa Mono": {
             "main": "https://github.com/ouonline/ZhiMaMono",
+            "repo": "https://github.com/ouonline/ZhiMaMono.git",
             "license": "SIL OFL",
             "urls": {
                 "programmingfonts.org": "https://www.programmingfonts.org/#zhima-mono"
